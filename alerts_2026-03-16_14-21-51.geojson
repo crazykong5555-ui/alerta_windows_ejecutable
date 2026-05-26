@@ -1,0 +1,1337 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "4b48757251e4de6f461d5f19fa1104bd5bc09d2a03165e62bcaf00a1b5902ee0",
+        "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
+        "summary": "European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war is not really an option.",
+        "link": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:20.261883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "4403d42f189ff12f31892f52c154deebd35373ee4f759ea381cf7e88970dadb8",
+        "title": "UN receives reports alleging torture of detainees in Venezuela continues",
+        "summary": "The UN is deeply concerned by allegations there have been incidents of torture after Nicolás Maduro's ouster.",
+        "link": "https://www.bbc.com/news/articles/c0e5v9n1qqwo?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:20.262068+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "0daa7c1a0a2ff75029685a44f69bb1d96c2253490621b765ddc619b980f497c8",
+        "title": "Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says",
+        "summary": "Some 1,000 Kenyans are believed to have recruited to fight in Ukraine - many say they were lured under false pretences.",
+        "link": "https://www.bbc.com/news/articles/cev7rdwmky9o?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:20.262119+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1834,
+          -1.8312
+        ]
+      },
+      "properties": {
+        "id_hash": "0f03d79b1abf367157fc6a7f197b71feb7db1174264ffa01393ae5888882c31b",
+        "title": "Ecuador deploys 75,000 soldiers and police to combat drug gangs",
+        "summary": "Citizens of the most violent-wracked provinces have been warned the government is \"at war\" with the gangs.",
+        "link": "https://www.bbc.com/news/articles/cp32vy321r7o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:20.262153+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883335,
+          46.603354
+        ]
+      },
+      "properties": {
+        "id_hash": "ecd9a5c391cd2614b04974aae4040a129b5f779c6a748f4cf072aacd764d8f2f",
+        "title": "French national jailed for 10 years in Azerbaijan for spying",
+        "summary": "Martin Ryan was accused of collecting secret information about Baku's military co-operation with Turkey and Pakistan.",
+        "link": "https://www.bbc.com/news/articles/c2lr5j84gd1o?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:21.456899+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "df6d71c2a6f9f4e103cd462f84d82c5d9768a2504555f9c419d76f635802e71a",
+        "title": "Ukraine's urgent fight on the financial frontline",
+        "summary": "The war-torn country is battling to secure crucial funding from the IMF and EU, as well as putting up taxes.",
+        "link": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:21.457100+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "0304b8bbe3fda48df1d1cc79a5a80547ae742badb0b3df9b3b96bbb3d24f17f7",
+        "title": "Sweden detains captain of Russian shadow fleet ship",
+        "summary": "The skipper of the Sea Owl One is suspected of producing forged documents when it was boarded by coast guard.",
+        "link": "https://www.bbc.com/news/articles/cpqwg0yej04o?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:21.457139+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883335,
+          46.603354
+        ]
+      },
+      "properties": {
+        "id_hash": "7b2cd8c76e908af3016cb86c2df411872192cba0004c21e0b4c11145b9c2fb75",
+        "title": "Far-left and far-right gains throw French mainstream parties into a quandary",
+        "summary": "Awkward choices emerge for mainstream parties after the first round of mayoral elections.",
+        "link": "https://www.bbc.com/news/articles/c8r17knnz5vo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:22.305453+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "a2d490b465198f59a8e0eb9cc6aefabd816f49d79460291d993f1d175ad682a7",
+        "title": "Who wants what from the Iran war?",
+        "summary": "Most people, although not everybody, want this war to end as quickly as possible. But on what terms?",
+        "link": "https://www.bbc.com/news/articles/cgk2lm5znyro?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:22.305577+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "ec65578f1daf4069b6d5c92fb6e6a7556a0afb368698bfe4c61b0dab876a3751",
+        "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
+        "summary": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.",
+        "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
+        "severity": 4,
+        "scraped_at": "2026-03-16T19:20:22.305614+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "276adeb82c9a017b0a999ab3f69ec3db9cf6b0d7c3ff6ab9319fea1c54550bb3",
+        "title": "How passenger planes keep flying during a war",
+        "summary": "Airspace over Iran and the Gulf remains severely restricted following missile strikes, putting additional pressure on airlines.",
+        "link": "https://www.bbc.com/news/articles/cn4gne35kvno?at_medium=RSS&at_campaign=rss",
+        "severity": 4,
+        "scraped_at": "2026-03-16T19:20:22.305646+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1059013,
+          64.9841821
+        ]
+      },
+      "properties": {
+        "id_hash": "ac11aafa894ef8e5a42cf2fbf3756a25baef33718b145f1078683532452f6b65",
+        "title": "Is this product 'human-made'? The race to establish an AI-free logo",
+        "summary": "The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.",
+        "link": "https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:23.737562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7933058,
+          51.5635091
+        ]
+      },
+      "properties": {
+        "id_hash": "129466c82d0d6a01ac316f4b94790f44fd1f801a47f61437844da5036968df9e",
+        "title": "Historic firsts, emotional speeches, and a tie: Watch the top Oscars moments",
+        "summary": "One Battle After Another dominated the night with six awards, while Sinners and Frankenstein weren't far behind.",
+        "link": "https://www.bbc.com/news/videos/cedzq0q6x5lo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:25.864981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.602191,
+          39.6823264
+        ]
+      },
+      "properties": {
+        "id_hash": "425a93b5b1479b07b0deed3ca8647d1329b972f8ac47d2910e5f00c27ad838f8",
+        "title": "Trump says Hormuz Strait help ‘on the way’ as allies reject military action",
+        "summary": "US president refuses to identify which countries he says are responding to call for naval coalition to open trade route.",
+        "link": "https://www.aljazeera.com/news/2026/3/16/trump-says-hormuz-strait-help-on-the-way-as-allies-reject-military-action?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:31.462538+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "50ce3895aca419495c6a8b9f08707d531b6cef6ac3f2a30fb0e196219a1f4b86",
+        "title": "Civilians pulled from rubble after US-Israeli strikes on Tehran",
+        "summary": "Rescuers have pulled civilians from the rubble after a new wave of US-Israeli strikes targeted Tehran.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/civilians-pulled-from-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:31.462693+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "ffd56cab295fdafdf5bdf028c7058956c01791bb5e5fcf4b2d2944e048013d6c",
+        "title": "US responsible for deadly attack on Iranian school: Amnesty International",
+        "summary": "Rights group says Tomahawk missile likely used in Minab school strike that killed at least 170 people, mostly children.",
+        "link": "https://www.aljazeera.com/news/2026/3/16/us-responsible-for-deadly-attack-on-iranian-school-amnesty-international?traffic_source=rss",
+        "severity": 6,
+        "scraped_at": "2026-03-16T19:20:31.462733+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.2385139,
+          33.7680065
+        ]
+      },
+      "properties": {
+        "id_hash": "b39f246cbb2c6b1add8cf275c24f59bc051fa0c1c9b7a8b47881a4504d849b34",
+        "title": "Afghanistan says children among four killed in latest attacks by Pakistan",
+        "summary": "The civilians - three children and a woman - are killed in an attack on Khost province, local official says.",
+        "link": "https://www.aljazeera.com/news/2026/3/16/afghanistan-says-children-among-those-killed-in-latest-attacks-by-pakistan?traffic_source=rss",
+        "severity": 4,
+        "scraped_at": "2026-03-16T19:20:32.811905+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "727a1ccb4b9a968e4af28b74af46df28392f71d5ea2c5fe954af8c809cb281b4",
+        "title": "US, Israel now know ‘what kind of nation they are dealing with’",
+        "summary": "Iran’s Foreign Minister Abbas Araghchi says his country has shown it is ready to take the war “as far as necessary&quot;.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israel-now-know-what-kind-of-nation-they-are-dealing?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:32.812036+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "391069fda3df1522524176d7bfa47cff2109be4e6b33c2dcc7c8f286b1ca60b0",
+        "title": "How badly has the Iran war hit the global economy? The tell-tale signs",
+        "summary": "Oil and gas price hikes due to the war have rattled the global economy.",
+        "link": "https://www.aljazeera.com/news/2026/3/16/the-tell-tale-signs-how-bad-has-the-iran-war-hit-the-global-economy?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:32.812074+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "a14be0b1755d4108e10778e599324410385da23721427107afa1fd2c53eb4ca2",
+        "title": "Is Russia benefitting from the Iran war?",
+        "summary": "The US is allowing the purchase of Russian oil that’s stranded at sea after the war on Iran led to higher energy prices.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/is-russia-benefitting-from-the-iran-war?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:32.812116+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3747747,
+          50.8388017
+        ]
+      },
+      "properties": {
+        "id_hash": "a09699f7892eb7ec9468a0d6a28eed9de90aecf9f440ba188b7049fcd0503e68",
+        "title": "European leaders reject military involvement in Strait of Hormuz",
+        "summary": "Pushback comes as US President Donald Trump says NATO allies should help secure key waterway amid soaring oil prices.",
+        "link": "https://www.aljazeera.com/news/2026/3/16/eu-leaders-reject-military-involvement-in-strait-of-hormuz-amid-war-on-iran?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:34.364656+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "e951989bbcd8a18f95096b880601e4f9b88ae676789b7c6b47fb29ea451d5d81",
+        "title": "Kenya and Russia agree no Kenyans will be recruited for Ukraine war",
+        "summary": "Kenyan foreign minister meets Russian counterpart amid reports that hundreds of Kenyans are fighting in Russia, Ukraine.",
+        "link": "https://www.aljazeera.com/news/2026/3/16/kenya-and-russia-agree-no-kenyans-will-be-recruited-for-ukraine-war?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:34.364761+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "c7594805e576150b7a4fe68f6d34c89d4aaa15ee7fcbf6b2f00eef165d8a4a94",
+        "title": "US says it has destroyed Iran missile capacity: How is Iran still shooting?",
+        "summary": "Despite degraded launch capabilities, Iran has enough missiles to fire strategically, keep region on edge, say experts.",
+        "link": "https://www.aljazeera.com/news/2026/3/16/us-says-it-has-destroyed-iran-missile-capacity-how-is-iran-still-shooting?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:34.364801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "30257f56ccbeb5f325449612280993bb326e36c2ff5d522bd2dfc85a38b97b1b",
+        "title": "Qatar calls on Iran to stop Gulf attacks, urges diplomatic solution",
+        "summary": "Qatar foreign ministry spokesman Majed al-Ansari accuses Iran of targeting civilian areas as he calls for de-escalation.",
+        "link": "https://www.aljazeera.com/news/2026/3/16/qatar-calls-on-iran-to-stop-gulf-attacks-urges-diplomatic-solution?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:34.364834+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "4efa9821b82ac89019e5f5d7311c64a5b19ebfa8e733e5b6758e850277a81456",
+        "title": "Qatar insists Iran is targeting civilian areas",
+        "summary": "Qatar’s Foreign Ministry spokesperson Majed Al Ansari says Iranian attacks have targeted residential areas.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/qatar-insists-iran-is-targeting-civilian-areas?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:34.364904+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3088,
+          31.3547
+        ]
+      },
+      "properties": {
+        "id_hash": "ae4aa1a19e84ed2503176e897f2e6df37423004f4dba319193c9048048aaa9da",
+        "title": "Quran echoes loudly as Palestinian reciters gather in Gaza",
+        "summary": "Quran memorisers in Gaza overcome devastation from war, reciting the holy book as a source of hope and strength.",
+        "link": "https://www.aljazeera.com/features/2026/3/16/quran-echoes-loudly-as-palestinian-reciters-gather-in-gaza?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:34.364960+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "6513ab9a5012f621d330532906660be23f507bbc560f46f453b6d8c464e45fbf",
+        "title": "In Lebanon, Israel is using occupation as negotiating tool, say analysts",
+        "summary": "Israel is using military occupation of southern Lebanon and displacement crisis to dictate ceasefire terms, say experts.",
+        "link": "https://www.aljazeera.com/features/2026/3/16/in-lebanon-israel-is-using-occupation-as-negotiating-tool-say-analysts?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:34.365024+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "f3c1dbe5d954ac735bf271153bddb4a5f4f32ba645876d6d49f97a987594c2df",
+        "title": "Destruction in Beirut as bombing and mass displacement continue",
+        "summary": "Neighbourhoods in Beirut’s southern suburbs have been left in ruins by Israeli bombing attacks.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/destruction-in-beirut-as-bombing-and-mass-displacement-continue?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:34.365064+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "2fe29e2639a3a16869c5092bfc3d6b258271dda24ada564bd4d27aba275f9e65",
+        "title": "No, MAGA is not divided on the Iran war",
+        "summary": "Trump’s supporters remain loyal, even if there are a few loud dissenting voices.",
+        "link": "https://www.aljazeera.com/opinions/2026/3/16/no-maga-is-not-divided-on-the-iran-war?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:34.365127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "4e116e4ab019740fe976837811251d51fde422dd27d497f598c9a2fe7a6dfa19",
+        "title": "War on Iran: Can fuel rationing, remote work, short sleeves ease oil woes?",
+        "summary": "Rising oil prices amid the US-Israel war on Iran are pushing nations to readjust their energy policies.",
+        "link": "https://www.aljazeera.com/news/2026/3/16/war-on-iran-can-fuel-rationing-remote-work-short-sleeves-ease-oil-woes?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:34.365161+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "a58ce5d54d37cfb5260876a4cbad5610a54e8a6f040e41a10ca841952c47d1c3",
+        "title": "Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts",
+        "summary": "<p>Food production in many African countries depends heavily on fertiliser imported from the Gulf through the strait of Hormuz</p><p>Countries in Africa, where farmers depend heavily on imported fertiliser and a large share of household income goes on food, are particularly vulnerable to supply chain disruptions caused by the war in the Middle East, experts have said.</p><p>The conflict has drastically disrupted trade through the strait of Hormuz, a vital shipping lane not just for oil and gas but also for fertiliser, which is produced in vast quantities in the Gulf.</p> <a href=\"https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:35.040996+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2058491,
+          39.3822623
+        ]
+      },
+      "properties": {
+        "id_hash": "9a9c78676e46931868fcc41e9ec1912115962a5bbe2ed1baf37f0e4407dd5709",
+        "title": "Cory Booker calls both parties ‘feckless’ for ceding war powers to Trump",
+        "summary": "<p>Democrat says Congress ‘doing nothing’ may embolden president to attack countries such as Cuba and North Korea</p><p>Democratic US senator <a href=\"https://www.theguardian.com/us-news/cory-booker\">Cory Booker</a> has criticized both his own political party as well as its Republican counterpart for being “feckless” in ceding congressional war powers to <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, saying that their decision could embolden the president to unilaterally attack Cuba, North Korea and other countries.</p><p>“I’m going to be one of those Democrats [who] say I think both parties have been feckless in allowing the growth of the power of the presidency,” Booker said on Sunday on CNN’s State of the Union.</p> <a href=\"https://www.theguardian.com/world/2026/mar/15/cory-booker-trump-war-powers-congress\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/15/cory-booker-trump-war-powers-congress",
+        "severity": 4,
+        "scraped_at": "2026-03-16T19:20:36.179269+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "d65d4ee8391d8d89908d16c6ffc7bc41566c036f5979d6d704f1d6d725cc89ae",
+        "title": "China ‘still communicating’ with US over Trump visit despite talk of delay",
+        "summary": "<p>US president hinted that his trip could be put on hold if Beijing failed to help secure the strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets\">Middle East crisis – live updates</a></p></li></ul><p>China says it is in communication with the US about Donald Trump’s planned visit to Beijing, despite hints from the US president that he might delay the trip if his prospective hosts do not help to unblock the strait of Hormuz.</p><p>China’s foreign ministry spokesperson Lin Jian said: “Head-of-state diplomacy plays an irreplaceable strategic guiding role in China-US relations. The two sides are maintaining communication regarding President Trump’s visit to China.”</p> <a href=\"https://www.theguardian.com/world/2026/mar/16/china-us-trump-visit-strait-of-hormuz\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/16/china-us-trump-visit-strait-of-hormuz",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:36.179625+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "7bf214e8421f80cea4803a42aef4616b82d9e9812fdb3cb5a0a73aa23b3569fd",
+        "title": "Replacing 1m petrol cars with EVs could cut Australia’s reliance on foreign fuel by 1bn litres a year",
+        "summary": "<p>Electric vehicles reduce exposure to global oil price shocks and shift energy consumption to electricity largely produced domestically, expert says</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia could reduce its reliance on foreign fuel by more than 1bn litres a year if we replaced 1m petrol-fuelled cars with electric vehicles, as experts say <a href=\"https://www.theguardian.com/business/2026/mar/15/rate-rises-helium-shortages-ev-sales-spikes-how-is-the-disruption-in-irans-strait-of-hormuz-affecting-australia\">boosting EV adoption</a> is part of securing the nation’s long-term economic security.</p><p>Hussein Dia, a professor of transport technology and sustainability at the Swinburne University of Technology, said <a href=\"https://www.theguardian.com/environment/2026/jan/29/electric-cars-go-mainstream-as-adoption-surges-across-rich-and-developing-nations\">electric vehicles</a> can play a meaningful role in improving Australia’s energy sovereignty, as well as contributing to the national net zero emissions goal.</p> <a href=\"https://www.theguardian.com/environment/2026/mar/16/electric-vehicles-australia-reduce-reliance-on-foreign-fuel\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/environment/2026/mar/16/electric-vehicles-australia-reduce-reliance-on-foreign-fuel",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:36.180061+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "b9512dcf92b51be3bc5dc8f390de02a856538f9611c634c17897d753027cce0d",
+        "title": "Captain of Iranian women’s football team leaves Australia after initially accepting offer of asylum",
+        "summary": "<p>Activists fear the families of players have been placed under pressure by the Tehran regime to make them change their minds</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/mar/16/australia-news-live-hybrid-car-sales-electric-vehicles-iran-footballers-tony-burke-asylum-oscars-academy-awards-anthony-albanese-angus-taylor-matt-canavan-labor-liberal-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The captain of the Iranian women’s football squad has left Australia after withdrawing her claim of asylum.</p><p>Zahra Ghanbari became the fifth member of the football cohort to change her mind after initially taking up an offer to stay in the country following the Asian Cup.</p> <a href=\"https://www.theguardian.com/australia-news/2026/mar/16/fifth-iranian-football-player-leaves-australia-after-initially-accepting-offer-of-asylum\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/16/fifth-iranian-football-player-leaves-australia-after-initially-accepting-offer-of-asylum",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:36.180228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "b31ee009c083cb7e81cee265b986ddacd8f1e30eaabe96050c1c5bddee5dfb9c",
+        "title": "Trump steps up pressure on European allies to help protect strait of Hormuz",
+        "summary": "<p>US president says it is ‘only appropriate’ for Europe to help, and warns failure to do so would be ‘very bad’ for Nato</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets\">Middle East crisis – live updates</a></p></li></ul><p>Donald Trump has ratcheted up the pressure on European allies to help protect the strait of Hormuz, warning that Nato faces a “very bad” future if its members fail to come to Washington’s aid.</p><p>The de facto <a href=\"https://www.theguardian.com/world/2026/mar/13/what-is-strait-hormuz-can-us-stop-iran-blocking-it\">closure of the vital waterway</a> by Tehran in retaliation for airstrikes by the US and Israel has proved catastrophic for global energy and trade flows, causing the <a href=\"https://www.theguardian.com/business/2026/mar/12/middle-east-war-creating-largest-supply-disruption-in-the-history-of-oil-markets\">largest oil supply disruption in history</a> and soaring global oil prices.</p> <a href=\"https://www.theguardian.com/world/2026/mar/16/strait-of-hormuz-australia-japan-no-ships\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/16/strait-of-hormuz-australia-japan-no-ships",
+        "severity": 4,
+        "scraped_at": "2026-03-16T19:20:36.180327+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "247233e5bdd7f386f2d86d200c5acf77086b3d342d1e8a5b3a3d6d6f2d8be6dc",
+        "title": "Chris Minns and Jewish groups condemn ‘horrid rhetoric’ from DJ at opening night of Sydney Biennale",
+        "summary": "<p>US-based Zubeyda Muzeyyen, AKA DJ Haram, claimed a ‘Zio-Australian-Epstein empire’ was responsible for silencing dissenters</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/mar/16/australia-news-live-hybrid-car-sales-electric-vehicles-iran-footballers-tony-burke-asylum-oscars-academy-awards-anthony-albanese-angus-taylor-matt-canavan-labor-liberal-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The premier of New South Wales has ruled out cutting funding for Sydney’s Biennale arts festival after Jewish groups condemned language used by US artist DJ Haram at an opening night event at the White Bay Power Station in Sydney.</p><p>At the centre of the controversy was the artist’s claim during her set that a “Zio-Australian-Epstein empire” was responsible for silencing dissenters. The words appear to link Israel to the convicted sex offender and New York financier Jeffrey Epstein and, critics say, feed into longstanding antisemitic tropes.</p> <a href=\"https://www.theguardian.com/australia-news/2026/mar/16/sydney-biennale-dj-haram-chris-minns-jewish-groups-response-ntwnfb\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/16/sydney-biennale-dj-haram-chris-minns-jewish-groups-response-ntwnfb",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:36.180448+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "355c00fa7d3171c2aaa202674965e3a32420a1a9d0ae8162f68e84d563e399a8",
+        "title": "European takeover battle hots up with UniCredit’s ‘unfriendly attack’ on Commerzbank",
+        "summary": "<p>Milan-based bank plans to up its near-30% stake in German lender to trigger formal talks despite strong opposition from Berlin</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/mar/16/uk-mortgage-shelf-life-nosedives-interest-rates-oil-iran-inflation-news-updates#maincontent\">Business live – latest updates</a></p></li></ul><p>Two European banking powerhouses have become embroiled in a €35bn (£30bn) takeover battle after Italy’s UniCredit stepped up its long-running pursuit of German lender Commerzbank, despite strong opposition from the German government.</p><p>UniCredit first took a stake of 9% in Commerzbank in September 2024 and has since built up its holding to just under 30%. It said on Monday it was pushing to increase that holding further and push the rival lender into formal merger talks.</p> <a href=\"https://www.theguardian.com/business/2026/mar/16/european-banking-takeover-battle-unicredit-commerzbank\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/business/2026/mar/16/european-banking-takeover-battle-unicredit-commerzbank",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:36.180594+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "ce2d0d3a5afbf111c342c51a57113a12eb8acb97d5c948506adce15a27691d97",
+        "title": "Mr Nobody Against Putin wins the best documentary Oscar",
+        "summary": "<p>Primary school teacher Pavel Talankin’s record of the indoctrination of his pupils to support Russia’s invasion of Ukraine beats contenders</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/mar/15/oscars-2026-academy-awards-winners-full-list-live\">Oscars 2026 winners: the full list</a></p></li></ul><p><a href=\"https://www.theguardian.com/film/2025/jan/25/mr-nobody-against-putin-review\">Mr Nobody Against Putin</a>, a primary school teacher’s record of the indoctrination of his pupils to support Russia’s invasion of Ukraine, has won the Oscar for best documentary.</p><p>Pavel Talankin, who is now in exile in Europe, picked up the award alongside the film’s US co-director, David Borenstein. It beat favourite<a href=\"https://www.theguardian.com/film/2025/oct/09/the-perfect-neighbor-review-documentary-ajike-owens\"> The Perfect Neighbor</a> to take the prize, along with other contenders <a href=\"https://www.theguardian.com/film/2025/oct/12/documentary-the-alabama-solution\">The Alabama Solution</a>, <a href=\"https://www.theguardian.com/film/2025/nov/13/come-see-me-in-the-good-light-movie-review\">Come See Me in the Good Light</a> and <a href=\"https://www.theguardian.com/film/2025/oct/13/cutting-through-rocks-review-the-female-firebrand-fighting-the-patriarchy-in-rural-iran\">Cutting Through Rocks</a>.</p> <a href=\"https://www.theguardian.com/film/2026/mar/16/mr-nobody-against-putin-wins-the-best-documentary-oscar\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/film/2026/mar/16/mr-nobody-against-putin-wins-the-best-documentary-oscar",
+        "severity": 4,
+        "scraped_at": "2026-03-16T19:20:36.180808+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "c723118c7dd74216a7ab8e9c9a6ef26ef07e870613b447e446b5fdc1165624ea",
+        "title": "Middle East crisis live: European countries resist Trump’s demand for help to clear the strait of Hormuz",
+        "summary": "<p>Iran war ‘not a matter for Nato’, says Germany’s Merz as European countries react cautiously to Trump’s calls for assistance</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/mar/16/europe-donald-trump-strait-hormuz-iran\">European countries reject Trump’s call for help to reopen strait of Hormuz</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/mar/01/tell-us-affected-by-latest-events-in-the-middle-east-strikes-iran-us-israel-dubai\">How have you been affected by the latest Middle East events?</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/mar/16/fuel-price-increases-we-would-like-to-hear-from-you\">Are fuel price increases making you cut back? </a></p></li></ul><p><em>Continued from previous post:</em></p><p>Japan’s prime minister, <strong>Sanae Takaichi</strong>, has said she has no immediate plans to send her country’s maritime self-defence forces to help protect tanker traffic in the strait of Homuz.</p><p>We have not made any decisions whatsoever about dispatching escort ships. We are continuing to examine what Japan can do independently and what can be done ⁠within the legal framework.</p><p>I would like to ⁠engage in solid discussions based on Japan’s views and position regarding the need for early de-escalation.</p> <a href=\"https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets",
+        "severity": 4,
+        "scraped_at": "2026-03-16T19:20:36.180926+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "579811458d0e370433624258d3568b02e3eadc87235bf85d40dc8850ed0cfe4b",
+        "title": "Sri Lanka brings in four-day week to eke out stocks of oil and gas hit by Iran war",
+        "summary": "<p>Effective closure of strait of Hormuz also affecting Bangladesh, India and Pakistan, which have brought in crisis measures</p><p>Sri Lanka is introducing a shorter four-day working week to preserve its shrinking fuel and gas reserves, as the Middle East conflict continues to severely disrupt energy supplies in the region.</p><p>Countries across south Asia are facing crippling shortages of fuel and LPG gas, which are used for everything from home cooking to cremating bodies, as most supplies have been held up in the Gulf since the US and Israel began bombing Iran.</p> <a href=\"https://www.theguardian.com/world/2026/mar/16/sri-lanka-four-day-week-oil-and-gas-iran-war\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/16/sri-lanka-four-day-week-oil-and-gas-iran-war",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:36.180971+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "43ff589415e4dc945f6c9bfd5c8f3f8e075e1cca89aaaf252c1f9c10221932d7",
+        "title": "Gulf states may be covertly encouraging attacks by US, Iran’s foreign minister says",
+        "summary": "<p>Abbas Araghchi demands clarification on reports Saudi crown prince had urged Donald Trump to ‘hit the Iranians hard’</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets\">Middle East crisis – live updates</a></p></li></ul><p>Some Gulf states hosting US forces may be covertly encouraging the slaughter of Iranians, Iran’s foreign ministerclaimed on Monday in a thinly veiled attack on Saudi Arabia.</p><p>Abbas Araghchi demanded clarification on reports that Mohammed bin Salman was in regular private conversations with Donald Trump urging the US president “to continue hitting the Iranians hard”.</p> <a href=\"https://www.theguardian.com/world/2026/mar/16/gulf-states-may-be-covertly-encouraging-attacks-by-us-irans-foreign-minister-says\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/16/gulf-states-may-be-covertly-encouraging-attacks-by-us-irans-foreign-minister-says",
+        "severity": 4,
+        "scraped_at": "2026-03-16T19:20:36.181057+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "86a95d6e963726e20e2b06e10d957f3369537b5ad74beb6b76f9160077cb0bdc",
+        "title": "Israel’s planned expansion of Lebanon ground campaign fuels fears of prolonged occupation",
+        "summary": "<p>Israeli defence minister says IDF instructed to destroy ‘terror infrastructure’ in southern villages</p><p>Israel’s announcement on Monday of a ground campaign in new areas of southern Lebanon is fuelling fears of a prolonged occupation among hundreds of thousands of displaced Lebanese.</p><p>Concerns intensified after Israel’s defence minister, Israel Katz, drawing comparisons with Gaza, warned <a href=\"https://www.theguardian.com/world/video/2026/mar/13/ghost-town-lebanon-city-deserted-amid-israeli-airstrikes-video-dispatch\">displaced Lebanese forced from their homes</a> would not be allowed to return until the safety of Israelis near the border was guaranteed, remarks that appeared to suggest the presence of Israeli troops could become prolonged.</p> <a href=\"https://www.theguardian.com/world/2026/mar/16/israel-expansion-lebanon-ground-campaign-fears-prolonged-occupation\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/16/israel-expansion-lebanon-ground-campaign-fears-prolonged-occupation",
+        "severity": 4,
+        "scraped_at": "2026-03-16T19:20:36.181151+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "b98edc478295305de24a9ec8b2787149783d129b988a68ada6a775a11bad31fd",
+        "title": "European countries reject Trump’s call for help to reopen strait of Hormuz",
+        "summary": "<p>Leaders seek a diplomatic solution despite US president’s threat of ‘a very bad future’ for Nato unless it provides warships</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets\">Middle East crisis – live updates</a></p></li></ul><p>European countries have ruled out sending warships to the strait of Hormuz, despite threats from Donald Trump that Nato faces “a very bad future” if members fail to help reopen the vital waterway.</p><p>Germany ruled out participation in any military activity, including efforts to reopen the strait. “There was never a joint decision on whether to intervene. That is why the question of how Germany might contribute militarily does not arise. We will not do so,” the chancellor, Friedrich Merz, said.</p> <a href=\"https://www.theguardian.com/world/2026/mar/16/europe-donald-trump-strait-hormuz-iran\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/16/europe-donald-trump-strait-hormuz-iran",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:36.181239+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "20300638fbd282aa6ff49195a9b1ad83eebf13f4855e0091bbb50aa3860c858c",
+        "title": "Pakistan targets militant hideouts in Afghanistan as conflict continues",
+        "summary": "<p>Afghan government reports zero casualties and accuses neighbouring country of wanting to ‘fuel the fire of war’</p><p>Pakistan has targeted militant hideouts in Afghanistan’s Kandahar province overnight, as the <a href=\"https://www.theguardian.com/world/2026/feb/21/pakistan-strikes-militant-hideouts-on-afghan-border-after-surge-in-attacks\">fighting that erupted between the two neighbours</a> late last month showed no signs of abating.</p><p>The cross-border attacks, which have included Pakistani airstrikes in Kabul, are the deadliest yet between the countries. Islamabad has referred to the conflict as an “open war”, adding to concerns about regional stability as the <a href=\"https://www.theguardian.com/world/2026/mar/14/how-iran-war-escalate-vietnam-trump-netanyahu-us-israel\">US-Israeli conflict with Iran</a> engulfs the Middle East and beyond.</p> <a href=\"https://www.theguardian.com/world/2026/mar/15/pakistan-targets-militant-hideouts-afghanistan-conflict\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/15/pakistan-targets-militant-hideouts-afghanistan-conflict",
+        "severity": 6,
+        "scraped_at": "2026-03-16T19:20:36.181331+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "a9210289f84d5356e369c84a331db9af14b1be43b4f03644700d4fc93a87469c",
+        "title": "Trump says he is ‘not happy’ with UK as he criticises Starmer for being overly reliant on advisers – as it happened",
+        "summary": "<p>President says PM should be more supportive over strait of Hormuz </p><p><strong>Keir Starmer</strong> is speaking at his press conference.</p><p>The war is entering its third week, he says.</p><p>First, we will protect our people in the region.</p><p>Second, while taking the necessary action to defend ourselves and our allies, we will not be drawn into the wider war.</p><p>Moments like this also tell you about leadership … Now, there are others who would have made a different decision two weeks ago.</p><p>They would have rushed the UK headlong into this war without the full picture of what they were sending our forces into and without a plan to get us out.</p><p>It is no surprise that our closest and most important ally is so disappointed. The Labour government’s response to the crisis in Iran has been shameful.</p><p>We should have been supporting our allies, not making it harder for them. Even now Starmer is still trying to sit on the fence, which is a complete failure of leadership.</p> <a href=\"https://www.theguardian.com/politics/live/2026/mar/16/keir-starmer-donald-trump-iran-nato-oil-cost-of-living-latest-news-updates\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/politics/live/2026/mar/16/keir-starmer-donald-trump-iran-nato-oil-cost-of-living-latest-news-updates",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:36.181624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.841394,
+          45.2222599
+        ]
+      },
+      "properties": {
+        "id_hash": "a55816218e101023859dc440f68eb706d7a6193e2b2b800288ab800a554741e7",
+        "title": "BBC asks US court to throw out Trump’s $10bn lawsuit and avoid ‘chilling effect’",
+        "summary": "<p>Corporation’s lawyers argue expensive but ‘groundless’ litigation restricts ability to cover public figures</p><p>The BBC has asked a US court to throw out Donald Trump’s $10bn (£7.5bn) lawsuit over the way a documentary edited one of his speeches, warning that proceeding with the case would have a “chilling effect” on its reporting on the president.</p><p>In papers filed to the Florida court dealing with the case, the BBC’s US lawyers claimed Trump’s reputation had not been damaged by the documentary, given it aired in the UK a week before his re-election.</p> <a href=\"https://www.theguardian.com/media/2026/mar/16/bbc-us-court-throw-out-donald-trump-10bn-lawsuit-chilling-effect\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/media/2026/mar/16/bbc-us-court-throw-out-donald-trump-10bn-lawsuit-chilling-effect",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:37.321473+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "efab92f840fa4979d2e79a97e8d453d0dc313265ebbdacba59fbe7fff7335316",
+        "title": "Trump complains about allies and claims US destroyed more than 30 mine-laying ships in strait of Hormuz – US politics live",
+        "summary": "<p>President also says US has struck over 7,000 ‘mostly commercial and military targets’ across Iran</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p><strong><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> drew a backlash on Sunday for suggesting US efforts to protect the Strait of Hormuz were unnecessary – and that “maybe we shouldn’t even be there at all” because his country has plenty of oil of its own.</strong></p><p>The president made the contradictory comment to reporters on Air Force One after pleading with European and Nato allies <a href=\"https://www.theguardian.com/world/2026/mar/16/strait-of-hormuz-australia-japan-no-ships\">to enter the war</a> in Iran to help the US secure the strait amid the <a href=\"https://www.theguardian.com/business/2026/mar/12/middle-east-war-creating-largest-supply-disruption-in-the-history-of-oil-markets\">largest oil supply disruption</a> in history.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:37.321784+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "9b8e2e779f015073a9ec4efd1f90813f6e41991d73291f5626637dbd0502b1c2",
+        "title": "Trump backs FCC chair’s threat to pull licenses of news outlets over Iran war coverage",
+        "summary": "<p>US president on social media ‘thrilled’ that Brendan Carr reportedly looking into broadcasters’ licenses</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>Donald Trump reinforced <a href=\"https://www.theguardian.com/us-news/2026/mar/14/fcc-broadcast-permits-iran-war-news\">comments</a> made by Brendan Carr, the chair of the Federal Communications Commission (FCC), threatening the broadcast licenses of news organizations that report unfavorably on the war in Iran.</p><p>In a Truth Social post on Sunday night, Trump said he was “thrilled” that Carr was “looking at the licenses of some of these Corrupt and Highly Unpatriotic ‘News’ Organizations. They get Billions of Dollars of FREE American Airwaves, and use it to perpetuate LIES …”</p> <a href=\"https://www.theguardian.com/us-news/2026/mar/16/trump-fcc-chair-broadcast-license-threat-iran-war\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/mar/16/trump-fcc-chair-broadcast-license-threat-iran-war",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:37.321896+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "f8eaac477307a6f6862c4a92b5d8fa9b0fbfd2b41128103ccb33c064c8b65b5e",
+        "title": "US oil prices could see another day of wild fluctuation as Iran war drags on",
+        "summary": "<p>One analyst predicting that prices at the pump might hit $3.85 per gallon on Monday as war enters third week</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\"><strong>Sign up for the Breaking News US email to get newsletter alerts in your inbox</strong></a></p></li></ul><p>US oil prices could see another day of wild fluctuation as the US-Israel campaign against Iran extends into a third week, with one analyst predicting that prices at the pump might hit $3.85 per gallon on Monday.</p><p>Petroleum prices have spiraled upward as the broadening conflict has imperiled oil and gas production infrastructure in the region. On Friday, the US conducted <a href=\"https://www.theguardian.com/world/2026/mar/16/oil-prices-rise-after-trump-claims-us-totally-demolished-irans-vital-kharg-island-export-hub\">strikes</a> on Kharg Island, an essential oil processing hub in Iran. Tehran, meanwhile, continues to block ships from passing through the strait of Hormuz, where a fifth of the international oil supply typically passes through.</p> <a href=\"https://www.theguardian.com/business/2026/mar/16/us-oil-prices-fluctuation-iran-war\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/business/2026/mar/16/us-oil-prices-fluctuation-iran-war",
+        "severity": 4,
+        "scraped_at": "2026-03-16T19:20:37.322062+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "59df42f445639d75a8cfdd6350852d423711a797574ab73ace5eea236d2f0c13",
+        "title": "Trump laments US allies' lack of 'enthusiasm' to help secure Strait of Hormuz",
+        "summary": "US President Donald Trump on Monday criticised US allies on Monday for a lack of enthusiasm in helping unblock the Strait of Hormuz amid the ongoing war against Iran. US and Israeli strikes on Iran have jolted global energy markets, sending oil prices higher and raising gasoline costs for US consumers.",
+        "link": "https://www.france24.com/en/americas/20260316-trump-laments-us-allies-lack-of-enthusiasm-to-help-secure-strait-of-hormuz",
+        "severity": 4,
+        "scraped_at": "2026-03-16T19:20:38.086806+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5581042,
+          41.4578391
+        ]
+      },
+      "properties": {
+        "id_hash": "90bf5088add46362e0d809e5436bc8563e440126f7eea40cd724121b48d52022",
+        "title": "US realising it 'needs help from allies even if all-powerful militarily'",
+        "summary": "President Donald Trump criticized US allies on March 16 for their lukewarm response to his call to help protect shipping through the Strait of Hormuz. Despite that, he did claim that some countries had agreed to help - but from what has been heard so far, this isn't true as FRANCE 24's Kethevane Gorjestani explains.",
+        "link": "https://www.france24.com/en/video/20260316-us-realising-it-needs-help-from-allies-even-if-all-powerful-militarily-1",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:39.706972+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "120b3c731433a399b5d8cd63f63c983210103c03200839d1e81f653b4865184c",
+        "title": "Replay: Trump says US dismantled Iran's defense as Middle East war continues",
+        "summary": "Rewatch as US President Donald Trump gives an update on the war against Iran.",
+        "link": "https://www.france24.com/en/replay-trump-says-us-dismantled-iran-s-defense-as-middle-east-war-continues",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:39.707081+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "b5c7145e4e4d8a90308eb5204afe12dc90857656e27e1ca0f4dc6f31aed5eee1",
+        "title": "US allies 'know how to deal with Trump' amidst threats over Strait of Hormuz",
+        "summary": "US President Donald Trump has demanded seven countries send ships to the Strait of Hormuz to secure toe crucial passagepoint for global oil flows. He threatened that refusal to help would mean a 'very bad' future for NATO. But US allies refuse to be dragged into the ongoing war in the Middle East. FRANCE 24's Kethevane Gorjestani tells us more.",
+        "link": "https://www.france24.com/en/us-allies-know-how-to-deal-with-trump-amidst-threats-over-strait-of-hormuz",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:39.707122+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "570c1343c5eda49d0cf7c2f9873683ddf51fc183e543f5cc3ba60a89734b4ea8",
+        "title": "‘Sleeping in our car is the only option’: Displaced Lebanese face skyrocketing rents",
+        "summary": "Hezbollah’s entry into the war against Israel on March 2, in retaliation for the US-Israeli strikes on its Iranian ally, has triggered a massive displacement of civilians across Lebanon. With many shelters at capacity and rental prices skyrocketing, many now find themselves sleeping in the streets or in their cars.",
+        "link": "https://www.france24.com/en/middle-east/20260316-sleeping-car-displaced-lebanese-skyrocketing-rents",
+        "severity": 4,
+        "scraped_at": "2026-03-16T19:20:39.707190+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "df09c37030500ae45e3efc585aa38e0c60c4da12d9533a3868066b1605838115",
+        "title": "Israeli strikes hit southern Lebanese town",
+        "summary": "Smoke billowed across southern Lebanon on Monday as the Israeli army said it conducted ground operations in \"new locations\", deploying troops to target Hezbollah positions as it intensified its campaign against the Iran-backed militant group.",
+        "link": "https://www.france24.com/en/video/20260316-israeli-strikes-hit-southern-lebanese-town",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:39.707240+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "50b4aabbf8737729e4462c99b906a07f27b1c8396507ca3acb5408112bb6e0c1",
+        "title": "‘War is expensive’: As bombs pummel Lebanon, an ancient souk falls silent",
+        "summary": "Israel's devastating war with Hezbollah has compounded the suffering of ordinary Lebanese who were already grappling with an economy on the brink of collapse. FRANCE 24's reporter travelled to Sidon, a coastal city south of Beirut, to visit the once-bustling alleys of the old souk that have now fallen eerily quiet.",
+        "link": "https://www.france24.com/en/middle-east/20260316-war-is-expensive-bombs-pummel-lebanon-sidon-old-souk-falls-silent",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:39.707347+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "95268e443b1232364ef4799e042fd54272e1fada05a697409ad0bde65a380be8",
+        "title": "'Kurds can play a significant role in a breakthrough in Iran,' Iranian Kurdish leader says",
+        "summary": "In an interview with FRANCE 24, Abdullah Mohtadi, secretary-general of the Iranian Kurdish opposition Komala party, said Kurds \"can play a very significant role in making a breakthrough\" in Iran. He pointed to \"serious signs of weakness\" among security forces in Kurdish regions of Iran and said \"tens of thousands\" of young people were ready to take up arms – without, he claimed, any foreign backing.",
+        "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260316-kurds-can-play-a-significant-role-in-a-breakthrough-in-iran-iranian-kurdish-leader-says",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:39.707448+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "8fec4d22b47f109cac058740b9a7d1b004e88b0be5c0fb0e0ccff2660c62a76e",
+        "title": "Russia is 'country that benefits most the longer Middle East war continues'",
+        "summary": "Donald Trump is putting pressure on European countries to keep Strait of Hormuz open. But as Europe refuses to get dragged into the war in the Middle East, it also doesn't want to jeopardise Ukraine, which benefits from the US in different ways. FRANCE 24's Angela Diffley looks at how the two conflicts are intertwined.",
+        "link": "https://www.france24.com/en/russia-is-country-that-benefits-most-the-longer-middle-east-war-continues",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:39.707513+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "4f976975793a3ea1792fd0375a217302e31ac16798dcf3937394f9b269eb020d",
+        "title": "Europe refuses to join Middle East war, weighs options to secure Strait of Hormuz",
+        "summary": "The European Union is weighing options on how to help keep the Strait of Hormuz open as energy and commodity prices rise in the third week of war between Iran, Israel and the United States. The bloc's foreign ministers are meeting in Brussels this Monday after US President Donald Trump asked allies — including France, China, Japan, South Korea and Britain — to help secure the strait for global shipping.",
+        "link": "https://www.france24.com/en/video/20260316-europe-refuses-to-join-middle-east-war-weighs-options-to-secure-strait-of-hormuz-1",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:39.707573+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "6a77ac6755b076f294f4eaff5fd4a41a11f4cba59c1d59e0159ea3ec1c387bc4",
+        "title": "Possibility of long war source of concern Israeli military leaders",
+        "summary": "Conflict across the Middle East continues to rage, and Israel is fighting a war on several fronts all at once, but for how long? Since it attacked Iran, Israel has endured regular strikes, forcing widespread air raid alerts, school closures and the mobilisation of reservists. How much longer can Israel sustain itself financially if the conflict were to last?",
+        "link": "https://www.france24.com/en/possibility-of-long-war-source-of-concern-israeli-military-leaders",
+        "severity": 6,
+        "scraped_at": "2026-03-16T19:20:39.707687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.602191,
+          39.6823264
+        ]
+      },
+      "properties": {
+        "id_hash": "6160fb18f92c54271e5614f821a144aa16775ecec327f00af9b0955d590ca5a6",
+        "title": "Trump administration threatens media over negative coverage of Middle East war",
+        "summary": "Donald Trump's broadcast regulator has issued a warning to top news channels in the United States, threatening to cancel the spectrum permits of broadcasters pushing what he called \"hoaxes and news distortions\". The criticism was echoed by Brendan Carr, the chair of the Federal Communications Commission. It comes amid heightened tensions between broadcasters and the FCC over the handling of political content on air.",
+        "link": "https://www.france24.com/en/trump-administration-threatens-media-over-middle-east-war-coverage",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:40.541865+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7137847,
+          7.5554942
+        ]
+      },
+      "properties": {
+        "id_hash": "291fb758da7378c291022f09d4a099170bc67b32104e8ec7edaf38d0b4a7401a",
+        "title": "Sri Lanka and Thailand bring in fuel-rationing measures amidst Middle East war",
+        "summary": "As oil prices continue to rise and supply is disrupted by the conflict in the Middle East, the Sri Lankan government has announced fuel-rationing measures, effective immediately. Thailand has seen a rush to the pumps causing shortages, as people try to fuel up before price control measures expire.",
+        "link": "https://www.france24.com/en/sri-lanka-and-thailand-bring-in-fuel-rationing-measures-amidst-middle-east-war",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:41.820098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "71d409834b83f78aae4043a64197436407bf5e30faba6e0f50d740425b34c460",
+        "title": "Middle East conflict is not NATO war, but 'entwined' with US position on Ukraine",
+        "summary": "US President Donald Trump said he has demanded about seven countries send warships to keep the Strait of Hormuz open as Iranian strikes continued to rain down on Gulf countries. Trump has warned his allies not helping him could lead to a 'very bad' future for NATO. And although the conflict in the Middle East is not a NATO war, it is very much 'entwined' with the United States' position on Ukraine. FRANCE 24's Angela Diffley tells us more.",
+        "link": "https://www.france24.com/en/video/20260316-middle-east-conflict-is-not-nato-war-but-entwined-with-us-position-on-ukraine-1",
+        "severity": 4,
+        "scraped_at": "2026-03-16T19:20:41.820235+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "a15e2a71c37bb78c6c5f442529062d136da018c4808a93f695c3a75ce2cad582",
+        "title": "UN Committee Should Promote, Not Oppose, Civil Society",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              United Nations Headquarters in New York City, US, July 16, 2024.\n                    © 2024 Jakub Porzycki/NurPhoto via AP Photo \n          \n    \n\n\n  \n<p>The United Nations will hold elections in April for the 19 members of the UN Committee on Non-Governmental Organizations, which controls UN accreditation for nongovernmental groups. The election to the UN’s gatekeeper for civil society comes at a difficult time for human rights and civil society groups around the world, with governments defunding these groups, blocking foreign grants, and suppressing and often criminalizing their work.</p><p>The candidates for this year’s largely uncompetitive election are mostly countries whose governments are hostile to civil society.</p><p>Only the Central and Eastern Europe Group has any competition so far. Belarus, which has effectively outlawed civil society and prosecutes human rights defenders, is vying with&nbsp;Estonia and&nbsp;Ukraine for two spots and should be rejected.</p><p>Abusive governments that restrict civil society at home have long held a majority on the panel, turning into a de facto anti-NGO committee. Instead of vetting applications responsibly so that organizations can interact with UN bodies and officials, the committee has largely blocked their applications, particularly of human rights groups.</p><p>All four candidates for the Asia-Pacific Group have a track record of abusive practices with civil society.&nbsp;Saudi Arabia,the&nbsp;United Arab Emirates, and&nbsp;India silence activist and human rights groups, including arbitrarily arresting their members under counterterrorism laws.&nbsp;China has not only prevented human rights groups from functioning inside the country, but has for years retaliated against Chinese&nbsp;activists seeking to participate in UN forums.</p><p>In the Western group,&nbsp;Israel,&nbsp;Türkiye, and the&nbsp;United States under the Trump administration have demonstrated&nbsp;open hostility to civil society groups. The United Kingdom has said it is “committed to championing civil society participation” though it has adopted multiple laws restricting protest,&nbsp;criminalized those supporting Palestinian rights and action on climate change, and used counterterrorism laws to ban a pro-Palestine direct action group.</p><p>Running for the Latin America and Caribbean seat are&nbsp;Cuba, which suppresses criticism and detains critics,&nbsp;Nicaragua, which has&nbsp;closed down thousands of groups, and Peru, which recently approved a law suppressing civil society. The African Group has yet to declare any candidates.</p><p>The UK has called for reforming the NGO committee. Meaningful reform should start with its membership so that governments that support civil society engagement outnumber governments hostile to them. Doing so will require better candidates and competitive elections to keep out countries like Belarus and others unfit for membership.</p>",
+        "link": "https://www.hrw.org/news/2026/03/16/un-committee-should-promote-not-oppose-civil-society",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:43.624301+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2934413,
+          24.4769288
+        ]
+      },
+      "properties": {
+        "id_hash": "c7024a6525f469b8bee905a371608fc8fabdfdb1b90ef89d0a579b6d78d640a5",
+        "title": "Bangladesh: New Government Should Prioritize Human Rights",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Tarique Rahman takes the oath of office as Prime Minister of Bangladesh at the National Parliament in Dhaka, Bangladesh, February 17, 2026.\n                    © AP Photo/Mahmud Hossain Opu\n          \n    \n\n\n  \n<p>(London) – Bangladesh’s recently elected prime minister, Tarique Rahman, and his Bangladesh Nationalist Party (BNP) government face many urgent challenges but can use this opportunity to bring lasting protections of human rights, nine rights groups wrote in a letter to Rahman published today.</p><p>Prime Minister Rahman came to office following a landslide election victory in February 2026. The election was conducted by an interim government that had replaced the increasingly abusive 15-year rule of the former prime minister, Sheikh Hasina, who was toppled by mass protests in 2024. While the widespread rights violations including enforced disappearances and extra-judicial killings under Hasina’s rule ended, the interim government continued to arbitrarily detain political opponents, and was unable to end mob violence against journalists, religious minorities, and cultural centers.</p><p>“Tarique Rahman has been given a wide mandate to bring change, including by many Bangladeshis who risked their lives to overthrow an autocratic government,” said Meenakshi Ganguly, deputy Asia director at Human Rights Watch. “Success will require meaningful reform to ensure that independent institutions are capable of delivering accountability and upholding the rule of law, and real commitment to upholding rights such as freedom of religion and expression.”</p><p>Among the priorities highlighted in the letter are ending arbitrary detention, holding those responsible for past violations accountable, abolishing the abusive Rapid Action Battalion, and protecting ethnic and religious minorities. The groups also said that the government should protect the rights of over a million Rohingya refugees currently in Bangladesh and establish a strong and independent National Human Rights Commission. The groups made specific recommendations in their letter for policy measures and legislative steps.</p><p>During the election campaign, the BNP made numerous commitments to safeguard rights, including economic rights, by increasing the resources available for health, education, environmental protections, and social security.</p>",
+        "link": "https://www.hrw.org/news/2026/03/16/bangladesh-new-government-should-prioritize-human-rights",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:44.977682+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "600030767b5ab36540cc9677b802ccad11f1e921137210cf8f2a34e4784b745e",
+        "title": "Ecuador: Government Defies Court-Ordered Oil Ban",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Waorani Indigenous leaders protest in front of the Constitutional Court in Quito, Ecuador on August 20, 2025, two years after an Indigenous-led referendum to halt exploitation of an oil block in Yasuni National Park, the ancestral home of the Waorani people.\n                    © 2025 RODRIGO BUENDIA/AFP via Getty Images\n          \n    \n\n\n  \nEcuador is failing to comply with key provisions of an Inter-American Court of Human Rights ruling to protect the Tagaeri and Taromenane Indigenous peoples from nearby oil facilities in Yasuní National Park.The court ruled that oil extraction generated environmental pollution and increased the risks of forced contact with the Indigenous groups, potentially exposing them to diseases, displacement, food shortage, and conflicts over resources.Ecuador should take immediate steps to suspend oil extraction in a nearby area called Block 43 and fully comply with the court’s ruling to respect the rights of Indigenous peoples in the national park.&nbsp;<p>(Quito) –&nbsp;Ecuador is failing to comply with key provisions of an Inter-American Court of Human Rights ruling to protect the Tagaeri and Taromenane Indigenous peoples, Human Rights Watch said today. The groups live in voluntary isolation near oil facilities inside Yasuní National Park. &nbsp;</p><p>On March 14, 2025, the court ordered Ecuador to take measures to protect the Indigenous groups, including by immediately stopping oil operations in an area of Yasuní National Park called Block 43. Ecuador’s government was already obliged to stop oil production in Block 43 based on a 2023&nbsp;national referendum. Despite a court-ordered deadline of March 2026 to improve protective measures and monitoring, the government has produced few results.</p><p>“Ecuador continues to allow extraction from Block 43, putting oil production above the rights of Indigenous communities,” said&nbsp;José Rodríguez Orúe, Kenneth Roth practitioner-in-residence at Human Rights Watch. “Ecuador should take immediate steps to suspend oil extraction in Block 43 and fully comply with the court’s ruling to respect the rights of Indigenous peoples in the national park.”</p><p>Despite the court order, during 2025 the government allowed oil production from Block 43 to continue and has not provided information on nearby environmental conditions. The government has also failed to meet a September 2025 deadline to establish a court-ordered technical commission to monitor the movements of people living in the area to determine whether a protected zone inside Yasuní National Park should be expanded to protect Tagaeri and Taromenane territory.</p><p>In November and December 2025, Human Rights Watch interviewed 13 leaders and community members of the Waorani Indigenous people and a leader from a Kichwa community situated within Block 43. Human Rights Watch also interviewed eight representatives of civil society organizations, journalists, academics, and economists. Researchers reviewed a range of external sources, including academic studies, news reports, legal documents, satellite imagery, oil industry publications, and publications by the&nbsp;Waorani Nationality of Ecuador (NAWE). The semi-nomadic Tagaeri and Taromenane live in the Ecuadorian Amazon, including a section of Yasuní National Park. In 1999, Ecuador&nbsp;established the “Tagaeri Taromenane Intangible Zone,” a core area of the national park where all extractive activity is forbidden. A ten-kilometer buffer zone separates oil facilities and the no-go zone.</p><p>Oil operations continued in other park areas, including an adjacent area to the north, oil Block 43. A 2024&nbsp;government report that explained the challenges of complying with the referendum noted&nbsp;“signs of presence” of the Tagaeri and Taromenane peoples to the south of Block 43 and acknowledged that oil operations “posed a threat” to their survival.</p><p>The Inter-American Court of Human Rights ruled that oil extraction in Block 43—which overlaps with ancestral Indigenous territory—generated environmental pollution and increased the risks of forced contact with the Tagaeri and Taromenane, potentially exposing them to diseases, displacement, food shortage, and conflicts over resources. The court also noted the result of the&nbsp;national referendum on August 20, 2023, ordering the facility’s closure within one year.</p><p>It ordered the government to take “all necessary legislative, administrative, and other measures to ensure that this [referendum] is effectively implemented and that oil exploitation in Block 43 is prohibited.” Environmental defenders&nbsp;filed a compliance case against the government in November 2025 for failing to close Block 43.</p><p>Data from the state oil company, Petroecuador, showed that, except for a period in July 2025 when national oil production dropped due to&nbsp;damaged pipelines following a landslide, Block 43’s crude output remained constant throughout 2025, with an average of 1.2 million barrels of oil extracted each month.&nbsp;</p><p>The authorities have failed to provide public access to information about the required environmental monitoring since April 2024. Under&nbsp;Ecuadorian law, the Ministry of Environment, Water and Ecological Transition must submit these reports to the National Assembly every six months. An August 2025 ministerial letter on file with Human Rights Watch confirmed the submission of the October 2023-April 2024 monitoring report, yet the ministry has not disclosed the two subsequent reports that were legally due by that date.</p><p>The Tagaeri and Taromenane are part of the broader Waorani Indigenous people. Oil extraction near their territory increases the risk of unwanted encounters with outsiders and may expose them to pollution, severe health risks, and conditions that could make return to isolation virtually impossible.</p><p>The interviews with Waorani community members—who share the same language and culture and live in nearby areas affected by the oil operations—provide insights into how the Tagaeri and Taromenane might experience the impacts of oil operations in Block 43.</p><p>The Waorani community members said they believed that oil activity in and around Block 43 negatively affected the water quality of rivers—the primary source of drinking water—as well as the health and well-being of their communities. “Our rivers are being polluted, the animals are dying, rashes cover our skin after we bathe, we have no drinking water,” said Isabel Baihua, leader of the Waorani Women’s Association of Orellana.</p><p>The American Convention on Human Rights and the Escazú Agreement, to which Ecuador is a party, require the government to ensure people can access information needed to protect the rights to health and to a healthy environment. But Waorani community members said the authorities do not provide the information they need to make informed decisions to protect their health from the environmental impacts of oil extraction in Block 43.</p><p>The government has also not established the commission the court ordered to monitor the movements of the Indigenous groups to recommend expanding the no-go zone’s boundaries.</p><p>Ecuador’s ability to protect the Tagaeri and Taromenane Indigenous peoples has been further weakened by changes that have undermined key ministries. President Daniel Noboa downgraded the previous Ministry of Environment, Water and Ecological Transition into a vice-ministry within a new Ministry of Environment and Energy. The Ministry of Women and Human Rights was also downgraded to a vice-ministry under the Government Ministry. In its judgment, the court had flagged concerns that institutional changes and budget cuts had led to the state’s failure to prevent incursions of loggers and other third parties into Tagaeri and Taromenane territory.</p><p>The government of Ecuador should work with the Waorani people and communities affected by oil extraction in Block 43 to ensure its suspension and progressive closure.</p><p>“The Ecuadorian government’s refusal to close Block 43 undermines the democratically expressed will of its people, and its refusal to comply with the Inter-American Court of Human Right’s orders erodes its commitments to the regional human rights system,” Rodríguez Orúe said. “The government needs to respect the rule of law, and ultimately, the will of the Ecuadorian people.”</p><p>Oil-Related Threats to Indigenous Peoples in Yasuní National Park</p>  \n\n\n\n      \n\n\n  \n  \n\n\n\n\n  \n          \n                  \n\n\n                  \n          Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Map of the Block 43 Infrastructure in Yasuni National Park, Ecuador. Graphics © 2026 Human Rights Watch.   Data sources:   Oil Concessions: Ecuador Ministry of Non-Renewable Natural Resources. Global Forest Watch.  Protected areas: Ministry of Environment, Water and Ecological Transition (MAATE). EcoCiencia.  Oil extraction infrastructure: PetroEcuador, 2024. \n                \n    \n\n\n  \n<p>Yasuní National Park is one of the most&nbsp;culturally diverse and biodiverse areas on Earth. The national park was established by law in 1979 and was designated a UNESCO&nbsp;biosphere reserve in 1989.&nbsp;It overlaps with the&nbsp;ancestral territories of the Kichwa and Waorani Indigenous peoples. The Waorani were the last Indigenous group in Ecuador to be contacted by the outside world, in the 1950s. After contact, the Waorani fragmented into several clans and communities, with the Tagaeri and Taromenane deciding to remain in isolation.</p><p>Dr. Patricio Trujillo, an Ecuadorian anthropologist who researches the Tagaeri and Taromenane, said that these groups follow semi-nomadic cyclical mobility patterns on ancestral hunting trails and rivers.</p><p>In 2013, Ecuador’s National Assembly&nbsp;declared oil exploitation in Blocks 31 and 43 inside Yasuní National Park to be “of national interest,” overriding prohibitions on extraction in national parks. Block 43—with the highest oil production in Yasuní—contains 247 wells across three fields. Ishpingo, the field furthest south, is the newest and most productive field, and the one closest to the Indigenous groups’ buffer zone.</p><p>In 1999, Ecuador established the Tagaeri Taromenane Intangible Zone, a core area of the park with the greatest environmental protection, to protect the “lands of habitation and development” of the groups. While all extractive activity, including oil operations, is banned in the zone, a 2024 government report identified the area south of Block 43 as suitable for hunting and seasonal mobility of the Tagaeri and Taromenane, acknowledging that “competition for subsistence resources in these areas may lead to situations of ... forced contact with Indigenous peoples living in voluntary isolation.” Maps produced by the citizen-led&nbsp;Critical Geography Collective that were used by the Inter-American Court, show that the impacts of oil extraction in the Ishpingo field already extend to the buffer zone.</p><p>Waorani community members interviewed by Human Rights Watch affirmed that the Tagaeri and Taromenane still appear to use territory near Block 43 infrastructure. They said they hear war cries as they cross ancestral hunting paths and find pottery and animal carcasses left behind by their relatives living in isolation.</p><p>According to&nbsp;official spills reports disclosed by Petroecuador, 29 spills occurred in Block 43 between 2016 and 2024, the most recent period for which data is available. However, in the company’s&nbsp;2024 statement on the feasibility of closing the oil block, it said that “no spills have been recorded,” classifying the 29 incidents as “operational events” that, it said, “had no environmental impact” and were properly contained.</p><p>By contrast, in an official document on file with Human Rights Watch, the Ministry of Environment, Water and Ecological Transition said that the last publicly reported incident in Block 43, a June 2024 diesel spill, reached the Salado River that flows through the Tambococha field, affecting a Kichwa community dependent on fishing.</p><p></p>  \n\n\n\n      \n\n\n\n\n\n\n  \n              \n  \n    Block 43 Spills 2016 - 2024<br />(crude, hydraulic oil, diesel, and chemicals)\n    \n  \n  \n    \n      Show Spill Clusters\n    \n    \n      Map of spills inside Block 43, Yasuni National Park, Ecuador.<br />Note: This map omits a March 31, 2023, chemical leak at the Ishpingo field caused by a tank plug failure; irregular coordinates in the official record prevented its precise mapping.<br /> Graphics © 2026 Human Rights Watch.  Data source:  EP Petroecuador; Official spill registry submitted to the Citizen Oversight Committee in 2024 and 2025.\n    \n  \n\n\n                    \n      \n\n\n\n\n\n\n  \n<p>Human Rights Watch has documented that, around the world, communities most exposed to the extraction, manufacturing, use of, and disposal of fossil fuel products often face ongoing rights violations or other harmful human rights impacts tied to toxic air, unsafe water, and polluted ecosystems.</p><p>Many Waorani communities live close to Yasuní oil facilities, and people interviewed said they believe they are exposed to harmful water pollution. They said that children and older people have become ill after bathing or drinking river water and that fish deaths have reduced the availability of staple food.</p><p>“When the oil spills, animals, fish, trees, and people die,” one said. A Waorani elder leader born in what is now Block 43 said that two older people from her community had fallen ill after bathing in the rivers: “their whole body was red, blisters covered their skin … now we avoid the big river and seek nearby streams. Before oil extraction began in Block 43, my family and I were free to bathe and fish in the river. Now we can’t bathe in it; the fish are not healthy; they’re covered in oil.”</p><p>Ministry of the environment&nbsp;monitoring reports to the National Assembly from 2016 to 2024 repeatedly show “very polluted” and “moderately polluted water” in Block 43 under the Biological Monitoring Working Party Index, which assesses river water quality but doesn’t determine whether pollutants related to oil production are causing that pollution.</p><p>In its last&nbsp;publicly disclosed monitoring report issued in April 2024, the ministry noted that Petroecuador had not presented its biotic monitoring data since 2022, as required under&nbsp;Ecuadorian law, and that it failed to “submit biotic monitoring data for the exploitation phase of Block 43 from October 2023 to April 2024 for review and comment.” The ministry&nbsp;started an administrative proceeding against the company in May 2024.&nbsp;</p><p>Spills in Block 43 are part of a broader pattern of&nbsp;chronic oil pollution in Ecuador. Between 2020 and 2022, the ministry recorded an&nbsp;average of 22.5 oil spills each month. In the Amazon, the impacts have&nbsp;historically fallen heavily on Indigenous peoples and communities that depend on rivers for water, bathing, and fishing. Oil contamination in Ecuador’s Amazon has long been associated with&nbsp;skin irritation and dermatitis and newer research continues to document the wider&nbsp;pollution of rivers and fish, on which Amazonian communities depend.</p><p>Waorani community members also described poor air quality, which they attributed to gas flaring from nearby oil operations in Block 43. A Waorani leader from the Nampaweno community inside Yasuní said, “When it rains, pollutants fall to the ground harming our cassava and plantain crops. Communities that have no flaring have healthy crops.”</p><p>Scientific literature shows that&nbsp;gas flaring can produce&nbsp;acid rain that damages staple crops such as&nbsp;cassava, with effects strongest in closest proximity to flare sites. Throughout 2025, satellite imagery analysis and remote sensing carried out by Human Rights Watch detected intermittent flaring from the Central de Procesos Tiputini, an oil and gas processing facility to the north of Block 43.</p><p>Waorani community members also reported that sound and light pollution from oil operations in Block 43 have driven animals away from traditional hunting areas, affecting their ability to hunt wild games, another staple food source.</p><p>“It’s like having a helicopter outside of your home every hour, every day,” said Sofía Torres Caiza, president of the Citizen Oversight Committee, which was intended to oversee compliance with Block 43’s closure between 2023 and 2025.&nbsp;</p><p>One Kichwa leader living in the area said: “Before Block 43 we lived without noise, now it’s 24 hours of nonstop noise. When the animals hear that noise, they start to move away. They used to stay within our territory, and we rely on hunting to feed our families, but now there isn’t as much wildlife anymore.”&nbsp;</p><p>The Inter-American Court of Human Rights Ruling&nbsp;</p><p>In March 2025, the Inter-American Court of Human Rights formally communicated to Ecuador a&nbsp;ruling it had finalized in September 2024. The court found that Ecuador violated the rights of the Tagaeri and Taromenane Indigenous peoples living in voluntary isolation by, among other things, authorizing oil operations that surround the area where oil extraction is forbidden without proper environmental and human rights risk assessments and failing to stop illegal loggers from operating inside the zone. This exposes the Indigenous groups to a serious risk of human rights violations associated with forced contact, pollution, and conflicts over limited resources, the court said.</p><p>The court held that, given the close relationship between territory, natural resources, and the survival of Indigenous peoples in voluntary isolation, Ecuador should have applied the precautionary principle when determining and implementing measures to protect their territory. Under that principle, a government may be required to implement mandatory preventive measures to head off the risk of irreversible harm, even where there is no scientific certainty about the environmental or health impacts at issue.</p><p>The court concluded that, with the expansion of extractive activities in Yasuní, oil fields surrounding the no-go zone and its buffer have impacts that encroach upon those areas. The court underscored that oil blocks adjacent to the no-go zone, including Block 43, pollute that area, and that roads enabling access to oil facilities have enabled illegal logging, fishing, and hunting to proliferate inside Indigenous territory, increasing risks of forced contact, disease transmission, and conflicts, jeopardizing the survival of the Indigenous groups.</p><p>The court underscored that while authorities knew local groups lived and moved near Block 43, the government failed to demonstrate how the risks posed by oil operations were “taken into account when analyzing the granting of permits and concessions.”</p><p>The court found that oil extraction in Block 43 violated several rights enshrined under the American Convention on Human Rights, including the rights to health, territory, a healthy environment, self-determination, and to live with dignity. It acknowledged that “there is a risk that an oil spill affects waterways and, therefore, ends up affecting the territory” of the Indigenous groups.&nbsp;</p><p>In 2023, Ecuadorians&nbsp;voted in a referendum to halt oil extraction in Block 43. Protecting Indigenous peoples living in voluntary isolation from the impacts of oil production was a&nbsp;core component of the underlying 10-year campaign that sought to keep oil in Block 43 “indefinitely underground.”</p><p>Ecuador’s Constitutional Court&nbsp;ordered that the government should implement the result at the latest by August 2024, progressively halt extraction, protect the Tagaeri and Taromenane, revoke permits, and restore the environment. The Inter-American Court of Human Rights considered that compliance with the referendum would help minimize the harmful impacts that oil extraction on the rights of the Indigenous groups and ordered Ecuador to adopt “all necessary legislative, administrative, and other measures to ensure that this [referendum] is effectively implemented and that oil exploitation in Block 43 is prohibited.” The government&nbsp;has not complied.</p><p>The court also ordered Ecuador to identify additional measures to fix serious gaps in producing reliable information about environmental conditions in the no-go zone, including potential contamination of water, air, and the broader ecosystem, and noise from nearby extractive activity. The court also ordered Ecuador to take steps to improve monitoring of the movements of peoples in isolation in areas surrounding the no-go zone.</p><p>Non-Compliance with the Inter-American Court of Human Rights Ruling</p><p>Ongoing Oil Production</p><p>In a letter to a National Assembly member dated August 1, 2025, on file with Human Rights Watch, the ministry of the environment acknowledged that there was no final plan for phasing out oil production in Block 43, despite the referendum and the court order. The ministry also acknowledged that environmental licenses had not been revoked, and withdrawal of infrastructure remained stalled. As of March 2026, Ecuador has shut down a handful of wells in Block 43.</p><p>Oil production in Block 43 remained stable throughout 2025, according to Petroecuador’s yearly production reports, with an average of 1,245,225 oil barrels extracted each month. Ecuador was still extracting over 44,000 barrels of oil per day from Block 43, based on Petroecuador data, 9.4 percent of the country’s total crude output in 2025.</p><p></p>\n\n\n\n      \n  \n      \n\n\n\n\n  \n\n  \n<p>Despite President Noboa’s&nbsp;initial promise to comply with the 2023 referendum, his government has continued extracting oil from Block 43, alleging that an immediate compliance would harm the country’s economy and therefore postponed the closure until 2029. However, experts, environmental human rights defenders, Indigenous leaders, and academics interviewed by Human Rights Watch said that Block 43’s closure presents a critical opportunity to start a transition away from fossil fuels, on which Ecuador depends for about 12 percent of its GDP.&nbsp;</p><p>In February 2026, Human Rights Watch wrote to Petroecuador requesting comments on our finding that oil operations in Block 43 continued after the Inter-American Court's Ruling. At the time of publication, Petroecuador had not replied.</p><p>Reduced Access to Information&nbsp;</p><p>The ministry of the environment is required to present environmental monitoring information to the National Assembly every six months by law, but currently there are no publicly available monitoring reports. Pedro Bermeo from the citizen collective&nbsp;Yasunídos said, “These reports are rarely uploaded online; we always struggle to find them.”</p><p>As a result, interested parties are forced to seek information through freedom of information requests—which are often denied or ignored—said Indigenous leaders, oversight bodies, civil society organizations, and legislators.</p><p>Waorani leaders and community members also reported that the authorities provide little information about the potential health impacts of oil activities in Block 43. They said that the government does not warn them about potential pollutants and health hazards in the rivers from which they draw water, including when an oil spill or other associated polluting incidents occur. When coupled with the skin irritation and blisters that some community members have experienced, and the dead fish observed in surrounding areas, this lack of information leaves community members to consider their water unsafe for drinking or bathing.</p><p>“Information about the environmental conditions in Block 43 is kept secret, the government has never given it to us, even though we’re the affected people – it puts our lives at risk,” said Nemo Andy Guiquita, a Waorani leader from the&nbsp;Confederation of Indigenous Nationalities of Ecuador.</p><p>In September 2025, the Citizen Oversight Committee established by the Council for Citizen Participation and Social Control—the public entity charged with promoting public participation to monitor implementation of the 2023 referendum—reported repeated refusals by state institutions to provide information regarding environmental impacts of oil extraction in Block 43 and measures to protect the Tagaeri and Taromenane peoples.</p><p>In April 2024, in a response to a freedom of information request filed by the Citizen Oversight Committee, the ministry of the environment provided information on the environmental conditions inside Block 43 in a&nbsp;Google Drive folder with data up to October 2023. Human Rights Watch reviewed the folder and concluded that monitoring reports showed no cumulative risk assessments to determine the environmental impacts of continued oil extraction over the Tagaeri and Taromenane peoples. Much of the information from the ministry was from monitoring data by the state oil company.</p><p>Mariana Yumbay, a member of the National Assembly, filed a freedom of information request in 2025 asking the ministry of the environment to provide information on the closure of Block 43 and the environmental impacts of oil operations in the area. In its August 2025 reply, the ministry provided an additional environmental monitoring report for the October 2023-April 2024 period, but by that time authorities had been legally required to have produced two additional reports.</p><p>“[The ministry] takes far too long to provide us with incomplete information, and from what little they have given us, it is evident that the government is not complying with the orders to shut down Block 43,” Yumbay said.&nbsp;</p><p>Government Inaction on Protection Measures</p><p>The Inter-American Court of Human Rights ordered Ecuador to act with the utmost diligence within defined timelines to correct failures in monitoring and protection of the Tagaeri and Taromenane Indigenous peoples.&nbsp;</p><p>The court acknowledged that Ecuador had established a protective framework for the Tagaeri and Taromenane peoples but found the implementation of these measures insufficient to stop illegal logging, fishing, and hunting in their territory.</p><p>The court ordered Ecuador to create a Technical Evaluation Commission to map the presence of isolated peoples outside the no-go zone every two years and recommend expanding the protected zone if needed in light of those findings. The commission was to include Waorani and civil society representatives and operate under the supervision of the court. Ecuador had until September 2025 to establish it.</p><p>The&nbsp;Waorani Nationality of Ecuador and counsel for plaintiffs before the court confirmed that the government had not yet established the commission. “The government does not have the will to dialogue with the Waorani people … we don’t want to just participate, we deserve the right to speak and decide on how the closure and reparation of Block 43 happens,” said Juan Bay, president of NAWE.</p><p>The court found that Ecuador had failed to establish the required commission and criticized its existing protection measures as inadequate due to their lack of implementation. Human Rights Watch analyzed information presented by the Women and Human Rights Ministry to the Oversight Committee in June 2025 regarding the measures it was taking to ensure the protection of the Indigenous peoples. Although the ministry reported that it had carried out three patrols in the no-go zone to look for signs of Tagaeri and Taromenane presence and had also provided routine training to oil workers on how to avoid contact with Indigenous peoples living in isolation, it did not provide any information regarding third party incursions into the region or any measures it has taken to prevent such incursions.</p><p>The now downgraded Vice-Ministry of Women and Human Rights is responsible for conducting patrols to look for signs of Tagaeri and Taromenane presence and to monitor any threats to their rights, including by third-party incursions. However, the Citizen Oversight Committee&nbsp;noted in September 2025 that the entity lacked a protection plan or targets to carry out these functions.</p><p>In its final 2025 report concluding that the government had not complied with the 2023 referendum, the Citizen Oversight Committee emphasized that, “Although the ministry acknowledges the existence of protocols, patrols, and training, the reported actions are merely formal and do not constitute concrete measures for redress or effective protection … the absence of an operational and funding plan confirms the lack of actual implementation.” The committee noted that the ministry failed “to demonstrate cumulative risk assessments for ongoing operations in Block 43 (such as traffic, noise, gas flares, and construction), nor did it include safety measures to prevent exposure.”&nbsp;</p>",
+        "link": "https://www.hrw.org/news/2026/03/16/ecuador-government-defies-court-ordered-oil-ban",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:44.979354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9990103,
+          33.8456441
+        ]
+      },
+      "properties": {
+        "id_hash": "b62734cfdc306c908de4cd644da54db381ad2fc604f3b1e1a77ce20f8b23bb4d",
+        "title": "Reimagining Albinism Rights Advocacy",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Human Rights Watch Director of the Disability Rights Division, Elizabeth Kamundia (left), and Marco Bristo Fellow for Courageous Leadership in Disability Rights, Hilda Macheso (center), interview people in Malawi, October 2025.\n                    © 2025 Samer Muscati/Human Rights Watch \n          \n    \n\n\n  \n<p>It is a hot afternoon in a rural district in Malawi. People gather around a tent set up at the Local Trading Center, eager to witness a community outreach program that aims to combat rising violence against people with albinism.</p><p>The organizers passionately encourage greater understanding of albinism and the protection of the rights of people with albinism. They ask questions to ensure the listeners have comprehended what has been discussed. At the appointed time, the advocates depart, pleased with the community’s feedback during this short session. “This outreach has been a success,” they say.</p><p>While these sessions raise awareness, they often do not actively engage participants in challenging the underlying stigma. They’re mostly passive, so attendees may remember the information briefly, but there’s little follow-up or practical engagement to transform attitudes or behaviors in the long term. Tracking lasting change or impact is difficult.</p><p>As a disability rights advocate, I have seen how unsustainable this approach can be. Also, as a theater practitioner, I aim to combine what I learned in class with my advocacy work. In my efforts to help the community understand albinism, I have utilized an applied theater technique called forum theater.</p><p>I create short plays based on real-life injustices faced by people with albinism, illustrating how these barriers deprive both individuals and their communities of their full participation. I offer the audience a glimpse into our lived experiences and let them feel what we feel.</p><p>Applied theater approaches usually include follow-up or visits to address any emerging issues and reinforce learning. This makes applied theater more effective for sustaining behavioral or attitudinal change.</p><p>Forum theater also invites community members to literally step into the shoes of the characters during the play to suggest and enact their own solutions. This co-creation of ideas empowers the community to address injustices and actively support people with albinism.</p><p>Furthermore, this approach enables me to record the community’s proposed solutions and turn them into tangible commitments. These then serve as a foundation for tracking progress to ensure that the rights of people with albinism are actively protected through the very actions the community itself suggests.</p><p>I believe that, to be fully effective and sustainable, advocacy needs to move beyond just performance. It has to become a shared act of critical reflection, one that is sustainable and bears fruit long after the advocacy activities have ended.</p>",
+        "link": "https://www.hrw.org/news/2026/03/16/reimagining-albinism-rights-advocacy",
+        "severity": 2,
+        "scraped_at": "2026-03-16T19:20:46.342742+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6044708,
+          4.8542778
+        ]
+      },
+      "properties": {
+        "id_hash": "9d7987fed697c2cab8070682ad58378c7a5f17ee7d6f1181effbd07942f76702",
+        "title": "Governments Should Support Vanuatu’s UN Climate Resolution",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Ralph Regenvanu, Vanuatu's minister for climate change, speaks outside the International Court of Justice ahead of an advisory opinion on what legal obligations nations have to address climate change, July 23, 2025, in The Hague, Netherlands.&nbsp;\n                    © 2025 AP Photo/Peter Dejong\n          \n    \n\n\n  \n<p>The world’s highest court has spoken: tackling climate change is not a choice: it’s a legal obligation. Now it’s up to the United Nations General Assembly to speak up and urge its 193 member countries to take action.</p><p>Millions of people around the world have already lost their homes, livelihoods, and lives, due to climate change. It is vital states take action.</p><p>In July 2025, the International Court of Justice delivered a unanimous landmark&nbsp;Advisory Opinion on states’ obligations under international law to address climate change. The Court ruled that states are legally required to protect the climate system, prevent transboundary harm, and regulate activities driving greenhouse gas emissions. The court also made clear that failing to act on climate change can violate human rights, including the rights to life, health, food, water, housing, and culture.</p><p>Human Rights Watch has&nbsp;documented how fossil fuel production harms communities around the world, particularly those living near its infrastructure. The court’s opinion makes explicit that governments have existing legal duties to address those harms.</p><p>Vanuatu, alongside a cross-regional group of countries, has circulated a draft UN General Assembly resolution to motivate member countries to transform the court’s findings into action. In practice, this means urging states to adopt stronger national climate plans, phaseout fossil fuels, and better protect communities displaced by climate change. It also proposes mechanisms to document and track the losses communities are already suffering.</p><p>The General Assembly has a history of translating advisory opinions into resolutions that demand action by governments. The US, backed by oil-producing states in the Gulf amongst others, has urged Vanuatu&nbsp;to withdraw the resolution. But the Pacific island state, which is itself threatened by rising sea levels, has refused. Vanuatu and its partners have worked hard to accommodate a range of concerns by different countries, including from the European Union which has pushed back on a more expansive interpretation of the advisory opinion.&nbsp;</p><p>Human Rights Watch and its partners are urging governments to engage constructively in the ongoing consultations and vote in favor of the resolution. It’s imperative they resist efforts to water down its core elements, especially those protecting human rights, international law, and advancing international cooperation on climate change.</p>",
+        "link": "https://www.hrw.org/news/2026/03/16/governments-should-support-vanuatus-un-climate-resolution",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:47.690976+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "3e774e513cbe5358b0dabe67d6f1b00a9419a6e8e4520d394fbad59a15126682",
+        "title": "US/El Salvador: Deportees Forcibly Disappeared",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Venezuelans and Salvadorans nationals deported from the United States are transferred to the Center for Terrorism Confinement (CECOT) in San Salvador, El Salvador, on March 31, 2025.\n                    © 2025 El Salvador Press Presidency Office/Anadolu via Getty Images\n          \n    \n\n\n  \n<p>(Washington)&nbsp;– El Salvador is forcibly disappearing and arbitrarily detaining Salvadorans deported from the United States, Human Rights Watch said today, one year after some of the men were sent to El Salvador.</p><p>The detained people are among more than 9,000 Salvadorans deported by the United States since the start of 2025. Some of them were deported on March 15, 2025, alongside the Venezuelans who were tortured and, in some cases, sexually abused in the Center for Terrorism Confinement (Centro de Confinamiento del Terrorismo, CECOT) mega prison.</p><p>“Whatever the criminal history of these Salvadoran men, they have a right to due process, to be taken before a judge, and their relatives are entitled to know where they are being held and why,” said Juanita Goebertus, Americas director at Human Rights Watch. “Deportation cannot mean enforced disappearance.”</p><p>Human Rights Watch interviewed 20 relatives and lawyers of 11 Salvadorans who were deported from the United States between mid-March and mid-October 2025 and then immediately detained in El Salvador. Like most detainees in El Salvador, these men have not been allowed to communicate with their relatives or lawyers.</p><p>None of the relatives or lawyers have had any indication from the authorities that the men have been brought before a judge since their arrival. Some have not been informed of where their loved ones are held, or why. In five cases, relatives learned about deportees’ whereabouts only though litigation at the Inter-American Commission on Human Rights (IACHR).</p><p>The Trump administration has alleged that several of the Salvadorans are members of the MS-13 gang. The United States disclosed that one of them is César Humberto López Larios (“El Greñas”), a known MS-13 gang leader. Neither US nor Salvadoran authorities have provided evidence or information to substantiate the claim that any of the others are gang members.</p><p>Human Rights Watch analysis of Immigration and Customs Enforcement (ICE) data indicates  that, of the at least 9,000 Salvadorans deported to El Salvador since January 2025, only 10.5 percent had a conviction in the United States for a violent or potentially violent crime. Relatives of ten of those detained said that they had served sentences in the United States: some for possession of drugs and two for violent crimes, including one for homicide and one for sexual assault.&nbsp;</p><p>Some of the people interviewed said their relatives had fled domestic or criminal violence, including recruitment-related threats and extortion by gangs in El Salvador. Some had apparently been living in the United States for several years.</p><p>On March 15, 2025, US authorities&nbsp;deported 23 Salvadorans to El Salvador, including Kilmar Ábrego García, whom the Trump administration said was deported due to an “administrative error.” On June 6, he was returned to the United States, following an order by a federal judge. Ábrego’s lawyers&nbsp;told US courts that he was physically abused in Salvadoran prisons. On December 11, a U.S. District Court in Maryland ordered his release from ICE custody.</p><p>On April 14, 2025, the White House&nbsp;published the names of 12 more deported Salvadorans, without specifying when they were removed. On July 17, 404 Media&nbsp;published a leaked list of Venezuelan and Salvadoran nationals deported to El Salvador. However, neither the US nor the Salvadoran government has confirmed the list’s authenticity.</p><p>Most relatives interviewed said they tried to locate their relatives through ICE’s&nbsp;Online Detainee Locator System but found no results. They said US officials then told them that their relatives had been deported to El Salvador.</p><p>All of the relatives Human Rights Watch interviewed said they had asked Salvadoran authorities about their loved ones’ whereabouts. Authorities refused to provide information, claiming they “lacked a legal mandate” or that they had no record of them.</p><p>Relatives of five deportees submitted a request to the IACHR. In October and December 2025, El Salvador informed the commission that four of them were being held at the Santa Ana prison, and one other at CECOT. The commission said that El Salvador should disclose the detainees’ legal status, end their incommunicado detention, and take steps to protect them.</p><p>In two additional cases, relatives believe their loved ones are being held at CECOT. In one other case, family members believe their relative is detained at Santa Ana prison because they identified him in photos and videos posted by El Salvador President Nayib Bukele. In the remaining three cases documented by Human Rights Watch, relatives have no indication of their family members’ whereabouts.</p><p>Salvadoran courts have also refused to provide information. Relatives and lawyers of five of the deportees said they filed habeas corpus petitions before the Constitutional Chamber of the Supreme Court, in May, August and October 2025. The court rejected one petition, claiming the facts presented were not sufficiently “precise.” It has not responded to the others.</p><p>Under international law, an enforced disappearance occurs when authorities deprive a person of their liberty and then refuse to disclose that person’s fate or whereabouts, placing them outside the protection of the law.</p><p>Salvadoran authorities have not clarified the legal basis for the deportees’ detention or whether they will be brought before a judge. In some cases, the Salvadoran government told the IACHR that it had asked the United States for information and that the men remain in the Salvadoran prison system “pending the decision of the sending State regarding their migratory and legal status.”</p><p>The sister of one of the deportees said that her 32-year-old brother migrated to the United States in 2022 because of police abuse. US authorities deported him on March 15, 2025. “I kept calling the migrant shelter in El Salvador, but they never gave me any information, so I filed a complaint with the Human Rights Ombudsperson’s Office,” she said. “An official told me that my brother was deported on March 15 [but] because of the state of emergency they would not provide any information.”</p><p>The mother of another deportee, who had lived in the United States for 11 years beginning at the age of 17, said that the last time she spoke with her son was on March 13, 2025, when he said he would shortly be deported to El Salvador. On March 15, when she tried to locate him using ICE’s online locator system, no results appeared.</p><p>“That same day I started looking for lawyers in El Salvador, but several told me they could not take those cases because they feared government reprisals,” she said. “I called several institutions, the Attorney General’s Office, the Ombudsperson’s Office, a migrant shelter, and government ministries in El Salvador, but they gave me no information. At the Ombudsperson’s Office, they told me that due to the state of emergency, they were not obligated to provide me with information. I feel abandoned.”</p><p>El Salvador’s state of emergency has been in place since March 2022, The government has used it to suspend, among others, the rights to be informed promptly of the grounds for arrest, to remain silent, to legal representation, and the requirement to present any detainee before a judge within 72 hours of arrest. Human Rights Watch has documented widespread human rights violations during the state of emergency.</p><p>“The desperation of families to find disappeared loved ones evokes the darkest days of dictatorships in Latin America,” Goebertus said. “The United States should stop casting people into the black hole of El Salvador’s prison system.”</p>",
+        "link": "https://www.hrw.org/news/2026/03/16/us/el-salvador-deportees-forcibly-disappeared",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:47.691569+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4795573,
+          44.918982
+        ]
+      },
+      "properties": {
+        "id_hash": "72038362ef4b3b36a250d48d9fbb56120c6438ef3898045bd58f72d4b799154f",
+        "title": "Alias ‘Primo Gay’, cabecilla del frente 36 de las disidencias de las Farc, habría sido herido tras bombardeo en Briceño, Antioquia",
+        "summary": "Neider Yecid Uñates López es el máximo cabecilla de las disidencias de Calarcá en Antioquia. El gobernador Rendón pidió una ofensiva en su contra.",
+        "link": "https://www.eltiempo.com/colombia/medellin/alias-primo-gay-cabecilla-del-frente-36-de-las-disidencias-de-las-farc-habria-sido-herido-tras-bombardeo-en-briceno-antioquia-3540573",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:51.167214+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "fdd058124cbc0924d8f6a6443e1571d4900da7ed3cd36d6aec0e64bac5a366bc",
+        "title": "Yoko no estaría mejor en Brasil: denuncian que el chimpancé más famosos de Pereira vive en una 'favela de monos' y que el traslado fue un fracaso",
+        "summary": "El gerente del bioparque Ukumarí aseguró que el primate permanece encerrado y en condiciones inferiores a las que tenía antes de salir de Colombia.",
+        "link": "https://www.eltiempo.com/colombia/otras-ciudades/yoko-no-estaria-mejor-en-brasil-denuncian-que-el-chimpance-mas-famosos-de-pereira-vive-en-una-favela-de-monos-y-que-el-traslado-fue-un-fracaso-3540534",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:51.167452+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "86d3815f9b527ba6c148ab3eb2f70cd190526c5df9f359deb961dddbb68eea81",
+        "title": "¿Dónde quedará la nueva cárcel de Colombia con cupo para más de 1.700 internos y que se entregará en 2026? Detalles de la penitenciaria",
+        "summary": "La obra, que se espera para este año, hace parte del plan del Gobierno para ampliar la infraestructura carcelaria del país.",
+        "link": "https://www.eltiempo.com/colombia/otras-ciudades/donde-quedara-la-nueva-carcel-de-colombia-con-cupo-para-mas-de-1-700-internos-y-que-se-entregara-en-2026-detalles-de-la-penitenciaria-3540497",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:51.167535+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "0892b7b7aefa5fd5cf947cb3efccf3c181bfa697b944419b33a656262f54a896",
+        "title": "Alcalde Federico Gutiérrez cuestiona a la minga indígena que protesta en Medellín por polémico video: los acusan de estar 'cumpliendo órdenes'",
+        "summary": "En esta movilización participan unos 1.200 indígenas, entre los que hay más de200 niños y niñas entre los 2 y 17 años. Hay afectación en La Alpujarra.",
+        "link": "https://www.eltiempo.com/colombia/medellin/federico-gutierrez-cuestiona-a-la-minga-indigena-que-protesta-en-medellin-polemico-video-dice-que-estarian-cumpliendo-ordenes-3540491",
+        "severity": 0,
+        "scraped_at": "2026-03-16T19:20:51.167587+00:00"
+      }
+    }
+  ]
+}

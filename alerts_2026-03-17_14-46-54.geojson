@@ -1,0 +1,1337 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "762c4c75eda785352b5512b4b3accf6b6e59feac5dde356ceeb48e0ba05ca77b",
+        "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+        "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\".",
+        "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:20.508437+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9365027,
+          22.3161669
+        ]
+      },
+      "properties": {
+        "id_hash": "1bef448449bae693afa643720eb22b05e7cbc1066e18faeae43bc9988d90f846",
+        "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+        "summary": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.",
+        "link": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:22.404177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "45984c1e7a49e12837fb3196c69f0330f5a508a4ac08e67e86317b8fe416a3a4",
+        "title": "Israel says it killed Iranian security chief Ali Larijani in air strike",
+        "summary": "The deaths of Larijani and the head of the paramilitary Basij force have not been confirmed by Iranian authorities.",
+        "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:22.404306+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.247499,
+          30.3308401
+        ]
+      },
+      "properties": {
+        "id_hash": "73d56cde01fc3402f201143cc047e3d285826c7ee282ff3fda7b6e8aab609dfd",
+        "title": "Pakistan air strike kills at least 100 at Kabul drug rehab centre",
+        "summary": "Some of the bodies were injured beyond recognition, forensic laboratory sources told the BBC.",
+        "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:23.898826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7724884,
+          50.6305468
+        ]
+      },
+      "properties": {
+        "id_hash": "96b8d3f0217c60f08bffaf66f370f3f8ce132b40276c72ff1e650e89afc0eaa1",
+        "title": "Chile's president begins building border barrier less than week into term",
+        "summary": "José Antonio Kast visited the ditch - a few feet wide and deep - on Monday, calling it a \"milestone\".",
+        "link": "https://www.bbc.com/news/articles/cvg1227k00eo?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-03-17T19:45:26.400986+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "3ff323d7cb31e7e56fa799a3ec0dfe764f6f5c2cbbb809fe9842bed12149cd2d",
+        "title": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
+        "summary": "Moldova has imposed a 15-day state of alert in the Dniester river basin as a precaution.",
+        "link": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:26.401113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "041fd7b052f53dffa3882000856712660bf5346b48ab70d95d04312c8536cfed",
+        "title": "Trump seeks to delay meeting with Xi in China",
+        "summary": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives",
+        "link": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:26.401241+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "bd692a10dd3820d2b6478a96adb04113100c657027ffb1c9cfabac8c77269ac8",
+        "title": "Surge in US gas prices deepens political peril for Trump over Iran",
+        "summary": "The odds of a quick resolution to the war appear to be dwindling by the day, and the political stakes for the president are only growing.",
+        "link": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:26.401309+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "6dd4e075f640c9b5fbb4b02cee494f75060856c1bb7036054bf8f5dc0f2791df",
+        "title": "Gas on the line: will the Iran war squeeze India's piped gas next?",
+        "summary": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?",
+        "link": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:26.401352+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.083769,
+          -0.2903187
+        ]
+      },
+      "properties": {
+        "id_hash": "ff37fc38c98f96bd8effec29e7b010580348fa886aa2566443a9ef6316974af5",
+        "title": "'Fire came from the sky and burned them' - life on the brink of civil war in South Sudan",
+        "summary": "Some 50,000 people are told to flee their homes as the army warns of a huge military offensive in Jonglei state.",
+        "link": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:27.773805+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6130478,
+          33.0151208
+        ]
+      },
+      "properties": {
+        "id_hash": "3eb9bea4f52416d3b3f39489158f748e6cc02a45d848cd7ed5d2eaac66ff11b9",
+        "title": "US lawmakers Murphy, Casar push legislation to regulate prediction markets",
+        "summary": "The legislation aims to prevent bets made based on insider knowledge of wars, economic policy and controllable events.",
+        "link": "https://www.aljazeera.com/economy/2026/3/17/us-lawmakers-murphy-casar-push-legislation-to-regulate-prediction-markets?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:33.941675+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4248308,
+          31.4655632
+        ]
+      },
+      "properties": {
+        "id_hash": "b24b0b989efc96c2e2887259de97b342bb0c5a4bc7b49713cd2c26741aea6b01",
+        "title": "US confirms 157 killed in maritime strikes experts call ‘extrajudicial’",
+        "summary": "Defence official tells Congress that 47 alleged drug-trafficking vessels have been struck since campaign began.",
+        "link": "https://www.aljazeera.com/news/2026/3/17/us-confirms-157-killed-in-maritime-strikes-experts-call-extrajudicial?traffic_source=rss",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:35.397831+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "75146453198d8abfcb5f184c89c875f4ad9f1331ab65d31d9faf7967ee11d29f",
+        "title": "Starmer, Zelenskyy urge ‘focus’ on Ukraine as Iran war diverts attention",
+        "summary": "As leaders of Ukraine and UK meet, Turkiye&#039;s top diplomat reiterates his country&#039;s offer to host Russia-Ukraine talks.",
+        "link": "https://www.aljazeera.com/news/2026/3/17/starmer-tells-zelenskyy-focus-on-ukraine-as-iran-war-diverts-attention?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:35.397964+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "888d18ef7a62cccdfe418875548c3ff0117e335e7af1e6dee1cba90f4d1373a0",
+        "title": "Video: Man rescued from under rubble after attack in Iran",
+        "summary": "A man was rescued from under the rubble of a destroyed building in Iran following an Israeli strike.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/video-man-rescued-from-under-rubble-after-attack-in-iran?traffic_source=rss",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:35.398003+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "ddb01c0ee1434b097fcc4f49d35866014ea19e7e48190d1bf1f9002f9cd6a2f2",
+        "title": "Israel carrying out ‘mass expulsion of Palestinians’ in West Bank, UN warns",
+        "summary": "UN rights office says more than 36,000 Palestinians forcibly displaced in a year due to Israeli settler, army violence.",
+        "link": "https://www.aljazeera.com/news/2026/3/17/israel-carrying-out-mass-expulsion-of-palestinians-in-west-bank-un-warns?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:35.398081+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "30d272de0e9f21020628347e035c048bde27188f38777e364151c8e36b1bbaf7",
+        "title": "Why Iranians are taking to Tehran’s streets during war",
+        "summary": "As bombs fall and millions are displaced, protests grow in Iran. Could this war be strengthening Iran’s resolve?",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/17/aje-onl-irn_fromwithin_av_v3-170326?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:35.398152+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "640981450d75a8e100507f7a1fca923987e22939061791b1ddb5bb143900df21",
+        "title": "Video: What we know about Israel’s assault on southern Lebanon",
+        "summary": "The Israeli military has launched waves of air raids across southern Lebanon.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/video-what-we-know-about-israels-assault-on-southern-lebanon?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-03-17T19:45:35.398197+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.35,
+          55.1
+        ]
+      },
+      "properties": {
+        "id_hash": "1afac6e9f1ad861a484bb0fb48b7e00b2efd2935959576b57193cc39eeab1ff6",
+        "title": "Drones expand the deadly front lines of Sudan’s devastating war",
+        "summary": "The United Nations is warning that escalating drone warfare in Sudan has killed more than 200 people in over a week.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/drones-expand-the-deadly-front-lines-of-sudans-devastating-war?traffic_source=rss",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:36.725770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "7b6295707ce8b4ce16aa8bac3056ef76f2acbeff6846cc471af0e919b30e2576",
+        "title": "What the Iran war looks like from the occupied West Bank",
+        "summary": "Iran missile shrapnel falls on West Bank Palestinians as settler attacks, Israeli raids and restrictions continue.",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/17/aje-onl-tt_irn_viewfromowb_av_v2-160326?traffic_source=rss",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:36.725883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "5eda7cc82b56dcc5219c1ae05809651dd2aa700013f9dec1b84525fe80ed7b13",
+        "title": "Why aren’t gold prices rising, despite Iran war uncertainty?",
+        "summary": "Gold holds steady despite war and rising oil prices, as recent volatility and a strong dollar reduce its appeal.",
+        "link": "https://www.aljazeera.com/economy/2026/3/17/why-arent-gold-prices-rising-despite-iran-war-uncertainty?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:36.725935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "313b966718b7b695b53a903db67551d79944c54792bbd3fc049ced012b27b076",
+        "title": "Israeli attacks on Lebanon may amount to war crimes, UN rights office says",
+        "summary": "&#039;Deliberately attacking civilians, civilian objects amounts to war crime,&#039; UN says after resurgence in Israeli strikes.",
+        "link": "https://www.aljazeera.com/news/2026/3/17/israeli-attacks-on-lebanon-may-amount-to-war-crimes-un-rights-office-says?traffic_source=rss",
+        "severity": 6,
+        "scraped_at": "2026-03-17T19:45:36.725997+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9513889,
+          38.7116667
+        ]
+      },
+      "properties": {
+        "id_hash": "cea5c62c935c9a8143462096fcc97e1cf9811dc5747f2129e5007d353b641420",
+        "title": "Rescue teams recover bodies after deadly Kabul hospital air strike",
+        "summary": "Afghan official condemns Pakistan air strike, calling it a crime against humanity targeting civilians and addicts.",
+        "link": "https://www.aljazeera.com/gallery/2026/3/17/rescue-teams-recover-bodies-after-deadly-kabul-hospital-air-strike?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:38.644880+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "5a4b9c639d2ba2059d2ad018862807120e1e52c6b0943256bc5fab02c7db851d",
+        "title": "US National Counterterrorism Center director Joe Kent resigns over Iran war",
+        "summary": "Kent, who advised Trump and national intelligence director on &#039;terror&#039; threats, says Iran &#039;posed no imminent threat&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/3/17/us-national-counterterrorism-center-director-joe-kent-resigns-over-iran-war?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:38.645030+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1059013,
+          64.9841821
+        ]
+      },
+      "properties": {
+        "id_hash": "c26af5800f1828a9e436664d890a0531e35375f3c1df028bb682bea86188710e",
+        "title": "Is humanity hardwired for war?",
+        "summary": "Is humanity destined for war?",
+        "link": "https://www.aljazeera.com/video/doha-debates/2026/3/17/is-humanity-hardwired-for-war?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:40.039630+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "85720df225dc54ff12b7171081997c4d5f6758bde591ed093886161c8e00d565",
+        "title": "US envoys meet Hamas in Cairo to salvage fragile Gaza truce",
+        "summary": "Rare US-Hamas talks come as the war on Iran strains the battered Gaza &#039;ceasefire&#039; and post-war plans.",
+        "link": "https://www.aljazeera.com/features/2026/3/17/us-envoys-meet-hamas-in-cairo-to-salvage-fragile-gaza-truce?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:40.039741+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2165513,
+          51.5918177
+        ]
+      },
+      "properties": {
+        "id_hash": "c09fe7a9078d256ef0447f05316883f36c50e519f4fea7dd05a79e1b47ad6e65",
+        "title": "What we know about deadly strike on Kabul medical centre",
+        "summary": "Afghan officials say a suspected Pakistani air strike hit a drug rehabilitation centre in Kabul, killing hundreds.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/what-we-know-about-deadly-strike-on-kabul-medical-centre?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:41.064909+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "9b81ffa3818889d97f4cab21dbf49a30159dbf3895aa414b52285942797ab701",
+        "title": "Macron prepares France for ‘an age of nuclear weapons’ as Iran war rages",
+        "summary": "The French president described his plans for expansion as forward deterrence. What&#039;s behind his move?",
+        "link": "https://www.aljazeera.com/news/2026/3/17/macron-prepares-france-for-an-age-of-nuclear-weapons-as-iran-war-rages?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:41.065035+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "5dfbad0410302a15680dc2a1681db8fc3ce780016b08a763e19c5975292075ca",
+        "title": "The US-Israel war on Iran is shaped by religion as much as strategy",
+        "summary": "The conflict has mutated into a zero-sum collision of competing messianic frameworks.",
+        "link": "https://www.aljazeera.com/opinions/2026/3/17/the-us-israel-war-on-iran-is-shaped-by-religion-as-much-as-strategy?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:41.065072+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6667145,
+          50.6402809
+        ]
+      },
+      "properties": {
+        "id_hash": "6a6db3454dc3ec6ae9f4b3aa26bd55dbd5403fc960d85bb1aff60b25f9c59c7c",
+        "title": "Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader",
+        "summary": "<p>Family of then PM, Patrice Lumumba, welcome decision to charge Étienne Davignon as ‘beginning of a reckoning’ </p><p>A former Belgian diplomat, 93, should stand trial over alleged complicity in the 1961 murder of Patrice Lumumba, the first prime minister of what was then the newly independent Congolese state, a Brussels court has ruled.</p><p>Étienne Davignon, the only person still alive among 10 Belgians the Lumumba family accuses of involvement in the killing, is charged with participation in war crimes.</p><p>The illegal transfer of Lumumba and his associates from Léopoldville (now Kinshasa) to Katanga.</p><p>The “humiliating and degrading treatment” of the men.</p><p>Depriving them of a fair trial.</p> <a href=\"https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:42.994690+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.12456,
+          47.59397
+        ]
+      },
+      "properties": {
+        "id_hash": "f559e39ef4103b5cbf8402b9556635584d3f0f52609f6f150bd429964730a164",
+        "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
+        "summary": "<p>More than 100 others injured in bombings targeting post office, market areas and hospital in Maiduguri</p><p>At least 23 people have been killed and more than 100 others injured in multiple suspected suicide bombings in the north-eastern Nigerian city of Maiduguri, shattering its reputation as a relative oasis of calm in recent years as a long-running insurgency was pushed to the rural hinterlands.</p><p>Authorities said the explosions went off at the post office and market areas, as well as the entrance to the University of Maiduguri teaching hospital, on Monday evening during iftar, the breaking of fast in the month of Ramadan.</p> <a href=\"https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
+        "severity": 6,
+        "scraped_at": "2026-03-17T19:45:44.062799+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "1944af77184e6955a09fa1c5c100b7cfcbfd20f2a8ae122a7f4d0193519c3ba7",
+        "title": "Colombian president accuses Ecuador after ‘27 charred bodies’ found near border",
+        "summary": "<p>Relations deteriorate as Gustavo Petro claims government of Trump ally Daniel Noboa bombing targets in Colombia</p><p>President Gustavo Petro has accused <a href=\"https://www.theguardian.com/world/ecuador\">Ecuador</a> of bombing targets inside Colombian territory, saying later that the burned remains of nearly 30 people had been found near the border, in a sharp deterioration in relations between the two neighbouring countries.</p><p>The Colombian leader said on Tuesday that an attack which had left “27 charred bodies” did not appear to have been carried out by Colombia’s own forces or any illegal armed groups which he said do not have armed planes.</p> <a href=\"https://www.theguardian.com/world/2026/mar/17/colombian-president-ecuador-bodies\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/17/colombian-president-ecuador-bodies",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:44.063155+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "64bb9b5c3b213f04c4dc2957061ad8de79595581270fc7917f274f47e2c99627",
+        "title": "Trump seeks to delay China summit as Vance denies ‘wedge’ over Iran war",
+        "summary": "<p>Pair attempt to strike united front amid reports vice-president skeptical over US-Israeli attack on Iran</p><p>Donald Trump revealed that he had asked China to delay his forthcoming visit to Beijing while the war with Iran was continuing, as he attempted to strike a united front on Monday with his vice-president, JD Vance, who is believed to have been skeptical over attacking Tehran’s regime.</p><p>Appearing together with Vance for the first time in two weeks, Trump said he did not think the conflict – which started on 28 February after the US and Israel opened hostilities – would be over this week but predicted victory would be achieved soon.</p> <a href=\"https://www.theguardian.com/us-news/2026/mar/16/trump-china-summit-iran-war\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/mar/16/trump-china-summit-iran-war",
+        "severity": 6,
+        "scraped_at": "2026-03-17T19:45:44.063387+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "3db69167c7fe777662bad839f9363f88194ef7cefaf10e20896a520faebb6bba",
+        "title": "Trump asks China if visit to Beijing can be delayed a month due to Iran war",
+        "summary": "<p>US president had earlier hinted trip could be put on hold if President Xi does not help unblock the strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets\">Middle East crisis – live updates</a></p></li></ul><p>Trump has asked to delay his planned visit to Beijing by about a month due to the Iran war, after earlier hinting he might put the trip off if his prospective hosts do not help to unblock the strait of Hormuz.</p><p>The US president’s summit with China’s leader, Xi Jinping, was meant to take place at the end of March but Trump told reporters in the White House on Monday: “Because of the war I want to be here, I have to be here, I feel. And so we’ve requested that we delay it a month or so.”</p> <a href=\"https://www.theguardian.com/world/2026/mar/16/china-us-trump-visit-strait-of-hormuz\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/16/china-us-trump-visit-strait-of-hormuz",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:44.063472+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "68325a29989a924bb63079c0909480021f62707f8a0abe28c9fd467eba6c3a92",
+        "title": "Australia news live: Trump lashes out at Australia over absence of allies against Iran; Cyclone Narelle forms in Coral Sea",
+        "summary": "<p>US president says his country does not ‘need or desire’ the help of Nato, Japan, Australia or South Korea. Follow today’s news live </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Jim Chalmers </strong>has sought to downplay the Reserve Bank of Australia’s warning that a recession may be unavoidable after a second consecutive rate rise.</p><p>On Tuesday, the RBA <a href=\"https://www.theguardian.com/australia-news/2026/mar/17/rba-interest-rate-australia-increase-fuel-petrol-prices\">increased interest rates to 4.1%</a> amid a global energy shock that threatens to push Australian inflation towards 5%. The RBA governor <strong>Michelle Bullock </strong>said if the central bank could not bring inflation down it would have to deal with the possibility of a recession.</p><p>That’s not something that we’re anticipating or forecasting or expecting.</p><p>We’re running a lot of scenarios at the moment as you would expect …. in <strong>the numbers we’re running right now we’re not expecting that outcome</strong><em>.</em></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/mar/18/australia-news-live-trump-iran-nato-hormuz-interest-rates-rba-cost-of-living-jim-chalmers-economy-fuel-price-crisis-ntwnfb\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/live/2026/mar/18/australia-news-live-trump-iran-nato-hormuz-interest-rates-rba-cost-of-living-jim-chalmers-economy-fuel-price-crisis-ntwnfb",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:44.063773+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "d2de85ccc5bc13fd9160cfde5dea64c5baccd8493944d95869478f9de3239f95",
+        "title": "Pauline Hanson exploiting less well-educated Australians, Labor says",
+        "summary": "<p>One Nation and Coalition adopting reactionary tactics to win over frustrated and fearful voters, frontbencher Andrew Giles says</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/mar/18/australia-news-live-trump-iran-nato-hormuz-interest-rates-rba-cost-of-living-jim-chalmers-economy-fuel-price-crisis-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Pauline Hanson and rightwing populists are cynically exploiting the frustrations of Australians who feel forgotten by government or left behind by poor education and job opportunities, Labor frontbencher <a href=\"https://www.theguardian.com/australia-news/audio/2025/aug/29/andrew-giles-australia-skill-shortage-australian-politics-podcast\">Andrew Giles</a> says.</p><p>Accusing One Nation and the Coalition of adopting cynical and reactionary tactics to win over frustrated and fearful voters, Giles says better education is critical to stopping disenfranchisement with government and a weakening of democracy in Australia.</p> <a href=\"https://www.theguardian.com/society/2026/mar/17/liberal-party-pauline-hanson-one-nation-divisive-rhetoric-culture-wars-ntwnfb\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/society/2026/mar/17/liberal-party-pauline-hanson-one-nation-divisive-rhetoric-culture-wars-ntwnfb",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:44.063835+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7352262,
+          34.7851861
+        ]
+      },
+      "properties": {
+        "id_hash": "706cacff134751939d4edc9c699c3eae781fbc631a924e8dd151bff14f635596",
+        "title": "Australia’s environment minister wants to ban fishers and drillers from more ocean – and avoid a culture war",
+        "summary": "<p>Conservationists hope Murray Watt’s review of national marine parks will ‘right the wrongs’ of previous downgrade of protection</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=cvau_sfl\">Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here</a></p></li></ul><p>The federal environment minister, Murray Watt, has pledged to put an extra half a million square kilometres of Australia’s ocean out of reach of fishers and drillers in a step conservationists hope will “right the wrongs” of an Abbott-era downgrade of marine protection.</p><p>Watt confirmed <a href=\"https://www.theguardian.com/environment/2025/jun/09/australian-government-to-declare-almost-a-third-of-its-oceans-highly-protected-in-the-next-five-years\">last year Australia would put 30% of its ocean estate under a high level of protection</a> that bans extractive industries as part of an international agreement to protect 30% of the planet’s oceans.</p> <a href=\"https://www.theguardian.com/environment/2026/mar/17/australia-environment-murray-watt-ocean-protection-fishers-drillers\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/environment/2026/mar/17/australia-environment-murray-watt-ocean-protection-fishers-drillers",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:45.490003+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "2102c0dfbc21cfcc9af0b670723bf48fd64cec8b625557538fb752138a0ca2f1",
+        "title": "The RBA has made one of its most controversial calls in recent years - and this rate rise may not age well",
+        "summary": "<p>Michele Bullock says high inflation hurts everyone, but there still seems to be an extraordinary level of complacency about potential fallout from the US-Israel war on Iran</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank has made some controversial calls over recent years, but hiking interest rates in the middle of a <a href=\"https://www.theguardian.com/business/2026/mar/12/middle-east-war-creating-largest-supply-disruption-in-the-history-of-oil-markets\">historic global energy shock</a> is right up there.</p><p>If this Middle East conflict lasts for months, not weeks, and drags the world and our economy down, then <a href=\"https://www.theguardian.com/australia-news/2026/mar/17/rba-interest-rate-australia-increase-fuel-petrol-prices\">Tuesday’s decision to increase households’ borrowing costs</a> will not age well.</p> <a href=\"https://www.theguardian.com/australia-news/2026/mar/17/the-rba-has-made-one-of-its-most-controversial-calls-in-recent-years-and-this-rate-rise-may-not-age-well\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/17/the-rba-has-made-one-of-its-most-controversial-calls-in-recent-years-and-this-rate-rise-may-not-age-well",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:45.490197+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "c91551cfb30061dd06125a053f83fc3cc4d0bfd6f475800f6c320d51b1ea43da",
+        "title": "Labor appears set to reform capital gains tax discount after parliamentary inquiry findings",
+        "summary": "<p>Report reveals the Howard-era settings are helping fuel intergenerational inequality in Australia’s housing market</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/mar/17/bowen-rba-interest-rates-decision-cost-of-living-inflation-fuel-price-shortages-petrol-jim-chalmers-economy-war-iran-anthony-albanese-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Labor has given one of its strongest signals yet the <a href=\"https://www.theguardian.com/australia-news/2026/feb/05/capital-gains-tax-discount-to-cost-australia-250bn-over-next-decade-with-retirees-and-high-income-earners-to-benefit-most\">capital gains tax discount</a> will be reworked in the May budget, with a parliamentary inquiry finding the Howard-era settings are helping fuel intergenerational inequality in Australia’s housing market.</p><p>A Greens-led parliamentary inquiry said the 50% discount “skewed the ownership of housing away from owner-occupiers and towards investors”.</p> <a href=\"https://www.theguardian.com/australia-news/2026/mar/17/labor-appears-set-to-reform-capital-gains-tax-discount-after-parliamentary-inquiry-findings\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/17/labor-appears-set-to-reform-capital-gains-tax-discount-after-parliamentary-inquiry-findings",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:45.490319+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "39e4f9384e53f52cb544967f83c6392c40aa2c3403d21adb68dca08b9646758b",
+        "title": "‘We are the family’: low-budget thriller highlights Hungary’s election tension",
+        "summary": "<p>Audiences draw parallels between the abduction plot of Feels Like Home and Viktor Orbán’s 16-year reign</p><p>It’s seven o’clock on a Tuesday night, and one of the most popular movie theatres in Budapest is full, not an empty seat in sight. The audience is not here for a Hollywood blockbuster, but a Hungarian film that barely had the budget to be made.</p><p>Feels Like Home (Itt Érzem Magam Otthon) has captured moviegoers not only with its striking visuals but also with its timing – its release coming before Hungary’s <a href=\"https://www.theguardian.com/world/2026/feb/27/hungarys-viktor-orban-seeking-to-drum-up-votes-by-doing-down-ukraine\">pivotal parliamentary elections</a> on 12 April.</p> <a href=\"https://www.theguardian.com/world/2026/mar/17/low-budget-thriller-highlights-hungary-election-divide\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/17/low-budget-thriller-highlights-hungary-election-divide",
+        "severity": 0,
+        "scraped_at": "2026-03-17T19:45:45.490516+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "efd4e5dd1e79158a7bf2be2d967d35c0201aff95fe8325296c6d066d2be9122a",
+        "title": "Starmer distances UK from Iran war as EU leaders rule out sending warships",
+        "summary": "<p>PM refuses to be drawn into wider conflict as Germany and Italy defy Trump’s call to help reopen strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets\">Middle East crisis – live updates</a></p></li></ul><p>Keir Starmer has insisted that the UK will not be drawn into the wider war in the Middle East as European leaders ruled out <a href=\"https://www.theguardian.com/world/2026/mar/16/europe-donald-trump-strait-hormuz-iran\">sending warships to the strait of Hormuz</a>.</p><p>In his clearest signal yet of the UK’s divergence from Donald Trump’s attack on Iran, the prime minister said he would stand firm in the face of US pressure despite the decision being “difficult, there’s no hiding that”.</p> <a href=\"https://www.theguardian.com/world/2026/mar/16/starmer-distances-uk-from-iran-war-as-eu-leaders-rule-out-sending-warships\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/16/starmer-distances-uk-from-iran-war-as-eu-leaders-rule-out-sending-warships",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:45.490654+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "1357d6854d7af871f2dd04f1a8dcdcf2b7811c7eb7fd2991f92607c824575e36",
+        "title": "Trump threatens political retribution for lawmakers who vote against voter ID bill – US politics live",
+        "summary": "<p>President says he will ‘never (ever) endorse anyone’ who votes against Save America act as Senate prepares to take up debate on controversial bill</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>A top counter-terrorism official in the Trump administration has resigned over the ongoing war on Iran.</p><p><strong>Joe Kent</strong>, who reported to director of national intelligence <strong>Tulsi Gabbard</strong>, said that he “cannot in good conscience” support the joint conflict with Israel.</p><p>You can reverse course and chart a new path for our nation, or you can allow us to slip further toward decline and chaos. You hold the cards.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:45.490756+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "668be06075cd9a8439488366d53ce811c68e524c14a54b4c05e77559f1da63fe",
+        "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz",
+        "summary": "<p>Amid escalation of Middle East crisis, US president describes rejection of call for help as a ‘foolish mistake’</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest\">Middle East crisis – live updates</a></p></li></ul><p>Donald Trump has said the United States does not need Nato after being rebuffed by a number of the organisation’s member countries over his appeal for a multi-national naval force to reopen the key strait of Hormuz trade route closed by Iran.</p><p>Speaking to reporters from the Oval Office, the US president described the rejection of his calls as a “very foolish mistake”, adding without evidence: “Everyone agrees with us, but they don’t want to help. And we, you know, we as the United States have to remember that because we think it’s pretty shocking.”</p> <a href=\"https://www.theguardian.com/world/2026/mar/17/trump-us-president-nato-strait-of-hormuz-iran-middle-east\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/17/trump-us-president-nato-strait-of-hormuz-iran-middle-east",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:45.490866+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "5eeb39aa6a941481e4bd536da0fdcb7b8b1272ddf007e2ed9c0cc12a8b3d77f8",
+        "title": "Pivotal Iranian leader Ali Larijani killed in airstrike, Israel says",
+        "summary": "<p>If confirmed, death would make Larijani the most senior Iranian figure to be killed since Ali Khamenei on first day of war</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest\">Middle East crisis – live updates</a></p></li></ul><p>Israel has said it has killed a linchpin of Iranian politics, the national security chief, Ali Larijani, in overnight strikes, a claim that if confirmed would make him the most senior Iranian figure to die in the war since the supreme leader Ali Khamenei was killed on its first day.</p><p>Iran has yet to comment on either claim but Larijani’s death would remove a pivotal figure at the heart of the regime’s political and security establishment at a moment of acute crisis and represent a devastating blow.</p> <a href=\"https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says",
+        "severity": 6,
+        "scraped_at": "2026-03-17T19:45:45.490955+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "a37ae82ae94bdbdab4571d1c3740eee081c1136f7a0da23b467f40fcc4585050",
+        "title": "UK has flown 100,000 nationals out of Middle East since Iran conflict began",
+        "summary": "<p>Foreign secretary says one third of those who were in region have left as MPs press for support for those still stranded</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest\">Middle East crisis – live updated</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/mar/17/uk-security-adviser-attended-us-iran-talks-and-judged-deal-was-within-reach\">UK security adviser attended US-Iran talks and judged deal was within reach</a></p></li></ul><p>The number of UK nationals flown back from the Middle East since the start of the conflict with Iran reached 100,000 on Tuesday, Britain’s foreign secretary has said.</p><p><a href=\"https://www.theguardian.com/politics/yvette-cooper\">Yvette Cooper</a> told parliament this is a third of the 300,000 who were in the region at the outset of hostilities, many of whom were <a href=\"https://www.theguardian.com/us-news/2026/mar/01/hundreds-of-thousands-of-travellers-stranded-or-diverted-amid-air-space-closures-in-middle-east\">stuck when airspace was closed</a>. The figure included tourists and Gulf residents who have temporarily left.</p> <a href=\"https://www.theguardian.com/politics/2026/mar/17/uk-nationals-flown-back-from-iran-since-start-of-conflict\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/politics/2026/mar/17/uk-nationals-flown-back-from-iran-since-start-of-conflict",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:45.491055+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "4765bf92d36658b7035d30f281892ac9b31aa673c3a5606c9a8ea49dd970aba7",
+        "title": "Death of influential Ali Larijani would be bigger loss to Iran than Khamenei",
+        "summary": "<p>Security chief had IRGC’s trust despite his differences with hardliners and had huge sway with likes of China and Russia</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets\">Middle East crisis – live updates</a></p></li></ul><p>If confirmed, <a href=\"https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says\">Israel’s assassination of Ali Larijani</a>, the secretary of Iran’s supreme national security council and one of the linchpins of Iranian politics, would be a devastating body blow to the country and probably a bigger reverse than the loss of the supreme leader <a href=\"https://www.theguardian.com/world/2026/mar/01/ayatollah-ali-khamenei-obituary\">Ali Khamenei</a> at the outset of the war.</p><p>In any attempt to decapitate the Iranian leadership, Larijani would always be the prime target, largely because of his ability to straddle so many levels of Iranian politics and his huge personal influence not just in Iran but with foreign states including China and Russia.</p> <a href=\"https://www.theguardian.com/world/2026/mar/17/ali-larijani-influence-iran-profile\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/17/ali-larijani-influence-iran-profile",
+        "severity": 6,
+        "scraped_at": "2026-03-17T19:45:45.491151+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6573027,
+          41.8578088
+        ]
+      },
+      "properties": {
+        "id_hash": "fa83b059c6222c1f1d2b3d4f3e274455e4bb47df190dd000f95339a541496487",
+        "title": "‘Everything was burning, people were burning’: witnesses describe strike on Kabul drug rehab centre",
+        "summary": "<p>Pakistani strike on Afghan capital kills 400 people, who burned in their beds or were crushed by collapsing walls</p><p>Witnesses and survivors have described the horrific scenes of a Pakistani air raid that hit a drug rehabilitation centre in Kabul, killing more than 400 people, who burned in their beds or were crushed by the collapsing building.</p><p>Afghan rescue crews were still digging bodies out of the rubble on Tuesday after the strike, the deadliest single attack so far in a three-week war between the two countries.</p> <a href=\"https://www.theguardian.com/world/2026/mar/17/witness-horrific-scenes-pakistan-air-strike-kabul-drug-rehab-centre\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/17/witness-horrific-scenes-pakistan-air-strike-kabul-drug-rehab-centre",
+        "severity": 6,
+        "scraped_at": "2026-03-17T19:45:46.786302+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "3ac8f24044d559c76ffeced505dd54f727f8481304cc4d6d3465d1875d017a0a",
+        "title": "How Pakistan’s people-led solar boom is easing impact of Middle East energy crisis",
+        "summary": "<p>Falling costs and government incentives make solar an attractive option for many, reducing need for gas</p><p>After prices of liquefied natural gas surged to record highs after Russia’s full-scale invasion of Ukraine in 2022, millions of people in Pakistan were repeatedly left without electricity<strong>.</strong> An <a href=\"https://www.theguardian.com/environment/2022/may/23/deadly-indian-heatwave-made-30-times-more-likely-by-climate-crisis\">intense heatwave</a> and gas shortages amid record-breaking prices resulted in power cuts across the country.</p><p>But people soon started to realise there was an alternative. The falling costs of solar panels and generous government incentives to feed excess power back to the grid made rooftop solar an attractive option.</p> <a href=\"https://www.theguardian.com/environment/2026/mar/17/pakistan-people-led-solar-boom-middle-east-energy-crisis\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/environment/2026/mar/17/pakistan-people-led-solar-boom-middle-east-energy-crisis",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:46.786488+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.2385139,
+          33.7680065
+        ]
+      },
+      "properties": {
+        "id_hash": "089ad4ab5446be4ce61d319a53c25f0387aec181dd51ddef8e5da798413731f5",
+        "title": "Afghanistan says 400 killed in strike by Pakistan on Kabul hospital",
+        "summary": "<p>Deputy government spokesman says death toll has reached 400 people ‘so far’ as Islamabad denies targeting facility for drug addicts</p><p>Hundreds were feared dead after a strike on a hospital treating drug users in the Afghan capital of Kabul, which officials from <a href=\"https://www.theguardian.com/world/afghanistan\">Afghanistan</a> blamed on the Pakistani military<strong>.</strong></p><p>Afghanistan’s deputy government spokesperson Hamdullah Fitrat said the death toll had “so far” reached 400 people, while about 250 people had been reported injured. He said most of those killed and wounded were patients undergoing treatment at the facility.</p> <a href=\"https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:47.814827+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "6baf7596dba53ad1d9b002918335e82a5750d744bf10a62167675a81a4d80ff4",
+        "title": "Kemi Badenoch calls Trump’s repeated criticisms of Starmer ‘childish’",
+        "summary": "<p>Tory leader says US president’s words ‘completely wrong’ as she tries to distance herself from his war on Iran</p><p>Kemi Badenoch has called Donald Trump’s repeated criticisms of Keir Starmer “childish”, as the Conservative leader continued her recent moves to distance herself from the US president and his military action against Iran.</p><p>Speaking shortly before Trump yet again singled out Starmer for condemnation to say the prime minister had not been sufficiently supportive of the US war, Badenoch used a <a href=\"https://x.com/KemiBadenoch/status/2033898411238318449\">social media video</a> to describe Trump’s actions as counterproductive.</p> <a href=\"https://www.theguardian.com/politics/2026/mar/17/kemi-badenoch-trump-criticisms-starmer-childish\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/politics/2026/mar/17/kemi-badenoch-trump-criticisms-starmer-childish",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:47.815039+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "72df13c31dbec1496d00b1649e0643ea9b592bbe800742756d5677cc501deb5c",
+        "title": "Zelenskyy says Europe is a ‘global force’ that can stand against any other power in address to MPs – as it happened",
+        "summary": "<p>Keir Starmer previously reassured that the war in Iran would not distract the UK from supporting Ukraine </p><p><strong>Nigel Farage</strong> is speaking now at the Reform UK event.</p><p>The website promoting the lottery is up. It is called <a href=\"https://nigelcutmybills.com/\">nigelcutmybills.com</a>.</p> <a href=\"https://www.theguardian.com/politics/live/2026/mar/17/uk-us-starmer-trump-king-charles-state-visit-iran-war-zelenskyy-ukraine-latest-news-updates\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/politics/live/2026/mar/17/uk-us-starmer-trump-king-charles-state-visit-iran-war-zelenskyy-ukraine-latest-news-updates",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:47.815167+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "650f69a3217a5adb54f31a1cc15997fc99f9c1dd0d47ada6e68c79a575dd57af",
+        "title": "Energy minister: ‘every penny’ levied on household energy bills will be scrutinised",
+        "summary": "<p>But Michael Shanks says government will not be rushed into plans to reduce costs faced by households due to war in Iran</p><p>Britain’s energy minister has said “every penny” levied on household energy bills will be scrutinised after suppliers warned that households could face a price hike of £250 a year due to the war in Iran.</p><p>Michael Shanks told MPs that the government would stand ready to provide support wherever needed, but it would not be rushed into plans to reduce the costs faced by households or offer direct financial support.</p> <a href=\"https://www.theguardian.com/money/2026/mar/17/energy-minister-every-penny-levied-on-household-energy-bills-will-be-scrutinised\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/money/2026/mar/17/energy-minister-every-penny-levied-on-household-energy-bills-will-be-scrutinised",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:47.815288+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2553615,
+          37.5231519
+        ]
+      },
+      "properties": {
+        "id_hash": "0ea3fcfe53395a1ab104efd028c66d9b14eb4d607d807854513f52a646a111ba",
+        "title": "Arts Council England must change or face ‘disaster’, culture department is told",
+        "summary": "<p>Margaret Hodge, who led report into arts funder, tells DCMS committee that grant recipients have lost confidence in the body</p><p>Arts Council England requires a “radical” overhaul so it can to respond to the challenges of the culture sector, according to Margaret Hodge, who said it would be a “disaster” if ACE leaders did not heed her warnings.</p><p>The Labour peer, who led a wide-ranging and <a href=\"https://www.theguardian.com/culture/2025/dec/16/arts-funding-england-protected-politics-hodge-report\">critical report into ACE</a>, made the comments at a Department for Culture, Media and Sport (DCMS) select committee, where she reiterated her calls for the organisation to embrace change.</p> <a href=\"https://www.theguardian.com/culture/2026/mar/17/arts-council-england-change-or-disaster\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/culture/2026/mar/17/arts-council-england-change-or-disaster",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:52.510260+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "c75b4ce84660bd528b44df8ddfad0f3707cc1f9956506966bc3f034dc4f852f2",
+        "title": "Oil flows again through controversial California pipeline after Trump order",
+        "summary": "<p>Pipeline, closed since 2015 after huge oil spill, reopens after president cites need to boost US supply amid war on Iran</p><p>Oil has begun to flow from a controversial California pipeline for the first time in an over decade following a Trump administration order, despite state officials decrying the move.</p><p>Sable Offshore Corporation, the Houston-based owner of the coastal pipelines, <a href=\"https://sableoffshore.com/news/news-details/2026/Sable-Resumes-Oil-Flow-as-Ordered-by-the-Federal-DPA-with-Expected-Gross-Oil-Rate-of-50000-Bblsd-and-Expects-First-Sales-by-April-1-2026/default.aspx\">announced on Monday</a> that offshore oil was now flowing through its Santa Ynez unit and Santa Ynez pipeline system, which runs through several California counties.</p> <a href=\"https://www.theguardian.com/us-news/2026/mar/17/oil-california-pipeline-iran\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/mar/17/oil-california-pipeline-iran",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:52.510388+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "f44f734e7edddcc070e618680df58d7b89294a74277c245af960957e9632ebe9",
+        "title": "Middle East crisis live: Trump says Nato allies making ‘foolish mistake’ for not supporting war with Iran, which US will leave ‘in very near future’",
+        "summary": "<p>President says ‘we don’t need any help’ after several allies ruled out sending warships to the strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says\">Full report: Iran’s security chief, Ali Larijani, killed in airstrike, Israel says</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/mar/01/tell-us-affected-by-latest-events-in-the-middle-east-strikes-iran-us-israel-dubai\">How have you been affected by the latest Middle East events?</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/mar/16/fuel-price-increases-we-would-like-to-hear-from-you\">Are fuel price increases making you cut back?</a></p></li></ul><p><strong>The head of the International Maritime Organisation (IMO) has said that naval escorts through the strait of Hormuz will not “100% guarantee” the safety of ships attempting to transit the waterway</strong>, the Financial Times reported on Tuesday.</p><p>Military assistance was “not a long-term or sustainable solution” to opening up the strait, Arsenio Dominguez told the newspaper.</p><p>We are collateral damage of a conflict when the root causes have nothing to do with shipping.</p><p>Remaining in the area of the specified buildings exposes you to danger</p> <a href=\"https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest",
+        "severity": 6,
+        "scraped_at": "2026-03-17T19:45:52.510524+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "9de86cace8d8616d748bbea445fe95b2bab1c8b20f86899e2ac1244e4e579c93",
+        "title": "Indian tankers carrying LPG arrive at port after safe passage through Strait of Hormuz",
+        "summary": "Two Indian-flagged tankers together carrying over 92,000 metric tonnes of liquefied petroleum gas have arrived at ports in Gujarat state after safely passing through the Strait of Hormuz.  New Delhi has been negotiating with Iran, but the government denies discussing the possible release of Iranian tankers it seized in February as part of the bargain. Meanwhile, global crude prices jumped again amid new Iranian attacks on the UAE.",
+        "link": "https://www.france24.com/en/tv-shows/business/20260317-indian-tankers-carrying-lpg-arrive-at-port-after-safe-passage-through-strait-of-hormuz",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:52.971837+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "d99674d2f81a2e445857ad81fc17420af30677b81a295b35f9bfe5a3084dc12c",
+        "title": "Fearing Israeli strikes, a Druze village screens for Hezbollah militants among Lebanon’s displaced",
+        "summary": "In the predominantly Druze city of Aley, located on Mount Lebanon, authorities scrupulously check the identity documents of the many displaced who seek refuge there. They hope the measures will reassure a population fearful of inciting Israeli strikes because of the potential presence of Hezbollah militants among the arrivals fleeing southern Lebanon.",
+        "link": "https://www.france24.com/en/middle-east/20260317-fearing-israeli-strikes-a-druze-village-screens-for-hezbollah-militants-among-lebanon-s-displaced",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:52.972038+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "41cd8cb8dae6ea9b04592864085963a73b466d86ebd94041be5297abec412ae4",
+        "title": "REPLAY: Trump accuses NATO of 'foolish mistake' over Strait of Hormuz",
+        "summary": "President Donald Trump on Tuesday said the United States ​had been informed by most of its NATO allies that they did not want to get involved with the country's military ​operation ‌in Iran, a move he described ⁠as a \"very foolish mistake\". Trump's remarks came as he hosted Irish Prime Minister Micheál Martin in the Oval Office to mark St Patrick's Day.",
+        "link": "https://www.france24.com/en/video/20260317-replay-trump-accuses-nato-of-foolish-mistake-over-strait-of-hormuz",
+        "severity": 0,
+        "scraped_at": "2026-03-17T19:45:52.972105+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "4fa7f2c7453b000b5de2325329618b605524de4772c42e0630ce9f996621f395",
+        "title": "'Misguided' military operation: Trump’s appeal for Hormuz support draws no commitments from allies",
+        "summary": "Genie Godula is pleased to welcome Peter Trubowitz, Professor of International Relations and Director of the Phelan US Centre at the London School of Economics. According to Professor Trubowitz, what we are witnessing is a dynamic in which both sides are trying to expand the scope of the conflict in order to gain leverage. Iran has broadened the battlefield by targeting regional actors and threatening the maritime chokepoint. All the while, the United States is attempting, so far unsuccessfully, to draw Asian and European allies into the effort to secure Hormuz.",
+        "link": "https://www.france24.com/en/video/20260317-misguided-military-operation-trump-s-appeal-for-hormuz-support-draws-no-commitments-from-allies-1",
+        "severity": 0,
+        "scraped_at": "2026-03-17T19:45:52.972225+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "5c1422d4625f1e80b305f60d8db3b073c0ea77a9f130b8cec9dcad9d3889f2e1",
+        "title": "'I tell my children it’s just thunder': How ordinary Iranians are dealing with war",
+        "summary": "As US and Israeli airstrikes continue to pound Iran, many residents there live in fear, choosing to limit outings as much as possible. France 24's Carys Garland and Ludovic de Foucaud take a look at how one family are trying as best they can to continue life as normal amid the constant threat of bombardments.",
+        "link": "https://www.france24.com/en/video/20260317-i-tell-my-children-it-s-just-thunder-how-ordinary-iranians-are-dealing-with-war",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:52.972287+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.247499,
+          30.3308401
+        ]
+      },
+      "properties": {
+        "id_hash": "2742e016e744d4035d22ca296fc1df05b7b22bf298b80801ced7f5f90d0af4fa",
+        "title": "Pakistan denies it targeted Kabul hospital, says it hit 'terrorist' targets",
+        "summary": "Pakistan on Monday said it had carried out precision strikes on \"military installations and terrorist support infrastructure\" in Kabul but denied Afghan claims that strikes hit a drug treatment centre, killing hundreds of civilians.",
+        "link": "https://www.france24.com/en/video/20260317-pakistan-denies-it-targeted-kabul-hospital-says-it-hit-terrorist-targets",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:53.809601+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "a1cfd947916b173452e9a0f086e198d9701fb774ffb038ab3cacfb5363641fad",
+        "title": "Top US counterterrorism official resigns over Iran war",
+        "summary": "The director of the U.S. National Counterterrorism Center, Joe Kent, has announced his resignation, saying he “cannot in good conscience” back the Trump administration’s war in Iran. Kent said on social media that Iran “posed no imminent threat to our nation, and it is clear that we started this war due to pressure from Israel and its powerful American lobby.”",
+        "link": "https://www.france24.com/en/video/20260317-top-us-counterterrorism-official-resigns-over-iran-war",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:53.809745+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "ab41344e27f0dc8cecd22043d0a49da742313e15c21a4fb18eda59f3acdb14a7",
+        "title": "Israel strikes Beirut as number of displaced mounts",
+        "summary": "Israeli airstrikes rained down on three neighbourhoods in Beirut early Tuesday, Lebanese state media reported, as Lebanon said more than one million people had been displaced in two weeks of fighting.",
+        "link": "https://www.france24.com/en/video/20260317-israel-strikes-beirut-as-number-of-displaced-mounts",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:53.809886+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "c3446fe0ef9f13f314f63998ca7095349653adfae471903705f21dc66c84eb4f",
+        "title": "Larijani's death would be a 'significant blow' but may not deter Iran",
+        "summary": "Israel said Tuesday it had killed Iran's powerful national security chief, Ali Larijani, in what would be a huge blow to the Islamic republic, but probably not one that would deter Tehran from continuing the war against Israel and the US, says France 2''s correspondent in the Iranian capital Reza Sayah.",
+        "link": "https://www.france24.com/en/video/20260317-larijani-s-death-would-be-a-significant-blow-but-may-not-deter-iran",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:53.809933+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "5954f9c882c4759d266456315e8181dd6cc838a22e6a78f0c66903bea1c88e09",
+        "title": "British photographer Mark Neville on documenting four years of war in Ukraine",
+        "summary": "A British photographer who has spent the last four years living under near-daily attacks on Kyiv has told FRANCE 24 that his nervous system has adapted to the war in Ukraine. Mark Neville says he feels he now has an advantage over people living in the rest of Europe, as his body has naturally adapted to the situation. He has set up a charity, Postcode Ukraine, which makes deliveries of humanitarian aid to frontline towns. Neville also takes photos of the people he meets to bring their stories to the wider world as the war drags on, and has had great success with his book \"Diary of a Volunteer\". He spoke to us in Perspective.",
+        "link": "https://www.france24.com/en/tv-shows/perspective/20260317-british-photographer-mark-neville-on-documenting-four-years-of-war-in-ukraine",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:53.809977+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9181532,
+          54.3151594
+        ]
+      },
+      "properties": {
+        "id_hash": "64ae692fa3e65c2e5763f43c164a4ff6dea6c249db9fe091a595a5cf4ef7e788",
+        "title": "Britain hit by ‘unprecedented’ meningitis outbreak, two students dead",
+        "summary": "Britain has been hit by an “unprecedented” meningitis outbreak, the country’s health minister warned Tuesday after two students died from catching a rare bacterial strain of the disease. So far, 15 cases have been reported. The outbreak has been linked to a Canterbury nightclub.",
+        "link": "https://www.france24.com/en/europe/20260317-britain-hit-by-unprecedented-meningitis-outbreak-two-students-dead",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:54.847254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "15abe43a033c8a86653ad0d1bc5234ed9928941084abd740e3a35b0131c102cc",
+        "title": "Trump seeks to delay China visit as Beijing rebuffs Hormuz demands",
+        "summary": "US President Donald Trump on Monday said he is seeking to delay a highly anticipated trip to China in early April by about a month because of the Iran war. It comes after Trump called on numerous nations, including China, to help ships safely transit the Strait of Hormuz, a request that so far has largely been rebuffed.",
+        "link": "https://www.france24.com/en/video/20260317-trump-seeks-to-delay-china-visit-as-beijing-rebuffs-hormuz-demands",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:54.847437+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "04ad4a6962827f058ef2fbea10cd8caa2927eed8ba568b87705af648b86561e2",
+        "title": "Israel sends more troops to southern Lebanon as residents flee",
+        "summary": "The Israeli military said Tuesday that additional troops have been deployed in southern Lebanon, as part of efforts to create an “additional layer of security for residents of northern Israel against Hezbollah's threat\". It comes as shelters in the country fill up with more than a million people displaced by the fighting in southern Lebanon. France 24’s Claire Paccalin has the latest from Lebanon’s Sidon.",
+        "link": "https://www.france24.com/en/video/20260317-israel-sends-more-troops-to-southern-lebanon-as-residents-flee",
+        "severity": 0,
+        "scraped_at": "2026-03-17T19:45:54.847509+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "194d6d05051f9c306ff63d59c733b432627ef174cdc9971d7bb04a421eb0a52f",
+        "title": "Larijani's death would mean 'Iran's leadership very much infiltrated by Israeli intelligence'",
+        "summary": "Israel said Tuesday it had killed Iran's powerful national security chief, Ali Larijani, in what would be a huge blow to the Islamic republic more than two weeks into the war engulfing the Middle East. It would also suggest Iran's senior leadership has been infiltrated by Israeli intelligence, says France 24's Angela Diffley, meaning Iran's leaders \"can no longer trust anybody\".",
+        "link": "https://www.france24.com/en/video/20260317-larijani-s-death-would-mean-iran-s-leadership-very-much-infiltrated-by-israeli-intelligence",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:54.847550+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "4fd099dd97705a961da7dd3a6ec62d092ad00efbf9f4f4ea31369f3df0bce8fc",
+        "title": "Iran's Larijani - A pillar of power working from the shadows",
+        "summary": "Iran’s security chief Ali Larijani, whom Israel claimed Tuesday to have killed in a strike, was a Ayatollah Ali Khamenei's right hand man and, following the supreme leader’s death early in the war, was believed to be effectively running the country. France 24’s Delano D’Souza takes a look at a man whose death, if confirmed would be a major blow against the Islamic republic.",
+        "link": "https://www.france24.com/en/video/20260317-iran-s-larijani-a-pillar-of-power-working-from-the-shadows",
+        "severity": 6,
+        "scraped_at": "2026-03-17T19:45:54.847607+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "f2816e9bfe5c619ebbdd5ff17a7e910d201c384e8da528c2b3c5cca9587faf4f",
+        "title": "US Lifts Sanctions on Wagner-Linked Officials in Mali",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Mali's Defense Minister Sadio Camara (left), Russian Foreign Minister Sergey Lavrov (center) and Mali's Foreign Minister Abdoulaye Diop in Moscow, February 28, 2024.\n                    © 2024 Maxim Shipenkov/AP Photo \n          \n    \n\n\n  \n<p>The United States government recently lifted sanctions on three senior Malian officials linked to Russia’s abusive Wagner Group who could be implicated in serious human rights violations. The decision signals disturbing disregard for atrocities in&nbsp;Mali’s armed conflict with Islamist armed groups. &nbsp;</p><p>The three officials, Defense Minister Sadio Camara, and Chief of Staff Alou Boï Diarra and Deputy Chief of Staff Adama Bagayoko of the Malian Air Force, were&nbsp;sanctioned in 2023 for facilitating the Wagner Group’s activities in Mali.&nbsp;According to the US Treasury Department at the time, the officials exposed Malians to “the Wagner Group’s human rights abuses” and helped facilitate “the exploitation of their country’s sovereign resources.”</p><p>Since 2012, Islamist armed groups have waged an insurgency against successive Malian governments, attacking security forces and&nbsp;killing and displacing tens of thousands of civilians. In response, Malian armed forces have conducted&nbsp;abusive counterterrorism operations, including&nbsp;airstrikes that have targeted civilians. Fighters from the Wagner Group, which operates under the Russian Defense Ministry and was rebranded as Africa Corps in 2025, have also been&nbsp;implicated in&nbsp;widespread abuses against civilians during&nbsp;joint operations with Malian forces.</p><p>Despite the scale of abuses, accountability in Mali remains limited and avenues for justice at the international level are at&nbsp;risk. The US sanctioning authority can be a powerful tool to hold rights abusers to account. But lifting sanctions without clear accountability sends the wrong signal when impunity for serious abuses remains widespread.</p><p>Removing these sanctions comes as Washington appears to be seeking closer security cooperation with governments in Africa’s Sahel region, including Mali. In February, Nicholas Checker, a senior State Department official,&nbsp;met with Malian Foreign Minister Abdoulaye Diop in Bamako, Mali’s capital. The US is also reportedly nearing a deal with the Malian government to&nbsp;resume intelligence operations in the country that were curtailed after the military coups in 2020 and 2021.&nbsp;</p><p>Since taking power in 2020, Mali’s military junta has&nbsp;tightened its grip on power, delaying return to civilian democratic rule, banning political parties, and targeting political&nbsp;opponents, journalists, and&nbsp;civil society activists.</p><p>If the US engages with Mali on counterterrorism, it needs to abide by US law and practice restricting security assistance to&nbsp;coup governments. It should also ensure it does not contribute to further abuses against Malian civilians and that any steps taken are conditioned on meaningful accountability and redress for victims.</p>",
+        "link": "https://www.hrw.org/news/2026/03/17/us-lifts-sanctions-on-wagner-linked-officials-in-mali",
+        "severity": 4,
+        "scraped_at": "2026-03-17T19:45:56.318687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "1b64be7f4d6afb776600dff6dc12d8d213a8651982d00967325e6374dfdd82ab",
+        "title": "Iran: Unlawful Strikes Across Gulf Endanger Civilians",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              An Emirates aircraft prepares for landing as a smoke plume rises from an ongoing fire near Dubai International Airport, UAE, on March 16, 2026.\n                    © 2026 AFP via Getty Images\n          \n    \n\n\n  \n<p>(Beirut) – Civilians in Gulf Cooperation Council (GCC) countries are at grave risk from ongoing&nbsp;Iranian strikes in response to&nbsp;US and&nbsp;Israeli military attacks on Iran, Human Rights Watch said today. Many of the Iranian attacks have struck civilian residential buildings, hotels, civilian airports, and embassies, and have unlawfully targeted civilian objects such as financial centers.</p><p>Since February 28, 2026, Israel and the United States have&nbsp;carried out thousands of attacks across Iran. Iranian forces responded with waves of drone and missile attacks against Gulf states, striking in Bahrain, Kuwait, Qatar, Oman, Saudi Arabia, and the United Arab Emirates (UAE). Since February 28, Iran has launched thousands of drones and missiles against GCC countries, with the largest number striking the UAE.&nbsp;</p><p>As of March 16, the attacks resulted in at least 11 civilian deaths and at least 268 injuries, with the majority of victims migrant workers, according to GCC government sources. Of those killed, at least 10&nbsp;are foreign nationals. Some deaths were caused by falling debris.&nbsp;</p><p>“Civilians, particularly migrant workers, across Gulf states are being threatened, killed, and injured by Iranian drones and missiles,” said&nbsp;Joey Shea, senior Saudi Arabia and UAE researcher at Human Rights Watch. “Rather than pretending to apologize, Iran’s authorities should immediately take all possible measures to protect civilians across the Gulf.”&nbsp;</p><p>Human Rights Watch investigated an Iranian attack on Fairmont The Palm Hotel and Dubai International Financial Centre (DIFC) in the UAE and reviewed information related to attacks on&nbsp;Zayed International Airport,&nbsp;Dubai International Airport,&nbsp;Kuwait International Airport, residential buildings and Crowne Plaza Hotel in Bahrain, the&nbsp;US consulate in Dubai, and the&nbsp;US Embassy in Riyadh. Researchers also reviewed information related to attacks on other civilian areas in the UAE. Researchers were unable to confirm whether there were military targets present in any of the attacks.</p><p>The Iranian government has&nbsp;alleged that it is targeting sites where US personnel have relocated from nearby bases. However, Ebrahim Jabbari, a general with Iran’s Islamic Revolutionary Guard Corps (IRGC), suggested that Iran will target civilian objects, saying that Iran “will hit all economic centers in the region,”&nbsp;AFPreported.&nbsp;</p><p>On March 8, Iranian President Masoud Pezeshkian apologized for Iran’s attacks on Gulf states,&nbsp;saying “there will be no further attacks or missile launches toward neighboring countries.” But attacks continued. A spokesman from Iran’s Khatam al-Anbiya Central Headquarters&nbsp;said on March 8 that “every point that serves as the origin of aggression against Iran is a legitimate target.” On March 14, a media outlet affiliated with  the IRGC&nbsp;stated that American “companies will be the legitimate targets for Iran’s Armed Forces,” listing a number of US management consulting and investment firms.&nbsp;</p><p>Human Rights Watch verified videos posted to social media taken during and in the immediate aftermath of the attacks. Some were initially geolocated by GeoConfirmed, a volunteer-driven visual verification platform. These videos show attacks on and damage to residential buildings, hotels, airports, embassies, ports, and energy facilities in Bahrain, Kuwait, Qatar, Saudi Arabia, and the UAE. Human Rights Watch spoke with 16 people including witnesses, journalists, tourists, and residents of the cities attacked, and family members of three migrant workers killed in Bahrain and the UAE.&nbsp;</p><p>Human Rights Watch wrote to authorities in Iran, as well as Bahrain, Kuwait, Oman, Saudi Arabia, and the UAE, on March 10, 2026. Bahrain, Kuwait, Saudi Arabia, and the UAE had not responded at the time of publication. Authorities in Oman acknowledged receipt but requested additional time. Iranian authorities responded, writing that, “While the Islamic Republic of Iran firmly rejects the unfounded claims of certain regional countries that Iran has attacked them… Iran once again emphasizes that its defensive operations—targeting United States military bases and facilities in the region—are in no way directed against the sovereignty or territorial integrity of any regional country.”</p><p>Iranian attacks have hit densely populated civilian areas such as popular tourist sites, particularly in the UAE. On February 28, an Iranian Shahed-238 one-way attack drone struck the forecourt area in front of Fairmont The Palm hotel in the luxury Palm Jumeirah area of Dubai. Local authorities said four people were injured. The Shahed-238 drones reportedly have multiple variants, all of which are guided, either by global navigation satellite systems (GNSS), radar homing, or electro-optical sensors, and are known to be equipped with features to allow them to overcome jamming to improve accuracy. While the exact accuracy of the Shahed-238 is not known, nor is the extent or efficacy of any countermeasures deployed by the UAE, its targeting systems allow it to be reliably directed at large objects and infrastructure.</p><p>People interviewed said that US military personnel are not known to stay at the Fairmont The Palm. Human Rights Watch could not confirm that there were no military personnel staying at the hotel at the time of the attack on February 28, but was able to confirm the civilian nature of the 391-room luxury hotel.</p><p>A guest said he was sitting down for dinner in a hotel restaurant when he “heard what sounded like a jet engine approaching… It was very quick and very loud. The explosion was utterly terrifying.”</p><p>Another witness saw the drone “go straight past us and hit the Fairmont.” The woman was leaving a nearby beach with friends when she heard a whistling sound from the drone before it hit the building. “You obviously think you’re a goner,” she said. After running to the beach, they “looked back and saw the Fairmont was up in smoke.”</p><p>Two videos geolocated by Human Rights Watch capture the moment of the strike. In the first, a person on a roof of a nearby building films in the direction of the hotel. The drone can be seen for a few frames descending rapidly at a near perpendicular angle before detonating. A second video, filmed northwest of the hotel, follows the drone as it makes impact and a large ball of flames engulfs the courtyard.</p><p>A third video filmed from inside the hotel in the immediate aftermath shows at least four vehicles on fire. Two other videos filmed from inside the hotel after the strike show damage to the northern side of the parking lot and burned vehicles, consistent with the detonation of high explosives.</p><p>Iranian drone attacks have also&nbsp;targetedfinancial districts in the UAE, particularly Dubai International Financial Centre (DIFC) and surrounding areas, in at least three separate incidents since March 12. On March 14, the IRGC said, “we warn the American regime to evacuate all American industries in the region.” A media outlet affiliated with the IRGC stated that “these companies will be the legitimate targets for Iran’s Armed Forces” and&nbsp;shared a graphic identifying US companies in the region. The graphic lists a number of US firms and their regional addresses, including&nbsp;KKR, a US private equity and investment company, Boston Consulting Group, a US management and consulting firm, and Bain &amp; Company, a US management consulting firm. The graphic lists the firms’ Dubai office addresses, all of which are located within the DIFC district. DIFC is one of Dubai’s special economic zones and is an important financial hub for companies operating in the Middle East. The district is a densely populated civilian area of Dubai.&nbsp;</p><p>On March 14, an Iranian drone apparently struck ICD Brookfield Place, a luxury office and retail building in DIFC, containing restaurants, gyms, salons, and grocery stores. Researchers geolocated a video uploaded to Telegram the same night showing smoke emitting from the ICD Brookfield Place building. On March 13, AFP&nbsp;reported that “explosions rattled buildings in Dubai and a large cloud of smoke hung over a central area of the financial hub.”&nbsp;</p><p>Iranian forces, using drones, also appeared to strike residential buildings throughout Dubai. In the early hours of March 12, an Iranian drone struck a residential building in the Creek Harbour neighborhood, causing a fire,&nbsp;according to Dubai authorities and&nbsp;local and&nbsp;internationalmedia.One video geolocated by Human Rights Watch and uploaded to X on March 12 shows smoke billowing from an upper floor. A photograph published by the Dubai Media Office shows damage to the same floor.</p><p>In a March 3 media briefing, the UAE’s defense ministry&nbsp;said UAE authorities had intercepted hundreds of Iranian Shahed-136 one-way attack drones, as well as dozens of Shahed-107 and Shahed-238 drones. UAE authorities have intercepted the overwhelming majority of attacks, with an interception rate of more than 90 percent,&nbsp;according to government figures. &nbsp;</p><p>Iranian forces have also apparently attacked several large residential buildings and hotels in Bahrain, including Era View residential building on February 28, Crowne Plaza Hotel on March 1, and Millennium Tower on March 10, based on researchers’ verification of videos and review of information published online, and interviews with four people.</p><p>The attack on Millenium Tower killed a 29-year-old Bahraini woman and injured eight people, according to Bahrain’s&nbsp;Ministry of Interior. A Bahrain-based newspaper, Gulf Digital News,&nbsp;wrote that the woman was killed by falling debris from the attack, which a person with second-hand information who spoke to Human Rights Watch also said.&nbsp;</p><p>Human Rights Watch verified two videos uploaded to Telegram showing an Iranian Shahed-136 one-way attack drone striking the Era View residential building as well as videos that show the aftermath of the attacks and damage to the two other buildings. Similar to the Shahed-238, the Shahed-136 drone is a guided weapon system, primarily through the use of GNSS.</p><p>The US State Department said that two US Defense Department employees had been injured in the Crowne Plaza Hotel in Manama, Bahrain’s capital, the&nbsp;Washington Post reported. People interviewed said that US government and military personnel often stayed in some of the attacked buildings in Bahrain, including the Crowne Plaza, but that the US military placed limits on how many military personnel could stay in any building at a given time. Researchers could not confirm whether there may have been military targets in the hotel or in two residential buildings hit in Bahrain, but confirmed civilian use of the buildings. All are in densely populated civilian areas of Manama.</p><p>Iranian attacks have struck at least three international airports in the GCC. Abu Dhabi airport authorities reported that a drone struck Zayed International Airport on February 28, resulting in the death of Diwas Shrestha, a Nepali security guard, and seven people injured. Iranian authorities have repeatedly struck Dubai International Airport. On February 28, the Dubai airport authority reported that a concourse at Dubai International Airport had been damaged in an apparent Iranian drone attack. Four staff members were injured, Dubai authorities said. Researchers geolocated a video uploaded to X on March 7 capturing the moment a drone struck in the immediate vicinity of the airport, causing a temporary suspension of flights. Another drone attack on Dubai International Airport on March 16 caused Dubai’s Civil Aviation Authority to temporarily suspend flights. Dubai authorities said a drone damaged one of the fuel tanks in the vicinity of Dubai International Airport causing a fire that was later extinguished. Two videos geolocated by researchers show a large plume of smoke rising from the direction of the airport’s fuel storage tanks. An Iranian drone strike struck the Kuwait International Airport on February 28, resulting in injuries to four Bangladeshis.&nbsp;</p><p>Human Rights Watch could not confirm whether these three airports, which are used for civilian purposes, were also being used for any military purposes or if there were military targets in the airport at the time of the attack.&nbsp;</p><p>The Kuwait airport has&nbsp;previously been used by the US military, but Human Rights Watch is not aware of any publicly available evidence indicating that Dubai International Airport and Zayed International Airport have been used for any recent transport of arms or troops. The cost to civilians of damage and disruption to these airports is high: Dubai International Airport is the world’s busiest airport,&nbsp;according to OAG, a leading provider of airport data, and has been a key site of&nbsp;repatriation flights for civilians fleeing the conflict.&nbsp;</p><p>Iranian attacks have also repeatedly targeted what appear to be US diplomatic premises throughout the Gulf. On March 3, an Iranian drone attack&nbsp;struck the US consulate in Dubai, causing a fire. One video uploaded to X, filmed from across the street, captures the sound of a drone moments before a loud explosion. The camera then pans toward the consulate, where smoke and fire are visible.&nbsp;</p><p>Also on March 3, two Iranian drones struck the US embassy in Riyadh, causing a fire and minor damage,&nbsp;said Saudi Arabia’s Defense Ministry. A video shared with Human Rights Watch of the aftermath of the attack shows a fire billowing from the direction of the embassy complex. On March 2, drones struck the US embassy in Kuwait, Agence France-Presse&nbsp;reported. On March 5, the US State Department&nbsp;announced the suspension of operations at the US Embassy Kuwait City.</p><p>Migrant workers have been significantly affected by the attacks and the falling debris from air defense systems. On February 28, an Iranian attack killed a Bangladeshi national, Saleh Ahmed, in Ajman in the UAE. Ahmed was collecting water for delivery in the Al Talla neighborhood when apparent debris from an attack struck his water tank truck, piercing the cab and damaging the rear, hitting Ahmed and two others, a Bangladeshi and a Pakistani person, said Ahmed’s son, Mohammad Abdul Haq. Ahmed died and the others were injured.&nbsp;</p><p>Iranian forces have also attacked or struck states beyond the GCC, including Azerbaijan, Iraq, Israel, Jordan, Syria, and Turkey since the conflict began.&nbsp;</p><p>International humanitarian law requires all parties to the conflict to distinguish between military objectives and civilians and civilian objects and to target only military objectives. Military objectives are limited to “objects which by their nature, location, purpose or use make an effective contribution to military action and whose partial or total destruction, capture or neutralization, in the circumstances ruling at the time, offers a definite military advantage.”</p><p>International humanitarian law also requires parties to a conflict to “take all feasible precautions” to avoid or minimize the incidental loss of civilian life. All attacks must respect the principle of proportionality in attack, including considering the likely impact on civilians and civilian objects. Attacks are prohibited if their primary purpose is to spread terror among the civilian population. Serious violations of the laws of war committed with criminal intent, that is deliberately or recklessly, are war crimes.</p><p>In contrast to what Iranian authorities have stated, companies having US ownership or ties would not in and of itself make them legitimate military objects.</p><p>“Iran's response appears to be striking civilians and civilian objects and devastating lives and livelihoods across the Gulf,” Shea said.&nbsp;</p>",
+        "link": "https://www.hrw.org/news/2026/03/17/iran-unlawful-strikes-across-gulf-endanger-civilians",
+        "severity": 10,
+        "scraped_at": "2026-03-17T19:45:56.319462+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8692099,
+          52.4577754
+        ]
+      },
+      "properties": {
+        "id_hash": "ad2df796653cd65bfdcb5d4db9d2658784636f2e02bf6b7c4ad379837bef1faf",
+        "title": "The Great Unrooting: A Special Season of Rights & Wrongs",
+        "summary": "<p>(New York) –&nbsp;A new&nbsp;five-episode narrative podcast will explore what it means to lose home and what it takes to start again, Human Rights Watch said today. Anchored in the story of Maung, a Rohingya refugee now living in New York, the series traces his journey of flight, survival, and rebuilding and explores displacement at a moment when more people are forcibly displaced than at any point since World War II.</p><p>The series, “The Great Unrooting,” is hosted by Ngofeen Mputubwele , a journalist, attorney, and audio producer whose work includes podcasts for The New Yorker and the critically acclaimed series “Fela Kuti: Fear No Man.” The series combines intimate storytelling with Human Rights Watch research and investigations around the world. It examines the fragility—and the human cost—of the lines that divide communities, determine who belongs, and shape the routes people take in search of safety.</p><p>“Record numbers of people are being forced from their homes, even as borders harden and safe pathways shrink,” said&nbsp;Bill Frelick, refugee and migrant rights director at Human Rights Watch. “The Great Unrooting brings listeners inside the choices people face when the world they know becomes unlivable — and the long road that follows.”</p><p>Across five episodes, the series follows the “hidden geography” of displacement and looks at what borders really do in human lives;&nbsp;not as abstract lines, but as lived systems that reshape families, futures, and belonging.&nbsp;</p><p>“Borders look like neat lines on a map, but in real life, they’re lived as detours, documents, checkpoints, and the moment you realize you can’t go back home,” Mputubwele said. “Home isn’t just where you’re from – it’s where you’re known, where you’re wanted. The Great Unrooting is about what happens when that breaks, and what it takes to find your way again.”&nbsp;</p><p>About “The Great Unrooting”</p><p>“The Great Unrooting” follows Maung’s story from the early warning signs of exclusion to the moment his family is forced to flee and then into the grueling logistics of survival on the move. Subsequent episodes explore life in limbo, the systems that govern who can move and who cannot, and what it means to rebuild in a new place while still longing for home.</p><p>Episode Guide:</p>Episode 1: “The Unrooting”—The moment “home” begins to fall away (now available).Episode 2: “Flight”—The logistics of getting from here to there (available March 30, 2026).Episode 3: “The Shadow City”—Life in the world’s largest refugee camp (available April 13, 2026).Episode 4: “The Toll it Takes”—The consequences of displacement on mental health (available April 27, 2026).&nbsp;Episode 5: “Arrival”—Building a new life after displacement (available May 11, 2026)<p></p>",
+        "link": "https://www.hrw.org/news/2026/03/17/the-great-unrooting-a-special-season-of-rights-wrongs",
+        "severity": 2,
+        "scraped_at": "2026-03-17T19:45:57.725953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8915271,
+          16.3471243
+        ]
+      },
+      "properties": {
+        "id_hash": "2fa7a7263e305912ada4daa70ffb7ce1a14155cb2e62539df9efc0409167b1ad",
+        "title": "Yemen: Apparent Excessive Force Against Protesters",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Roadblock of the Southern Transitional Council in the south of Socotra, Yemen, October 14, 2023.\n                    © 2023 Hardscarf/Wikimedia \n          \n    \n\n\n  \nYemeni government-aligned forces appear to have used excessive force in February against protesters supporting the Southern Transitional Council in Aden.&nbsp;Government forces in three locations fired at protesters supporting the group and made arrests and held people for days without due process in Aden and Hadramout.&nbsp;The Yemeni government should provide accountability and justice for the Southern Transitional Council’s violations in areas previously under its control, and not repeat the same violations that it previously condemned.<p>(Beirut) –&nbsp;Yemeni government-aligned forces appeared to have used excessive force against protesters, as well as arbitrarily detained some protestors in February, Human Rights Watch said today.&nbsp;</p><p>Throughout February 2026, there were several protests in support of the Southern Transitional Council (STC). Human Rights Watch investigated protests that took place in three governorates of Yemen: Aden, Shabwa, and Hadramout. Government forces reportedly killed at least six people and injured dozens in these clashes with protesters in Aden and Shabwa, and detained dozens of people in Hadramout. Human Rights Watch found that government forces used excessive force against protestors and arbitrarily detained protestors in Aden.&nbsp;</p><p>“The Yemeni government has long purported to stand up for free expression, and yet their actions don’t match their words,” said&nbsp;Niku Jafarnia, Yemen and Bahrain researcher at Human Rights Watch. “The government should be ensuring that Yemenis’ rights are respected during this period, rather than violating their right to free expression.”</p><p>On December 30, 2025, Rashad al-Alimi, the head of Yemen’s Presidential Leadership Council,&nbsp;announced a 90-day nationwide state of emergency following the STC’s takeover of the governorate of Hadramout. One week later,&nbsp;Saudi-led coalition forces and&nbsp;government forces pushed the STC out of territories where it had gained control in December.</p><p>Throughout February 2026, people took to streets throughout southern Yemen to show support for the STC, which had recently announced its dissolution.&nbsp;</p><p>Human Rights Watch interviewed 13 people between February 10 and March 6, including protestors who had been arrested, witnesses to government forces’ use of force, and representatives of the STC. Researchers also verified photographs and videos posted online from the protests showing the use of force, as well as injured protesters, including two children. Human Rights Watch wrote to the Yemeni government on March 12 to request its response to Human Rights Watch’s findings but has received no response.&nbsp;</p><p>In the capital of Hadramout governorate, Seiyun, on February 6, government forces fired on demonstrators at Seiyun airport, where they had demanded the removal of the Yemeni national flag and a picture of the Saudi king. The STC has publicly supported&nbsp;southern Yemen’s independence movement and used the flag of South Yemen, which was a state between 1967 and 1990 before unifying with northern Yemen. Nobody was killed or injured as far as Human Rights Watch could ascertain.&nbsp;</p><p>Government forces detained dozens of protestors, and two STC leaders at their homes the following day. The STC leaders were charged with inciting people to protest, while the four protestors interviewed said they had not been charged and were released after several days.&nbsp;</p><p>On February 11, protesters in Shabwa’s governate capital, Ataq, attempted to storm a government building—some of them armed—to take down the Yemeni flag and replace it with the STC flag. Both at the start of the protest, which appeared to have been peaceful based on information researchers received and a livestream video analyzed by researchers, and at the government building, government forces fired at protesters.&nbsp;</p><p>Some protesters also fired on government forces, though Human Rights Watch was unable to determine who fired first. Five people were killed and 39 injured,&nbsp;according to Al Jazeera, citing a statement from the deputy head of the Shabwah General Hospital Authority, Rami Lamas.&nbsp;</p><p>Pro-STC protesters in Aden on February 19 attempted to storm the presidential palace. Government security forces fired on them, killing one person and injuring at least 25, the STC said in a statement to Human Rights Watch. A human rights activist following the cases told Human Rights Watch that government forces also detained 28 people.</p><p>According to the activist, as well as Human Rights Watch’s documentation, those detained were not provided with due process, and were held for over two weeks without being taken before a judge or charged with a criminal offense, making the detentions arbitrary.</p><p>Human Rights Watch believes, based on evidence it reviewed, that government forces in Aden used excessive force against peaceful protesters.</p><p>The protests were directed at least in part by the STC. The STC in Hadramout; Aidarous al-Zubaidi, the leader of the STC; and the STC in Aden made statements on&nbsp;February 4,&nbsp;10, and&nbsp;19, respectively, calling on STC supporters to protest. Several STC leaders participated in the protests, including the leader of the STC in Shabwa, Shiekh Lahmer Ali Laswad.</p><p>The International Covenant on Civil and Political Rights (ICCPR), to which Yemen is a party, protects the rights to freedom of expression and peaceful assembly. Under the covenant, law enforcement personnel are obliged to respect fundamental rights. The&nbsp;Yemeni constitution also provides for the right to free speech and political participation under article 42.</p><p>The ICCPR allows only for limited restrictions on the right to peaceful assembly that are “necessary in a democratic society” to protect a narrow range of important interests including public order, public safety, and the rights of others.&nbsp;</p><p>The United Nations Human Rights Committee, an international expert body that monitors compliance with the ICCPR, has&nbsp;stated that restrictions justified on grounds of public safety require authorities to demonstrate “a real and significant risk to the safety of persons (to life and security of person) or a similar risk of serious damage to property.”&nbsp;</p><p>The Yemeni government should ensure a speedy and effective investigation into all instances of security forces firing on protestors and hold accountable anyone responsible for any unlawful use of force.</p><p>Throughout Yemen’s 11-year conflict, all warring parties, including both the Yemeni government and the STC, have suppressed free speech and violated protesters’ rights.&nbsp;</p><p>“As power changes hands in southern Yemen, the warring parties need to end the cycle of violations,” Jafarnia said. “The Yemeni government needs to provide accountability and justice for the STC’s violations in areas previously under its control and not repeat the same violations that it previously condemned.”</p>Aden, February 19<p>On February 19, 2026, Southern Transitional Council (STC) supporters attempted to storm the presidential palace in Aden. In response, government security forces fired on the supporters, killing one person and injuring at least 25, according to an STC representative’s statement sent to Human Rights Watch.&nbsp;</p><p>A video compiling several clips from unknown sources, posted by the Indian news channel Mirror Now and geolocated by Human Rights Watch, shows hundreds of people peacefully protesting outside a barrier two kilometers from the presidential palace. Another clip shows dozens of protesters breaching the barrier and throwing debris towards the nearby security forces.</p><p>Two armored vehicles face the barrier as well as dozens of armed security force members. Gunshots can be heard throughout, and researchers identified at least three incidents of security forces firing upward, including shots from a machine gun mounted on an armored vehicle. In another video posted to social media, one of the armored vehicles initially backs away from the protesters, but then speeds directly toward them, stopping just before it reaches them.</p><p>Al Jazeera said it had “obtained [footage] purporting to show several wounded individuals at the site.” Human Rights Watch has not reviewed this footage. Human Rights Watch reviewed a South24 video said to be taken at the Aboud hospital in Aden that showed 12 injured protesters, including two older men and a child.</p><p>The government-run&nbsp;Saba News Agency said that a senior official in the Presidential Leadership Council described the protests as “acts of incitement” and “armed mobilization,” and said that government forces had “exercised maximum restraint” in responding. Aden’s security committee&nbsp;stated that the protesters’ actions “compelled security authorities to perform their duty in accordance with applicable laws and regulations, ensuring the protection of sovereign institutions and the preservation of security and stability.”</p><p>Security forces also arrested many protesters. An activist based in Aden provided a list of 28 detained protesters to Human Rights Watch; 17 of them were transferred to al-Mansora Prison.&nbsp;</p><p>The father of one of the detainees told Human Rights Watch that authorities had not allowed his 19-year-old son to call his family to tell them when he was detained: “My son didn’t get back home [the night of the protest], and we thought he went to stay over at one of his relatives’ homes. The next day when he wasn’t back and we saw the pictures of the protest and people said that there are detainees, so we started looking for him, and that was when we learned he was detained in Ma’ashiq Palace.”</p><p>The father said that as of March 2, his son had yet to be released despite several promises by authorities. “The security forces in Ma’ashiq kept telling us that they would release [the detained protesters] tomorrow or the day after, but they didn’t and transferred them to the central prison in al-Mansora on February 26.” He was released on March 8.</p><p>The brother of another detainee said his brother had also not been released after two weeks, that authorities had not allowed his brother to call his family, and that they were only able to visit him once, after he was transferred from Ma’ashiq to Al Mansoura Prison after being held for nine days in the palace. His brother was also released on March 8.</p><p>Both were not aware that any charges had been brought against their relatives.</p><p>The security forces in Aden said in a February 20 statement that “Armed elements … attempted to infiltrate to carry out acts of sabotage. Despite the security forces’ utmost restraint, these elements’ insistence on crossing red lines by targeting security forces and attempting to storm the outer gate of the Ma’ashiq Palace constituted a premeditated and organized attack.”&nbsp;</p><p>Human Rights Watch was unable to verify the security forces’ claims that protesters were targeting security forces, though videos showed protesters trying to storm the barrier two kilometers from the palace.&nbsp;</p><p>On March 8, Rashad al-Alimi, head of Yemen’s Presidential Leadership Council, ordered the immediate release of the detained protesters according to&nbsp;al-Mashhad news website. On March 9, Human Rights Watch confirmed that the detainees had been released by a presidential directive.</p>Hadramout, February 6<p>On February 6, protestors supporting the STC marched in Seiyun and some later held a sit-in at the local airport. Government-aligned National Shield Forces fired on protestors at the airport and arrested an estimated 35 people either at the protest or the next day.&nbsp;</p><p>Researchers interviewed five people, including Amgad Sabeeh, the head of the STC’s department of media and culture in Hadramout, and four people who were arrested at the protests.&nbsp;</p><p>Sabeeh and one of those arrested said that protesters marched peacefully through the city. The protester said that some demonstrators climbed the walls of a literacy center and the government palace and tore down the Yemeni national flag and the picture of Saudi Arabia’s king at both sites.&nbsp;</p><p>He said that after protesters read a concluding statement, some continued on to Seiyun airport, sitting in front of the gate, demanding that the Yemeni flag be removed. He said that after about 45 minutes, “an unknown force intervened and opened fire directly from the direction of the palm farms [east of the airport], toward the protesters [and the airport security forces].”&nbsp;</p><p>In response, he said, the National Shield Forces began to “fire hysterically” at both the unknown force and the protesters, though nobody was killed. The National Shield Forces also arrested some protesters.</p><p>He said that since the person in the palm farms was firing toward the protesters, he took cover behind a car. At that point, he said a soldier from the National Shield Forces, which he recognized by his uniform, found him, fired in the air “to intimidate [him],” and subsequently arrested him. He said that while he was detained, an investigator told him there was a third party who fired at the security forces, so they had to respond.&nbsp;</p><p>Three others said government forces arrested them either during the airport protest or as they were trying to leave. Two said that they and other protesters were accused of “assaulting the airport,” though they said that the protest was peaceful and there was no intention of storming the airport.</p><p>One said that when his brother came to the airport to seek his brother’s release, the brother was also arrested. He was released the next day.&nbsp;</p><p>All four people interviewed said that during the investigation, they were accused of assaulting the airport, which they denied. Authorities held them at the airport, an unofficial detention site, for several days, without bringing charges against them. When they were released, authorities conditioned their release on signing a pledge stating that they wouldn’t participate in “unlicensed” protests anymore.</p><p>Two of the detainees said about 50 protestors were held at the airport with them and one said they were forced to sleep on the floor. One said they spent a night “without water and were forbidden from using the restroom until the following morning.”&nbsp;</p><p>Sabeeh said forces went to his house to arrest him and when they couldn’t find him, they waited outside for several hours before leaving. He told Human Rights Watch he had fled to a safe area. He said that security forces accused him and several other STC leaders with, “inciting people to protest.”</p><p>He said that those who tore down the pictures and the Yemeni flags “didn’t belong to the STC,” and were “infiltrators.” Human Rights Watch was unable to verify this statement. However, the STC’s Hadramout leadership had made a&nbsp;statement on February 4 calling on supporters to march on February 6, in with “steadfastness and resilience.”&nbsp;</p>Shabwa, February 11<p>STC supporters led a march through Ataq the day after Aidarous al-Zubaidi, the head of the STC, called on supporters on X “to press on with your struggles across the various arenas and fronts of the revolution.” Government forces fired on the protesters, killing at least 5 people and injuring 39,&nbsp;according to the statement from Rami Lamas, the deputy head of the Shabwah General Hospital Authority, to Al Jazeera.</p><p>Human Rights Watch spoke to five people who attended the protest: a journalist; an STC leader; Nasser al-Khalife, the head of the Yemeni civil society organization Dameer Association for Rights and Freedoms; and two other human rights activists.</p><p>The night before the protest, the protest site was destroyed along with microphones, speakers, and southern Yemini flags that had been set up there. The STC leader said that people standing near the platform said that armored military vehicles and troops belonging to the Shabwa Defense Forces and Special Forces under the authority of the governor of Shabwa—who had recently shifted his allegiance away from the STC—had approached the platform. The STC leader said that those he spoke with saw these forces destroy the platform and confiscate southern flags. The journalist corroborated this account. &nbsp;</p><p>Both the STC leader and the journalist said that around 9:00 a.m. on February 11, protesters assembled at Mohammed Bin Zayed hospital, to march to the nearby square. They said that government-aligned special forces and security personnel tried to prevent them from reaching the square and started firing at protesters. Human Rights Watch could not verify this information.</p><p>The journalist and STC leader said that at around 9:30 a.m., Laswad, the head of the STC in Shabwa, arrived and led the march to the protest square though security forces continued firing toward protesters. Eventually, the forces withdrew, and the protest continued peacefully.</p><p>Afterward, some protesters marched on toward the city center, which includes Shabwa’s main government building—a typical location for protests—people interviewed said. They said that as protesters approached the government building, different government-aligned forces began firing upon protesters from multiple directions.&nbsp;</p><p>An STC leader who was documenting the protest said:&nbsp;</p><p>I was photographing what was happening and another person next to me was photographing as well and he was shot and [I] later learned that he was injured. When that happened, I returned to my car and continued photographing from my car. While I was doing so, an armored vehicle moved next to me and fired at me, injuring me.&nbsp;</p><p>Al-Khalife told researchers that there were “masked gunmen carrying assault rifles in the middle of the protesters who were shooting towards the military forces.” He said that one also threw a sound bomb at the gate of the government building. Two people interviewed confirmed al-Khalife’s account and added that the armed men were soldiers with the STC-aligned Second Shabwa Defense Forces Brigade. Human Rights Watch was unable to verify these claims. Abdul Galil Shaif, a the STC’s representative in Geneva, told Human Rights Watch the armed men were not officially affiliated with the STC.&nbsp;</p><p>Human Rights Watch reviewed footage from a recording of a Facebook livestream, which a journalist started at 9:10 a.m. on February 11. The livestream shows hundreds of peaceful protesters waving flags and chanting as they walk down Ataq’s main street. Forty-three minutes into the livestream, several unmasked people, all wearing either camouflage pants or jackets, come into view among the protestors armed with Kalashnikov-pattern assault rifles, including a group of men in a pick-up truck.&nbsp;</p><p>Shortly afterward, gunfire is heard, and the protesters run down the street. It is unclear who is shooting. A few minutes later the protesters reach the governorate building and are met with armored vehicles, and more gunfire is heard, including from automatic rifles and heavy machine guns.&nbsp;</p><p>In a statement published on February 11, the government-aligned Security Committee in Shabwa stated that “infiltrating elements armed with various types of weapons” had “launched a blatant assault against members of the security and military units and their vehicles, targeting them with live ammunition while attempting to storm the Shabwah Governorate building,” and that “This resulted in a number of casualties and injuries.” They did not say who caused the casualties and injuries, or whether any of their own forces had been injured or killed.</p><p>On March 6, Human Rights Watch learned that the Yemeni government’s Interior Ministry had issued an arrest warrant for Laswad, accusing him of inciting people to attack civilian institutions.</p><p>Human Rights Watch verified a video posted to social media showing STC supporters in front of the government building, with at least one projectile being fired from the grounds of the government building toward the protestors.</p><p>Human Rights Watch also reviewed two photographs and a video of two injured protesters, reportedly injured in the clashes. Both appeared to be children. Both had images of STC leaders attached to their shirts, and one had an STC flag wrapped around his head.</p>",
+        "link": "https://www.hrw.org/news/2026/03/17/yemen-apparent-excessive-force-against-protesters",
+        "severity": 6,
+        "scraped_at": "2026-03-17T19:46:02.278260+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7144925,
+          45.8311861
+        ]
+      },
+      "properties": {
+        "id_hash": "2c6ec165851573c34cf00b3dbf7bbda40cd8faaa7a6f2783e38cb78471e873c5",
+        "title": "Liberaron a las dos adolescentes secuestradas por las disidencias de las Farc en El Bagre, Antioquia: las menores fueron recibidas por la Cruz Roja",
+        "summary": "Las menores de 14 y 15 años fueron secuestradas en el Bajo Cauca en medio de confrontaciones entre las disidencias y el 'clan del Golfo'.",
+        "link": "https://www.eltiempo.com/colombia/medellin/liberaron-a-las-dos-adolescentes-secuestradas-por-las-disidencias-de-las-farc-en-el-bagre-antioquia-las-menores-fueron-recibidas-por-la-cruz-roja-3540904",
+        "severity": 0,
+        "scraped_at": "2026-03-17T19:46:06.695196+00:00"
+      }
+    }
+  ]
+}

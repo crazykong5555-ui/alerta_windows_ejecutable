@@ -1,0 +1,1481 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2500086,
+          7.0000085
+        ]
+      },
+      "properties": {
+        "id_hash": "3e64143cbd85e1df2fe2d492be441e9aaca794f66cb33662fc46fa31f6f1ed44",
+        "title": "Father-of-8 security guard hailed as hero in San Diego mosque shooting",
+        "summary": "Amin Abdullah, one of three men killed in the attack, is said to have saved lives in the shooting.",
+        "link": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:44:48.476392+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "462eeb34abf5e75d35af584a2eeed59b4c168514b6fa4b4b19d5682b23d2251a",
+        "title": "Trump says he called off new Iran attack at request of Gulf states",
+        "summary": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".",
+        "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:44:48.476707+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "b781c25da44c619bc97fdc8b37d6ca1e2832378fe44ca1f38355ac6e9de38002",
+        "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
+        "summary": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
+        "link": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:44:48.476743+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.602191,
+          39.6823264
+        ]
+      },
+      "properties": {
+        "id_hash": "b78f43817b826f030a467df5a28b071990c6baeda69067dd0b0f9cb5ee81373e",
+        "title": "Trump administration unveils $1.7bn fund to compensate his allies as he drops tax lawsuit",
+        "summary": "The settlement will go towards individuals who allege they were subjected to unfair investigations.",
+        "link": "https://www.bbc.com/news/articles/cvgzr7vr203o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:44:49.742899+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "7e8ba863d4b98d9b1659e5b572a4e16aa6f955b3331c3b6cbd99750c3a032401",
+        "title": "Shakira wins £50m tax refund from Spanish government",
+        "summary": "The Colombian singer says the court ruling means the \"narrative\" that she was guilty now \"crumbles\".",
+        "link": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:44:49.743031+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "cdba1ce0f7d14d068eacc86f4e755a4d06f2260825b3e609c49ecfcb7ccef753",
+        "title": "Four killed in protests during Kenyan strikes over high fuel prices",
+        "summary": "Thousands of commuters are stranded, with key roads in the capital Nairobi largely empty due to the protests over fuel costs.",
+        "link": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:44:49.743065+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "c6f06889512059ae53e710925b9fecf435679b194b4c4bdb2ca6f6ca6ff1dc12",
+        "title": "What really holds China and Russia together",
+        "summary": "The relationship endures despite a power imbalance, with both sides recognising that it is too important to fail.",
+        "link": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:44:49.743113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2165513,
+          51.5918176
+        ]
+      },
+      "properties": {
+        "id_hash": "2810bb8a5b16ea6a2e3523e9f4f0357428badc20eedd817dce41ab635efdcd2a",
+        "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
+        "summary": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
+        "link": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:44:51.048230+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "a3c694fcf5f69ac53ac75d90a1d735ddddf4b8ce76ebdd55d4e2c619400611b6",
+        "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
+        "summary": "Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory.",
+        "link": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:44:51.048356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "efaab1728043349f47491262c562c689393071e1d40e02821db6c19b345ee741",
+        "title": "Lights, camera, Bangaranga: Highlights from Eurovision",
+        "summary": "Bulgarian singer Dara stormed to victory in the contest, while Ukraine broke the record for the longest note ever sung at Eurovision.",
+        "link": "https://www.bbc.com/news/videos/cj3pznr0zr4o?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:44:51.048513+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "f245d5bcdc938f3dce2eca88de6806e21b1ac165905958135cfea6949bd4b34c",
+        "title": "Israeli far-right minister Smotrich says ICC seeks his arrest",
+        "summary": "Smotrich is the third Israeli official targeted by the ICC, after Netanyahu and Gallant, for war crimes in Gaza.",
+        "link": "https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:44:58.180529+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "2b476cd84e58d1554a6d57cb2c76fa69828cda4ecbd2f6813dc48c876ae3ef38",
+        "title": "Xi Jinping seeks to strengthen ties with Putin during China visit",
+        "summary": "China’s Xi Jinping is hosting Russian President Vladimir Putin, just days after welcoming Donald Trump to Beijing.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/xi-jinping-seeks-to-strengthen-ties-with-putin-during-china-visit?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:44:58.180606+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "53fa3751747f5835d26b803ae97a549c95689303262ceb2f19a97c78cc164115",
+        "title": "Trump says Iran attack on ‘hold’: What we know about latest negotiations",
+        "summary": "Tehran said its demands for peace include lifting sanctions against Iran but other sticking points likely to remain.",
+        "link": "https://www.aljazeera.com/news/2026/5/19/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:44:58.180685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "2403058ca1ade2958a237bd2d4cfa26745755340bce5533b355fc64861a1fc19",
+        "title": "Iran squad in race against time for World Cup readiness amid US-Israel war",
+        "summary": "With Iran&#039;s local football league suspended since March, most players in the squad have not been in action for months.",
+        "link": "https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:44:58.180814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5349123,
+          15.5635972
+        ]
+      },
+      "properties": {
+        "id_hash": "8b9502e324b99f77d0f24e2079287c08354ffd37d83e0a080baef8abe46a36e3",
+        "title": "Khartoum’s slow recovery amid cautious return",
+        "summary": "War-damaged Khartoum sees uneven recovery as residents weigh return amid fragile services and economy.",
+        "link": "https://www.aljazeera.com/news/2026/5/19/khartoums-slow-recovery-amid-cautious-return?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:00.411431+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.79582,
+          38.9642765
+        ]
+      },
+      "properties": {
+        "id_hash": "73171020f0280199accf29f0d29ccfd09186dd67069a477486d1dfa6ab03697d",
+        "title": "Starbucks Korea CEO fired over promotion that evoked military crackdown",
+        "summary": "&#039;Tank Day&#039; marketing campaign provoked backlash for eliciting bloody suppression of 1980 Gwangju uprising.",
+        "link": "https://www.aljazeera.com/economy/2026/5/19/starbucks-korea-ceo-fired-over-promotion-that-evoked-military-crackdown?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:01.826868+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2500086,
+          7.0000085
+        ]
+      },
+      "properties": {
+        "id_hash": "ec418b0bd000e065daae90605e48ac721943b07a664317bf576485c9e08f0e24",
+        "title": "San Diego mosque shooting: What we know about the victims and the attackers",
+        "summary": "Authorities said the attack at the Islamic Center of San Diego is being investigated as a possible hate crime.",
+        "link": "https://www.aljazeera.com/news/2026/5/19/san-diego-mosque-shooting-what-we-know-about-the-victims-and-the-attackers?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:02.597257+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9999721,
+          9.6000359
+        ]
+      },
+      "properties": {
+        "id_hash": "68209fc8ee8257dec85642fbe6314a0d8a8c3d3f373e729c1dcee6cb16baee06",
+        "title": "Gunmen abduct 39 students, 7 teachers in attacks on Nigeria schools",
+        "summary": "The attacks targeted a secondary school and two primary schools, as gunmen kidnapped children aged between two and 16.",
+        "link": "https://www.aljazeera.com/news/2026/5/19/gunmen-abduct-39-students-7-teachers-in-attacks-on-nigeria-schools?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:04.473524+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "8f05b1999eba54e9ad5b0c9248395eaf8c04dc66decda41463afe1f68798e3f4",
+        "title": "Lebanon and Syria reshape ties amid Israeli attacks and regional shifts",
+        "summary": "Damascus and Beirut focus on sovereignty and cooperation, moving away from decades of Syrian dominance over Lebanon.",
+        "link": "https://www.aljazeera.com/features/2026/5/19/lebanon-and-syria-reshape-ties-amid-israeli-attacks-and-regional-shifts?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:04.473635+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3208504,
+          6.5743175
+        ]
+      },
+      "properties": {
+        "id_hash": "858230e566cdd9261cfc9c00ede0d7d4e161956edbf236f144c88d13a93189b9",
+        "title": "Los Angeles World Cup stadium workers threaten strike over ICE deployment",
+        "summary": "Workers represented by a local union say ICE presence would create a climate of fear during the FIFA World Cup 2026.",
+        "link": "https://www.aljazeera.com/sports/2026/5/19/los-angeles-world-cup-stadium-workers-threaten-strike-over-ice-deployment?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:05.700505+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "c8b2385c3833f9e4da87fcabc9d6e18031db14098056a3799a25d01c723ed669",
+        "title": "Palestine weekly wrap: Jerusalem Day, Nakba mark week of surging attacks",
+        "summary": "Far-right marchers in the Old City chant &quot;death to Arabs&quot; while Israel kills Hamas military chief in Gaza.",
+        "link": "https://www.aljazeera.com/news/2026/5/19/palestine-weekly-wrap-jerusalem-day-nakba-surging-attacks?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:05.700610+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "bd2f7200776e0c32c6a9a7e9b5df6531c0bb38c6192010a78818fb68fb2d8c5e",
+        "title": "Russian strike damages Ukraine Danube port as Moscow intercepts drones",
+        "summary": "Russia also plans military exercises as Putin prepares for Beijing visit.",
+        "link": "https://www.aljazeera.com/news/2026/5/19/russian-strike-damages-ukraine-danube-port-as-moscow-intercepts-drones?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:05.700643+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "ebb36a5e1dbc5aaf3a0a16099a4ce70be6a21fa4ded51a8438f249e9881d613e",
+        "title": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
+        "summary": "US president says he held off a scheduled attack on Iran after pressure from Gulf allies as renewed talks gain momentum.",
+        "link": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender?traffic_source=rss",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:05.700696+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6610291,
+          3.5113716
+        ]
+      },
+      "properties": {
+        "id_hash": "6d46902f41b480efe29ded5043336cff859f2b750aa8c393f521d3b85fe0dbda",
+        "title": "WHO official warns Ebola outbreak unlikely to be over in two months as cases and deaths rise in DRC",
+        "summary": "<p>At least 130 people thought to have been killed, says Tedros Adhanom Ghebreyesus before emergency meeting</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear\">‘It’s heartbreaking’: panic in eastern DRC over return of Ebola</a></p></li></ul><p>The director general of the World Health Organization has said he is deeply concerned about the scale and the speed of the Ebola outbreak in the Democratic Republic of the Congo.</p><p>Dr Tedros Adhanom Ghebreyesus said there had been at least 500 suspected cases of Ebola and 130 suspected deaths in DRC since the new outbreak began. Thirty cases had been confirmed in DRC’s north-eastern province of Ituri, and one death and one case had been confirmed in Kampala, Uganda, he added. <a href=\"https://www.theguardian.com/us-news/2026/may/18/us-ebola-virus-congo-uganda\">A US citizen has also tested positive</a> and been transferred to Germany.</p> <a href=\"https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:07.542252+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8444985,
+          18.2612839
+        ]
+      },
+      "properties": {
+        "id_hash": "0642be76f09fdae068740564929e368bda8250a1cad1e01a4432e60fee62613d",
+        "title": "US claims ‘emergency refugee situation’ as it admits 10,000 more white South Africans",
+        "summary": "<p>Trump has repeatedly made false claims that white Afrikaners facing genocide with costs of resettling them at $100m</p><p>The US government has said it will increase the number of white South Africans it admits as refugees this year from about 7,500 to 17,500, claiming that “unforeseen developments in South Africa created an emergency refugee situation.”</p><p>Since starting his second term in office last year, Donald Trump has repeatedly made false claims that white Afrikaners are racially targeted and <a href=\"https://www.theguardian.com/us-news/2025/may/21/trump-south-africa-president-meeting\">face a “white genocide”</a>, which South Africa’s government has furiously rebutted.</p> <a href=\"https://www.theguardian.com/us-news/2026/may/19/us-government-increase-white-south-africa-refugees\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/may/19/us-government-increase-white-south-africa-refugees",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:08.859893+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8828034,
+          43.0587078
+        ]
+      },
+      "properties": {
+        "id_hash": "091db401c7723e87031dad62075a4a8cf50491036ff7f65bf2110a9ea8155caf",
+        "title": "‘Huge milestone’ as Libyan militia commander accused of torture appears at ICC",
+        "summary": "<p>Prosecution is seen as landmark step towards justice over abuses of refugees trying to reach Europe from Africa</p><p>A former militia commander accused of overseeing murder, rape, enslavement and torture in Libyan detention centres has appeared at the international criminal court for a hearing that campaigners say is a landmark step towards “justice, truth, reparation and deterrence” of abuses of refugees trying to reach Europe from Africa.</p><p>The prosecution of <a href=\"https://www.icc-cpi.int/libya/el-hishri\">Khaled Mohamed Ali El Hishri</a> on charges of war crimes and crimes against humanity is the first to reach a courtroom resulting from the ICC’s investigation into crimes in Libya after the fall of Muammar Gaddafi in 2011.</p> <a href=\"https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:10.134765+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5528,
+          23.6345
+        ]
+      },
+      "properties": {
+        "id_hash": "c629342be5695159a05a0ed750a69f541b9b4fb2991c0e8a23157864df10db9d",
+        "title": "Pressure on Mexico after two ex-officials surrender to US over alleged cartel ties",
+        "summary": "<p>Mexican president Claudia Sheinbaum denies any links between her Morena party and organized crime</p><p>Pressure is mounting on Claudia Sheinbaum, Mexico’s president, after two former top officials from the country’s Sinaloa state – both members of her Morena party – <a href=\"https://www.reuters.com/legal/government/former-mexican-governors-ally-us-custody-charges-cartel-ties-2026-05-15/\">gave themselves up</a> to US authorities over alleged ties to the Sinaloa cartel.</p><p>The state’s former security minister Gerardo Mérida Sánchez crossed the border into Arizona last week and was taken into custody by US marshals, Mexico’s <a href=\"https://x.com/GabSeguridadMX/status/2055354799546052661\">security ministry said.</a> Sinaloa’s former finance minister, Enrique Díaz Vega, was <a href=\"https://www.eleconomista.com.mx/politica/exsecretario-finanzas-sinaloa-enrique-diaz-vega-entrega-autoridades-eu-20260515-813810.html\">taken into custody</a> in New York.</p> <a href=\"https://www.theguardian.com/world/2026/may/18/mexico-officials-surrender-alleged-cartel-ties\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/may/18/mexico-officials-surrender-alleged-cartel-ties",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:10.135007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8328748,
+          23.0131338
+        ]
+      },
+      "properties": {
+        "id_hash": "6fad31bba88f0166bdf0b8880681cf9107cede532380155104c48b19da2e6f38",
+        "title": "Cuba warns US of ‘bloodbath’ if military action follows drone claims",
+        "summary": "<p>Cuba’s president, Miguel Díaz-Canel, says any US strike would be catastrophic after reports of 300+ drones</p><p>Cuba’s president, Miguel Díaz-Canel, has warned that any US military action against his country would lead to a “bloodbath” with incalculable consequences for regional peace and stability.</p><p>“Cuba does not represent a threat,” Díaz-Canel said in a post on X.</p> <a href=\"https://www.theguardian.com/world/2026/may/18/cuba-warns-of-bloodbath-us-military-drone-claim\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/may/18/cuba-warns-of-bloodbath-us-military-drone-claim",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:11.528003+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "b536011f23e0374d3789b92c380c1d52206ce9ab8e98ea489bfe8709e1bcafc9",
+        "title": "Drones reshape war in Colombia as deaths and injuries mount",
+        "summary": "<p>Civilians left increasingly exposed as a dangerous new front opens up in the country’s decades-old conflict</p><p>As night fell over southern <a href=\"https://www.theguardian.com/world/colombia\">Colombia</a>, and a group of children began their weekly Tuesday football match, a drone appeared overhead.</p><p>The children looked up, and the drone dropped a grenade, its blast killing a 10-year-old boy and injuring 12 more civilians. The child’s death, in southern Cauca in 2024, marked the first known time a person in the country had been killed in a weaponised drone attack.</p> <a href=\"https://www.theguardian.com/world/2026/may/18/drones-war-colombia-civilians-farc-acled\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/may/18/drones-war-colombia-civilians-farc-acled",
+        "severity": 6,
+        "scraped_at": "2026-05-19T12:45:11.528201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "0cd039dae7c443bdc85c7faaeb7a7a83dd1a756b0fdbcc12e562aaacc1e2c07d",
+        "title": "‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era",
+        "summary": "<p>Four months after Trump’s surprise raid, a political thaw has descended – but mingled with hope is trepidation for what comes next</p><p>When Ángel Linares heard a strange buzz followed by an explosion, his first thought was that neighbours were setting off fireworks to celebrate the new year.</p><p>Then his windows shattered, the building’s walls shook and its facade was ripped off, sending him flying on to the ground of an apartment suddenly reduced to rubble. His 85-year-old mother, Jesucita, feared Venezuela’s northern coast had been devastated by an earthquake, like the one she remembers from 1967.</p> <a href=\"https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:11.528285+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "a638e3c97904f8d729c85edb92e284e71640b31e6a05a181d9ce427f7f5508fb",
+        "title": "Fears of new China shock as EU industry’s reliance on imports grows",
+        "summary": "<p>Rising volume of components imported from China prompts warning of cannibalisation of European industries</p><p>Europe is facing a fresh China shock that threatens to cannibalise local factories, leading to job losses and de facto colonisation of industry by Beijing, trade analysts and representatives have said.</p><p>They fear the plunging exchange rate and support for Chinese “zombie firms” has echoes of the crisis in the US 25 years ago when the term “China shock” was coined. It referred to the impact of China bursting on to the global trade stage after becoming a member of the World Trade Organization, with soaring imports displacing local industries and causing the loss of up to 2.5m jobs.</p> <a href=\"https://www.theguardian.com/business/2026/may/19/china-shock-eu-european-union-industry-imports\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/business/2026/may/19/china-shock-eu-european-union-industry-imports",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:11.528363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "6d23f79153e11c6e5eb21a3db9426473cb3dc216dd82c2033d291f05a09e80eb",
+        "title": "Xi prepares to welcome Putin to China four days after hosting Trump",
+        "summary": "<p>Chinese state media say Beijing emerging as ‘focal point of global diplomacy’ with Russian leader arriving on Tuesday</p><p>Xi Jinping and Vladimir Putin exchanged “congratulatory letters” on Sunday ahead of the Russian president’s visit to Beijing this week, four days after Donald Trump left China after a high-stakes <a href=\"https://www.theguardian.com/us-news/2026/may/16/donald-trump-xi-jinping-summit-china\">summit</a>.</p><p>Xi said bilateral cooperation between Russia and China had “continuously deepened and solidified”, Chinese state media reported, with this year marking the 30th anniversary of the two countries’ strategic partnership.</p> <a href=\"https://www.theguardian.com/world/2026/may/18/xi-jinping-vladimir-putin-china-russia-four-days-after-donald-trump-us-visit\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/may/18/xi-jinping-vladimir-putin-china-russia-four-days-after-donald-trump-us-visit",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:11.528555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.7593719,
+          52.8110958
+        ]
+      },
+      "properties": {
+        "id_hash": "0ad4014aed2b4fa0561e32e2f89e4c95604275b1dcd5ec0356b7df99e598f5cc",
+        "title": "Pocock urges CGT changes as Albanese laughs off AI meme campaign",
+        "summary": "<p>Independent senator warns budget reform could drive tech investment offshore, as PM thanks startups for ‘very flattering’ images</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Anthony Albanese has laughed off <a href=\"https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes\">an AI-generated meme campaign</a> against capital gains tax changes from startup founders, thanking them for “very flattering” doctored photos of him working in their businesses.</p><p>But independent politicians representing some of Australia’s startup hotspots have raised alarm over the proposed increase to capital gains tax, warning the tax changes could see innovative companies and tech firms move overseas to chase higher rewards.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/19/australia-federal-budget-responses-albanese-ai-memes-david-pocock-warning\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/may/19/australia-federal-budget-responses-albanese-ai-memes-david-pocock-warning",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:12.710053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.920999,
+          37.0430812
+        ]
+      },
+      "properties": {
+        "id_hash": "d3310466a439af82ad9a2415ad1fbf21e10eb8ca322e49ece84bac51d6d6ccb1",
+        "title": "Liberal senator breaks ranks to take aim at Angus Taylor’s ‘negative’ rhetoric on immigration",
+        "summary": "<p>‘We cannot continue to blame migrants for the problems of our economy,’ backbencher Andrew McLachlan says</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A Liberal senator has broken ranks to criticise Angus Taylor’s plan to bar non-citizens from accessing welfare, warning it will create “two types of members of the community” and is “not the Australian way”.</p><p>The outspoken backbencher Andrew McLachlan said migrants should not be blamed for economic problems including the housing crisis, and warned his party’s immigration rhetoric was alienating diaspora communities.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/19/liberal-senator-breaks-ranks-to-take-aim-at-angus-taylors-negative-rhetoric-on-immigration\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/may/19/liberal-senator-breaks-ranks-to-take-aim-at-angus-taylors-negative-rhetoric-on-immigration",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:13.661479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.755,
+          -24.7761086
+        ]
+      },
+      "properties": {
+        "id_hash": "4b9871e21d885cfa1fea46535cbb18fc98ff962101e2db3660a342d78b1ef3e8",
+        "title": "Australian medical college leader suspended from position over alleged health and safety breach",
+        "summary": "<p>Dr Sharmila Chandran suspended until 20 September as Royal Australasian College of Physicians agrees to work with regulator to meet its obligations</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The charities regulator has suspended the president-elect of one of Australia’s oldest medical colleges for allegedly contravening a direction from the NSW work health and safety watchdog. <br /><br />\n The Australian Charities and Not-for-profits Commission (ACNC) on Monday <a href=\"https://acncpubfilesprodstorage.blob.core.windows.net/public/5c5178d6-2daf-e811-a963-000d3ad24077-07ae9511-983b-4c80-a1ea-26ccb9f57cb3-Enforcement%20-%20Register-c5aa3290-8552-f111-bec7-6045bde5b710-Summary_of_suspension_RACP_v2.pdf\">issued a notice</a> suspending Dr Sharmila Chandran as a responsible person of the Royal Australasian College of Physicians, which is a registered charity, until 20 September.<br /><br />\n SafeWork NSW advised that Chandran’s alleged failure to comply with a directive not to contact RACP staff was exposing them to “immediate and serious risks” to their psychological health and safety, the ACNC said in a public statement.</p><p>The intervention follows months of conflict within the RACP’s board, which culminated in an extraordinary general meeting last month to which <a href=\"https://www.theguardian.com/australia-news/2026/apr/29/royal-australasian-college-of-physicians-infighting-doctors-specialists\">police were called</a>.</p> <a href=\"https://www.theguardian.com/society/2026/may/19/royal-australasian-college-of-physicians-leader-suspended-sharmila-chandran-ntwnfb\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/society/2026/may/19/royal-australasian-college-of-physicians-leader-suspended-sharmila-chandran-ntwnfb",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:14.942437+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.755,
+          -24.7761086
+        ]
+      },
+      "properties": {
+        "id_hash": "4ef8ff04ab43599fe4fd5e3d7433bd8908c568273bc41f5a3689bfc255d73f57",
+        "title": "Australian taxpayers to pay $11bn to extend lifespan of ageing Collins-class submarines amid Aukus delay",
+        "summary": "<p>HMAS Farncomb had been due to be retired this year, but is now expected to operate until about 2036</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Taxpayers will fork out an extra $11bn to extend the lifespan of Australia’s ageing Collins-class submarines for another decade, bridging the capability gap before the scheduled arrival of the first Aukus vessels in 2032.</p><p>Originally designed to have a 30-year working life, the six Adelaide-built submarines have already been operational for between 23 and 30 years. The Albanese government announced in 2024 that it would undertake so-called “life of type extension” works to keep the six Collins class boats in the water for an additional 10 years.</p> <a href=\"https://www.theguardian.com/world/2026/may/19/richard-males-11bn-collins-class-submarines-aukus-delay\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/may/19/richard-males-11bn-collins-class-submarines-aukus-delay",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:15.731397+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "71b0a6654b92543d25b6eff3c96d7081259533aa798f5eb00363f1afec188594",
+        "title": "Nato jet shot down reported stray Ukrainian drone over Estonia, defence minister says – Europe live",
+        "summary": "<p>Estonia’s defence minister Hanno Pevkur confirmed the news to the Estonian news website Delfi and also the public broadcaster, ERR</p><p>The latest drone alerts come as <strong>Ukraine and Latvia were this morning forced by Russia to repeatedly refute Moscow’s claims that Kyiv was preparing attacks against Russia from Latvia.</strong></p><p>Ukraine’s foreign ministry spokesperson confirmed that <strong>Ukraine does not use the territory of Latvia</strong> for its operations against Russia and refuted Moscow’s claims.</p><p>“<strong>Russia is lying</strong> about Latvia allowing any country to use Latvian airspace and territory to launch attacks against Russia or any other country.”</p> <a href=\"https://www.theguardian.com/world/live/2026/may/19/europe-ukraine-russia-belarus-nuclear-drills-un-security-council-eu-us-hungary-peter-magyar-poland-nato-latest-news-updates\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/live/2026/may/19/europe-ukraine-russia-belarus-nuclear-drills-un-security-council-eu-us-hungary-peter-magyar-poland-nato-latest-news-updates",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:15.731565+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6109051,
+          51.2309097
+        ]
+      },
+      "properties": {
+        "id_hash": "1d044062d06ce250886d2f0866436d30d33ee4c296e4bd3de151418aa1737b36",
+        "title": "Experts locate bodies of four missing Italian divers inside Maldives cave",
+        "summary": "<p>Spokesperson for Indian Ocean island nation says they will try to recover explorers in next couple of days</p><p>Rescuers have located the bodies of four Italian divers deep inside an underwater cave in an atoll in the Maldives, four days after they were reported missing.</p><p>Searches had resumed after being suspended following the death of a local military diver during a perilous mission to try to reach them.</p> <a href=\"https://www.theguardian.com/world/2026/may/18/maldives-cave-italian-divers-bodies\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/may/18/maldives-cave-italian-divers-bodies",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:16.731309+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7876653,
+          61.1529386
+        ]
+      },
+      "properties": {
+        "id_hash": "933b60bc435b01e376b63e768a35bd3f98f609340df597e4f79971602a0b4d3f",
+        "title": "No ‘tailor-made’ deal for UK if it wants to rejoin bloc, say former EU Brexit officials",
+        "summary": "<p>Britain likely to face ‘warm, welcoming stance’ if it seeks re-entry but also a ‘hard-headed one’ – with no special deals</p><p>Britain would not be able to rejoin the EU on the special terms it enjoyed in the past, veterans of the Brexit negotiations have said.</p><p>The warnings came as senior Labour politicians jostling for the leadership of their party and country talk openly about wanting to return to the union at some point in the future.</p> <a href=\"https://www.theguardian.com/world/2026/may/18/no-tailor-made-deal-uk-eu-brexit-officials-rejoin\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/may/18/no-tailor-made-deal-uk-eu-brexit-officials-rejoin",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:17.724564+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "7ab6ccc07fa47c5b1fff56882db335902ba754d4b22515f748246f0f14b03e37",
+        "title": "Middle East crisis live: Iran warns it will ‘open new fronts’ against US if attacks resume after Trump suspends strikes",
+        "summary": "<p>The US president said he called off a planned attack on Iran on Tuesday so that peace talks could continue</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel\"><strong>Full report: Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war</strong></a></p></li></ul><p>Iran’s army has warned it would “open new fronts” against the US if it resumes attacks on the country amid reports that Donald Trump is weighing up restarting military operations in Iran amid an impasse in negotiations.</p><p>“If the enemy is foolish enough to fall into the Zionist trap again and launches new aggression against our beloved Iran, we will open new fronts against it, with new equipment and new methods,” army spokesperson Mohammad Akraminia said, according to Iran’s ISNA news agency.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates",
+        "severity": 6,
+        "scraped_at": "2026-05-19T12:45:17.724735+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "4fa072c5cd689f0370a89376e7222e2606389a76296042e4f7924fd009ac5c0f",
+        "title": "‘Come in for one minute’: exhibition showing horrors of 7 October attacks opens in London",
+        "summary": "<p>Commemoration of atrocity at Nova music festival confronts those who deny its gravity, says Elkana Bohbot</p><p>Two police vans waited expectantly near the front entrance. Officers patrolled the pavements while suited security men with ear pieces stood stern-faced, casting suspicious looks at those approaching. The location in east London had not been disclosed until that morning but no chances were being taken.</p><p>It was not for a visiting dignitary or even an embassy of a country in conflict that all this was deemed necessary but the Nova exhibition, a commemoration of the 378 people massacred at a music festival on 7 October along with the 44 taken as hostages and the 19 of those who died in Hamas captivity.</p> <a href=\"https://www.theguardian.com/uk-news/2026/may/19/israel-survivor-appeal-7-october-nova-exhibition-london\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/uk-news/2026/may/19/israel-survivor-appeal-7-october-nova-exhibition-london",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:17.724823+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "536ee21acef58a2c064436e0c89556e64cf8c327ab02a40ff75dcbb3a924dbfe",
+        "title": "UAE restores power to Barakah nuclear plant after drone strike, says IAEA – as it happened",
+        "summary": "<p>This blog is now closed. See our latest full report: <a href=\"https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel\">Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war</a></p><p><a href=\"https://www.theguardian.com/world/friedrich-merz\">Friedrich Merz</a> has been embroiled in a row with Donald Trump over his war on Iran ever since the German chancellor suggested the Trump team was <a href=\"https://www.theguardian.com/world/2026/apr/27/us-humiliated-iran-leadership-trump-merz\">being outplayed in its negotiations with Tehran</a> and said he would not advise his children to study or work in the US in the current climate.</p><p>The Guardian’s Berlin correspondent, Deborah Cole, has looked at the declining relationship between the two leaders in this story. Here is an extract:</p><p><em>Disputes over trade and military aid for Ukraine have fuelled tensions between the US and its European allies and <a href=\"https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence\">tested the Nato alliance</a>.</em></p><p><em>Merz is struggling to revive an anaemic German economy and has said the impact of the US-Israeli military action in Iran and the ensuing <a href=\"https://www.theguardian.com/world/strait-of-hormuz\">closure of the strait of Hormuz</a> has been severely damaging to European interests.</em></p><p><em>We strongly condemn the renewed Iranian airstrikes against the United Arab Emirates and other partners. Attacks on nuclear facilities pose a threat to the safety of people throughout the entire region. There must be no further escalation of violence.</em></p><p><em>Iran must enter into serious negotiations with the USA, stop threatening its neighbours, and open the strait of Hormuz without restrictions.</em></p> <a href=\"https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+        "severity": 6,
+        "scraped_at": "2026-05-19T12:45:17.724955+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "0ecf2074e7e633687b915b648bd83475300ce5a5b57d797eb298ff2e77864430",
+        "title": "Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war",
+        "summary": "<p>The US president says plans for a US military strike on Iran have been paused because ‘serious negotiations are now taking place’</p><p>Iran has made a new proposal for a deal to definitively end the war in the Middle East, officials in the region said on Monday, with Donald Trump claiming he had postponed new military strikes so talks could continue.</p><p>But while the US president has regularly used social media to threaten Tehran, and to claim that a peace deal was within reach, there has been no sign of an immediate breakthrough in the stalled negotiations to end the war.</p> <a href=\"https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
+        "severity": 6,
+        "scraped_at": "2026-05-19T12:45:17.725028+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "a3e85b899eccacbbabd14958c6373716a7ab16f92b704e724be3acb58c48b54b",
+        "title": "‘Disposable’ operatives for hire are a new menace for western countries",
+        "summary": "<p>A court case in New York has highlighted how Iran is using technology to recruit agents who may not even be regime supporters</p><p>When on Friday a 32-year-old Iraqi was brought before a court in New York to be <a href=\"https://www.theguardian.com/us-news/2026/may/15/iraqi-terror-attacks-arrested-charged\">charged with planning to attack Jewish community sites</a> in the US, a curtain was suddenly lifted on a corner of a shadowy world.</p><p>The detention of Mohammed Saad Baqer al-Saadi in Turkey last week revealed rare details of Iran’s efforts to use terrorism to sow discord among communities in Europe, the UK and the US – but also the outlines of an uncertain and threatening future.</p> <a href=\"https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:17.725116+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "01c0000b81c24b818f4412da8e6f1bc0ce5e7c74ca0e6858f3eb5926f3440aa2",
+        "title": "Minister defends Mandelson file redactions and says documents to be released in June – UK politics live",
+        "summary": "<p>Darren Jones says release will be ‘one of the largest government publications ever laid in this house’</p><p>On Friday parliament’s <strong>intelligence and security committee</strong> issued <a href=\"https://isc.independent.gov.uk/wp-content/uploads/2026/05/20260515-ISC-Press-Notice.docx.pdf\">a damning statement </a>about the government’s response to the humble address requiring the release of documents relating to the appointment of Peter Mandelson as ambassador to the US. It said the government was not fully complying with what is in effect an instruction from the Commons. For good measure, the committee also accuses the government of not keeping proper record of its decisions and of doing far too much business by WhatsApp. Here is our story, by <strong>Henry Dyer and Paul Lewis</strong>.</p><p>At 12.30pm <strong>Jeremy Wright</strong>, deputy chair of the committee and a former Tory attorney general, will ask a Commons urgent question about this. He is asking Darren Jones, the chief secretary to the PM, to reply.</p> <a href=\"https://www.theguardian.com/politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:17.725476+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6277127,
+          48.9645031
+        ]
+      },
+      "properties": {
+        "id_hash": "6909567ed2f1d0a5ad848f518cda82083bd40cfc30bd35eecf82307b000c8c78",
+        "title": "Police say extra funds to hunt grooming gangs in England and Wales will ‘likely fall short’",
+        "summary": "<p>Government announces a near tenfold increase but forces fear it will not cover anticipated cost of dedicated teams</p><p>Keir Starmer’s government has announced a near tenfold increase in funding for detectives hunting grooming gangs but has been warned by police that the amount will “likely fall short” of what is needed.</p><p>Operation Beaconport, which was set up last year to review closed group-based sexual exploitation inquiries in England and Wales, will receive nearly £38m, a Home Office statement said – up from £4m given last year.</p> <a href=\"https://www.theguardian.com/uk-news/2026/may/19/police-extra-funds-hunt-grooming-gangs-england-wales-fall-short\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/uk-news/2026/may/19/police-extra-funds-hunt-grooming-gangs-england-wales-fall-short",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:19.120809+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "f798b8e6525b190b718472e762917ad0da650f5e77c495457004db346954d561",
+        "title": "Carlton Chef: Creating the signature dish for the Jury President",
+        "summary": "🥘✨Thousands of dishes are served every day to hundreds of guests. This is the rhythm of Executive Chef @Axelmorand_chef at the Carlton Cannes, who created a signature dish for Cannes Jury President Park Chan-wook during the Film Festival.",
+        "link": "https://www.france24.com/en/video/20260519-carlton-chef-creating-the-signature-dish-for-the-jury-president",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:20.576114+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8945324,
+          60.2296941
+        ]
+      },
+      "properties": {
+        "id_hash": "9fbf6b3c81be713547fd188160e918b6f971620de8e44ef48933858e7c235b89",
+        "title": "India's rise of rural cinema: Film productions turn to the countryside",
+        "summary": "In 2025, Panchayat became the most-watched series in India. Its success stems from its story about the head of a village council in a rural area of ​​Uttar Pradesh. In recent years, stories from rural India have permeated the film industry, even reaching prestigious international award ceremonies. This rural revival has fostered the growth of independent rural cinema, particularly with the emergence of new streaming platforms. Since 2019, the platform STAGE has produced several hundred films in local dialects, targeting a potential audience of 50 million people, a segment long ignored by the multi-billion dollar Bollywood film industry. A report by Selma Daoui and Nabeel Ahmed.",
+        "link": "https://www.france24.com/en/tv-shows/focus/20260519-india-s-rise-of-rural-cinema-film-productions-turn-to-the-countryside",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:21.965221+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.3720487,
+          69.1973427
+        ]
+      },
+      "properties": {
+        "id_hash": "d2ee85c9594974cc56d2e92d0b88fd1d8dbbbd0e0fdfa5a5a86db6b733052c54",
+        "title": "Three dead in San Diego shooting as police investigate possible hate crime",
+        "summary": "Police were investigating a shooting in the US state of California as a hate crime on May 19 after a pair of teenage gunmen killed three people at a mosque complex. A security guard at the Islamic center is among the three victims, with authorities saying that his response had helped prevent a deadlier attack. FrANCE 24's Wassim Cornet tells us more.",
+        "link": "https://www.france24.com/en/three-dead-in-san-diego-shooting-as-police-investigate-possible-hate-crime",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:23.446658+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "435a5372f315cea37ed6d8645087efff0f9df7d904cd67efc6cf948c9ec72845",
+        "title": "Russia-China trade set to dominate talks between two leaders",
+        "summary": "Vladimir Putin is heading to Beijing for a two-day trip and talks with the Chinese leader, less than a week after the US president wrapped up his own trip to China. Going into the talks, Russia said it had 'high expectations' for those talks. FrANCE 24's Philip Turle looks at what to know from that meeting.",
+        "link": "https://www.france24.com/en/russia-china-trade-set-to-lead-talks-between-two-leaders",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:23.446768+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1184114,
+          -25.4829113
+        ]
+      },
+      "properties": {
+        "id_hash": "5ab4305d5f33d3d3d280dbd6a09c650aef3d6f5e941aef7bda993561d2156652",
+        "title": "Deadly attack by teen gunmen on a San Diego mosque",
+        "summary": "Police raced Monday to catch an armed teenage runaway before he and another teen opened fire on a San Diego mosque, killing three men and then themselves. The shooting is being investigated as a hate crime, San Diego Police Chief Scott Wahl said.",
+        "link": "https://www.france24.com/en/video/20260519-deadly-attack-by-teen-gunmen-on-a-san-diego-mosque",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:24.742775+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "85c99a78ea20937efbbffbe2797b6ddd41af7aa3a5f326f50a3fa9dfd5d7bc41",
+        "title": "What will Russia and China's leaders discuss over two-day visit?",
+        "summary": "Russia says it has \"high expectations\" for President Vladimir Putin's visit to China - as Moscow and Beijing move to deepen what the Kremlin calls their \"privileged partnership\". Putin will travel to China on May 19 and 20, less than a week after US President Donald Trump met Chinese President Xi Jinping in Beijing. August Hakansson looks at whats at stake.",
+        "link": "https://www.france24.com/en/what-will-russia-and-china-s-leaders-discuss-over-two-day-visit",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:24.742977+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "15ad24c5f9d8406cbc5587349c529dd0271acd7ff5bdd11532b0b43e49f43a39",
+        "title": "Trump says holding off on strike on Iran at request of Gulf allies",
+        "summary": "After issuing thinly veiled threats against Iran over the weekend, US President Trump appeared to strike a different tone on May 18. He described ongoing peace talks with Tehran as “very positive” and even claimed he had paused a planned US military strike.",
+        "link": "https://www.france24.com/en/trump-says-holding-off-on-strike-on-iran-at-request-of-gulf-allies",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:24.743062+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8328748,
+          23.0131338
+        ]
+      },
+      "properties": {
+        "id_hash": "7fad1caaabb7e355b4f6a8b85eef84f855e8cd3135da8cb6c922cdf412c40082",
+        "title": "Cuba says it has right to defend itself in case of US attack",
+        "summary": "Cuba's president has warned of retaliation in case of an attack from the United States, as the island \"has a legitimate right to defend itself against a military attack\". This comes amid rising tension between the two countries after Trump alluded to taking over the island and imposed additional sanctions on the communist nation.",
+        "link": "https://www.france24.com/en/cuba-says-it-has-right-to-defend-itself-in-case-of-us-attack",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:25.501804+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.12456,
+          47.59397
+        ]
+      },
+      "properties": {
+        "id_hash": "69d643ad5f395512957c728c7b46f95a1d5af252ae6fad3b38bad87d10c9efca",
+        "title": "At least 131 dead in DR Congo Ebola outbreak",
+        "summary": "One US national who contracted Ebola in the Democratic Republic of Congo has been evacuated to Germany for as special treatment. Meanwhile the Bundibugyo strain of the virus keeps circulating in the DRC. Travel warnings and entry restrictions for non-US citizens who have recently been in affected regions have been issued, including Uganda, the DRC and South Sudan.",
+        "link": "https://www.france24.com/en/video/20260519-at-least-131-dead-in-dr-congo-ebola-outbreak",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:26.777890+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.196573,
+          -37.3682655
+        ]
+      },
+      "properties": {
+        "id_hash": "cba1b65718025d2be7792fde09b7146ed4e4bb0f0229c86e022496f7546e5c3e",
+        "title": "Musk loses Open AI lawsuit as jury says it was filed too late",
+        "summary": "The world's richest man Elon Musk lost his blockbuster lawsuit against artificial intelligence giant OpenAI on Monday, with a federal jury finding that the tycoon had waited too long to bring his case forward. The trial saw some of the most powerful figures in Silicon Valley go head-to-head with their competing ambitions for the rapidly changing technology.",
+        "link": "https://www.france24.com/en/musk-loses-open-ai-lawsuit-as-jury-says-it-was-filed-too-late",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:28.108725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "192fb06ef92a8ccf42aca1f7953c73f2430c123da0df591e5c35ae286b2a287a",
+        "title": "Elon Musk loses his court battle against Sam Altman's OpenAI, but vows to keep fighting",
+        "summary": "A California court ruled on Monday that Elon Musk has waited too long to file a lawsuit against OpenAI's leadership accusing them of misleading the public about their plans to transform the once charity into a for-profit entity. Also in the business news this Tuesday, Standard Chartered cuts thousands of jobs as it accelerates adoption of AI and fires its CEO in South Korea over an insensitive promotional campaign.",
+        "link": "https://www.france24.com/en/tv-shows/business/20260519-elon-musk-loses-his-court-battle-against-sam-altman-s-openai-but-vows-to-keep-fighting",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:28.108849+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "3a80605258bb7086d9696a0f4f564665edbaed6c3721b7566abbf8364fe274d3",
+        "title": "Stalled US-Iran talks show \"Trump's strategy of pressure\" is not paying off",
+        "summary": "Late on May 18, Donald Trump said he had called of strikes on Iran following advice from Gulf countries. This comes amid stalled talks between the US and Iran, with neither party willing to compromise on their demands. FRANCE 24's Kethevane Gorjestani looks at where the talks stand, and where the Gulf countries' interests lie after weeks of conflict.",
+        "link": "https://www.france24.com/en/stalled-us-iran-talks-show-trump-s-strategy-of-pressure-is-not-paying-off",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:28.108888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "b50fc2d73bf9929870d09f88a4ac838850df6d6a20369aec9b7586df5af81379",
+        "title": "Middle East Eye: ICC could seek arrest warrant for Israel's Bezalel Smotrich",
+        "summary": "PRESS REVIEW - Tuesday, May 19: The pan-Arab publication Middle East Eye brings an exclusive report on an arrest warrant application for Israel's Bezalel Smotrich on war crimes and crimes against humanity charges, including apartheid. Donald Trump drops his lawsuit against the IRS in return for the creation of a nearly $2 billion \"slush fund\". And David Beckham, Kate Moss and King Charles visit London's Chelsea Flower show as it kicks off today.",
+        "link": "https://www.france24.com/en/tv-shows/press-review/20260519-middle-east-eye-icc-could-seek-arrest-warrant-for-israel-s-bezalel-smotrich",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:28.108928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "b1a64e33a31d2c302faa7636a20c78cdde4cf8e96f8721ec6a9860233b8b86c4",
+        "title": "‘Aid workers are targeted’: Russian drones strike UN convoy in Ukraine",
+        "summary": "Russian drones twice targeted a UN humanitarian mission tasked with delivering aid to civilians in the southern Ukrainian region of Kherson on May 14. In the hours following the strike, Russian military bloggers published footage of the attack, only to delete it shortly after.",
+        "link": "https://www.france24.com/en/europe/20260519-aid-workers-targeted-russian-drones-strike-un-convoy-ukraine",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:28.109011+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "89085fd8f6de52513498aeb93463e3f89caa79b72179ddebcd1bebd4adc9366f",
+        "title": "'Your only friend right now is Mr. Xi: Normal practice for Putin to go to China every year'",
+        "summary": "Oliver Farry is pleased to welcome Aleksei Chigadaev, Analyst on China-Russia Relations and Associate Research Fellow at the New Eurasian Strategies Centre. Veering away from a narrative of an anti-Western alliance, Chigadaev portrays a highly complex relationship marked by asymmetry, strategic necessity, and quiet unease. Far from depicting a partnership of equals, he argues that Russia increasingly seeks “legitimacy from the outside” through highly choreographed encounters with Xi Jinping, while China approaches Moscow with calculated pragmatism rather than ideological enthusiasm: “Your only friend right now is Mr. Xi”.",
+        "link": "https://www.france24.com/en/video/20260519-your-only-friend-right-now-is-mr-xi-normal-practice-for-putin-to-go-to-china-every-year-1",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:28.109091+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "27a5e8d9013cc1eaefed5a5e1e20f60b22f846216d0f642b47cd5bade8654fa3",
+        "title": "UN Experts Sound Alarm Over Saudi Arabia’s Abusive Labor Governance System",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Migrant workers at a construction site near Riyadh, Saudi Arabia, March 3, 2024.\n                    © 2024 Jaap Arriens/NurPhoto via AP Photo \n          \n    \n\n\n  \n<p>Leading UN human rights experts on issues of slavery, migration, and human trafficking worldwide have&nbsp;urged Saudi Arabia on April 29 to effectively abolish the kafala (sponsorship) system, an abusive system ties workers to their sponsors for their residency and work permits. Despite Saudi authorities’ Labor Reform&nbsp;Initiative in 2021 and the narrative Saudi leaders have cultivated around migrant worker welfare, experts have highlighted that exploitation has persisted, including unaccountable deaths, wage theft, workplace violence, retention of identity documents, and exorbitant recruitment fees.</p><p>This aligns with Human Rights Watch’s&nbsp;research finding that, despite several waves of labor reforms including the Labor Reform Initiative, migrant workers continue to face widespread abuse across employment sectors and geographic regions. Numerous migrant workers still experience conditions that amount to forced labor; this includes workers employed in high profile mega- and giga-projects funded by or linked to the Public Investment Fund (PIF), Saudi Arabia’s sovereign wealth fund.</p><p>Human Rights Watch&nbsp;research has also found migrant workers die due to avoidable work-place accidents; their deaths are erroneously classified as “natural” and are neither investigated nor compensated. As UN experts have rightly pointed out, these&nbsp;vulnerabilities are further exacerbated during times of crisis, such as the current regional conflict, when migrant workers faced heightened risks of job losses, injuries and deaths.</p><p>Despite evidence from trade unions, human rights groups, and UN bodies documenting Saudi Arabia’s severe lapses in labor rights enforcement, officials continue to defend these ineffective reforms while disregarding substantial evidence of abuses and calls for change. Saudi authorities have&nbsp;dismissed reports by rights groups on the grounds that victim accounts are anonymized, while failing to provide their own evidence that claimed reforms are being implemented and have made meaningful improvements in workers’ lives.</p><p>Saudi authorities attempted to&nbsp;close a recent complaint filed by African trade unions against the state for not adhering to its binding commitment in relation to several International Labour Organization (ILO) conventions in the 356th Session of the Governing Body in March 2026. The Governing Body has&nbsp;deferred its review of Saudi Arabia’s request for dismissal to November 2026.</p><p>Officials’ refusal to engage with evidence risks misrepresenting migrant workers’ realities, weakens accountability, and sends hiring companies the message that they do not need to make meaningful reforms. Saudi authorities should act on the recommendations from the UN experts and other organizations to abolish the kafala system and fully enforce all announced reforms.</p>",
+        "link": "https://www.hrw.org/news/2026/05/19/un-experts-sound-alarm-over-saudi-arabias-abusive-labor-governance-system",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:30.787817+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7876653,
+          61.1529386
+        ]
+      },
+      "properties": {
+        "id_hash": "b61d21fc9a93824aec4ee715f8eed6b94c62da2cdf9f05e24f19377e1f442edd",
+        "title": "Norway: Court Blocks Activist’s Extradition to Greece",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Tommy Olsen.\n                    © 2021 Daniel Berg Fosseng/TV 2 \n          \n    \n\n\n  \n<p>(Athens, May 19, 2026)&nbsp;– The&nbsp;decision by a Norwegian appeals court on May 15, 2026, to block the&nbsp;extradition of a human rights defender, Tommy Olsen, to&nbsp;Greece is a victory for human rights, Human Rights Watch said today. A district court&nbsp;had initially approved the extradition request on March 16, but Olsen filed an appeal.</p><p>The Hålogaland Court of Appeal unanimously recognized that the acts described by Greek authorities in its extradition request do not constitute criminal offenses under Norwegian law, and that his extradition would risk violating his right to freedom of expression under article 10 of the European Convention on Human Rights. The court concluded that Olsen’s actions were lawful acts protected by international treaties that bind both Norway and Greece.</p><p>“The court’s decision not to extradite Tommy Olsen is a victory for the work of human rights defenders, and a direct rebuff to Greece’s attempt to export its crackdown on dissent,” said Eva Cossé, senior Europe researcher at Human Rights Watch. “Greece should now revoke the warrant and drop all charges against Olsen and his codefendant Panayote Dimitras.”</p><p>Olsen, founder of the nongovernmental group&nbsp;Aegean Boat Report, was targeted in 2023 by Greek authorities with&nbsp;unfounded charges linked to his work documenting&nbsp;illegal pushbacks of asylum seekers and migrants at Greece’s borders. He is being prosecuted by Greek authorities alongside a Greek human rights defender, Panayote Dimitras, of&nbsp;Greek Helsinki Monitor. Greek authorities should drop all charges against Olsen and Dimitras and stop weaponizing criminal law to silence the country’s critics, Human Rights Watch said.</p><p>The case against Olsen and Dimitras is part of&nbsp;a wider pattern of misuse of criminal law to harass activists defending the rights of migrants. In January, a Greek court in Lesbos acquitted 24 humanitarian workers of the felony charges against them after a seven-year ordeal, during which some had spent periods in detention for their peaceful activism. The European Parliament described it as the “largest case of criminalization of solidarity in Europe.”</p><p>Greek authorities recently passed legislation that makes it easier to&nbsp;criminalize civil society organizations involved in aiding migrants and asylum seekers.</p><p>The United Nations Special Rapporteur on the situation of human right defenders, Mary Lawlor,&nbsp;expressed&nbsp;deep concern on March 19 about Olsen’s arrest, stating that these charges appear to be “in direct retaliation” for Olsen’s work and to form part of a “long-standing and well-documented repression” of rights defenders in Greece.</p><p>Extraditions under the&nbsp;European Arrest Warrant from one European Union state to another are largely automatic (with&nbsp;similar rules for Norway, a non-EU state), but the Court of Justice of the European Union&nbsp;has ruled that they can be delayed or halted on human rights grounds. As long as Olsen remains subject to an extradition request under the warrant, he will face a risk of arrest and extradition to Greece if he travels to any European Union state.</p><p>“Olsen remains at risk of politically motivated prosecution and extradition as long as Greece’s European Arrest Warrant remains in force,” Cossé said. “Greece should revoke the warrant, and other states should make clear they will respond to it as the Norwegian court has done.”</p>",
+        "link": "https://www.hrw.org/news/2026/05/19/norway-court-blocks-activists-extradition-to-greece",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:32.053227+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8902853,
+          -2.4833826
+        ]
+      },
+      "properties": {
+        "id_hash": "f89582f69f5484c4160e737518e9ad369db7f6e8a4764a580a9f6236f94881c6",
+        "title": "Indonesia: Plan to Vet Human Rights Defenders",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Advocacy for Democracy Team (TAUD) members show solidarity with Andrie Yunus, a rights who suffered burns in an acid attack in Jakarta, Indonesia, March 16, 2026.\n                    © 2026 Willy Kurniawan/Reuters \n          \n    \n\n\n  \n<p>(Jakarta) – An&nbsp;Indonesian official announced on April 30, 2026, that the government would seek to amend the country’s 1999 Human Rights Law to allow authorities to determine who is a recognized human rights defender, Human Rights Watch said today. Adopting such revisions would violate fundamental rights to freedom of expression and association and put rights defenders at greater risk.</p><p>Following the public outcry after four Indonesian soldiers allegedly attacked rights activist Andrie Yunus with acid on March 12 in Jakarta, Human Rights Minister Natalius Pigai&nbsp;said that the government would set up “a team of assessors” to determine whether someone is a “genuine” activist. When human rights groups criticized this proposal, Pigai said that he had been misunderstood, and that proposed revisions to the Human Rights Law would include a definition of human rights defenders to ensure their protection from criminalization.</p><p>“It’s not up to President Prabowo Subianto’s government to decide who is or isn’t a human rights defender,” said Meenakshi Ganguly, deputy Asia director at Human Rights Watch. “The Indonesian authorities should protect all those who work to uphold human rights instead of rooting out government critics under the guise of identifying ‘genuine’ rights defenders.”</p><p>Pigai said that the state would grant legal protection only to those defending the public interest, especially vulnerable groups, without personal or commercial interests. He said an assessment team would include government officials, civil society, and law enforcement to evaluate if someone is in fact a human rights activist. Activists paid for their work, he said, would not qualify, which in effect could harm the work of nongovernmental groups that promote human rights.</p><p>Muhammad Isnur, chair of the Indonesian Legal Aid Foundation (Yayasan Lembaga Bantuan Hukum Indonesia,&nbsp;YLBHI), said that the government should not have the authority to screen human rights defenders since it is often the government itself that violates human rights. “The consequences would be dangerous,” he told Human Rights Watch. “It is the state that should be the object of scrutiny, to determine whether it is violating human rights or not.”</p><p>Victor Mambor, a Papuan journalist at the Jayapura-based newspaper Jubi, said that the status of a human rights defender ultimately comes from public recognition and should not be a badge from the government. “Someone who works for humanity can be called a human rights defender without needing state recognition,” he said.</p><p>Pramono Ubaid Tanthowi, a member of the National Commission on Human Rights (Komisi Nasional Hak Asasi Manusia, Komnas HAM), said that threats against human rights defenders often involve state officials and corporations, and that any labeling by the government would be a clear conflict of interest. Komnas HAM is authorized to recognize a rights defender when needed, for instance, to seek the state protection or to get medical assistance.</p><p>The proposed revision of the Human Rights Law also includes provisions that would weaken the authority, mandate, and independence of Komnas HAM, including by merging it with the National Commission on Violence Against Women (Komnas Perempuan) and the Indonesian Child Protection Commission (Komisi Perlindungan Anak Indonesia, KPAI), two other official organizations, diluting their authority as well. The amendments are being reviewed, Pigai said, and the final draft is to be introduced in the House of Representatives for a vote in June or July.</p><p>These proposals are particularly concerning as President Prabowo has repeatedly decried his critics as “foreign lackeys,” Human Rights Watch said. The government is drafting a Bill on Combating Disinformation and Foreign Propaganda, which gives the state authority to designate certain information as&nbsp;“foreign propaganda.” Vague definitions would facilitate abuse and censorship because it would allow the authorities to label any criticism of the government as a threat to sovereignty or an incitement to violence, Human Rights Watch said.</p><p>In addition to the March 2026 acid attack against Yunus, activists in Indonesia have been repeatedly targeted in recent years. Unidentified assailants shot human rights lawyer Yan Christian Warinussy in July 2024 after he attended a corruption trial involving government officials in Manokwari. Adetya Pramandira and Fathul Munif, who work for the Indonesian Forum for the Environment (Wahana Lingkungan Hidup Indonesia, WALHI) and Thursday Action (Aksi Kamisan) respectively, were arrested in November 2025 in Semarang, Central Java and accused of inciting the August anti-corruption protests.</p><p>Under the United Nations Declaration on Human Rights Defenders, a human rights defender is any person or group of persons who works to promote and defend human rights. It affirms that anyone has the right to be a human rights defender, so long as they oppose human rights violations by peaceful means.</p><p>Preventing individuals from engaging in human rights work—for instance, by receiving payment as professional human rights defenders—would violate their fundamental rights to freedom of expression and association under the International Covenant on Civil and Political Rights, to which Indonesia is a party, and other international human rights treaties.</p><p>“Prabowo should firmly reject any attempt to restrict the rights of anyone acting to promote respect for human rights,” Ganguly said. “The government needs to recognize that the promotion of human rights, including by those who criticize government abuses, is good for everyone.”</p>",
+        "link": "https://www.hrw.org/news/2026/05/19/indonesia-plan-to-vet-human-rights-defenders",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:33.431149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.9999652,
+          17.1750495
+        ]
+      },
+      "properties": {
+        "id_hash": "3cf7d9d8f55bdd5094914a4f8548a9531fd6fce5a58f4ebb989916a372640209",
+        "title": "Myanmar: No Redress for Rohingya Muslims in Arakan Army Massacre",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Omar Ahmod risked his safety to return to Hoyyar Siri a few months after the massacre, located the sites where he had seen civilians gunned down, and took videos and photographs of human remains. These images were analyzed by forensics experts who, in some cases, identified gunshot injuries to the skulls of victims. &nbsp;“There, I saw heaps of skeletons and skulls scattered everywhere, clothes still intact though the flesh had decayed. Some bodies were in water-filled ditches, others on dry ground. I remembered exactly where these people had been gathered,” Omar Ahmod told Human Rights Watch.&nbsp;\n                    © 2026 John Holmes for Human Rights Watch  \n          \n    \n\n\n  \nTwo years after the Arakan Army, an ethnic armed group, killed and wounded hundreds of Rohingya Muslims in Myanmar’s Rakhine State and burned down their village, the survivors are still denied justice and cannot return to their homes.The Arakan Army, which denies having committed war crimes, deliberately fired on unarmed villagers who were seeking safety after the armed group advanced on two Myanmar military bases in the vicinity.The Myanmar military and Arakan Army should end attacks on civilians, release everyone unlawfully detained, and provide redress to victims. Both parties should cooperate fully with UN and other independent investigations.<p>(Bangkok) – Two years after the Arakan Army, an ethnic armed group, killed and wounded hundreds of&nbsp;Rohingya Muslims and burned down their village in&nbsp;Myanmar’s Rakhine State, the survivors remain unable to return home, with many effectively detained, Human Rights Watch said in a report released today. The Arakan Army has rejected responsibility for the massacre at Hoyyar Siri (Htan Shauk Khan in Burmese), Buthidaung township, which involved grave violations of the laws of war amounting to war crimes.&nbsp;</p><p>The 56-page report, “‘Skeletons and Skulls Scattered Everywhere’: Arakan Army Massacre of Rohingya Muslims in Hoyyar Siri, Myanmar,” documents the May 2, 2024 attack, in which Arakan Army fighters deliberately fired on unarmed villagers who were seeking safety after the armed group advanced on two Myanmar military bases in the vicinity. Details of the massacre&nbsp;only began emerging more than a year later, after some survivors fled to&nbsp;Bangladesh and&nbsp;Malaysia.&nbsp;</p><p>“The Arakan Army’s murder of hundreds of Rohingya civilians and the burning of their village in Rakhine State in 2024 took the armed conflict with Myanmar’s junta to a new level of depravity,” said&nbsp;Meenakshi Ganguly, deputy Asia director at Human Rights Watch. “Today, the massacre’s survivors are effectively detained by the Arakan Army, which has neither provided redress nor held those responsible to account.”</p><p>Human Rights Watch interviewed several dozen witnesses and survivors, corroborated their accounts by satellite imagery, and analyzed and verified photographs and videos.&nbsp;</p><p>Hostilities between Myanmar junta forces and the Arakan Army in Rakhine State resumed in November 2023.&nbsp;Both sides have been responsible for serious abuses, including targeted attacks on civilians, arson, and unlawful conscription. The findings contradict the Arakan Army’s claims in a letter to Human Rights Watch that its fighters only targeted military personnel or members of Rohingya armed groups.&nbsp;</p><p>Arakan Army fighters first opened fire on a group of civilians leaving Hoyyar Siri, some of whom were waving white flags. “First, my son was hit by a bullet,” said one man. “Then my wife and baby daughter were shot, followed by my other daughter.” The fighters continued to fire on the villagers as they turned back and attempted to flee.&nbsp;</p><p>One woman said the fighters gathered a group of villagers in a paddy field beside a mosque. “Within minutes they opened fire at us randomly, without saying anything,” she said. “No one was spared. My husband was hit by a bullet. When the Arakan Army saw he was still alive, they came closer, firing at him several more times.”</p><p>Human Rights Watch compiled a list of over 170 villagers, including about 90 children, who were killed or are still missing after the Hoyyar Siri massacre. The actual death toll is likely much higher.</p><p>Human Rights Watch analyzed and verified photographs and videos showing human remains at three separate sites in the village. At two of these sites, civilian clothing is visible among human remains. Satellite imagery corroborates witness accounts that Arakan Army fighters set fire to Hoyyar Siri and, after taking control, destroyed the entire village.&nbsp;</p><p>The fighters also robbed villagers of their cash and jewelry. One man detained by the Arakan Army said that he and other detainees were beaten and tortured, including with electric shocks. Several witnesses reported that fighters abducted Rohingya women and girls from the village.&nbsp;</p><p>In February 2025, the Arakan Army ordered all surviving Hoyyar Siri residents to relocate to a makeshift camp nearby. Villagers who later managed to flee to Bangladesh told Human Rights Watch that they were denied freedom of movement, subjected to forced labor, and faced severe shortages of food and medical care. They said that in August, the armed group organized a controlled media visit to Hoyyar Siri in which survivors were forced to provide false testimony to exonerate the Arakan Army for killing the civilians.</p><p>Over the past decade, the Myanmar military has committed ethnic cleansing, genocidal acts, and other atrocities in Rakhine State that have forced over a million Rohingya to flee. The massacre in Hoyyar Siri underscores that returning to Rakhine State is still unsafe for Rohingya refugees,&nbsp;even in areas now controlled by the Arakan Army.&nbsp;</p><p>The Myanmar military and Arakan Army should immediately end attacks on civilians, release all civilians unlawfully detained, and provide redress to victims and their families, Human Rights Watch said. The Arakan Army in its letter to Human Rights Watch said it would facilitate inquiries by international human rights groups deemed credible and independent. Both parties should cooperate fully with independent investigations, including by granting access to the Independent Investigative Mechanism for Myanmar, the United Nations special rapporteur on Myanmar, and human rights groups.</p><p>“Myanmar’s military seemed indifferent to the plight of the Rohingya civilians at Hoyyar Siri in 2024, and since then the junta has done nothing to address their broader human rights concerns,” Ganguly said. “Concerned governments should urgently press both the Myanmar junta and the Arakan Army to respect the rights of all communities in Rakhine State.”</p>",
+        "link": "https://www.hrw.org/news/2026/05/18/myanmar-no-redress-for-rohingya-muslims-in-arakan-army-massacre",
+        "severity": 8,
+        "scraped_at": "2026-05-19T12:45:34.752211+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "31a94d33010cf595ea75ece2660878d7043355c29de2604af0c917f05dae8a61",
+        "title": "Rwanda Genocide Suspect Dies without Facing Justice",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              The head of the Gendarmerie’s Central Office for Combating Crimes Against Humanity, Genocides and War Crimes (OCLCH), displays documents with a wanted poster of Félicien Kabuga, May 19, 2020, in Paris.\n                    © 2020 Benoit Tessler/Reuters\n          \n    \n\n\n  \n<p>The&nbsp;death of accused&nbsp;Rwandan genocide financier Félicien Kabuga closes an important chapter of the country’s 1994 genocide. Unfortunately, it also robs survivors of a chance for justice many had waited decades to see.</p><p>Kabuga, long alleged to have financed the extremist militia that carried out the genocide and helped fuel genocidal propaganda through Radio Télévision Libre des Mille Collines,&nbsp;died in a hospital in The Hague at the age of 93 on May 16 while in custody of the&nbsp;United Nations International Residual Mechanism for Criminal Tribunals. He had been declared unfit to stand trial in 2023 because of dementia and deteriorating health.</p><p>For years, Kabuga symbolized both the persistence of international justice efforts and long-standing impunity for crimes committed during the genocide. Indicted in the 1990s, his 2020 arrest in France after more than two decades as a fugitive was a&nbsp;breakthrough for genocide victims and survivors.</p><p>When his trial&nbsp;opened in The Hague in 2022, 28 years after the genocide, it was an important opportunity to establish a full public record of the role Kabuga played in it.</p><p>Alison Des Forges, who was a senior adviser to the Africa Division at Human Rights Watch for almost two decades, published in her authoritative account of the genocide, “Leave None to Tell the Story,” that “Radio RTLM, which had incited to genocide before April 6, communicated the orders for implementing the killings after that date. It instructed people to erect barriers and carry out searches; it named persons to be targeted and pointed out areas which should be attacked…. So important was this means of communication that officials admonished citizens to keep listening to the radio for instructions from the interim government.”</p><p>Des Forges also documented how Kabuga was implicated in ordering the thousands of machetes imported to Rwanda in 1993 and early 1994, and how he supported the military training for the Interahamwe youth militia, whose members hunted down Tutsi civilians during the genocide.</p><p>Kabuga died without a judicial determination of guilt or innocence, marking a painful lack of closure for the victims of one of the gravest crimes of the 20th century.</p><p>There is no expiration date on justice for the most serious crimes, and alleged perpetrators of the Rwandan genocide continue to be arrested in different countries. Judicial authorities should ensure that survivors and victims don’t face more delays.</p>",
+        "link": "https://www.hrw.org/news/2026/05/18/rwanda-genocide-suspect-dies-without-facing-justice",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:34.752456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.337079,
+          47.2398992
+        ]
+      },
+      "properties": {
+        "id_hash": "531f6ed484df241dca4698a888764eb4e1bbd7c9d87c127ea62705fae7abc130",
+        "title": "Court Judgment Raises Concerns About Civic Freedoms in Nigeria",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              The Federal High Court premises in Abuja, Nigeria, on April 22, 2026.\n                    © 2026 Light Oriye Tamunotonye/AFP via Getty Images\n          \n    \n\n\n  \n<p>On May 5,&nbsp;a Nigerian high court ordered the Socio-Economic Rights and Accountability Project (SERAP), a prominent local human rights organization, to pay 100 million naira (about US$72,000) in damages to two Department of State Services officials. The court also directed the organization to publish public apologies and pay litigation costs.</p><p>The Department of State Services officials filed the civil case against SERAP following the latter’s September 2024&nbsp;allegations that officials unlawfully invaded its Abuja office after the organization criticized the Nigerian National Petroleum Company over increases in the price of Premium Motor Spirit (PMS).</p><p>The judgment raises serious human rights concerns, particularly for freedom of expression and the ability of civil society groups to report alleged state abuses without fear of retaliation. Governments should not be able to instrumentalize defamation suits to intimidate or retaliate against critics who call out alleged human rights violations.</p><p>SERAP has&nbsp;appealed the ruling and filed for a stay of execution pending the outcome of the appeal. The organization described the judgment as a “travesty” and argued that the court relied on defective evidence and committed significant legal and procedural errors.</p><p>More than 50 Nigerian civil society organizations have since&nbsp;expressed support for SERAP, warning that the judgment could undermine freedom of expression and discourage public-interest advocacy. The groups also raised concerns over reports that the Certified True Copy and full text of the judgment had not been publicly released despite widespread public commentary on the case. They called for transparency in judicial proceedings and protection of constitutional guarantees, including freedom of expression, a fair hearing, and access to justice.</p><p>Nigeria’s judiciary should play a critical role in safeguarding democratic accountability and public confidence in the rule of law. As the appeal proceeds, judicial authorities should ensure transparency, uphold due process, and protect the rights guaranteed under Nigeria’s constitution and international human rights obligations.</p>",
+        "link": "https://www.hrw.org/news/2026/05/18/court-judgment-raises-concerns-about-civic-freedoms-in-nigeria",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:36.010532+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "ae5b0b791914a65081e594a81fa1d9d9ca4e967b3f7572f644b1dfaa722992b2",
+        "title": "El Salvador: Human Rights Lawyer Still in Jail One Year on",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Ruth López.\n                    © El Diario de Hoy\n          \n    \n\n\n  \n<p>(Washington, DC) – The prominent anti-corruption lawyer Ruth López remains in pretrial detention in&nbsp;El Salvador with her case under judicial seal&nbsp;one year after her arrest, Human Rights Watch said today. Salvadoran authorities should guarantee López a prompt, open, and fair trial, lift the judicial secrecy on her case file, and allow her regular contact with her family and lawyers.</p><p>López, 48, heads the Anti-Corruption Unit at Cristosal, one of Central America’s leading human rights organizations. She has investigated alleged&nbsp;corruption by senior officials in the administration of Salvadoran President Nayib Bukele and&nbsp;denounced serious human rights violations under the country’s state of emergency. López’s detention&nbsp;marked the start of an escalating crackdown on government critics, including human rights defenders and journalists.&nbsp;</p><p>“Ruth López spent years warning that President Bukele was dismantling the institutions that protect Salvadorans from abuse of power,” said&nbsp;Juanita Goebertus, Americas director at Human Rights Watch. “Her own case is sadly the clearest evidence that she was right. The authorities should lift the secrecy on her case, present any credible evidence in an open court, and allow López meaningful access to her lawyers.”</p><p>Police&nbsp;arrested López on May 18, 2025, at her home in San Salvador. López was initially charged with&nbsp;embezzlement in connection with her work, over a decade ago, as an adviser to a former Supreme Electoral Tribunal magistrate, Eugenio Chicas. Approximately 15 days after her arrest, prosecutors&nbsp;changed the charge to illicit enrichment.&nbsp;</p><p>At a hearing on June 4, 2025, a judge&nbsp;sent her to pretrial detention. She was subsequently&nbsp;transferred to La Granja de Izalco prison, where she remains. In December, the judge overseeing the case&nbsp;extended her pretrial detention for an additional six months. Her current pretrial detention order is set to expire in June 2026.</p><p>The evidence against López has not been presented in open court. The judge has not publicly articulated a reason to keep her case under judicial seal.&nbsp;</p><p>Through her work at Cristosal, López investigated the alleged misuse of public funds—including&nbsp;irregularities in pandemic-era&nbsp;public contracting—and filed&nbsp;legal challenges against the May 2021 summary removal of the attorney general and the five magistrates of the Constitutional Chamber. She also helped&nbsp;lead the citizen campaign against the December 2024 repeal of El Salvador’s metal mining ban and, in early 2025,&nbsp;filed habeas corpus petitions on behalf of Venezuelans transferred from United States custody to El Salvador’s Terrorism Confinement Center (Centro de Confinamiento del Terrorismo, CECOT).</p><p>López’s arrest was followed by sweeping measures targeting government critics, Human Rights Watch found.</p><p>On May 20, 2025, two days after López was detained, the Legislative Assembly, controlled by President Bukele’s party,&nbsp;passed a “foreign agents law.” The law claims to promote “transparency,” but&nbsp;in practice provides the government expansive authority to control, stigmatize, and sanction human rights groups and independent media outlets that receive international support.&nbsp;</p><p>Since the law came into force, the Association of Journalists of El Salvador and at least three other civil society organizations have closed their Salvadoran offices, citing the requirements imposed by the law.&nbsp;</p><p>On June 7, 2025,&nbsp;police arrested Enrique Anaya, one of the country’s most prominent constitutional lawyers and a vocal government critic, on alleged money laundering charges. A few days before his arrest,&nbsp;Anaya had publicly condemned López’s detention. He&nbsp;remains in pretrial detention, and his case file is also under seal.</p><p>As a consequence of this escalation, many government critics have gone into exile. Between May and September 2025, at least 140 human rights defenders and journalists&nbsp;left the country. Cristosal&nbsp;announced in July 2025 that it was suspending its operations in El Salvador and relocating to Guatemala and Honduras. They&nbsp;said they had to choose between “exile and prison.”</p><p>The use of indefinite pretrial detention against López and other government critics reflects a broader pattern in El Salvador, where&nbsp;successive legal changes adopted since 2022 have effectively dismantled due process guarantees, including limits on pretrial detention, and allowed for mass hearings of hundreds of defendants at a time. Most of these measures were adopted under the state of emergency in force since March 2022, which has been used to detain more than 91,000 people. Human Rights Watch has&nbsp;documented&nbsp;widespread human rights violations during the state of emergency, including mass arbitrary detention, torture, enforced disappearances, and inhumane conditions in detention.&nbsp;</p><p>Judicial independence in El Salvador has been severely&nbsp;compromised since May 2021, when the Legislative Assembly summarily removed the five magistrates of the Constitutional Chamber and the attorney general, replacing them with allies of the executive.</p><p>On September 22, 2025, the Inter-American Commission on Human Rights said that&nbsp;López and&nbsp;Anaya faced serious and urgent risks to their life, integrity, and health, and urged El Salvador to guarantee adequate prison conditions, including regular contact with family and lawyers. Salvadoran authorities have not publicly reported any steps to implement these measures.</p><p>Foreign governments and international human rights bodies, including the United Nations Human Rights Council, should substantially step up their public scrutiny of El Salvador’s human rights record, Human Rights Watch said. They should publicly press El Salvador to grant López, Anaya and other critics who have been detained a prompt, open, and fair trial, lift the judicial secrecy on their cases, and guarantee them regular contact with their families and lawyers.</p><p>Under its Democratic Charter, the Organization of American States (OAS) has a mandate to discuss and take action against “unconstitutional alteration of the constitutional regime that seriously impairs the democratic order.” Yet its Permanent Council has for years abdicated its responsibility to discuss the situation in El Salvador.</p><p>“With its crackdown against human rights defenders and journalists, El Salvador is joining the ranks of authoritarian governments like Venezuela, Nicaragua, and Cuba,” Goebertus said. “Latin American and European governments should take the country’s authoritarian drift seriously and urgently step up their response.”</p>",
+        "link": "https://www.hrw.org/news/2026/05/18/el-salvador-human-rights-lawyer-still-in-jail-one-year-on",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:36.010943+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "760c3666a93acd910fbb0813e3bee80c41d0ddf1baab42d6629cad452dac4032",
+        "title": "Ukraine’s Proposed Legislation Threatens Rights",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              A placard reads \"Civil Code Is Step Back\" during a peaceful protest to urge MPs to refine the draft of the new Civil Code taking into account amendments proposed by human rights activists, in Mariinsky Park, Kyiv, Ukraine, May 5, 2026.\n                    © 2026 Pavlo Bahmut/Ukrinform via Reuters \n          \n    \n\n\n  \n<p>Ukraine’s parliament on April 28 advanced a bill to make sweeping&nbsp;reform of the national civil code, which raises significant human rights concerns.</p><p>The draft, which was adopted in the first reading, does not include same-sex partnerships in the definition of “marriage.” A recent landmark&nbsp;ruling from Ukraine’s Supreme Court recognized that a same-sex partnership constituted “family,” yet the legislators, instead of endorsing that shift towards equality, are choosing to further entrench discrimination in law. Without formal legal recognition, same-sex partners in Ukraine are not considered family, blocking access to a range of rights.</p><p>While&nbsp;public support for family equality in Ukraine has soared to over 70 percent since the start of Russia’s full-scale invasion, this bill appears frozen in the past, failing to reflect a society that has fundamentally progressed.</p><p>Other provisions are equally problematic. The bill repeatedly refers to an ambiguous concept of “good morals” in relation to regulating private relations, opening the door to arbitrary interpretation. Archaically, the draft allows a former husband to compel his ex-wife to revert to her maiden name based on his assessment of her “immoral” conduct while married. A mandatory “reconciliation process” for divorcing couples with children could trap people in harmful or abusive situations.</p><p>The bill also undermines&nbsp;the best interests of the child and weakens protections for&nbsp;people with disabilities. It permits retroactively changing an adopted child’s date and place of birth and keeping secret from the child the fact of their adoption. The bill also effectively legalizes the abandonment of children with disabilities by allowing parents to leave them at healthcare facilities. Additionally, the draft retains a rigid guardianship system, stripping people with disabilities of legal capacity and denying them autonomy over decisions regarding their medical care and family life.</p><p>Some legislators&nbsp;have defended the bill, noting it reflects “years of work” by legal experts. However, leading human rights groups&nbsp;raised alarm that the draft puts Ukraine afoul of its international obligations—including the European Convention on Human Rights, the Convention on the Rights of Persons with Disabilities, and the Convention on the Rights of the Child. The bill also departs from the European Union non-discrimination principles, potentially complicating Ukraine’s accession path.</p><p>During the next stages of the legislative process parliament should bring the draft in line with Ukraine’s international obligations. Legal reform should be designed to protect, not undermine, Ukrainians’ human rights and to promote equality and the rule of law.</p>",
+        "link": "https://www.hrw.org/news/2026/05/15/ukraines-proposed-legislation-threatens-rights",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:36.011286+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4416347,
+          51.1785153
+        ]
+      },
+      "properties": {
+        "id_hash": "9532effd3c884a9b55de10c8515ac56cad457f9762b8db206c0874a9f71892f4",
+        "title": "New York Considers Measures to Rein in ICE",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Immigration activists are calling on Governor Kathy Hochul to sign the NY For All Act, which expands protection for immigrants living in New York reguardless of immigration status. New York City, March 22, 2026.\n                    © 2026 Steve Sanchez/Sipa via AP Photo\n          \n    \n\n\n  \n<p>New York Governor Kathy Hochul has announced a proposed budget deal that includes reforms aimed at blunting the abusive impact of Immigration and Customs Enforcement (ICE) operations in the state. The White House “border czar” Tom Homan has threatened to retaliate against such reforms, stating that ICE would “flood the zone” in New York or other states that pass similar legislation. New York leaders should stand up to the federal government’s abuse and&nbsp;do even more to protect immigrant rights. &nbsp;</p><p>Human Rights Watch was in Los Angeles, Chicago, and Minnesota over the last year documenting widespread abuse by federal immigration agents including&nbsp;unlawful killings, arbitrary detention, excessive force, discrimination, and disruptions in access to health care, education, food, and work.</p><p>Hochul’s proposed reforms would bar 287(g) agreements that deputize local authorities for immigration enforcement. These agreements can lead to&nbsp;increased abuses and threaten public safety by, for example, deterring&nbsp;domestic violence survivors and other victims of crime from&nbsp;calling the police. But leading immigrant rights groups&nbsp;note that Hochul’s proposals still enable local coordination with ICE and are calling for lawmakers to impose more&nbsp;comprehensive restrictions.</p><p>Proposed reforms would also ban the use of face coverings by law enforcement. The&nbsp;widespread practice of immigration agents hiding their identities exacerbates community fear and impedes accountability, and the federal government is not utilizing this concealment in furtherance of any legitimate purpose. ICE agents’ names and badge numbers should also be visible.</p><p>Another proposed reform would enable residents to sue local or federal officials under state law for violating the US Constitution, which could open an&nbsp;important pathway for accountability. Local advocates have also called for state lawmakers to eliminate qualified immunity, which shields officers from liability.</p><p>New York should take additional steps, including considering&nbsp;increasing funding to immigration legal services. Many advocates are also calling for lawmakers to pass the&nbsp;Dignity Not Detention Act to prohibit state, local, or private actors from contracting with ICE to carry out&nbsp;immigration detention, and the&nbsp;New York for All Act to restrict local coordination and resourcing of immigration enforcement actions.</p><p>State leaders should urgently enact measures to protect New Yorkers, including by broadly prohibiting collaboration with ICE abuse, restricting law enforcement’s use of masks, and helping to ensure accessible pathways to justice and accountability.</p>",
+        "link": "https://www.hrw.org/news/2026/05/14/new-york-considers-measures-to-rein-in-ice",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:36.975062+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "72e965ddaca567dfc29f8bf3aec00adf923063adef624658c19a1e1d8c5286fe",
+        "title": "US Foreign Aid Cuts Harm Human Rights Globally",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              A USAID box amid materials left behind after widespread vandalism and looting following clashes at the World Food Programme warehouse in Bukavu, Democratic Republic of Congo, February 21, 2025.\n                    © 2025 Luis Tato/AFP via Getty Images\n          \n    \n\n\n  \n<p>(Washington, DC) – The&nbsp;United States government’s abrupt cuts to nearly all US foreign aid in 2025 harmed the global human rights movement and countless people at risk, Human Rights Watch said in a 42-page paper issued today.</p><p>“Every Autocrat’s Dream: A Global Snapshot of the Human Rights Harms of US Foreign Aid Cuts” examines the immediate consequences of the aid cuts to the work of human rights defenders around the world. Investigations into abuses were halted, support for victims cut off, and organizations that helped deter violations were forced to scale back or close.&nbsp;</p><p>“The US government’s withdrawal of support from the global human rights movement was music to the ears of autocrats,” said&nbsp;Sarah Yager, Washington director at Human Rights Watch. “The foreign aid cuts have made it harder to document human rights violations, protect communities at risk, and hold human rights abusers to account.”</p><p>The US government had been the largest donor to human rights work around the world for decades, until the Trump administration gutted US foreign aid between January and March 2025. Valid criticisms of foreign aid programs notwithstanding, the sudden and massive US funding cuts had immediate detrimental effects worldwide.&nbsp;</p><p>Human Rights Watch examined the impact of aid cuts on media freedom, access to information, and digital security; combating discrimination and targeted violence; and justice, accountability, and the rule of law. The snapshot includes cases from 16 countries:&nbsp;Afghanistan,&nbsp;North Korea,&nbsp;Venezuela,&nbsp;Bangladesh, Cameroon,&nbsp;Democratic Republic of Congo,&nbsp;Guatemala,&nbsp;Haiti,&nbsp;Myanmar,  Thailand,&nbsp;Tanzania,&nbsp;El Salvador,&nbsp;Georgia,&nbsp;Nicaragua,&nbsp;Turkmenistan, and&nbsp;Ukraine.&nbsp;</p>  \n\n\n\n      \n\n  \n  \n    \n\n\n\n  \n        \n  \n\n          \n        Every Autocrat’s Dream: A Global Snapshot of the Human Rights Harms of US Foreign Aid Cuts\n      \n      \n\n\n  \n<p>The cases are snapshots of the weeks and months immediately following the aid cuts to illustrate the human rights implications of the Trump administration’s decisions in various contexts.</p><p>While no government is obligated to provide foreign aid, the way the United States terminated assistance caused foreseeable harm and demands accountability, Human Rights Watch said. The US Congress should mandate an independent review to assess the human rights consequences of the 2025 aid reductions and program terminations and restore funding for human rights in future appropriations. Policymakers, donor governments, and private philanthropy should act urgently to rebuild support for the global human rights movement in a sustainable and rights-respecting way.&nbsp;</p><p>“By cutting funding so quickly and comprehensively, the US government pulled away the lifeline for many people facing abuse,” Yager said. “The resilience of human rights groups amid rising authoritarianism and global crises has been extraordinary, but their determination is not a substitute for sustained support.</p>",
+        "link": "https://www.hrw.org/news/2026/05/14/us-foreign-aid-cuts-harm-human-rights-globally",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:36.975322+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "ab97b61ed103de765276e4368904c020e660d6322ddb7cea0c4704386964b729",
+        "title": "DR Congo: M23 Rebels Commit Atrocities in Eastern City",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              The M23 armed group patrols Uvira, Democratic Republic of Congo, December 13, 2025.\n                    © 2025 Jospin Mwisha / AFP via Getty Images\n          \n    \n\n\n  \nThe M23 armed group and Rwandan military forces carried out an abusive month-long occupation of an eastern Democratic Republic of Congo city beginning in December 2025.During this time, these forces shot fleeing civilians, summarily executed more than 50 people during door-to-door searches, raped at least 8 women, and forcibly disappeared at least 12 people.Criminal investigations are needed, including by the International Criminal Court, to ensure these crimes do not go unpunished.<p>(Kinshasa) – The M23 armed group and&nbsp;Rwandan military forces carried out an abusive month-long occupation of the eastern&nbsp;Democratic Republic of Congo city of Uvira beginning in December 2025, Human Right Watch said in a report released today.</p><p>The 23-page report,“‘We Are Civilians!’: Killings, Sexual Violence, and Abductions by the M23 and Rwandan Forces in Uvira, Democratic Republic of Congo,” documents the M23 and Rwandan forces’ occupation of Uvira, the second largest city in South Kivu province from December 10, 2025, days after the signing of the United States-brokered&nbsp;Washington Accords, until their withdrawal on January 17, 2026. During this time, these forces shot fleeing civilians, summarily executed more than 50 people during door-to-door searches, raped at least 8 women, and forcibly disappeared at least 12 people.</p>  \n\n\n\n      \n  \n\n\n\n            \n        \n                        \n      \n          \n      \n        \n    \n      May 14, 2026\n            \n        “We Are Civilians!”\n\n      \n      <p class=\"media-related__subtitle text-gray-700 text-lg font-serif font-normal leading-snug py-2\">Killings, Sexual Violence, and Abductions by the M23 and Rwandan Forces in Uvira, Democratic Republic of Congo</p>\n    \n          \n                  \n            \n              \n\n\n\n  \n        \n  \n\n\n              <p class=\"media-related__item-title font-semibold text-sm pl-4\">Download the full report in English</p>\n            \n          \n              \n      \n\n\n  \n<p>“After taking control of Uvira, M23 fighters and Rwandan forces went door-to-door to summarily kill men and boys and committed rape and abductions,” said&nbsp;Philippe Bolopion, executive director at Human Rights Watch. “Human Rights Watch documented numerous horrific abuses but may have only scratched the surface. Criminal investigations are needed, including by the International Criminal Court, to ensure these crimes do not go unpunished.”</p><p>The report, the result of the first field research into abuses in Uvira during the M23 and Rwandan occupation, is based on over 120 interviews conducted in March and April 2026. Human Rights Watch wrote to the government of Rwanda and to Bertrand Bisimwa, the head of the M23, to provide the report’s preliminary findings, but received no responses.</p><p>On March 2, the US government imposed&nbsp;sanctions on the Rwandan army and its commanders for their role in the capture and occupation of Uvira.</p><p>The M23, first formed in 2012 as a rebellion against the Congolese government,&nbsp;reemerged in late 2021 with&nbsp;support from Rwanda. Since then, fighting between the M23 and Rwandan forces, on one side, and Congolese armed forces along with allies including the&nbsp;abusive militias known as the Wazalendo, on the other, have&nbsp;displaced&nbsp;hundreds of thousands of people in North and South Kivu, in eastern Congo. The warring parties have committed unlawful&nbsp;killings, rape, forced recruitment, and forced labor.</p>  \n\n\n\n      \n\n  \n  \n  \n\n      \n    \n\n  \n                        \n      \n    \n\n  \n\n\n  \n<p>While taking control of Uvira, the M23 and Rwandan forces repeatedly fired their weapons at civilians, killing and wounding them, including those attempting to flee to safety. One man who tried to flee with family members saw four of them shot as they tried to flee the city on December 10. “It was chaos,” he said. “We had small bags that we threw off and we ran. I wasn't hit so I just ran to the lake. I saw my brother, his wife, and two of his children fall.”</p><p>Once M23 and Rwandan forces had control of Uvira, they began seeking out men and boys in door-to-door operations, accusing them of ties to the Wazalendo and executing many on the spot. Human Rights Watch documented the summary execution of 53 civilians by the M23 and Rwandan forces, most on December 10.</p><p>Human Rights Watch also documented eight cases of rape by M23 fighters and Rwandan soldiers against women in and around Uvira. Survivors spoke of the&nbsp;near-total lack of accessible healthcare services during the occupation, particularly the absence of timely post-exposure prophylactic (PEP) treatment to prevent contracting HIV, and of adequate care for injuries and infections resulting from sexual violence.</p><p>The M23 also abducted civilians into their forces during the Uvira occupation. In at least 12 documented cases, their whereabouts remain unknown.</p><p>Congolese and Rwandan authorities, with international support, should commit to a full accounting of the abuses by the M23 and Rwanda military forces that occurred during the occupation of Uvira.</p><p>Rwanda should cease its support for the abusive M23, Human Rights Watch said. The Congolese government, in collaboration with international bodies, should conduct prompt, transparent, and impartial investigations into serious violations of international human rights and humanitarian law by the parties to the conflict, and ensure that those responsible are held accountable in fair and transparent trials.</p><p>Communal graves remain across the city. The Congolese government should facilitate investigations by independent human rights monitors and instruct military and administrative authorities to facilitate their access, protect witnesses, and preserve any evidence. Congolese authorities should ensure the protection of Uvira civilians, including by ending support to and removing abusive Wazalendo militias from the city.</p><p>International partners of both Congo and Rwanda should&nbsp;support the Independent Commission of Inquiry on the Human Rights Situation in the South and North Kivu Provinces, mandated by the United Nations Human Rights Council in 2025, so that it is able to fulfill its mandate. These governments should also sanction M23 and Rwandan commanders and others implicated in serious violations and review military and security assistance and cooperation with Rwanda to ensure such support is not fueling further violations.</p><p>“The occupation of Uvira shows the abusive methods used by the M23 and Rwandan forces,” Bolopion said. “Victims and their families in Uvira seek justice and an end to the impunity that drives these crimes. Congo’s supporters need to step up to support these efforts.”</p>",
+        "link": "https://www.hrw.org/news/2026/05/14/dr-congo-m23-rebels-commit-atrocities-in-eastern-city",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:36.975681+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.8902853,
+          -2.4833826
+        ]
+      },
+      "properties": {
+        "id_hash": "221a540aa4492f44fc5b654286b85d7879931b8cf60488c3c8611176717f0261",
+        "title": "Indonesia Inches Towards Protections for Domestic Workers",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Activists demand the Indonesian parliament pass a bill to protect domestic workers outside the parliament building in Jakarta, August 14, 2023.\n                    © 2023 Tatan Syuflana/AP Photo\n          \n    \n\n\n  \n<p>Two female domestic workers, ages 15 and 18, jumped from the fourth floor of a Jakarta boarding house on April 22 in a desperate attempt to escape their employer. One died; the other was severely injured.</p><p>The tragedy came just a day after Indonesia’s parliament finally approved the long‑awaited Domestic Workers Protection Law, granting domestic workers long denied legal safeguards. But passing the law is only the first step: the government now has one year to draft implementing regulations and set protection standards, slowing the rollout of critical safeguards.</p><p>The two domestic workers were fleeing an allegedly exploitative environment—and they are far from alone. Indonesia has about 4.2 million domestic workers, 90 percent of whom are women. The International Labour Organization (ILO) estimated in 2012 that around 700,000 were children under age 18.</p><p>Human Rights Watch has documented that domestic workers are often isolated in private homes, cut off from support networks, and trapped in conditions that heighten their vulnerability to abuse. Survivors of sexual violence reported feeling unable to escape, pressured to keep working for financial reasons, or threatened with further harm if they spoke out.</p><p>According to Jala PRT, Indonesia’s National Network for Domestic Workers, there were 3,300 reported cases of violence and abuse against domestic workers between 2017 and 2024, including sexual, physical, and economic abuse, as well as forced labor, trafficking, and torture.</p><p>For over two decades, civil society groups and unions have pushed for stronger protections. The new law, 22 years in the making, finally recognizes domestic workers as formal workers, regulates their conditions, and provides access to vocational training, health insurance, unemployment benefits, time off, and pensions. It also sets 18 as the minimum age for domestic work, banning the hiring of children who face greater risk of exploitation.</p><p>“The most important thing now is recognition of working hours, religious holiday allowances, wages, days off, accommodation and food, as well as social security and social assistance—all of which have been missing and have kept domestic workers in poverty,” said Lita Anggraini, Jala PRT’s national coordinator.</p><p>For the law to deliver real change, the government needs to implement it quickly, establish clear enforcement mechanisms, and ensure that domestic workers can safely report abuse. Indonesia should move to ratify ILO Convention No.&nbsp;189 on domestic workers and 190 on violence and harassment, aligning national protections with international labor standards.</p>",
+        "link": "https://www.hrw.org/news/2026/05/13/indonesia-inches-towards-protections-for-domestic-workers",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:38.202714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "9f7959449918f943711331bdc8bb437838a5ccfec433ff5ecd6b984d38c81391",
+        "title": "ICC: Landmark First Hearing in Libya Atrocity Case",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Khaled Mohamed Ali El Hishri appeared before Pre-Trial Chamber I of the International Criminal Court in The Hague, Netherlands, December 3, 2025.\n                    © 2025 International Criminal Court \n          \n    \n\n\n  \n<p>(The Hague) – The International Criminal Court’s (ICC) upcoming landmark hearing in the case of Khaled Mohamed Ali El Hishri, suspected of crimes against humanity and war crimes, is a long-awaited breakthrough for victims of serious crimes in Libya, Human Rights Watch said today.&nbsp;</p><p>From May 19 to 21, 2026, ICC judges will hear evidence against El Hishri in a “confirmation of charges” hearing to determine whether the case against him should proceed to trial. He is the first person to face justice before the ICC concerning atrocities in Libya since the United Nations Security Council referred the situation in Libya to the ICC prosecutor in 2011, to investigate serious crimes committed following the country’s uprising. Human Rights Watch has published a question-and-answer document about the upcoming proceedings.</p><p>“Finally seeing a suspect on the docket at the ICC, 15 years after the end of Libya’s 2011 revolution, sends a powerful message to thousands of victims of serious crimes in Libya that their struggle for justice has not been forgotten,” said Alice Autin, international justice researcher at Human Rights Watch. “As atrocities persist across Libya, progress in this case should spur action from Libyan authorities and the international community to end the pervasive impunity that continues to fuel violence.”</p><p>El Hishri is a former senior member of the Deterrence Apparatus for Countering Terrorism and Organized Crime (al-Radaa), a Tripoli-based militia affiliated with the Presidential Council and formerly known as the Special Deterrence Force.&nbsp;</p><p>The ICC Office of the Prosecutor alleges that El Hishri is responsible for 17 counts of war crimes and crimes against humanity including torture, rape, sexual violence, murder, enslavement, and persecution. The charges relate to crimes allegedly committed at Libya’s notorious Mitiga Prison in Tripoli, between 2014 and 2020, against both Libyan and non-Libyan detainees. El Hishri is alleged to have directly committed, ordered, and facilitated these crimes through the authority he wielded over the prison.</p><p>German authorities arrested El Hishri in July 2025 on an ICC warrant for alleged war crimes and crimes against humanity committed in Mitiga Prison. They surrendered him to the court, in The Hague, in December 2025.&nbsp;</p><p>Human Rights Watch, other human rights and humanitarian organizations as well as the UN have documented inhumane conditions in detention centers and prisons across Libya, many run by abusive and unaccountable armed groups nominally affiliated with the authorities. Successive Libyan governments and interim authorities have failed to end this practice or to investigate and hold accountable those responsible for serious abuses committed in the detention centers.</p><p>The ICC has issued public arrest warrants against 14 individuals in relation to the Libya investigation, including El Hishri. Four have since died or were killed, and eight others remain at large. ICC judges declared the case against Abdullah al-Senussi, the intelligence chief under former Libyan leader Muammar Gaddafi, inadmissible before the court.&nbsp;</p><p>German authorities’ successful arrest and surrender of El Hishri to the ICC is especially important because it demonstrates how ICC member countries can contribute to the court’s delivery of justice when they fulfill their obligation to cooperate with the ICC, Human Rights Watch said.</p><p>In January 2025, Italy, also an ICC member, failed to surrender El Hishri’s alleged co-perpetrator at Mitiga Prison, Osama Elmasry Njeem, to the court after arresting him. Instead, Italian authorities sent him back to Libya. In October 2025, ICC judges found that Italy breached its obligation to cooperate with the court and, in January 2026, referred it to the court’s member countries for further action.</p><p>Under the Security Council resolution that referred the situation in Libya to the ICC prosecutor and Libyan authorities’ 2025 decision to accept the court’s jurisdiction from 2011 to 2027, Libya—though not an ICC member—has a clear obligation to cooperate with the court. This includes the arrest and transfer to the ICC of individuals wanted by the court who are on its territory. However, Libya’s cooperation with the court to date has remained largely inadequate. Some Libyan authorities have opposed the trial of Libyans outside of Libya as a matter of principle and questioned the need for the ICC’s involvement in some investigations in the country.&nbsp;</p><p>Libyan authorities have reportedly arrested at least two suspects also wanted by the ICC in relations to serious crimes in Tarhuna, based on domestic investigations. They also reportedly arrested Njeem in Tripoli in November 2025 and placed him in pretrial detention.</p><p>The ICC is a court of last resort and national courts have the primary responsibility to investigate and prosecute serious crimes committed on their territory. However, when ICC investigations have already led to arrest warrants, domestic authorities have to demonstrate to the court that they are trying the ICC suspects for the same crimes being tried by the court. Njeem’s defense counsel has filed a challenge with ICC judges, claiming that there are ongoing criminal proceedings against Njeem in Libya that cover substantially the same conduct for which he is wanted by the ICC. The issue is currently pending before the ICC judges. Libyan authorities should swiftly transfer all ICC suspects in their custody to the court in The Hague, Human Rights Watch said.</p><p>Human Rights Watch has found that Libya’s fragmented justice sector remains marred by serious due process violations and laws that breach international norms, and that the judiciary is unwilling and unable to meaningfully investigate serious crimes.</p><p>“The El Hishri confirmation of charges hearing highlights how important it is for countries to cooperate with the ICC,” Autin said. “Further progress on justice for serious crimes in Libya hinges on Libyan authorities fulfilling their legal duty to surrender suspects sought by the ICC.”&nbsp;</p>",
+        "link": "https://www.hrw.org/news/2026/05/13/icc-landmark-first-hearing-in-libya-atrocity-case",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:38.203111+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5528,
+          23.6345
+        ]
+      },
+      "properties": {
+        "id_hash": "b310ae22cde0a380a5fd35801c237a86291c811a2435f25533b64ef5a7303190",
+        "title": "ILO Labor Treaty Should Protect All Gig Workers",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Delivery workers driving through New Delhi, India, 2026.\n                    © 2026 Human Rights Watch \n          \n    \n\n\n  \n<p>(New York) – Gig workers around the world experience long hours, unpredictable and declining pay, and serious safety risks, Human Rights Watch said in a report released today. Governments negotiating a landmark treaty under the International Labour Organization (ILO) on platform work in June 2026 should adopt strong, binding standards to ensure fair pay, safe working conditions, and access to social security for gig workers worldwide.</p><p>The multimedia report, “Algorithms of Exploitation: Rights Abuses in the Gig Economy and the Global Fight for Change,” documents the experiences of platform workers across nine countries, including India, Kenya, Kuwait, Lebanon, Mexico, Pakistan, Saudi Arabia, the UAE, and the United Kingdom. Human Rights Watch found that workers across all countries studied face low and unstable earnings, unsafe working conditions, and little or no protection when they are injured or unable to work.</p>  \n\n\n\n      \n\n  \n    \n  \n\n\n            \n        \n                                    \n      \n                    \n              \n        \n      \n        \n                                     \n            Algorithms of Exploitation\n      \n                                 \n              \n                                \n\n\n\n\n\n\n\n\n      \n      Rights Abuses in the Gig Economy and the Global Fight For Change\n    \n      \n\n\n\n  \n        \n  \n\n\n                \n    \n\n\n  \n<p>“Platform companies have built a business model that sidesteps labor protections and shifts risks and costs onto the workers,” said Lena Simet, senior economic justice advisor at Human Rights Watch. “The ILO negotiations are the first global effort to get governments to course correct and ensure that using this model does not come at the expense of workers’ rights.”</p><p>Human Rights Watch interviewed drivers and delivery workers in India, Kenya, Lebanon, Mexico, Pakistan, and the UK as well as migrant returnees from Bangladesh and Nepal who previously worked for companies in Saudi Arabia, the UAE, and Kuwait to show examples of the human impact of unregulated work in the platform economy.</p><p>The ILO estimates that platform work nearly doubled between 2016 and 2021, while the World Bank estimates that up to 435 million people worldwide earn income through these labor platforms. Yet labor protections have not kept pace.</p><p>The convention under negotiation should address existing gaps in protection by including key guarantees for all platform workers, regardless of employment status, Human Rights Watch said. Because platform companies routinely classify workers as independent contractors or self-employed, this in many countries excludes them from minimum wage, social security, and occupational safety guarantees.</p><p>Workers described long hours, unpredictable and declining pay, and serious safety risks, often without social security or support if an injury or illness left them unable to work.</p><p>Apraham Orfalian, a driver in Beirut, said his earnings have declined steadily since 2015, leaving him unable to cover everyday expenses or contribute to social security. After his car and phone were stolen in a violent robbery while he was working for Uber, he was left without income and said he received no support from the company.&nbsp;</p><p>Agnes Mwongera, a driver in Nairobi, said she had been assaulted by a passenger and received no response when she reported the attack to her company.</p><p>Graeme Franes, a courier who used a bicycle to deliver food in Scotland, UK, said he was unable to work for six months after an attack left him with a broken arm. “I had to rely on friends and family,” he said. “That was a really tough time.”</p><p>By classifying gig workers as independent contractors, companies in many countries are able to avoid obligations for minimum wages, occupational safety, and social security. At the same time, they exercise significant control over workers through algorithmic systems that determine pay, assign tasks, and can suspend workers often without transparency or effective recourse.</p><p>Human Rights Watch previously found that after expenses, many platform workers in the United States earn well below a living wage and the statutory minimum wage. Workers in other countries reported similar dynamics, with earnings often insufficient to meet everyday expenses. This exploitative model allows companies to capture a growing share of revenue while shifting costs onto workers, contributing to widening inequality in labor markets.</p><p>Human Rights Watch urges governments to adopt strong standards that:</p>Establish a presumption of employment for workers when companies exercise control over them, to prevent misclassification;&nbsp;Require fair pay, including compensation for all working time, and earnings that meet at least minimum wage or living wage standards;&nbsp;Guarantee access to social security for all workers, including in cases of injury, illness, unemployment, and older age;&nbsp;Mandate algorithmic transparency from platform companies, including information for workers on how their pay is calculated, how tasks and jobs are priced and assigned, and how incentive programs work;&nbsp;Ensure accountability for platform companies, including accessible ways for workers to challenge automated decisions, including decisions to deactivate their accounts;Extend occupational health and safety protections to all platform workers and require the companies to adopt safeguards against extreme heat and other dangerous working conditions; andGuarantee workers’ rights to organize and bargain collectively without retaliation.&nbsp;<p><br />Human Rights Watch has contributed to the ILO process&nbsp;through submissions outlining rights-aligned approaches to regulating platform work, including&nbsp;proposals developed&nbsp;jointly with civil society organizations.</p><p>“The decisions governments make now will shape the future of work for millions of people,” Simet said. “They should ensure that platform work is governed by fair pay, safety, and social security, not exploitation.”</p>",
+        "link": "https://www.hrw.org/news/2026/05/13/ilo-labor-treaty-should-protect-all-gig-workers",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:38.203490+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "89a59003bff58ab59010e74c216132970b28933b5c5a46da9033e979ccf2534d",
+        "title": "Venezuela: Exclusions, Procedures Mar Amnesty Law",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Relatives of detainees held for political reasons wait outside El Helicoide, headquarters of Venezuela's intelligence service and a detention center, after the National Assembly approved an amnesty bill in Caracas, Venezuela, February 19, 2026.\n                    © 2026 AP Photo/Cristian Hernandez\n          \n    \n\n\n  \n<p>(Washington, DC) – Venezuela’s new amnesty law has serious shortcomings that exclude many people who have been arbitrarily detained and is being applied in ways that may deny release to people who should be eligible, Human Rights Watch said today.&nbsp;</p><p>The law is ostensibly an effort to help Venezuela move forward from years of political repression under former President Nicolás Maduro. Venezuelan authorities&nbsp;say that more than 8,600 people, including over 300 who had been imprisoned, have benefited from the law, though without providing a list. However, many opposition members, journalists, and human rights defenders who had been arbitrarily detained have been excluded. At least&nbsp;457 political prisoners remain behind bars, according to the human rights group Foro Penal&nbsp;</p><p>“Venezuela’s new amnesty law falls notably short of ensuring the release of anyone arbitrarily detained for political reasons,” said&nbsp;Juanita Goebertus Estrada, Americas director at Human Rights Watch. “What’s worse, its unfair and opaque implementation has further undermined whatever limited promise it held.”</p><p>Venezuela’s National Assembly&nbsp;approved the amnesty law on February 19, 2026, with the stated purpose of “promoting social peace and democratic coexistence” by granting a “full and general amnesty” for certain offenses committed between 1999 and 2026. Venezuelan authorities should ensure that the law is applied transparently and to its fullest extent, and should explore additional legal avenues to drop criminal charges against everyone who has faced arbitrary prosecution, Human Rights Watch said.&nbsp;</p><p>Under the law, Venezuelan courts, which lack independence from the executive branch, are responsible for reviewing individual amnesty requests.</p><p>Human Rights Watch interviewed 16 people whom Justicia, Encuentro y Perdón and Foro Penal have identified as political prisoners, and whose amnesty requests were denied or pending at the time of the interviews. Researchers also interviewed two lawyers representing potential beneficiaries as well as members of several Venezuelan human rights organizations monitoring its implementation. Human Rights Watch additionally reviewed ten court decisions denying amnesty requests and three appeals.</p><p>President Delcy Rodríguez&nbsp;suggested on April 23 that the amnesty law had fulfilled its purpose and was coming to an end. Congressman Jorge Arreaza, who leads a National Assembly commission tasked with monitoring compliance with the law,&nbsp;later clarified that it remained in place. Yet he estimated that the law had already covered most eligible cases. The two lawyers interviewed, as well as&nbsp;Foro Penal, said that some courts had apparently refused to accept new amnesty petitions since Rodríguez’s announcement.</p><p>Authorities have denied amnesty to opposition leaders such as&nbsp;Perkins Rocha and&nbsp;Henry Alviarez, members of the opposition party Vente Venezuela; human rights defender&nbsp;Javier Tarazona, director of the human rights organization Fundaredes; a&nbsp;group of union leaders; and journalist and activist&nbsp;Carlos Julio Rojas.</p><p>The law contains limitations that seriously undermine its stated purpose. Although the law claims to cover acts committed since 1999, it limits eligibility to those prosecuted “in the context” of specific events occurring in certain years. It also includes vaguely defined provisions that allow judges to deny amnesty to people who have been prosecuted for acts protected under international human rights law.&nbsp;</p><p>Even beyond its inherent limitations, the law’s implementation has been marked by significant shortcomings. Some people seeking amnesty, including some who have been imprisoned for years, have not been adequately informed about the accusations or evidence presented against them, making it harder for them to argue that they meet the already narrow eligibility criteria in the law.&nbsp;</p><p>In some cases, judges have also failed to explain the legal basis for their decisions to deny amnesty. They have also restricted access to case files and to private legal representation.</p><p>Venezuelan authorities should ensure the unconditional release of anyone arbitrarily detained or prosecuted, including for political reasons, Human Rights Watch said.&nbsp;</p><p>The new Peace and Democratic Coexistence Program&nbsp;created by President Rodríguez should assess cases in which amnesty has been denied or remains pending, and it should urgently call on the government to proceed without delay in granting people pardons if they were arbitrarily or otherwise wrongfully detained and to release them unconditionally. The program should also review the cases of people who were excluded from the law because they have been accused of violent crimes without basis.</p><p>The newly appointed ombudsperson, Eglée González, should closely monitor the law’s implementation and press the authorities to apply it in a transparent, even-handed way that respects due process. The newly appointed attorney general, Larry Devoe, should support amnesty requests by people arbitrarily detained and explore additional legal avenues under Venezuelan law to close arbitrary investigations against critics.&nbsp;</p><p>Venezuelan authorities should also take broader steps to restore the independence and integrity of the judiciary, including by ensuring transparent, merit-based appointments to vacant seats in the Supreme Court, Human Rights Watch said. They should also reform or repeal laws that have enabled the arbitrary prosecution of critics, such as the 2017 Law Against Hatred and the 2012 Law Against Organized Crime and Terrorism Financing.&nbsp;</p><p>“Foreign governments should monitor the release of political prisoners and the broader efforts to reform the judiciary as key benchmarks to assess whether there is progress in respecting human rights in Venezuela,” Goebertus said.</p><p>Loopholes, Other Problems in the Law</p><p>The amnesty law claims to cover “all actions or omissions constituting crimes or misdemeanors” committed since 1999. However, it includes three sets of provisions that exclude many people who have been arbitrarily detained.&nbsp;</p><p>First, the law limits eligibility to people prosecuted “in the context” of specific events, including the 2014 and 2017 protests and the 2024 and 2025 electoral processes, each confined to narrowly defined time frames.&nbsp;</p><p>In some cases, judges have denied amnesty to people who had been arbitrarily detained on the apparent basis that their cases did not fall within the specific events covered by the law, although some decisions fail to articulate a clear basis for denying amnesty.&nbsp;</p><p>For example, on March 5, 2026, a judge in Caracas denied amnesty to five union workers who had been detained in 2022 after participating in protests demanding wage increases and better working conditions for the public sector. Among other reasons, the judge cited the fact that their detention was not connected to the specific events covered by the law. In 2023, they were convicted of “conspiracy” and “criminal association.” They were released in December 2023 under the condition of reporting periodically to the courts. The conviction still stands.</p><p>Second, the law contains broadly defined provisions allowing judges to exclude people who may have been arbitrarily detained for acts that amount to protected speech. In particular, the law excludes anyone accused of “promoting, instigating, facilitating, financing, or participating in armed or forceful actions against the people, sovereignty, and territorial integrity of Venezuela.”&nbsp;</p><p>Third, the law excludes people accused of “military rebellion,” certain violent crimes such as homicide, and human rights violations. Some of these exclusions are reasonable in principle and, to some extent, even required under international human rights law. However, some people in Venezuela have been arbitrarily prosecuted and convicted of such offenses and should be released unconditionally. Venezuelan authorities should explore additional avenues to ensure that such cases are properly reviewed, that those affected are released, and that the cases against them are dropped, based on a broader analysis of the evidence that does not rely solely on the crimes with which they were charged or convicted.&nbsp;</p><p>Among others, authorities should analyze the cases of over 180 members of the military whom Foro Penal considers to be political prisoners, along with those involving allegations of attempted murder against Nicolás Maduro.&nbsp;</p><p>In one case, Carlos Julio Rojas, a journalist and activist, was detained in April 2024 and accused, among other crimes, of trying to kill Maduro, accusations that he said were fabricated. He was released in January 2026 under conditions requiring him to report periodically to a judge. He told Human Rights Watch he was detained because of his criticism of Maduro’s government and his work as a journalist and human rights defender. In April, a judge denied his request for amnesty.&nbsp;</p><p>The law also requires beneficiaries to “cease” their allegedly criminal conduct, although many have been prosecuted for legitimate and lawful exercises of their rights to freedom of expression and association. This underscores the urgent need to reform or repeal laws, such as the 2017 Law Against Hatred, that have enabled such prosecutions in the first place.</p><p>It also requires authorities to remove from their records any information related to individuals benefiting from amnesty. While this measure may eliminate the formal consequences of prosecution for beneficiaries, it does not provide for the preservation or use of such records for future accountability or truth-seeking efforts. Authorities should expunge the records from individuals’ personal files while ensuring that they are otherwise preserved, Human Rights Watch said.</p><p>Failures in Implementation&nbsp;</p><p>Human Rights Watch identified shortcomings that have undermined the ability of people to argue that they meet the criteria established under the law.&nbsp;</p><p>Courts have also often exceeded the 15-day legal deadline for issuing decisions on amnesty requests. Human Rights Watch spoke with several people who had waited for more than two months for a decision in their cases or were still waiting. Lawyers and some applicants said that court officials have justified these delays because of a lack of “instructions from above,” pointing to possible political or other undue interference.</p><p>Many people interviewed said they were not adequately informed of the accusations or evidence against them, making it difficult if not impossible for them to argue that their cases meet the requirements of the amnesty law. In some cases, the authorities have limited access to case files, which lawyers need to prepare adequate amnesty requests and effectively represent their clients.&nbsp;</p><p>For years, courts have also&nbsp;refused to accept documents where the accused critics, political opponents, and others designate a private counsel, effectively forcing defendants to be represented by a public defender. Several people who requested amnesty said that courts continue this practice, which makes it more difficult for individuals to prepare and submit requests.&nbsp;</p><p>“I tried to appoint my lawyer,” an opposition figure said. “They put up many obstacles, telling me not to worry because the public defender could proceed with the request.” However, four people whose amnesty requests were denied and two of their lawyers said that public defenders fail to request amnesty or appeal negative decisions. “We are in a total state of defenselessness,” one of them said.</p><p>Courts have often failed to articulate a clear basis for their decisions to deny amnesty. Some rulings Human Rights Watch reviewed simply cite several articles in the law, without specifying which requirements had not been met in the judge’s view.&nbsp;</p><p>This practice has enabled decisions that are, or appear to be, inconsistent. In one case documented by Human Rights Watch, a judge granted amnesty to six of eight defendants but denied it to the remaining two, including Perkins Rocha (the only one still under house arrest), although all of them had faced the same charges stemming from seemingly similar events and time periods included in the law. In another case, the judge told the detainee that his amnesty request was rejected because he had been charged with “terrorism,” even though other people charged with the same crime have obtained amnesty.</p><p>In at least 10 documented cases, judges failed or delayed providing written copies of decisions denying amnesty. “I asked them for a copy of the decision, but they won’t give it to me,” one person said. Without a formal written ruling, affected individuals are severely hampered in their ability to appeal.&nbsp;</p>",
+        "link": "https://www.hrw.org/news/2026/05/13/venezuela-exclusions-procedures-mar-amnesty-law",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:38.204098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8222636,
+          -2.9814344
+        ]
+      },
+      "properties": {
+        "id_hash": "6bcbc48a7ac39f73a6ae5502d99cfaabc4e2cfb145d32aa726d69e6fcbcc60f7",
+        "title": "DR Congo: Increasing Repression of Critical Expression",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Congolese President Felix Tshisekedi speaks during a press conference in Kinshasa, Democratic Republic of Congo, May 6, 2026.\n                    © 2026 Democratic Republic of Congo Presidency/Handout via REUTERS\n          \n    \n\n\n  \n<p>(Kinshasa) – The authorities in the Democratic Republic of Congo are increasingly harassing and arbitrarily detaining journalists, activists, and political opposition members, Human Rights Watch said today.</p><p>The clampdown on critical voices has occurred amid the Rwandan-backed M23 armed group’s occupation in eastern Congo and political tensions surrounding a potential constitutional&nbsp;amendment through which President Félix Tshisekedi&nbsp;may seek to extend his presidency beyond the two-term limit. Tshisekedi most recently raised the constitutional revision during a nationally televised news conference on May 6, 2026.</p><p>“Congolese citizens have the right to express their opinions and concerns without fear of repression, but doing so is becoming increasingly difficult,” said Philippe Bolopion, executive director of Human Rights Watch. “Congolese authorities should end their restrictions on the rights to free speech and protest and ensure that everyone in Congo can express their peaceful views without facing harassment, arbitrary arrest, or detention.”</p><p>Between January and May 2026, Human Rights Watch interviewed six civil society representatives, eight opposition activists, and two journalists in Congo about growing restrictions on the rights to freedom of expression and peaceful assembly.</p><p>On March 24, police in the capital, Kinshasa, fired tear gas and used violence against protesters peacefully demonstrating against proposed constitutional changes, according to&nbsp;media reports and representatives of the opposition party Commitment for Citizenship and Development Party (Engagement pour la Citoyenneté et le Développement, or ECiDé), who were at the protest.</p><p>Two ECiDé representatives said that police arrested 15 opposition members and protesters and took them to the Matete district police station, where they released 5 and transferred the others to the prosecutor's office. The 10 were released the following evening.</p><p>Two journalists said that they had to go into hiding after intelligence agents came to their apartments looking for them following the journalists’ statements critical of government policy, including the possibility of a constitutional amendment to extend the presidential term limit.</p><p>Congo is engaged in an armed conflict in the east with Rwandan government forces and the abusive M23 armed group, which captured major cities in 2025. As the hostilities have escalated, Congolese authorities have increasingly targeted individuals who they claimed were in collusion with the M23 and other opposition armed groups.</p><p>On January 9, National Intelligence Agency (Agence nationale de renseignements) agents arrested&nbsp;Jordan Saidi Atibu, the coordinator of the Kisangani branch of the Observatory of Parliamentary and Government Action (Observatoire d’Actions Parlementaire et Gouvernementale).The group was created in Bukavu, South Kivu province, several years before the M23 took control of the city in February 2025. A credible source said the intelligence agency questioned Atibu because of his appointment as head of the movement. He spent 40 days in a cell with no access to light before his release.</p><p>On March 3, three intelligence agents arrested&nbsp;Serge Sindani, a journalist and director of Kis24.info, and questioned him about having ties to the M23 and the Alliance Fleuve Congo, the political-military coalition that includes the M23. He was held for 10 days without charge.</p><p>A Human Rights Watch report&nbsp;previously documented 17 cases of enforced disappearances of political figures and human rights activists, with many found, sometimes months later, in the custody of the National Cyber Defense Council (Conseil national de cyberdéfense, or CNC). The CNC, alongside the Congolese National Police and the president’s Republican Guard, has arbitrarily arrested and detained people.</p><p>Of those 17 cases, 9 were released and 8 remain in detention. Two of them,&nbsp;Aubin Minaku, former president of the National Assembly as a&nbsp;People's Party for Reconstruction and Democracy (Parti du peuple pour la reconstruction et la démocratie, or PPRD) representative under former President Joseph Kabila, and&nbsp;Emmanuel Shadary, the PPRD’s permanent secretary, have been in CNC custody since January 18, 2026, and December 16, 2025, respectively. Six were transferred from the CNC but remain in detention, with five awaiting trials for charges of insulting the state or complicity with the M23.</p><p>On March 9, the Kinshasa/Ngaliema Peace Tribunal&nbsp;convicted Parole Kamizelo, another PPRD member whom CNC agents arrested on December 6, 2025, on the charge of insulting the head of state. Kamizelo’s lawyer said that they consider the charges to be politically motivated and have filed an appeal.</p><p>Members of the opposition parties Action for Democracy and Development in Congo (Action pour la démocratie et le développement au Congo) and Together for the Republic (Ensemble pour la République) reported attacks on their headquarters, although it was often difficult to establish direct responsibility.</p><p>The Kinshasa provincial coordinator of Together for the Republic said that on the night of February 21, in Kimbanseke, a Kinshasa municipality, young people identifying themselves as supporters of the leading government party Union for Democracy and Social Progress (Union Pour la Démocratie et le Progrès Social)&nbsp;vandalized the opposition party’s headquarters. Human Rights Watch has verified a video in which young people were singing lyrics indicating they belonged to the government party while they removed a banner for the opposition party’s leader.</p><p>Civil society groups across the country have faced growing repression for criticizing the government’s provision of public services, Human Rights Watch said. The authorities have harassed, arbitrarily arrested, and detained demonstrators during several protests organized by the citizens’ movement Struggle for Change (Lutte pour le Changement, or Lucha). On May 9, a military court&nbsp;convicted three&nbsp;Lucha members of threatening state security and sentenced them to two months in prison, releasing them for time served after they organized a peaceful protest to ask for safe drinking water in Bunia, Ituri province, in March. On January 20, the police&nbsp;arrested and detained four Lucha activists for organizing a peaceful demonstration about growing insecurity in Kalemie, Tanganyika province. They were released the same day.</p><p>In Matadi, Kongo Central province, the authorities detained 10 demonstrators for several hours after they participated in a March 23 protest demanding access to electricity, said a protester who was there.</p><p>The&nbsp;International Covenant on Civil and Political Rights and the&nbsp;African Charter on Human and Peoples’ Rights, both of which Congo has ratified, prohibit arbitrary arrest and detention, and protect everyone’s rights to freedom of expression, association, peaceful assembly, and a fair trial.</p><p>“The increasing repression in Congo should be considered an urgent warning sign as the political environment heats up,” Bolopion said. “The authorities should stop harassing and intimidating journalists, opposition members, and civil society activists, release those wrongfully detained, and create a climate in which everyone can freely, openly, and safely challenge the government’s views.”</p>",
+        "link": "https://www.hrw.org/news/2026/05/12/dr-congo-increasing-repression-of-critical-expression",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:39.468015+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3747747,
+          50.8388017
+        ]
+      },
+      "properties": {
+        "id_hash": "0aa3e9455b27b748aebc607b264859113a7e23eca8a10c074b8f2d307cea805f",
+        "title": "European Union: Surveillance Technology Sold to Rights Violators",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n                    © 2026 Glenn Harvey for Human Rights Watch\n          \n    \n\n\n  \nEU member states host many companies that produce dangerous surveillance technology that can be used to violate rights, the export of which necessitates robust controls.The implementation and oversight of the EU regulatory framework governing export of surveillance technologies have serious flaws, resulting in the technology being sold to those who use it in violation of international human rights and humanitarian law.&nbsp;The EU should tighten the controls requiring states to do greater human rights due diligence, block risky exports, and enforce the transparency and reporting requirements so they provide meaningful oversight and accountability.&nbsp;<p><br />(Brussels, May 12, 2026) – The European Union has failed to prevent member states from exporting surveillance technology to governments with well-documented histories of using technology to spy on activists, journalists, and other critical voices, Human Rights Watch said in a report released today. The European Commission should strengthen its implementation of EU regulations on the export of cybersurveillance technology to ensure that European technology is not facilitating rights abuses around the world.</p><p>The 54-page report, “Looking the Other Way: EU Failure to Prevent Surveillance Exports to Rights Violators,” assesses how the EU’s landmark Dual-Use Regulation, adopted in 2021, is functioning in practice. The regulation was intended, in part, to prevent the export of dual-use technologies—those that may be used for both civilian and military purposes, including commercial surveillance technology—to places where they are likely to be used to violate international humanitarian or human rights law. But that goal is not being achieved because it is not being implemented effectively.&nbsp;</p>  \n\n\n\n      \n  \n\n\n\n            \n        \n                        \n      \n          \n      \n        \n    \n      May 12, 2026\n            \n        Looking the Other Way\n\n      \n      <p class=\"media-related__subtitle text-gray-700 text-lg font-serif font-normal leading-snug py-2\">EU Failure to Prevent Surveillance Exports to Rights Violators</p>\n    \n          \n                  \n            \n              \n\n\n\n  \n        \n  \n\n\n              <p class=\"media-related__item-title font-semibold text-sm pl-4\">Download the full report in English</p>\n            \n          \n                  \n            \n              \n\n\n\n  \n        \n  \n\n\n              <p class=\"media-related__item-title font-semibold text-sm pl-4\">Download the Summary &amp; Recommendations in Italian</p>\n            \n          \n                  \n            \n              \n\n\n\n  \n        \n  \n\n\n              <p class=\"media-related__item-title font-semibold text-sm pl-4\">Download the Summary &amp; Recommendations in German</p>\n            \n          \n                  \n            \n              \n\n\n\n  \n        \n  \n\n\n              <p class=\"media-related__item-title font-semibold text-sm pl-4\">Download the Summary &amp; Recommendations in Spanish</p>\n            \n          \n                  \n            \n              \n\n\n\n  \n        \n  \n\n\n              <p class=\"media-related__item-title font-semibold text-sm pl-4\">Annex I: Response from the Minister of Economy and Industry of the Republic of Bulgaria</p>\n            \n          \n                  \n            \n              \n\n\n\n  \n        \n  \n\n\n              <p class=\"media-related__item-title font-semibold text-sm pl-4\">Annex II: Response from the Department for Trade in Strategic Goods and Technical Safety, Ministry of Economic Development and Technology of the Republic of Poland</p>\n            \n          \n                  \n            \n              \n\n\n\n  \n        \n  \n\n\n              <p class=\"media-related__item-title font-semibold text-sm pl-4\">Annex III: Response from the Directorate General for Trade and Economic Security of the European Commission</p>\n            \n          \n                  \n            \n              \n\n\n\n  \n        \n  \n\n\n              <p class=\"media-related__item-title font-semibold text-sm pl-4\">Annex IV: Response from the Inspectorate of Strategic Product, Sweden</p>\n            \n          \n              \n      \n\n\n  \n<p>“The EU is currently doing too little to prevent the export of surveillance technology from its member states to governments who are likely to use it to crack down on dissent,” said Zach Campbell, senior surveillance researcher at Human Rights Watch. “The European Commission should take urgent action to change this and provide much needed transparency for surveillance exports.”</p><p>Human Rights Watch sought information about the licensing and exports of such technology through freedom of information requests in each of the 27 EU member states and received data from nearly half of the EU countries that have sent data to the commission. Human Rights Watch analysis of that data, along with its analysis of European Commission public reports and data also obtained via transparency requests, show serious defects in the EU’s current approach.</p><p>The EU is home to many of the world’s major developers and exporters of surveillance technology. The EU regulates exports of the most intrusive types of surveillance technology, while individual licensing decisions are taken by national authorities of EU member states.&nbsp;</p><p>The EU Dual-Use Regulation, commonly known as the “Dual-Use Recast,” requires member states to report export licensing decisions of certain types of surveillance technology to the European Commission and for the commission to make it public. In 2024, the European Commission issued a recommendation containing implementation guidelines that establish how member states should report their export data.&nbsp;</p><p>In those guidelines, the commission has reinterpreted the Dual-Use Recast’s transparency obligations in a manner that has undermined the purpose of the regulation. As a result, the commission’s reports do not provide sufficient detail to facilitate the scrutiny necessary to assess whether the regulation is having its intended effect, Human Rights Watch found.&nbsp;</p><p>The data collected by Human Rights Watch nevertheless shows clear evidence of EU member states licensing exports of surveillance technology to authorities in a number of countries with well-documented histories of using such tools to violate rights. The data includes, as examples, evidence of the export of intrusion software, telecommunication interception systems, or both from Bulgaria to Azerbaijan in 2022; the export of telecommunication interception systems from Poland to Rwanda in 2023; as well as other examples of exports of these tools to other countries that have used surveillance technology to crack down on dissent.</p><p>Human Rights Watch also found that the European Commission is failing to provide legally required transparency on these exports. In order to promote transparency and further research, Human Rights Watch is publishing the received data online.&nbsp;</p><p>In response to questions, the European Commission stated that EU member states are “solely responsible for licensing decisions on dual-use exports.” They explained that their decision, set out in the recommendation, to collect data in a way that obfuscates what technology was sent where was due to a concern “that only a limited number of companies were active in exporting such items at the time of the adoption of the Recommendation, thus potentially violating commercial confidentiality or revealing their identity.”&nbsp;</p><p>The European Commission is required by the Dual-Use Recast to begin an evaluation of the regulation later in 2026. It should use this opportunity to strengthen due diligence and transparency requirements to ensure that the EU curbs its export of surveillance technology to abusive governments around the world. It should also ensure that this process provides for meaningful participation of all relevant stakeholders, including human rights and other civil society organizations.&nbsp;</p><p>The European Commission should issue new guidelines for implementing the Dual-Use Regulation closer to the letter of the law, which requires EU member states to consider the risk of surveillance technology being used for internal repression or to violate international humanitarian or human rights law. These new guidelines should also mandate real transparency over the exports of surveillance technology from EU member states and require companies exporting surveillance technology to undertake meaningful due diligence into whether their products are likely to be used to violate rights.&nbsp;</p><p>States’ human rights obligations include an obligation to regulate the sale and export of surveillance technology. This is due to the inherent threat to the right to privacy the existence of such technology poses, and the potential violation of other rights , –from freedom of expression and assembly, to the right to life and freedom from torture– that can flow from its use, particularly when used to target individuals and communities on a discriminatory basis. To meet this obligation, it is not enough for states to put in place such regulation, but they need to implement and monitor it to ensure that it is achieving its preventative purpose, Human Rights Watch said.&nbsp;</p><p>Companies also have their own separate responsibility to respect human rights, which means they should undertake credible human rights due diligence and mitigate human rights risks so that their operations do not facilitate or exacerbate human rights problems.</p><p>“It appears as if EU countries and EU-based surveillance companies are putting profits above people despite adopting one of the most progressive regulations to curtail the sale of this harmful technology,” Campbell said. “Real transparency is needed to ensure that the dual-use regulation is working as intended.”</p>",
+        "link": "https://www.hrw.org/news/2026/05/12/european-union-surveillance-technology-sold-to-rights-violators",
+        "severity": 2,
+        "scraped_at": "2026-05-19T12:45:40.458172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.400138,
+          33.8439408
+        ]
+      },
+      "properties": {
+        "id_hash": "da5815bc7fe9cda436aa77c443b16e538142468921acf8b29e172aa332ba2c73",
+        "title": "Tunisia Suspends Rights Groups That Shaped Its Democracy",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Demonstrators display a banner in Arabic reading, ''Our history will not be halted, and our message does not freeze,'' during a rally after Tunisian authorities suspended the Tunisian League for Human Rights, outside the court of First Instance in Tunis, May 6, 2026.\n                    © 2026 Chedly Ben Ibrahim/NurPhoto via AP Photo \n          \n    \n\n\n  \n<p>Tunisian authorities on April 24&nbsp;suspended operations of the Tunisian League for Human Rights, a longstanding refuge for human rights defenders.&nbsp;</p><p>Suspensions are a&nbsp;drastic measure that should only be taken as a last resort with clear justification.</p><p>Founded in 1976 under a one-party state, the league has been repeatedly&nbsp;targeted since its inception. Many of its leaders were&nbsp;arbitrarily arrested under the governments of both Habib Bourguiba and Zine el-Abidine Ben Ali. Yet the organization withstood the attacks, ultimately outlasting both dictatorships. In the aftermath of the 2011 revolution, it played a crucial role in Tunisia’s democratic transition as part of the&nbsp;Civil Society Quartet, which was awarded the Nobel Peace Prize in 2015.&nbsp;</p><p>In September 2025, the government notified the league of alleged irregularities relating to its declaration of foreign funding, holding of registers, and general assembly. The organization said it remedied them within the prescribed timeframe and received no further requests on the matter. At the government’s request, a Tunis court ordered the league on April 24 to&nbsp;cease all activities for one month for allegedly violating Decree-Law 88 of 2011 on associations.&nbsp;</p><p>The authorities had previously arbitrarily restricted the league’s activities in prisons. The Ministry of Justice stopped honoring the memorandum of understanding that governed its&nbsp;monitoring visits to prisons and detention centers, de facto barring the only independent nongovernmental organization (NGO) in the country such access.</p><p>The Tunisian League for Human Rights joins a long list of at least 20 civil society organizations the authorities have arbitrarily suspended since July 2025, in an unprecedented&nbsp;crackdown and a clear weaponization of the country’s administrative and legal processes alongside arrests and&nbsp;abusive prosecutions.&nbsp;</p><p>On May 5, Avocats Sans Frontières (Lawyers Without Borders), a prominent NGO based in Tunis, received a similar court-ordered&nbsp;suspension notice. The consequences of this are particularly devastating for the hundreds of people relying on its legal aid services, the only operation of its kind in the country.&nbsp;</p><p>These recent suspensions appear to be part of the Tunisian authorities’ campaign to dismantle civil society one suspension order at a time, immobilizing organizations that have for decades defended human rights and access to justice—ensuring that, when human rights are threatened, civil society is not there to respond. &nbsp;</p>",
+        "link": "https://www.hrw.org/news/2026/05/12/tunisia-suspends-rights-groups-that-shaped-its-democracy",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:41.808368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "c59ea77ea2304d8cd80e5d7e4965bb4fc80e84b8ed23267aaf796c8295cce331",
+        "title": "Angola: Flood Survivors Living in Precarious Conditions",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              A railway bridge damaged by heavy floods near the Benguela station in Angola, April 23, 2026.\n                    © 2026 Phill Magakoe / AFP via Getty Images\n          \n    \n\n\n  \n<p>(Johannesburg) –&nbsp;Angolan authorities should carry out an independent and credible investigation into the Cavaco River dike collapse and ensure that internally displaced communities receive immediate, adequate, and transparent assistance, Human Rights Watch said today.</p><p>Official figures indicate that heavy rainfall and the collapse of the Cavaco River dike on April 12, 2026, triggered devastating floods in Angola’s western Benguela province, killing at least 19 people, leaving 31 missing, and affecting more than 8,000 families. At&nbsp;least 3,624 people were rescued, 1,540 homes were&nbsp;destroyed, 3,871 were damaged, and 2,586 remained flooded in the weeks following the disaster.</p><p>“The scale of destruction of the Cavaco River dike collapse in Angola raises serious concerns about the authorities’ ability to prevent and respond to foreseeable risks,” said Sheila Nhancale, Africa researcher at Human Rights Watch. “Families affected need immediate humanitarian aid and answers to how the dike collapsed.”</p><p>In May 2026, Human Rights Watch interviewed eight people in Benguela province, including residents of affected communities, a journalist, two lawyers assisting displaced families, a volunteer supporting flood victims, and a local activist. Human Rights Watch also reviewed official government statements, media reports, and satellite imagery documenting the aftermath of the floods.</p><p>The floods&nbsp;affected several urban and semi-urban neighborhoods in Benguela province, including Calomanga, Massangarala,  Seta Antiga, Santa Teresa, Cotel, Calomburaco, and&nbsp;Tchipiandalo, as well as areas in Lobito and Catumbela municipalities, residents said.</p><p>Many of these areas already&nbsp;faced structural vulnerabilities due to the authorities’ long-standing neglect of residents’ economic, social, and cultural rights, including poor housing conditions and inadequate drainage systems, Human Rights Watch found.</p><p>One resident said that ruptures began to appear in the Seta Antiga area on April 12, 2026, and during heavy rainfall the river would overflow into surrounding homes.</p><p>A number of people said that the Cavaco River dike had been deteriorating but had not undergone&nbsp;maintenance for many years.</p><p>A local journalist monitoring the impact of the floods said prolonged degradation of the infrastructure may have contributed to its collapse.&nbsp;“The dike protecting the city had not been maintained since 2002, that’s more than 20 years of deterioration,” said Dino Calei, the journalist.&nbsp;“In Tchipiandalo, a significant part of the neighborhood has practically ceased to exist due to the recent floods.”</p><p>A 35-year-old resident of Calomanga said that the dike had been damaged for a long time. He said that residents had warned authorities during public consultations with the local administrator, but that no action had been taken. Residents also said they made public complaints through the local radio station, but nothing was done.</p><p>“It was a tragedy,” said the resident. “Around 8 a.m., water from the Cavaco River entered the neighborhood without any warning. We tried to save children and older people, but many died.” He said that he saw 13 bodies and helped recover 8 of them.</p><p>When interviewed on May 3, the resident said that more than 300 people were still sleeping in the open in parts of Calomanga, with limited access to assistance. He said aid was largely limited to occasional distributions of items such as mattresses, while displacement centers remained overcrowded and lacked adequate sanitation, food, and privacy.</p><p>The Benguela provincial government said that temporary accommodation centers had been established in old Campismo, new Campismo, the&nbsp;Ombaka National Stadium, and in other public and religious facilities.</p><p>But residents and volunteers described inadequate conditions in these centers.</p><p>“Conditions in the centers are inhumane,” said Maria do Carmo, who provides support to victims at the old Campismo. “The bathrooms have no privacy or cleanliness, which puts people’s health at risk, especially women. People are forced to relieve themselves in the open out of fear of infections, On May 1, we even ran out of charcoal for cooking and had to organize ourselves using our own means, and the food was not enough for everyone.”</p><p>Estrela Francisco, a lawyer assisting affected families, said conditions in the camps were not suitable for prolonged stays.&nbsp;“Conditions in the centers are inadequate and incompatible with basic standards of dignity,” she said. “People in vulnerable situations, including pregnant women, remain in makeshift tents, while the distribution of aid lacks transparency.”</p><p>A local activist, Tiago Ngana, said assistance has not been distributed equitably.&nbsp;“Aid has come from various parts of the country, but it is not reaching those who need it,” he said. “Some people lost everything and received only a bag of cement, while others have access to more support.”</p><p>The floods also damaged critical infrastructure, including the&nbsp;destruction of one bridge and significant damage to another along National Road 260, limiting access to affected areas.</p><p>Satellite imagery from April 13, the day after the dike collapsed, and analyzed by Human Rights Watch shows entire neighborhoods in Benguela flooded. The Cavaco River dike has visibly collapsed in at least three locations in the town, and two bridges on the river, one for pedestrians and one a railway bridge, have been destroyed.</p>\n\n\n\n      \n\n\n  \n  \n\n\n\n\n  \n          \n                  \n\n\n                  \n          Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Satellite imagery from April 13, 2026, shows entire neighborhoods in Benguela flooded. The Cavaco River dike visibly collapsed in at least three  locations in the town, and two bridges on the river, one for pedestrians and one for the railway, were destroyed. Image\n                    2026 Planet Labs PBC. Analysis and graphics © 2026 Human Rights Watch.\n          \n    \n\n\n  \n<p>The floods in Benguela came weeks after heavy rains also caused significant flooding in Angola’s capital, Luanda, where at least&nbsp;a dozen people were reported killed and thousands of homes were affected. These successive incidents underscore the recurrent nature of flooding in Angola and the persistence of structural vulnerabilities, Human Rights Watch said. Disaster preparedness, prevention, and response have been inadequate, including drainage systems, and officials appear to have limited capacity to mitigate risks in densely populated urban areas.</p><p>Angola is party to the&nbsp;International Covenant on Economic, Social and Cultural Rights, the African Charter on Human and Peoples’ Rights, and the&nbsp;African Union Convention for the Protection and Assistance of Internally Displaced Persons in Africa (Kampala Convention), which builds on the&nbsp;UN Guiding Principles on Internal Displacement.</p><p>These treaties obligate governments to ensure due diligence to prevent foreseeable risks, mitigate their impact, and protect the rights to life, physical integrity, adequate housing, health, and safety. These obligations include adopting reasonable preventive measures, establishing effective early warning and response systems, and ensuring adequate, sufficient, and nondiscriminatory assistance to affected populations.</p><p>The Kampala Convention, a regional treaty to prevent internal displacement, obligates governments to ensure adequate food, shelter, medical care, and education for internally displaced people; to provide effective remedies for displacement and damages; and to seek lasting or durable solutions for displacement.</p><p>“Governments have an obligation not only to respond in an emergency but also to uphold their populations’ human rights,” Nhancale said. “The Angolan authorities should ensure immediate assistance, as well as to provide transparency and accountability for what went wrong.”</p>",
+        "link": "https://www.hrw.org/news/2026/05/12/angola-flood-survivors-living-in-precarious-conditions",
+        "severity": 4,
+        "scraped_at": "2026-05-19T12:45:41.808869+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "ae4298c623862a18f84dbda36dec997f52fbb8fcd0af7adbea2738a64e760d0f",
+        "title": "Clima en Colombia para este 19 de mayo: estas son las zonas más calurosas del país",
+        "summary": "El Caribe colombiano registrará temperaturas de hasta 38 grados centígrados.",
+        "link": "https://www.eltiempo.com/colombia/clima-en-colombia-para-este-19-de-mayo-estas-son-las-zonas-mas-calurosas-del-pais-3556580",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:46.696021+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "4b11082292bc916c673fc3177d89da8fa57871afb3b952f0b7845accff9b9401",
+        "title": "Temblor hoy en Colombia | Sismo durante la madrugada de este martes 19 de mayo: epicentro, magnitud y profundidad",
+        "summary": "El Servicio Geológico Colombiano entregó detalles del movimiento telúrico.",
+        "link": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-durante-la-madrugada-de-este-martes-19-de-mayo-epicentro-magnitud-y-profundidad-3556579",
+        "severity": 0,
+        "scraped_at": "2026-05-19T12:45:46.696105+00:00"
+      }
+    }
+  ]
+}

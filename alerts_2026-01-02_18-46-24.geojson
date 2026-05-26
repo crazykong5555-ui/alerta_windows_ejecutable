@@ -1,0 +1,1211 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "998de96588ff124a515b2bf037778f2a29c49d65190ba21d33ed14794033c9a0",
+        "title": "Trump warns US will intervene if Iran kills protesters",
+        "summary": "The US president says \"we will come to their rescue\" after days of demonstrations and clashes.",
+        "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:12.835116+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "3abd0a5bf08c7c1269573a5c3c7f048b5df18e9818a05e19e5523e1482c671b7",
+        "title": "Zelensky names spy chief to head presidential office after corruption row",
+        "summary": "Kyrylo Budanov has led the Hur military intelligence, which has claimed a number of highly-effective strikes against Russia.",
+        "link": "https://www.bbc.com/news/articles/cx2k0101enyo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:12.835201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8915271,
+          16.3471243
+        ]
+      },
+      "properties": {
+        "id_hash": "cb559801a9cebd5c0bfc992a2ac401efb7a814864432dd7d18cbc8d90b07d14b",
+        "title": "Yemen clashes bring Saudi- and UAE-backed forces into confrontation",
+        "summary": "The powerful Gulf allies back rival sides in an escalating conflict which threatens to divide Yemen.",
+        "link": "https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:14.586168+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "ef855a1ee108e57b6dee42d5701488029b3aaac571276eb65f07924cc7bc619f",
+        "title": "Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson region",
+        "summary": "Ukraine says it only conducts strikes against military targets and adheres to international law.",
+        "link": "https://www.bbc.com/news/articles/cew81lpqvzeo?at_medium=RSS&at_campaign=rss",
+        "severity": 4,
+        "scraped_at": "2026-01-02T23:45:14.586330+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9556708,
+          -5.1371937
+        ]
+      },
+      "properties": {
+        "id_hash": "81e893e2d3c3ea3ccdbfe1b36b7ab4dde06638a62f676198bf4c2dd12ca262d0",
+        "title": "Woman killed in suspected mountain lion attack in US",
+        "summary": "Colorado officials said that it would be the first time in more than 25 years that a mountain lion killed a person in the state, if confirmed.",
+        "link": "https://www.bbc.com/news/articles/c9vxp4ng8d8o?at_medium=RSS&at_campaign=rss",
+        "severity": 4,
+        "scraped_at": "2026-01-02T23:45:16.048533+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "64af015851f62b433d86b1ff4d0a5418b363f461a9da642153ec5f4c2bd4b4a1",
+        "title": "Maduro says Venezuela open to US talks on drug trafficking",
+        "summary": "In an interview with state TV, the Venezuelan president also evaded a question about an attack in his country claimed by the US.",
+        "link": "https://www.bbc.com/news/articles/clyg23lj057o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:16.048660+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "9728131b8dde33b7043fb1522dfcbbad1af59e1b38dc6d7b3065a9cb6434b481",
+        "title": "Zelensky says peace deal is 90% ready in New Year address",
+        "summary": "Russian President Vladimir Putin used his New Year speech to tell troops that he \"believed in you and our victory\" in Ukraine.",
+        "link": "https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:16.048748+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "88b0a2d89325e72c04de8ba80c1655b1417c228782d9e2c16385de070588a046",
+        "title": "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal",
+        "summary": "Two of the main sticking points involve territory and the fate of Europe's biggest nuclear plant, which is currently occupied by Russia.",
+        "link": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:16.048913+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "8a6bc5b9b4eec817125c2354bf05f0d1f75f7fa95862ccf47ea09095fdd59e0a",
+        "title": "What are Russians hoping for in 2026, asks Steve Rosenberg",
+        "summary": "The BBC's Russia editor speaks to people in the country as the war in Ukraine nears a fourth year.",
+        "link": "https://www.bbc.com/news/videos/czdqp29gz51o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:16.049005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "c93a59590900eb6a58c7a2d88d2a6a98d71c6b2c1ef35e61ac82bfed4794b1a7",
+        "title": "Russia-Ukraine war: List of key events, day 1,409",
+        "summary": "These are the key developments from day 1,409 of Russia’s war on Ukraine.",
+        "link": "https://www.aljazeera.com/news/2026/1/2/russia-ukraine-war-list-of-key-events-day-1409?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:20.289797+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.0268275,
+          31.9941006
+        ]
+      },
+      "properties": {
+        "id_hash": "98903c5b465de877a498f0e9726d069ca8e32c3782982943ec91513cdc837422",
+        "title": "US authorities arrest 18-year-old accused of plotting ISIL-inspired attack",
+        "summary": "Officials announced the suspect has been charged with attempting to provide &#039;material support&#039; for &#039;terrorism&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/1/2/us-authorities-arrest-18-year-old-accused-of-plotting-isil-inspired-attack?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:21.573225+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "9711bb5f1f4ef6c0739a722bc98ae73f7a66327a4678c9cd05977c64391ea0fa",
+        "title": "Ukraine’s Zelenskyy names GUR chief Kyrylo Budanov as top aide",
+        "summary": "Military intelligence chief credited with series of daring operations against Russia since it launched its invasion.",
+        "link": "https://www.aljazeera.com/news/2026/1/2/ukraines-zelenskyy-names-gur-chief-kyrylo-budanov-as-top-aide?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:21.573478+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7222197,
+          35.6609773
+        ]
+      },
+      "properties": {
+        "id_hash": "b9a51ee2ef086ad7b9a01622f351b8b7cbdf0b007613cbd16c688a05b943c79d",
+        "title": "These are the competing groups controlling territory in Yemen",
+        "summary": "Saudi-backed coalition forces in Yemen have launched air strikes targeting southern separatists.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:22.968512+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4529612,
+          14.4750607
+        ]
+      },
+      "properties": {
+        "id_hash": "2800db1637f04e323d833f4d6090310f2c7e359355a81846c241128095c47b12",
+        "title": "Senegal vs Sudan: AFCON 2025 – team news, start time and lineups",
+        "summary": "War-ravaged Sudan have defied the odds to reach the last 16, but, face their toughest test against heavyweights Senegal.",
+        "link": "https://www.aljazeera.com/sports/2026/1/2/senegal-vs-sudan-afcon-2025-preview-team-news-start-time-lineups-mane-gueye-jackson?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:24.364555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9503557,
+          10.8255323
+        ]
+      },
+      "properties": {
+        "id_hash": "45083394adf8c023b51c2240d5126993d0ac7f9210a9829e9c9835eac70d3479",
+        "title": "Updates: Fighting breaks out in east Yemen along border with Saudi Arabia",
+        "summary": "Separatist Southern Transitional Council accuses Saudi Arabia of bombing its forces near the border.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:25.691617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7302434,
+          32.2580245
+        ]
+      },
+      "properties": {
+        "id_hash": "d61cf454277b3486ed09ef7f9f1cd6fac56fd427d7bc795fb95ea58ca8df6770",
+        "title": "Why I am on hunger strike in solidarity with Pal Action detainees",
+        "summary": "In the Pal Action detainees, I see my own story. I see clear evidence that Guantánamo did not end; it spread.",
+        "link": "https://www.aljazeera.com/opinions/2026/1/2/why-i-am-on-hunger-strike-in-solidarity-with-pal-action-detainees?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:27.058737+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "9b148122a1fcacaadb72bbd37a5358ce431e1e311d708d9555ce406dbd7ebf3c",
+        "title": "US ‘adapt, shrink or die’ terms for $2bn aid pot will mean UN bowing down to Washington, say experts",
+        "summary": "<p>Afghanistan and Yemen excluded from list of 17 priority countries chosen by Trump administration to receive aid laden with demands</p><p>The $2bn (£1.5bn) of aid the <a href=\"https://www.theguardian.com/us-news/2025/dec/29/us-pledge-un-model-humanitarian-assistance\">US pledged this week</a> may have been hailed as <a href=\"https://reliefweb.int/report/world/ocha-managed-humanitarian-funds-receive-landmark-us2-billion-contribution-united-states\">“bold and ambitious”</a> by the UN but could be the “nail in the coffin” in changing to a shrunken, less flexible aid system dominated by Washington’s political priorities, aid experts fear.</p><p>After a year of <a href=\"https://www.theguardian.com/global-development/2025/dec/21/sweden-and-germany-slash-aid-budgets-to-focus-on-ukraine-and-defence-spending\">deep cuts in aid budgets</a> by the US and European countries, the announcement of new money for the humanitarian system is a source of some relief, but experts are deeply concerned about demands that the US has imposed on how the money should be managed and where it can go.</p> <a href=\"https://www.theguardian.com/global-development/2026/jan/01/us-aid-cuts-conditions-un-humanitarian-pledge-ocha\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/global-development/2026/jan/01/us-aid-cuts-conditions-un-humanitarian-pledge-ocha",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:27.675550+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.896911,
+          40.6464554
+        ]
+      },
+      "properties": {
+        "id_hash": "745b4edcb0533d38625d34888fd2c60a2548a72875883dd1fa41fb4192c47504",
+        "title": "Tensions between Saudis and Emiratis over future of Yemen reach boiling point",
+        "summary": "<p>Dispute has potential to create civil war in south of Yemen and spill over into neighbouring countries</p><p>Tensions between the United Arab Emirates and Saudi Arabia over the future of Yemen and the imminent possibility of the declaration of an independent southern state have reached boiling point with Saudi Arabia in effect accusing the UAE of threatening its future security.</p><p>The dispute has the potential to create a civil war within the south of Yemen and also spill over into other disputes including in Sudan and the Horn of Africa where the two countries often find themselves backing opposite sides. Yemen could yet become only one theatre in which the two vastly wealthy Gulf states vie for political influence, control of shipping lanes and commercial access.</p> <a href=\"https://www.theguardian.com/world/2025/dec/30/saudi-arabia-uae-tension-future-yemen-boiling-point\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2025/dec/30/saudi-arabia-uae-tension-future-yemen-boiling-point",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:29.126828+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "a08377404b8a5fac31e32cbf7751192d1fa31989ebf430e52b9149a0478d01ba",
+        "title": "Maduro urges Trump to abandon ‘illegal warmongering’ and start ‘serious talks’",
+        "summary": "<p>Venezuelan president warns of a ‘forever war’ similar to Iraq after US counterpart claims first land strike on dock</p><p>The Venezuelan leader, Nicolás Maduro, has urged Donald Trump to abandon his “illegal warmongering” and begin “serious talks” with his administration as mystery continued to surround a purported pre-Christmas CIA airstrike on the South American country.</p><p>Speaking during an hour-long TV interview, Maduro declined to confirm reports of the apparent US attack, which would be the first on Venezuelan soil since Trump began his five-month campaign of military pressure in August.</p> <a href=\"https://www.theguardian.com/world/2026/jan/02/venezuela-maduro-open-to-talks-drug-trafficking-maduro\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/jan/02/venezuela-maduro-open-to-talks-drug-trafficking-maduro",
+        "severity": 6,
+        "scraped_at": "2026-01-02T23:45:29.126994+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "55540e3a943120ec81d64b96b2cf008dfb448df0bf76fabf12811a2a8f3531ed",
+        "title": "Trump’s shadow war in Venezuela grows, but country’s strongman leader still clings to power",
+        "summary": "<p>Report of a drone attack on a port facility signals new phase in US military campaign against Nicolás Maduro</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/dec/14/us-wargames-maduro-fall-venezuela\">US wargames played out scenarios for Maduro’s fall. None of them ended well for Venezuela</a></p></li></ul><p>Nearly a week after <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> first announced what he said was <a href=\"https://www.theguardian.com/us-news/2025/dec/29/trump-venezuela-facility-strike\">the first US ground strike</a> in a four-month-long military pressure campaign against <a href=\"https://www.theguardian.com/world/venezuela\">Venezuela</a>, details remain very thin on the ground.</p><p>CNN and the New York Times reported late on Monday that they had confirmed the CIA had used a drone to target a “port facility” allegedly used by the Tren de Aragua street gang. No casualties were reported, but the date, time and location of the attack remain unknown. Venezuela’s strongman leader, <a href=\"https://www.theguardian.com/world/nicolas-maduro\">Nicolás Maduro</a>, and his government have remained silent.<br /><br />\n If confirmed, the first strike on land would mark a new phase in a campaign that since August has involved the deployment of a massive US naval fleet, airstrikes that have so far killed 107 people, a “total blockade” of sanctioned oil tankers, the seizure of two vessels and the pursuit of a third.</p> <a href=\"https://www.theguardian.com/world/2025/dec/30/military-drone-strike-venezuela-trump-maduro\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2025/dec/30/military-drone-strike-venezuela-trump-maduro",
+        "severity": 8,
+        "scraped_at": "2026-01-02T23:45:29.127127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "3b059d79dc4a962f84cd7c6469d7a38b84c98a2e6185d0d89d54ebd2a8cf8c3c",
+        "title": "US struck ‘big facility’ in Venezuela, Trump claimed without offering details",
+        "summary": "<p>Trump alleged that US forces hit ‘very hard’ in what would mark his team’s first land strike on Venezuela if confirmed</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has claimed that US forces struck a “big facility” in <a href=\"https://www.theguardian.com/world/venezuela\">Venezuela</a> last week – but the president did not specify what it was, or where, and the White House has not commented further.</p><p>“We just knocked out – I don’t know if you read or you saw – they have a big plant, or a big facility, where the ships come from. Two nights ago, we knocked that out. So we hit them very hard,” Trump <a href=\"https://x.com/ShelbyTalcott/status/2005331356063269311\">told</a> Republican donor and New York supermarket owner John Catsimatidis on Friday.</p> <a href=\"https://www.theguardian.com/us-news/2025/dec/29/trump-venezuela-facility-strike\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2025/dec/29/trump-venezuela-facility-strike",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:29.127317+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "f21487a506cbf2d86492f6695e2ecf5427c178695feed3bc9023e5df6497c28e",
+        "title": "Kim Jong-un’s daughter visits state mausoleum, fuelling speculation she will be next North Korean ruler",
+        "summary": "<p>Kim Ju-ae has been making increasingly prominent appearances in state media over the past three years</p><p>The daughter of the North Korean ruler, Kim Jong-un, who is likely being prepared as his successor has accompanied her parents on her first public visit to the Kumsusan mausoleum to pay respects to former leaders, ahead of an event that could see her succession formalised.</p><p>Photos from state news agency KCNA showed Kim Jong-un accompanied by his wife, Ri Sol-ju, and senior officials on the visit on 1 January, with Ju-ae between her parents in the main hall of the Kumsusan Palace of the Sun.</p> <a href=\"https://www.theguardian.com/world/2026/jan/02/kim-jong-un-daughter-ju-ae-north-korean-ruler-speculation\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/jan/02/kim-jong-un-daughter-ju-ae-north-korean-ruler-speculation",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:29.127431+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "3ca637496ecb6bf0225cd4015785b36e1070fe523b6a1bf0a65ef9f834049a8f",
+        "title": "Xi Jinping vows to reunify China and Taiwan in New Year’s Eve speech",
+        "summary": "<p>Reunification ‘is unstoppable’, says Chinese president, a day after the conclusion of intense military drills</p><p>China’s president, Xi Jinping, has vowed to reunify China and Taiwan in his annual New Year’s Eve speech in Beijing.</p><p>Speaking the day after the conclusion of <a href=\"https://www.theguardian.com/world/2025/dec/30/trump-not-worried-china-military-live-fire-drills-taiwan\">intense Chinese military drills</a> around Taiwan, Xi said: “The reunification of our motherland, a trend of the times, is unstoppable.”</p> <a href=\"https://www.theguardian.com/world/2025/dec/31/xi-jinping-vows-reunification-china-taiwan-new-years-eve-speech\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2025/dec/31/xi-jinping-vows-reunification-china-taiwan-new-years-eve-speech",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:29.127574+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0451554,
+          42.2725322
+        ]
+      },
+      "properties": {
+        "id_hash": "cfd9a4a9cd030acaea68bc2450bf255a0ae363d44a39a9431076873938ee512b",
+        "title": "Aboriginal woman’s death in custody in NT prompts calls for independent investigation",
+        "summary": "<p>Police say woman’s death in Tennant Creek appeared to be the result of a medical episode, but Aboriginal legal service says internal investigation is ‘not sufficient’</p><ul><li><p><em><strong>Warning: This article contains references to Indigenous Australians who have died</strong></em></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Northern Territory’s peak Aboriginal legal service has called for an independent investigation after a 44-year-old Aboriginal mother of five died at the Tennant Creek watch house last Saturday.</p><p>NT police said her death appeared to be the result of a medical episode inside her cell on 27 December, after she was arrested on Christmas Day for an alleged aggravated assault.</p><p><em>Indigenous Australians can call <a href=\"https://www.13yarn.org.au/\">13YARN</a> on 13 92 76 for information and crisis support; or call Lifeline on 13 11 14, Mensline on 1300 789 978 or Beyond Blue on 1300 22 4636</em></p> <a href=\"https://www.theguardian.com/australia-news/2026/jan/02/aboriginal-woman-death-in-custody-nothern-territory-tennant-creek-independent-investigation-ntwnfb\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/jan/02/aboriginal-woman-death-in-custody-nothern-territory-tennant-creek-independent-investigation-ntwnfb",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:30.507891+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6554369,
+          -25.2863594
+        ]
+      },
+      "properties": {
+        "id_hash": "cb49520a32483bd09468d3fc201189ca1d6de240b981406ebae47ae07f13da01",
+        "title": "Weather tracker: Cyclone Hayley brings intense wind and rain to Australia",
+        "summary": "<p>Elsewhere, area of low pressure off Iberian peninsula brings heavy rainfall to southern Portugal and Spain</p><p>After a recent heatwave affected large parts of Australia before Christmas, Cyclone Hayley made landfall along the north-west coast on Tuesday night. Hayley formed on 28 December in the southern Indian Ocean and steadily intensified on a path south towards the north coast of Western Australia.</p><p>The system <a href=\"https://www.theguardian.com/environment/2025/dec/30/weather-tropical-cyclone-hayley-wa-north-queensland-floods\">became a category 2 storm</a> at its peak on Wednesday, with sustained winds of 105mph. After some weakening, Hayley crossed the Dampier peninsula near the town of Lombadina, still bringing intense winds and heavy rainfall. Hayley prompted a series of weather warnings from Australia’s Bureau of Meteorology, noting the potential for flash flooding and damage to property.</p> <a href=\"https://www.theguardian.com/environment/2026/jan/02/weather-tracker-cyclone-hayley-australia-spain-floods\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/environment/2026/jan/02/weather-tracker-cyclone-hayley-australia-spain-floods",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:31.956427+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "669092076bfa801aa5dcb067967a095c691f6f68288d6e99720d030003718c5a",
+        "title": "‘Suspension of entry into the US’, paparazzi – and wine: three other reasons George Clooney moved to France",
+        "summary": "<p>A UK government warning that Amal Clooney risks US sanctions over her role in the issuing of an arrest warrant for the Israeli prime minister is key among reasons the couple have sought French citizenship</p><p>The exodus from Hollywood to shores not presided over by Donald Trump has been busy and loud. Ellen DeGeneres, Robin Wright and Courtney Love moved to England; Rosie O’Donnell opted for Ireland; Eva Longoria, Spain. Other Trump critics, including Richard Gere, Lena Dunham and Ryan Gosling, have upped sticks without citing the re-election as a motivating factor.</p><p>In the case of Clooney, however, there has appeared little doubt that his decision to gain French citizenship was primarily because of Trump, whose re-election he energetically campaigned against. Yet amid the heat and headlines generated by the pair’s war of words, some of the actor’s reasons for relocating may have flown under the radar.</p> <a href=\"https://www.theguardian.com/film/2026/jan/02/suspension-of-entry-into-the-us-paparazzi-and-wine-three-other-reasons-george-clooney-moved-to-france\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/film/2026/jan/02/suspension-of-entry-into-the-us-paparazzi-and-wine-three-other-reasons-george-clooney-moved-to-france",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:31.956677+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "7a9ba1489920e1639553f82be51b64ffd13891103e84d2b7b784aec24e958c95",
+        "title": "BBC settles with 7 October survivors for filming home ‘without permission’",
+        "summary": "<p>Jewish family say crew did not seek consent to film inside their home days after it was wrecked by Hamas in southern Israel</p><p>The BBC has said it has reached a settlement with a Jewish family who survived Hamas’s 7 October attacks in southern Israel after a news crew filmed inside their destroyed home.</p><p>The reporting team, which included senior correspondent Jeremy Bowen, entered the Horenstein family’s home in the days after the attacks in 2023.</p> <a href=\"https://www.theguardian.com/media/2026/jan/02/bbc-settles-with-7-october-survivors-for-filming-home-without-permission\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/media/2026/jan/02/bbc-settles-with-7-october-survivors-for-filming-home-without-permission",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:31.956922+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8915271,
+          16.3471243
+        ]
+      },
+      "properties": {
+        "id_hash": "56e0558b9cc98f79e4b2798bcff102c3694c26bbefbd6014ca3cd37430c68d64",
+        "title": "Yemeni separatists plan to hold independence vote within two years",
+        "summary": "<p>Seven killed in strikes on south as Saudi-backed government moves to recapture key region from STC</p><p>Yemen’s southern separatists have announced plans to hold a referendum on independence from the north in two years, after their seizure of swathes of the country last month triggered a major feud between Gulf powers.</p><p>The Southern Transitional Council leader, Aidarous al-Zubaidi, called on the international community to sponsor talks between concerned parties in the south and north on a path and mechanisms that “guarantee rights of the people of the south”.</p> <a href=\"https://www.theguardian.com/world/2026/jan/02/saudi-warplanes-kill-uae-backed-yemeni-separatists\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/jan/02/saudi-warplanes-kill-uae-backed-yemeni-separatists",
+        "severity": 6,
+        "scraped_at": "2026-01-02T23:45:33.325789+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "7a21ada86e707597610c060aefaecbda7199858bec3ba0fbd04da6dd77187558",
+        "title": "Iran officials warn Trump of red line after his threat to ‘rescue’ protesters",
+        "summary": "<p>Foreign minister says Iranian military is on standby after US president said he would act if demonstrators were killed</p><p>Donald Trump has threatened to intervene in Iran if its government kills demonstrators, prompting warnings from senior Iranian officials that any American interference would cross a “red line”.</p><p>In a social media post on Friday, Trump said that if Iran were to shoot and kill protesters, the US would “come to their rescue”. He added: “We are locked and loaded, and ready to go,” without explaining what that might mean in practice.</p> <a href=\"https://www.theguardian.com/world/2026/jan/02/iranian-officials-warn-trump-not-cross-red-line-threats-intervene-protests\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/jan/02/iranian-officials-warn-trump-not-cross-red-line-threats-intervene-protests",
+        "severity": 4,
+        "scraped_at": "2026-01-02T23:45:33.326052+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0562737,
+          -0.3177868
+        ]
+      },
+      "properties": {
+        "id_hash": "2b1e9278bce08bb67356681f2c9ddfe5d807187dd62045127a1a1a917ae1773c",
+        "title": "Sewage in drinking water blamed for at least 10 deaths in India’s ‘cleanest city’",
+        "summary": "<p>Hundreds hospitalised in Indore after public toilet built above water pipeline appears to have let sewage into supply</p><p>Sewage-contaminated drinking water is being blamed for killing at least 10 people, including a baby boy, and sending more than 270 others to hospital in Indore, ranked India’s “cleanest city” for the last eight years.</p><p>Residents of a congested, lower-income neighbourhood in Indore, Madhya Pradesh’s commercial capital, had been warning authorities for months about foul-smelling tap water. Their complaints went unheeded, despite the city’s much-lauded ranking for waste segregation and other cleanliness measures.</p> <a href=\"https://www.theguardian.com/world/2026/jan/02/sewage-in-drinking-water-deaths-india-cleanest-city-indore\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/jan/02/sewage-in-drinking-water-deaths-india-cleanest-city-indore",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:34.666711+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4661133,
+          42.6663437
+        ]
+      },
+      "properties": {
+        "id_hash": "f293b9d3f3579d40cb3a647aeb5c639cc37e801c8e2c9b502165e871e3c9adfa",
+        "title": "Polls close in first phase of Myanmar elections widely condemned as a sham",
+        "summary": "<p>Turnout appears low for vote in which most candidates seen as allies of junta and large areas excluded by war</p><p>Polls have closed in conflict-racked Myanmar, ending the first phase of an election that has been <a href=\"https://www.theguardian.com/world/2025/dec/24/myanmars-first-election-since-the-2021-coup-everything-you-need-to-know\">widely condemned as a sham</a> designed to legitimise the military junta’s rule.</p><p>The military has touted the vote as a return to democracy almost five years after it seized power in a coup, ousting the country’s then de-facto leader, Aung San Suu Kyi, detaining her and sparking a spiralling civil war.</p> <a href=\"https://www.theguardian.com/world/2025/dec/28/myanmar-elections-voting-begins-under-junta-stranglehold-with-aung-san-suu-kyi-banned\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2025/dec/28/myanmar-elections-voting-begins-under-junta-stranglehold-with-aung-san-suu-kyi-banned",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:36.052630+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "c2f256eff2a9e994c3f48d23b940e5e2f73c4f2cf662f3d438406aa95337453d",
+        "title": "Jewish groups warned ban on Maccabi Tel Aviv fans attending match could be seen as ‘antisemitic’",
+        "summary": "<p>Minutes obtained under freedom of information laws show West Midlands police flagged concerns over decision ahead of Aston Villa match</p><p>Jewish communities warned West Midlands police that a ban on Maccabi Tel Aviv fans attending a <a href=\"https://www.theguardian.com/football/2025/nov/06/six-arrested-during-protests-outside-match-between-aston-villa-and-maccabi-tel-aviv\">match against Aston Villa</a> “could be perceived as antisemitic”, documents show.</p><p>Supporters of the Israeli team were banned from attending the Europa League fixture at Villa Park in Birmingham on 6 November, causing outrage, with the prime minister, Keir Starmer, condemning it as <a href=\"https://www.theguardian.com/football/2025/oct/16/maccabi-tel-aviv-fans-banned-from-game-at-aston-villa-in-europa-league\">“wrong” and suggesting it amounted to antisemitism</a>.</p> <a href=\"https://www.theguardian.com/news/2026/jan/02/jewish-groups-warned-ban-on-maccabi-tel-aviv-fans-attending-match-could-be-seen-as-antisemitic\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/news/2026/jan/02/jewish-groups-warned-ban-on-maccabi-tel-aviv-fans-attending-match-could-be-seen-as-antisemitic",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:36.052918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2956433,
+          38.5189519
+        ]
+      },
+      "properties": {
+        "id_hash": "a2eef66270e4d7b0ae5483038e8d83c8aa5b573d875dbee3eeeeef9123c1361c",
+        "title": "DC pipe bomb suspect must remain in jail before trial, judge rules",
+        "summary": "<p>Brian Cole, accused of planting bombs before Capitol attack, presents ‘intolerable risk of danger’, court finds</p><p>A federal magistrate judge has ruled that the man accused of planting pipe bombs outside the Democratic and Republican headquarters the night before the <a href=\"https://www.theguardian.com/us-news/us-capitol-breach\">January 6 Capitol attack</a> must remain in custody while awaiting trial.</p><p>In a <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.287327/gov.uscourts.dcd.287327.28.0.pdf\">memorandum opinion</a>, the court determined that Brian Cole Jr, 30, of Woodbridge, Virginia, “poses an intolerable risk of danger to the community if released”, granting the government’s motion for pretrial detention.</p> <a href=\"https://www.theguardian.com/us-news/2026/jan/02/dc-pipe-bomb-suspect-custody\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/jan/02/dc-pipe-bomb-suspect-custody",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:37.472529+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "e34569592a798685ee769b72c2b2c9794dc92314306e069a72e795e3604c7c55",
+        "title": "Ukraine's Zelensky names spy chief Kyrylo Budanov as new top aide",
+        "summary": "Ukrainian President Volodymyr Zelensky on Friday appointed military intelligence chief Kyrylo Budanov as head of his office, following the resignation of top aide Andriy Yermak over a corruption scandal. Budanov, credited with daring operations against Russia, will focus on security, defence and diplomatic efforts amid the ongoing war.",
+        "link": "https://www.france24.com/en/europe/20260102-ukraine-s-zelensky-names-spy-chief-kyrylo-budanov-as-new-top-aide",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:38.006226+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "875edbf399f7382c8342e6bbb359a8a9560477a16981c2743deb74b6f6db736c",
+        "title": "Russia makes largest territorial gains in Ukraine since 2022 invasion",
+        "summary": "Russia captured more than 5,600 sq km of Ukrainian territory in 2025, its largest advance since 2022, as Kyiv prepares to host allied security talks. As pressure on the battlefield continues to build, President Volodymyr Zelensky named Kyrylo Budanov his new top aide, proposed Mykhailo Fedorov as defence minister and ordered the evacuation of thousands from frontline settlements.",
+        "link": "https://www.france24.com/en/live-news/20260102-russia-scores-highest-ukraine-gains-since-first-year-of-war",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:38.006303+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "01cd9037f9d5691cf54aba9dd6b068d6b319792f77d1a37fa79b031d393b4b6d",
+        "title": "Trump threatens Iran over protest crackdown as deadly unrest flares",
+        "summary": "US President Donald Trump and top Iranian officials exchanged dueling threats Friday as widening protests swept across parts of the Islamic Republic, further escalating tensions between the countries after America bombed Iranian nuclear sites in June.",
+        "link": "https://www.france24.com/en/video/20260102-trump-threatens-iran-over-protest-crackdown-as-deadly-unrest-flares",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:38.006345+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "a1925a1893a844a9208047651b467d3a4bbfdd0749c187933e144ba7fd2fd54e",
+        "title": "Secret operation unveiled: Ukraine fakes death of anti-Kremlin Russian fighter",
+        "summary": "Ukraine staged the death of an anti-Kremlin Russian fighter, Denis Kapustin, to prevent his killing ordered by Moscow's special forces, Ukrainian military intelligence announced Thursday.\n \nHis assassination, GUR said in a statement, \"was ordered by the special services of the aggressor state Russia, which allocated half a million dollars to carry out the crime.\"",
+        "link": "https://www.france24.com/en/video/20260102-secret-operation-unveiled-ukraine-fakes-death-of-anti-kremlin-russian-fighter",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:38.006385+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "d80a4d82d0aec6066f98aef96cf184b7adb68abf7d21584251deb9486633cdba",
+        "title": "Tension escalates between Iran and the United States as Trump threatens intervention",
+        "summary": "U.S. President Donald Trump and top Iranian officials exchanged dueling threats on January 2 as widening economic protests swept across parts of the Islamic Republic, further escalating tensions between the countries after America bombed Iranian nuclear sites in June. At least seven people have been killed so far in violence surrounding the demonstrations, which have increasingly seen crowds chanting anti-government slogans. FRANCE 24's Douglas Herbert tells us more about the situation.",
+        "link": "https://www.france24.com/en/video/20260102-tension-escalates-between-iran-and-the-united-states-as-trump-threatens-intervention",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:38.006556+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3088,
+          31.3547
+        ]
+      },
+      "properties": {
+        "id_hash": "fb6a0634fe7287e22b54708048fbcf24414229cf42662ed56cedbea2ff56c9ec",
+        "title": "Hollywood actress Angelina Jolie meets Gaza aid workers at Rafah crossing",
+        "summary": "Angelina Jolie visited the Egyptian side of the Rafah crossing on Friday, meeting Red Crescent volunteers and aid truck drivers delivering supplies to Gaza. The Hollywood star assessed conditions for injured Palestinians and the flow of humanitarian aid, highlighting the urgent challenges at the border amid the ongoing blockade.",
+        "link": "https://www.france24.com/en/europe/20260102-hollywood-actress-angelina-jolie-meets-gaza-aid-workers-at-rafah-crossing",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:38.006639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9240695,
+          45.7883444
+        ]
+      },
+      "properties": {
+        "id_hash": "3d25fa9257fdbd5136dd781cdf3202cb3f8abdd7de2c1f6140edd1c2ad297123",
+        "title": "Replay: Watch Swiss authorities' update on the deadly Crans-Montana fire",
+        "summary": "Rewatch as Swiss authorities give an update on the Crans-Montana fire investigation, as police try to identify all of the victims.",
+        "link": "https://www.france24.com/en/video/20260102-replay-watch-swiss-authorities-update-on-the-deadly-crans-montana-fire",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:39.370496+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8915271,
+          16.3471243
+        ]
+      },
+      "properties": {
+        "id_hash": "80789adb9235b9cf421f6cbc11716462f8842133b7fe39371d536da989a21fd4",
+        "title": "Yemen is back from the brink, but frenemies Saudi Arabia and UAE have much to negotiate",
+        "summary": "The UAE this week announced a withdrawal of its troops from southern Yemen, marking a de-escalation in year-end tensions with its ally Saudi Arabia. But 2026 offers little hope for a strategic patch-up between the two Gulf powerhouses. That could mean more trouble for Yemen, the region, and the international community in the world’s chokehold zone.",
+        "link": "https://www.france24.com/en/middle-east/20260102-yemen-back-from-brink-but-frenemies-saudi-arabia-and-uae-have-much-negotiate",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:40.781801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "17da94f4f40c9dead2aaec2c5125e4de20271edf3391caff2b91197864a7f8a5",
+        "title": "Volodymyr Zelensky appoints Ukraine's military intelligence chief Kyrylo Budanov new chief of staff",
+        "summary": "",
+        "link": "https://www.france24.com/en/europe/20260102-live-ukraine-hits-military-sites-after-russia-accuses-kyiv-deadly-civilian-strike",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:40.782112+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id_hash": "356cfcffd3d32b4f0e02b3583256be48d7cbd81dbd6f759ad7bb0e43320f43d9",
+        "title": "In Uzbekistan, Motor Sports Body Misses the Mark on Rights",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              The F1 Grand Prix at Jeddah Corniche Circuit in Jeddah, Saudi Arabia, April 20, 2025.\n                    © 2025 Qian Jun/Paddocker via AP Photo \n          \n    \n\n\n  \n<p>The International Automobile Federation (Fédération Internationale de l’Automobile, or FIA), the international body governing motor sports, including Formula1, held its annual&nbsp;General Assemblies last week in Tashkent,&nbsp;Uzbekistan.&nbsp;</p><p>At the General Assemblies, the federation&nbsp;presented Uzbekistan as the “star of the east,” seemingly without a single reference to Uzbekistan’s deeply problematic human rights record. In recent years, Uzbek authorities have increasingly&nbsp;stifled human rights activism and freedom of expression, targeting activists, bloggers, and others with unfounded criminal and administrative charges. Despite United Nations experts calling for&nbsp;his immediate release,&nbsp;Karakalpak activist and lawyer Dauletmurat Tazhimuratov is languishing in prison, serving a wrongful 16-year prison sentence, his allegations of ill-treatment and torture ignored by authorities.&nbsp;</p><p>The FIA’s&nbsp;statutes instruct it to “promote the protection of human rights and human dignity,” while its&nbsp;Code of Ethics affirms its “responsibility to safeguard the integrity and reputation of motor sport.” Promoting and conducting business with a country without conducting a human rights impact assessment is risky. Doing so may breach the FIA’s regulations and leave a lasting stain on motor sports.&nbsp;</p><p>The&nbsp;UN Guiding Principles on Business and Human Rights set out how businesses should implement policies and conduct due diligence in regards to their impact on human rights. Such due diligence should include the risk of laundering the reputations of governments, businesses, or individuals responsible for ongoing or recent serious rights abuses.</p><p>Human Rights Watch has previously raised rights concerns in connection with FIA and Formula 1 activities in&nbsp;Azerbaijan and&nbsp;Saudi Arabia, where abusive governments have used motor sports to whitewash their reputations.&nbsp;</p><p>Prior to the assemblies in Tashkent, Human Rights Watch&nbsp;asked the FIA and&nbsp;Formula 1, who adopted a&nbsp;commitment to respect human rights, their plans to discuss rights issues during the assemblies and the type of due diligence they conduct. We received no response.</p><p>FIA President Mohammed Ben Sulayem, recently&nbsp;re-elected for a second term, should seize this opportunity to take much stronger human rights actions in Uzbekistan and globally. The federation should use its influence with governments to urge rights reforms and roll out comprehensive due diligence to identify and remedy any adverse rights impact of its activities and ensure that&nbsp;motor sports continue to “drive society forward.”</p>",
+        "link": "https://www.hrw.org/news/2025/12/19/in-uzbekistan-motor-sports-body-misses-the-mark-on-rights",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:43.901705+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.602191,
+          39.6823264
+        ]
+      },
+      "properties": {
+        "id_hash": "87b9fc1625944d61d67d17d973dcb5ea13b2245c27319b67f7963541734c7456",
+        "title": "Trump Labels Fentanyl ‘Weapon of Mass Destruction’",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              US President Donald Trump shows a signed executive order classifying fentanyl as 'weapon of mass destruction' during a Mexican Border Defense Medal presentation in the Oval Office at the White House in Washington, DC, December 15, 2025.\n                    © 2025 Evelyn Hockstein/Reuters \n          \n    \n\n\n  \n<p>A new executive order seeking to designate&nbsp;“illicit fentanyl” a “weapon of mass destruction” could open the door to a dangerous expansion of militarized law enforcement and abusive military action.</p><p>The December 15&nbsp;order directs the defense secretary and attorney general to&nbsp;“determine whether the threats posed by fentanyl and its impact on the United States” justifies the  Defense Department aiding the Justice Department in law enforcement.</p><p>The order states that fentanyl has the potential&nbsp;“to be weaponized for concentrated, large-scale terror attacks by organized adversaries.” But&nbsp;domestic and&nbsp;international law already authorize responsive action if fentanyl were employed as a chemical weapon.&nbsp;</p><p>This order is particularly worrying amid the Trump administration’s use of drug trafficking as a pretext to justify unlawful military strikes. Since September, the administration has carried out more than two dozen strikes on alleged drug trafficking boats in the Caribbean and Pacific, resulting in&nbsp;at least 99&nbsp;extrajudicial killings. This context raises the concern that the order aims to facilitate an expansion of such unlawful actions.</p><p>The executive order is also dangerous in the current domestic context, following months of National Guard deployments to multiple&nbsp;US cities. While US law enforcement agencies commit many&nbsp;human rights abuses, the involvement of the military in law enforcement would pose&nbsp;additional risks. Military forces bring fundamentally different training and experience to bear, focused less on rights-respecting law enforcement and more on the effective use of lethal force.</p><p>While governments have a legitimate interest in working to stop drug trafficking, addressing the harm of unregulated fentanyl requires an emphasis on&nbsp;evidence-based public health&nbsp;interventions. Militarized policing in US communities could unleash serious abuses, especially against Black and other&nbsp;overpoliced communities. US drug policy has historically fueled&nbsp;racially discriminatory policing, arrests, and incarceration. It has not adequately addressed harm caused by drug trafficking, like overdose deaths, which disproportionately affect Black and Indigenous people, who face&nbsp;disparities in health care access.</p><p>The administration should channel concern about fentanyl into&nbsp;harm reduction strategies that safeguard rights, rather than calling it a weapon of mass destruction to create the illusion of a threat that warrants military action.</p>",
+        "link": "https://www.hrw.org/news/2025/12/19/trump-labels-fentanyl-weapon-of-mass-destruction",
+        "severity": 6,
+        "scraped_at": "2026-01-02T23:45:45.229078+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.7780818,
+          48.1012954
+        ]
+      },
+      "properties": {
+        "id_hash": "46dda6897b8a66b8d94943bfdaa5f946de0fd2b667713a84b5efcaaa6c75c605",
+        "title": "Kazakhstan Draft ‘Morality’ Laws Threaten Rights",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Kazakhstan Senate.\n                    © 2018 SenateKz/Wikimedia \n          \n    \n\n\n  \n<p>Kazakhstan’s Senate adopted two rights-violating laws on December 18, both of them threatening freedom of expression.&nbsp;</p><p>The first is a discriminatory&nbsp;draft law banning so-called propaganda of lesbian, gay, bisexual, and transgender (LGBT) expression, which would make it illegal to publicly support LGBT rights. The clear intention of the bill is to silence all forms of pro-LGBT expression. If the law enters into force, public forms of pro-LGBT expression in Kazakhstan will carry administrative sanctions.</p><p>The second is a&nbsp;draft law on crime prevention, which introduces the notion of “antisocial behavior,” or behavior that contravenes “generally accepted standards of behavior and morality.”&nbsp;</p><p>The bill does not define what “generally accepted standards” are but nevertheless provides for “involving citizens in crime prevention” by registering volunteers as “public assistants,” who maybe tasked with “ensuring the maintenance of public order in public places.” The volunteers may be granted monetary reward or a certificate in recognition of their assistance. They are also authorized to use physical force to prevent law violations and apprehend offenders.</p><p>Without a clear definition in Kazakh law for “generally accepted standards of behavior and morality,” there is significant risk the law would be arbitrarily applied to suppress legitimate forms of expression. Some&nbsp;countries, for example, have deemed that women laughing in public or too loud constitutes immoral or antisocial behavior. Several have categorized public support of LGBT rights or&nbsp;being in a same-sex relationship in similar ways.&nbsp;</p><p>Governments have duties to protect everyone’s fundamental rights as defined by international human rights law, including people from marginalized groups. This also includes the right to criticize government policies or form organizations that defend the rights of all people.</p><p>Kazakhstan’s president, Kassym-Jomart Tokayev, has spoken of “building a Just Kazakhstan,” a country, he’s proclaimed, “of equal opportunities and progress.” These draft laws are the opposite of that vision, taking Kazakhstan backwards to a time when&nbsp;citizens were encouraged to inform on each other to the police.</p><p>These two rights-violating laws will soon land on President Tokayev’s desk for his signature. When they do, he should do the right thing for Kazakhstan and veto them.&nbsp;</p>",
+        "link": "https://www.hrw.org/news/2025/12/18/kazakhstan-draft-morality-laws-threaten-rights",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:46.605097+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "41e672da776929ce02030c3b33a0fd37f30867d1de2d3b75c2d8ea7a204aab1e",
+        "title": "Growing Support for Treaty to Guarantee Free Education for Every Child",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Children at a free government pre-primary school, Tashkent, Uzbekistan, November 2022.&nbsp;\n                    © 2022 Bede Sheppard / Human Rights Watch\n          \n    \n\n\n  \n<p>Discussions are advancing at the United Nations on a new global treaty to guarantee every child’s right to a free education. Last week, countries gathered at the UN in Geneva to explore ways of strengthening international law around access to free pre-primary and secondary education. At least 74 countries from all regions participated, reflecting broad and sustained interest in an initiative led by Sierra Leone and the Dominican Republic.</p><p>It is low- and lower-middle-income countries that are taking the lead on the initiative, having already demonstrated their commitment to children’s education by introducing national reforms. In particular, Sierra Leone has enshrined 13 years of free schooling from pre-primary through secondary education in law. Malawi, the newest member of the group of leading states, will introduce free secondary education in 2026.</p><p>New treaty provisions are being discussed because, as Sierra Leone’s education minister recently highlighted, while existing international law guarantees children free primary education, the Convention on the Rights of the Child says nothing explicit about early childhood or pre-primary education, nor does it require states to guarantee every child free secondary education. A UNESCO report released last week also highlighted these gaps.</p><p>An obvious solution to fill these gaps would be to update the Convention on the Rights of the Child through a new optional protocol. This approach would create legally binding obligations, push governments to reform laws and policies, and ensure real oversight and accountability. Such a protocol would mean millions of children—especially those from low-income families, girls, and children with disabilities—could dramatically improve their opportunities and life outcomes.</p><p>Support for the initiative is growing and at the meeting, two more countries announced their support, bringing those publicly backing the process to 60, while many other countries, particularly African, European, and Latin American countries, reaffirmed their commitment to moving the initiative forward. However, there is still resistance, with the United Kingdom and Belgium maintaining their opposition, this time joined by Russia.</p><p>More than 400 million children are out of school from pre-primary through secondary often simply because their families cannot afford it. The time is now to take bold action and move forward with updating the Convention on the Rights of the Child, so that every child, everywhere, can claim the education to which they are entitled.</p>",
+        "link": "https://www.hrw.org/news/2025/12/18/growing-support-for-treaty-to-guarantee-free-education-for-every-child",
+        "severity": 2,
+        "scraped_at": "2026-01-02T23:45:46.605364+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "e766300b058e4269c01e88087bef2310c29cef28a720e7d38072c4cb08fa0639",
+        "title": "US: Masked Federal Agents Undermine Rule of Law",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Masked US federal agents outside the immigration court in Manhattan's 26 Federal Plaza, New York City, October 31, 2025.\n                    © 2025 Andrea Renault/STAR MAX/AP Photo \n          \n    \n\n\n  \n<p>(Washington, DC, December 18, 2025) –&nbsp;United States federal immigration enforcement agents now commonly operate masked and without visible identification, compounding the abusive and unaccountable nature of the Trump administration’s mass deportation campaign, Human Rights Watch said today. The indefinite and widespread nature of these practices is fundamentally inconsistent with the United States’ obligations to ensure that law enforcement abuses are investigated and met with accountability.</p><p>“Law enforcement officers must be identifiable to be accountable,” said&nbsp;Belkis Wille, associate crisis and conflict director at Human Rights Watch. “This kind of secrecy should be an exception, never the norm, and it’s even more alarming given the widespread abuses associated with immigration arrests in recent months.”</p><p>Since President Donald Trump’s return to office in January 2025, his administration has carried out an&nbsp;abusive&nbsp;campaign of immigration raids and arrests, primarily of people of color, across the country. Many of the raids target places where Latino people work, shop, eat, and live. The agents have&nbsp;seized people in courthouses and at&nbsp;regularly-scheduled&nbsp;appointments with immigration officials, as well as in places of worship,&nbsp;schools, and other sensitive locations. Many raids have been marked by the sudden and&nbsp;unprovoked use of force without any justification, creating a climate of&nbsp;fear in many immigrant communities.</p><p>These immigration enforcement operations have often involved Immigration and Customs Enforcement (ICE) agents wearing masks and, in some cases, civilian clothes. Agents are regularly concealing agency insignias and using unmarked vehicles to detain people who are in their cars and at courthouses, schools, workplaces, homes, on the street, and in public transport.&nbsp;</p><p>On its website, ICE&nbsp;justifies the widespread practice of masking “to prevent doxing.” This kind of generalized, blanket justification for concealing officers’ identity is not compatible with US human rights obligations, except when necessary and proportionate to address particular safety concerns, Human Rights Watch said. When applied as a broad, default approach, such measures serve as a barrier to accountability inconsistent with US human rights obligations. Anonymity also weakens deterrence, fosters conditions for impunity, and chills the exercise of rights.</p><p>Human Rights Watch interviewed 18 people who witnessed arrests by or who were arrested by unidentifiable people in five US cities since January 20. They all described the incidents as frightening, with a sense that they couldn’t do anything if they were abused, especially with the agents unidentifiable. Human Rights Watch also reviewed dozens of videos of&nbsp;stops and&nbsp;arrests involving&nbsp;masked agents&nbsp;posted on&nbsp;social&nbsp;media.</p><p>In one example, on March 25 at about 5:15 p.m., at least six officers, all in civilian dress and unmarked vehicles, without identifying themselves, confronted and stopped Tufts University graduate student Rümeysa Öztürk, 30, who was apparently targeted for writing an&nbsp;opinion piece in a student newspaper calling on Tufts to “acknowledge the&nbsp;Palestinian genocide” and divest from&nbsp;investments connected to Israel. Öztürk, who had been living in the United States for six years, told Human Rights Watch about the incident, which was also captured on CCTV&nbsp;footage.&nbsp;</p><p>Öztürk was walking on the street when several masked people approached her, forcibly took her phone and backpack, and placed her in handcuffs. Öztürk said when she asked who they were and to see their badges, one said they were “police” and one flashed a gold necklace, but she did not see a badge attached, and it did not help her identify them. In the footage, a bystander is heard asking the agents: “Why are you hiding your faces?” Öztürk said she was not shown any paperwork justifying her arrest. She was then forcibly removed from the state and wrongfully&nbsp;detained.</p><p>“It was a horrible feeling,” Öztürk said. “I didn’t think that they were the police because I had never seen police approach and take someone away like this. I thought they were people who were doxing me, and I was genuinely very afraid for my safety… As a woman who’s traveled and lived alone in various countries for my studies, I’ve never experienced intense fear for my safety—until that moment.”&nbsp;</p><p>One woman who has witnessed numerous raids and stops in Chicago since August said: “I’ve had experiences with agents who refused to identify themselves. That adds another level of fear. These are not identifiable police officers who could be held publicly accountable.” A man from Washington, DC, who has also witnessed numerous arrests by masked ICE agents since August, said these tactics have “completely destroyed any trust we’ve had for local and federal law enforcement.”</p><p>Many observers have suggested that the terror these tactics instill is by design. One US District Court judge asserted in a&nbsp;ruling&nbsp;that “ICE goes masked for a single reason—to terrorize Americans into quiescence… We have never tolerated an armed masked secret police.” The court dismissed ICE’s stated rationale for masking as “disingenuous, squalid and dishonorable.”</p><p>In recent months, media outlets have reported on people posing as federal agents&nbsp;kidnapping,&nbsp;sexually assaulting, and&nbsp;extorting victims, exploiting fears of immigration enforcement. This demonstrates how the lines can be blurred between criminals and law enforcement officers when federal agents themselves are unidentifiable, Human Rights Watch said.&nbsp;</p><p>Several&nbsp;states are taking steps to pass&nbsp;legislation to restrict law enforcement officers from&nbsp;concealing their&nbsp;identities during public interactions. It is unlikely these initiatives would be enforceable. At the federal level, the proposed&nbsp;VISIBLE Act, backed by Senators Cory Booker and Alex Padilla, would mandate legible identification and prohibit nonmedical face coverings for immigration enforcement officers.&nbsp;</p><p>Congress should investigate the brutality of the ongoing immigration enforcement activities, including the specific impacts of unidentifiable agents carrying out stops and arrests on impeding investigations and accountability efforts, Human Rights Watch said.&nbsp;</p><p>“Allowing masked, unidentified agents to roam communities and apprehend people without identifying themselves erodes trusts in the rule of law and creates a dangerous vacuum where abuses can flourish, exacerbating the unnecessary violence and brutality of the arrests,” Wille said.</p>",
+        "link": "https://www.hrw.org/news/2025/12/18/us-masked-federal-agents-undermine-rule-of-law",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:46.606084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.7780818,
+          48.1012954
+        ]
+      },
+      "properties": {
+        "id_hash": "65c9a3fe67e155abe4574479584fba0f1df2a69a63aaae5b661980823c4278c9",
+        "title": "Kazakhstan: Journalism, Free Expression in Further Peril",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Special police force officers stand outside the Orda.kz editorial office in Almaty, Kazakhstan, during a December 1, 2025 search of the premises after authorities opened a criminal case against Gulnara Bazhkenova, the publication's editor-in-chief, for allegedly “disseminating knowingly false information.\"\n                    © 2025 Meiirim Bakytzhanqyzy (RFE/RL)\n          \n    \n\n\n  \n<p>(London, December 17, 2025) – Authorities in Kazakhstan have targeted independent journalists and media outlets in recent weeks, a coalition of nine human rights groups said today. The authorities have searched the newsroom of an independent news agency, detained media workers, and pressured journalists over their reporting.</p><p>The coalition includes Amnesty International, Civil Rights Defenders, Crude Accountability, Freedom for Eurasia, Kazakhstan International Bureau for Human Rights and Rule of Law, Helsinki Foundation for Human Rights, Human Rights Watch, International Partnership for Human Rights, and the Norwegian Helsinki Committee.</p><p>“Astana should end the crackdown on free expression and independent journalism, which are essential to protecting human rights and civil liberties,” said Maisy Weicherding, Central Asia researcher at Amnesty International. “Kazakhstan should respect and uphold the right to media freedom and access to information.”</p><p>On December 1, 2025, police searched the independent Orda.kz media agency’s newsroom and detained media workers, at least one of whom is facing criminal charges. Other independent journalists have been under pressure from government officials and their social media accounts have been taken down. On December 2, the website of an independent media outlet experienced a distributed denial of service attack, to make a website unavailable by overwhelming it with traffic from multiple sources.</p><p>The Kazakhstan government has repeatedly pledged to uphold the right to freedom of expression, consistent with its Constitution and international obligations, including in January at its&nbsp;fourth Universal Periodic Review at the UN.</p><p>On December 1, police in Almaty&nbsp;detained Gulnara Bazhkenova, editor-in-chief of the independent news outlet Orda.kz, as a person of interest in several criminal cases, including for allegedly spreading “repeated and deliberate” false information. On the same day, a court ordered her held for&nbsp;two months of house arrest, her lawyer said.</p><p>Bazhkenova was arrested following a&nbsp;police search of the Almaty newsroom of Orda.kz and Bazhkenova’s home. The outlet’s legal representatives and staff said that investigative teams seized documents, equipment, and money for staff salaries. They forced open a safe. Officials physically searched Bazhkenova and an accountant. The authorities at the office denied Orda.kz’s lawyers permission to enter even though the lawyers had proper authorization, and barred them from reviewing the search warrant, both criminal procedural code violations.</p><p>On the same day in Astana, police questioned Dmitry Kim, head of Orda.kz’s capital bureau, for several hours at the outlet’s office and later took him to a police station. He was released the same day.</p><p>On November 28, independent journalists Lukpan Akhmedyarov and Raul Uporov published a&nbsp;documentary film, “The Duty of the Motherland,” on their&nbsp;YouTube channel&nbsp;“Prosto Journalistika” (JustJournalism_kz), highlighting the deaths of 270 Kazakhstani soldiers over the past three years. Most were conscripts who apparently died following illnesses, weapons-related incidents, or suicides.</p><p>The film followed a protest on November 10 in Astana, where mothers of deceased and injured soldiers gathered outside the House of Ministries demanding accountability and justice for soldiers’ deaths and injuries.</p><p>Akhmedyarov told the rights groups and&nbsp;reported in the media that several days before the film’s release, he received a phone call from a contact in the Defense Ministry relaying a request from “a high-ranking official” to avoid “stirring up the issue with the army.” After Akhmedyarov published a Facebook post about the threat, his&nbsp;Facebook account became inaccessible for three days.</p><p>A separate Instagram account he ran for his “Just Journalism” project&nbsp;was temporarily removed in July. He said it was a targeted attack.</p><p>The Facebook incident appears to be the latest of a recent string of interference in online expression in Kazakhstan. In late November, the Instagram accounts of&nbsp;three other independent voices in Kazakhstan became inaccessible or were temporarily removed.</p><p>Vadim Boreyko, an independent journalist based in Almaty,&nbsp;reported on November 22 that he found his Instagram account emptied of content. He described the incident as the latest in multiple instances of harassment that includes repeated removals of older posts on Instagram and Facebook for vague “violations.” Since then, the content on his account appears to have been restored.</p><p>An Almaty-based activist, Askhat Niyazov, received notification on his Instagram that his account had been removed for “community guidelines violations.” On November 28, another Almaty-based activist, Sanjar Bokayev, received notification on Instagram that his account had been removed for “community guidelines violations.” Their accounts have since been restored. On November 30, Bokayev’s account on Facebook was blocked “for security reasons.” It too has been restored.</p><p>On December 12, Human Rights Watch sent a letter to Meta, the parent company of Instagram and Facebook, asking about the temporary blocking and removal of accounts and if these actions had been taken in response to Kazakhstan government requests. Meta responded saying that they “strive to notify users and share information externally” about taking action on content that violates local law, but were unable to respond substantively to the specific questions posed by the time of publication.</p><p>The editorial team of the independent outlet Vlast.kz&nbsp;reported on December 2 that its website had experienced intensive DDoS attacks over several days, especially on December 2. They said the attacks caused significant interruptions to the website’s operations.</p><p>Kazakhstan’s parliament has also&nbsp;advanced legislation severely restricting the rights and visibility of LGBTI individuals, including broad and vaguely defined prohibitions on public expression relating to sexual orientation and gender identity. These provisions pose a direct threat not only to people identifying as LGBTI (lesbian, gay, bisexual, transgender and intersex), but also to journalists, academics, artists, human rights defenders, and civil society actors who risk administrative sanctions for reporting on or advocating for the rights of these groups, or for expressing positive views of LGBTI rights publicly or online.</p><p>Such measures constitute discrimination and violate Kazakhstan’s Constitution, including guarantees of equality before the law and freedom of expression, as well as the country’s binding obligations under the International Covenant on Civil and Political Rights.</p><p>They also contradict Kazakhstan’s commitments within the Organization for Security and Cooperation in Europe framework to uphold pluralism, tolerance, and non-discrimination, as well as international standards articulated by UN experts. The experts have repeatedly emphasized that states may not restrict expression relating to sexual orientation and gender identity to suppress public debate or silence marginalized groups.</p><p>“The advancement of so-called propaganda legislation is not only blatantly homophobic and discriminatory, but it also marks a dangerous expansion of state control over public discourse and further erodes the already shrinking civic space in the country,” said Leila Seiitbek, director of Freedom for Eurasia. “On December 18, when the bill goes to a vote in Kazakhstan’s Senate, lawmakers should decisively vote against this harmful piece of legislation.”</p><p>The Kazakhstan government, in particular the Ministry of Internal Affairs and the Prosecutor General’s Office, should cease harassment, intimidation, and pressure against journalists and media outlets, the groups said. It should protect the public’s right to access to information, and cease spurious criminal investigations into independent journalists, including against Bazhkenova.</p><p>The authorities should also withdraw the discriminatory “propaganda” bill. Kazakhstan should guarantee the right to freedom of expression for all and ensure that government policies promote tolerance and nondiscrimination.</p><p>Social media platforms should respect the human rights of users in Kazakhstan and resist any content or account takedown requests that unlawfully restrict expression protected under international human rights law, the groups also said.</p><p>“Unfounded restrictions on journalists and freedom of expression are long-standing rights issues in Kazakhstan,” said Mihra Rittmann, Central Asia adviser at Human Rights Watch. “The government needs to stop all attacks on independent journalists and media outlets and create an enabling environment for freedom of expression.”</p>",
+        "link": "https://www.hrw.org/news/2025/12/17/kazakhstan-journalism-free-expression-in-further-peril",
+        "severity": 4,
+        "scraped_at": "2026-01-02T23:45:47.941230+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2675469,
+          26.2540493
+        ]
+      },
+      "properties": {
+        "id_hash": "63838c7654714c3eda8abf7316ddd5b40c1eeb1109477208557a4827aac578d2",
+        "title": "Egypt: Quash Conviction of Prominent Economist",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Dr. Abd al-Khaliq Farouk.\n                    © Private\n          \n    \n\n\n  \n<p>(Beirut) –&nbsp;Egyptian authorities should quash the conviction of prominent economist Abd al-Khaliq Farouk, who on October 2, 2025, was sentenced to five years in prison for articles and social media posts in violation of his free speech and due process rights, Human Rights Watch said today. An appeals court is scheduled to hear his case on December 25.</p><p>A misdemeanor court convicted Farouk of “disseminating false news” under the penal code for criticizing Egypt’s economic policy and alleging government corruption. Egyptian authorities have violated Farouk’s right to freedom of expression as well as his due process rights, including his right to a fair trial. He is currently being held under conditions that raise concerns for his health and he said he is being ill-treated.</p><p>“Prosecuting a prominent economist solely for his speech and analysis reflects the dangerous level of repression in Egypt today, casting economic research and intellectual debate as criminal acts,” said&nbsp;Amr Magdi, senior Middle East and North Africa researcher at Human Rights Watch. “The authorities should immediately release Dr. Farouk, whose long imprisonment is just the latest case in which Egypt’s government makes a mockery of free speech guarantees and due process rights.”</p><p>Security forces raided Farouk’s home in Cairo on October 20, 2024, arrested him, and confiscated his phone, laptop, and unpublished draft writings, his wife, Nagla Salama, told Human Rights Watch. They also confiscated her laptop and phone and have not returned them.</p><p>Two days before his arrest, Farouk published a Facebook&nbsp;post, “The Theft of the Century,” compiling 40 of his articles about economic subjects including the military’s&nbsp;encroachment into the civilian economy and its opaque business dealings. Human Rights Watch reviewed a selection of Farouk’s posts and found that they criticize President Abdel Fattah al-Sisi, other officials, and the Egyptian military.&nbsp;</p><p>While the authorities have previously detained Farouk several times for his writings, his wife said his current detention conditions at the 10th of Ramadan prison complex are “by far the worst.” She said he is kept in near-total isolation, locked in his cell for 23 hours a day with two other prisoners. He is allowed one hour outside his cell, but in an enclosed space without sunlight and is denied meaningful contact with others.</p><p>Following Farouk’s arrest, the Supreme State Security Prosecution interrogated him about his writings stretching back several years,&nbsp;his wife and lawyer said. The authorities charged him under article 80(d) and article 102 bis of the penal code concerning “disseminating false statements,” his lawyer, Nabih el-Genady said. Both articles have been used to criminalize peaceful speech, Human Rights Watch said.&nbsp;</p><p>Since his arrest, the authorities have held Farouk in pretrial detention without bail. Human Rights Watch has documented that Egyptian authorities since 2013 have imposed unjustified, prolonged pretrial detention to punish critics and stifle dissent. The authorities have conducted Farouq’s pretrial detention renewal hearings remotely through a video system without bringing him physically before a judge. The remote hearings system widely used in recent years&nbsp;exacerbates abusive pretrial detention in violation of international law.</p><p>The Shorouk Misdemeanor Court, a first instance court for minor offenses, did not formally notify Farouk’s lawyers of his initial court hearing on September 25 and denied them access to the approximately 500-page case file, his lawyer said. The court issued the five-year sentence at the second hearing without allowing for a meaningful defense. His wife said that Farouq only learned of the verdict on October 7, when she was visiting him.&nbsp;</p><p>The appeal has already raised due process concerns. His lawyers said that the appeals court allowed them to only briefly read the case file in court but did not permit them to make a copy for review.</p><p>The Egyptian authorities should immediately release Farouk and all other prisoners held for exercising their rights to freedom of expression, including&nbsp;Ismail Iskandarani, a researcher, and&nbsp;Ashraf Omar, a cartoonist, Human Rights Watch said.&nbsp;</p><p>The International Covenant on Civil and Political Rights and the African Charter on Human and Peoples’ Rights, both of which Egypt has ratified, guarantee everyone the right to freedom of expression, to a fair and public hearing, and to adequate time and resources to prepare a defense.</p><p>The United Nations Human Rights Committee, which authoritatively interprets the covenant,&nbsp;requires any limitations on free expression to be proportionate, stated in a precise manner, in a way to enable people to reasonably predict what constitutes a violation, and necessary to protect national security, public order, public health, or morals in a democratic society.&nbsp;</p><p>The committee has also&nbsp;stated that the right to a fair trial, including appeals, requires “access to documents and other evidence” including “all materials that the prosecution plans to offer in court against the accused or that are exculpatory.”&nbsp;</p><p>“The prosecution of Dr. Farouk is just the latest case in which Egyptian authorities have sought to secure a brutally harsh sentence as punishment for those who criticize Sisi’s government and its policies,” Magdi said. “Such abuses not only strangle the space for freedom of expression in the country but deprive Egyptian society of the ability to contest the government’s economic policies amid widespread poverty and economic crises.”</p>",
+        "link": "https://www.hrw.org/news/2025/12/17/egypt-quash-conviction-of-prominent-economist",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:49.284813+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "32f97cfa6c0a0c0d96ca072a6eeec2d8f7c4cc5d88ce6b1f9383db5f6ca0cd26",
+        "title": "Migración Colombia abre investigación por hospedaje irregular de la secta Judía ultraortodoxa Lev Tahor en Antioquia",
+        "summary": "Migración Colombia investiga a un hotel de Yarumal por no reportar el alojamiento de 26 extranjeros de la secta Lev Tahor.",
+        "link": "https://noticias.rcnradio.com/colombia/migracion-colombia-indaga-presencia-irregular-de-la-secta-lev-tahor-en-antioquia?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:55.986760+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "3e08a0f1b1c03b0e27cd1905cdd991797458177072e00e084f20c57927c5ae6b",
+        "title": "Gobierno expide nuevo régimen sanitario para dispositivos médicos en Colombia",
+        "summary": "El Ministerio de Salud alista un decreto para modernizar la regulación de dispositivos médicos y reforzar la seguridad del paciente.",
+        "link": "https://noticias.rcnradio.com/colombia/colombia-actualiza-normas-sanitarias-para-dispositivos-medicos?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:55.986838+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9371775,
+          50.8074825
+        ]
+      },
+      "properties": {
+        "id_hash": "fc0b757abe024f2a22c56fb2ecf5170d28312f598706a51cdcb281f3334dac40",
+        "title": "'Tienen 24 horas para salir de la zona': Personería de Cúcuta denuncia amenazas a líderes comunales en Catatumbo",
+        "summary": "Combates entre el ELN y disidencias de las FARC provocan desplazamientos, amenazas y una grave crisis humanitaria en la región.",
+        "link": "https://noticias.rcnradio.com/colombia/catatumbo-en-alerta-por-amenazas-a-lideres-comunales?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.343154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "47f1ea3e007f7a9fa87b308165b582882d4b9e0feda6a8005fd770aa2b2f8d20",
+        "title": "“Los colombianos tendrán que trabajar más para pensionarse”: Asofondos tras decreto del Gobierno",
+        "summary": "Asofondos alertó que el Decreto 1485 encarece las pensiones mínimas y obligaría a los trabajadores a cotizar más años para pensionarse.",
+        "link": "https://noticias.rcnradio.com/colombia/decreto-del-gobierno-haria-que-colombianos-trabajen-mas-para-pensionarse?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.343326+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "6b5a115b69e7ed389fc474e12db5c3e42efa8e79d32a927b2770c0f37bcb1237",
+        "title": "El mercado automotor cerró 2025 con su mejor desempeño en seis años: Fenalco y ANDI",
+        "summary": "El mercado automotor en Colombia alcanzó un récord de matrículas en 2025 y una mayor venta en vehiculos eléctricos e híbridos.",
+        "link": "https://noticias.rcnradio.com/colombia/ventas-de-vehiculos-marcaron-en-2025-su-mejor-resultado-en-seis-anos?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.343515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "1cc9459a0cfbbb49f69c3880aef58c1deda23e213256402351032d36279a8277",
+        "title": "Colombia cerró diciembre con la tasa de homicidios más baja en 7 años",
+        "summary": "La Policía entregó el balance de fin de año con cifras que reflejan avances en seguridad, prevención y protección de la vida en el país.",
+        "link": "https://noticias.rcnradio.com/colombia/colombia-cerro-diciembre-con-la-tasa-de-homicidios-mas-baja-en-siete-anos?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.343560+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "226eff700997f89523d9d382c2f92841eac5a0a4888cc047864e679f7b750da1",
+        "title": "Cayó red delincuencial en Chiquinquirá conformada por funcionarios de la Policía, el CTI y el Inpec",
+        "summary": "Capturan a varios funcionarios por presunta red de corrupción que habría usado cargos públicos para cobrar dinero y manipular procesos.",
+        "link": "https://noticias.rcnradio.com/colombia/cae-red-delincuencial-en-chiquinquira-integrada-por-policias-cti-e-inpec?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.343606+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "2137a970d1d41662e399d8258fdf802edd3f43738e3738286e2a828524ada557",
+        "title": "Precio de gasolina en Colombia 2026: así queda desde el 1 de enero",
+        "summary": "Desde enero de 2026 cambian los precios de la gasolina y el ACPM en Colombia, con variaciones según la ciudad. Aquí los detalles.",
+        "link": "https://noticias.rcnradio.com/colombia/alza-en-combustibles-asi-quedan-los-precios-de-la-gasolina-y-el-diesel-en-2026?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.343710+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "aae8ed8c0062ca1cfb051ca9a7d50326ec5d960a4423f67cb5eafa4ced0fb249",
+        "title": "Enero, el mes más costoso del año: ¿Cómo organizar las finanzas y evitar endeudarse?",
+        "summary": "Enero suele ser el mes más duro para el bolsillo de los colombianos. Con buena planeación financiera, es posible empezar el año sin deudas.",
+        "link": "https://noticias.rcnradio.com/actualidad/enero-el-mes-mas-costoso-del-ano-asi-puede-planear-sus-finanzas-sin-endeudarse?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.343754+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "e66bbb2c00fbb4bf11e4e6298fe075dcde447e56b850f1c41244f8a8fbd4b08b",
+        "title": "“La pólvora no solo quema, fractura y amputa”: alerta de la Unidad de Quemados del Hospital Simón Bolívar",
+        "summary": "El uso de pólvora dejó casi mil lesionados en Colombia en fin de año, médicos alertan por amputaciones y quemaduras graves.",
+        "link": "https://noticias.rcnradio.com/colombia/autoridades-medicas-advierten-sobre-danos-graves-por-polvora-en-este-diciembre?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.343900+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "c38c98de03d3d84da52f748010077d9a3795e59c6debebbd178fb549b5e88cf1",
+        "title": "¿De cuánto es la multa por quemar un Año Viejo en Colombia 2025?",
+        "summary": "Autoridades advierten sanciones económicas por quemar el Año Viejo en espacios no autorizados.",
+        "link": "https://noticias.rcnradio.com/colombia/de-cuanto-es-la-multa-por-quemar-un-ano-viejo-en-colombia-2025?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.344084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "5334e25c242c5ffce5e887a9e27f3566ad17bd4d6d3d4e4a89e086f928edde10",
+        "title": "¿Por qué se quema el Año Viejo en Colombia y de dónde viene esta tradición?",
+        "summary": "Así nació la tradición del Año Viejo, un ritual popular que simboliza dejar atrás el pasado y atraer nuevos comienzos.",
+        "link": "https://noticias.rcnradio.com/colombia/por-que-se-quema-el-ano-viejo-en-colombia-y-de-donde-viene-esta-tradicion?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.344164+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "b34609ae62b765cd7de323ce5bb58c63d060fda06e765760a32751436a82c30f",
+        "title": "¿Se trabajará los sábados con la reducción de la jornada laboral en Colombia el próximo año?",
+        "summary": "El nuevo ajuste a la jornada laboral en 2026 genera inquietudes sobre los horarios y si el sábado continuará siendo un día laboral.",
+        "link": "https://noticias.rcnradio.com/colombia/se-trabajara-los-sabados-con-la-reduccion-de-la-jornada-laboral-en-colombia-el-proximo-ano?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.344207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "5383e9e4c03d653b606efdbc5e89f53b59bf337c1ce4feb0b1b04a5a72029dad",
+        "title": "Desempleo en Colombia cae a su nivel más bajo de la historia en noviembre de 2025",
+        "summary": "El DANE informó una reducción histórica del desempleo al cierre del 2025, impulsada por el aumento de la población ocupada.",
+        "link": "https://noticias.rcnradio.com/colombia/colombia-registra-un-minimo-historico-de-desempleo-al-cierre-del-2025?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.344349+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "ad3f81fa9d28b26e756282a7ebc33a6079d8fe7bcd3e60c7f785e48100b80e69",
+        "title": "WhatsApp dejará de funcionar en  algunos celulares desde el 1 de enero de 2026",
+        "summary": "Usuarios podrían perder acceso a una de las aplicaciones más usadas del país por cambios técnicos anunciados para 2026.",
+        "link": "https://noticias.rcnradio.com/actualidad/whatsapp-dejara-de-funcionar-en-varios-celulares-desde-enero-de-2026-estos-usuarios-se-veran-afectados?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.344428+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "66cff1e76d6dee79e544c2613a000170df5a1a53a684a7797150914288781e1a",
+        "title": "Casi 170 asesinatos de líderes sociales exacerbaron la violencia en Colombia en 2025",
+        "summary": "Defensoría alertó que 165 líderes sociales fueron asesinados en Colombia entre enero y noviembre de 2025.",
+        "link": "https://noticias.rcnradio.com/colombia/asesinatos-de-lideres-sociales-aumentan-la-crisis-de-violencia-en-colombia-en-2025?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.344490+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "19dde99d5c4f96051c112940c05b8a93ec9f8ae388c011081600ba37f9b04758",
+        "title": "¿Cuándo no se paga el auxilio de transporte en Colombia?",
+        "summary": "Este auxilio es un apoyo vital para ciertos trabajadores. Le contamos cuándo no se paga y cuáles son las excepciones según la ley.",
+        "link": "https://noticias.rcnradio.com/colombia/cuando-no-se-paga-el-auxilio-de-transporte-en-colombia?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.344531+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "b813c2c94d5df621722a910a0e512d368959f4453a41ea1716273f12465ea770",
+        "title": "¿Qué es el IPC en Colombia y cuánto sube para 2026?",
+        "summary": "Tras el aumento del salario mínimo para 2026, cercano al 23 %, ahora la mirada se centra en el comportamiento del IPC. ¿Qué es?",
+        "link": "https://noticias.rcnradio.com/colombia/que-es-el-ipc-en-colombia-y-cuanto-sube-para-2026?amp",
+        "severity": 0,
+        "scraped_at": "2026-01-02T23:45:57.344571+00:00"
+      }
+    }
+  ]
+}

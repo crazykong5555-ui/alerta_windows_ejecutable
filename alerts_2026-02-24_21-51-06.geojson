@@ -1,0 +1,1481 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "08d95c86b0195f99833131439164cc0942a355be941f8178a1e6904bf3cfca3f",
+        "title": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
+        "summary": "Four men expose the horror and brutality of conditions in the Ukraine war, with two saying they saw soldiers being shot for refusing orders.",
+        "link": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:47:40.629680+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "69e008372decc9e22588d26a78caf2a7cae9d2fe6d159fe4d71eb1fd88aeaf3d",
+        "title": "Ukraine remembers its dead as war enters a fifth year",
+        "summary": "Events were held across Ukraine to mark four years since Russia launched its full-scale invasion.",
+        "link": "https://www.bbc.com/news/articles/clyg7r3nd3ko?at_medium=RSS&at_campaign=rss",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:47:40.629760+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9253,
+          -14.235
+        ]
+      },
+      "properties": {
+        "id_hash": "ac909d82cd6e37ee9faae4467ace195ddb5624047cfcf34c306e6950d98a510e",
+        "title": "Floods and landslides in Brazil kill at least 25",
+        "summary": "Hundreds of people have been displaced and dozens are missing, with rescue operations still ongoing in Juiz de Fora.",
+        "link": "https://www.bbc.com/news/articles/c70k7vjllzeo?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:47:40.629824+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "c6fbf1f23393cd2e7e8d1c7dcec763de05bc01fc16a72720430c7d661ee9150d",
+        "title": "Two dead after winter storm hammers the US northeast",
+        "summary": "Two people died when a tree fell on their car during a historic winter storm that has also delayed flights and left thousands without power.",
+        "link": "https://www.bbc.com/news/articles/c5yjpx2lgdjo?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:47:40.629860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1834097,
+          48.6937223
+        ]
+      },
+      "properties": {
+        "id_hash": "d6dc65eb3dba7a0444c180760de45ee047952a5985be6164b15f59a1bc54f6c9",
+        "title": "Nancy Guthrie's family offers $1m reward to bring home missing mother",
+        "summary": "Fighting back tears, the missing woman's NBC host daughter says they accept she may be dead.",
+        "link": "https://www.bbc.com/news/articles/cy4wd11j0evo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:47:42.519754+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "d492b1fa364d6ee0ad61f2bd59c484a62480fad761eb128078258128e854c599",
+        "title": "Ramaphosa thanks Putin for release of South Africans lured into Russia-Ukraine war",
+        "summary": "The men believed they were going to Russia for training as bodyguards but ended up on the front line.",
+        "link": "https://www.bbc.com/news/articles/c2d1j7klzpgo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:47:42.519934+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "0ee067f4e69e8a2f74748e5dc8da6974123f4778e0834743f247cb3d67cdc1b4",
+        "title": "Moscow rail hub explosion was suicide bomb, Russian officials say",
+        "summary": "A traffic police officer and the suspect were killed in the explosion, Russian officials say.",
+        "link": "https://www.bbc.com/news/articles/czx4pyx9g46o?at_medium=RSS&at_campaign=rss",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:47:42.519987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "5bf48ba2eb6b6bfbaee88d97fc6146dd63d55c964cef562e59b455b4d456180a",
+        "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
+        "summary": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review.",
+        "link": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:47:42.520076+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "0b0b22dd4c58dcb5ab12e470426d5a10c97920f0533360b576f0fc59aa91adae",
+        "title": "Ukraine negotiator tells BBC how it feels to sit across table from Russia",
+        "summary": "Sergiy Kyslytsya is among those trying to negotiate an end to the conflict, which is entering its fifth year.",
+        "link": "https://www.bbc.com/news/articles/c89k0lxlpnpo?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:47:42.520106+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "8c50709765f7914509b40571ad239294bed88e7f899cf644d2404c6eb33e03be",
+        "title": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
+        "summary": "Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major US military build-up nearby.",
+        "link": "https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:47:42.520253+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "d9eccbb031b7a1a9cb4a61306d3978ddcb26f3d7e3d2aaeebd17a41310c97c2e",
+        "title": "Bowen: Why Ukraine remains defiant and does not feel close to defeat",
+        "summary": "This month marks four gruelling years since the full‑scale invasion began and a genuine ceasefire still feels far from assured",
+        "link": "https://www.bbc.com/news/articles/cd9g2ggq4epo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:47:42.520343+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "830b5d6cb4fc620e9ee7e113a54430cb6e49a79fca1c48e3f71750856e5f02fd",
+        "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
+        "summary": "Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping.",
+        "link": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:47:42.520391+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "e424196e0f803bfe8b6ed04f660c524c07e92b6ae687a0375d108bc38f94c66d",
+        "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
+        "summary": "Ukraine's president sat down with the BBC's Jeremy Bowen in Kyiv days before the four-year anniversary of the war.",
+        "link": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:47:42.520421+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "3e421da91a4d888750056e20b45f69f543c5b4536ad927835abdb0916e898d03",
+        "title": "ICC judges hear charges against ex-Philippine president Duterte: What you need to know",
+        "summary": "Duterte is facing charges relating to a long and bloody war on drugs in which thousands were killed.",
+        "link": "https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&at_campaign=rss",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:47:42.520450+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "647fa7a3b5d5187157bcf2f496630f9bbe6a5fd32ca2b9f7c28a4408f1b56005",
+        "title": "From Venezuela to immigration crackdown, Project 2025 provided Trump's roadmap",
+        "summary": "Just a year into Trump's second term, and about half of Project 2025's policies have been implemented, observers say.",
+        "link": "https://www.bbc.com/news/articles/c5yvvjw8pdvo?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:47:42.520561+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "e87769c5d9d3838c4fc4bf1182c99cb4df54b33d9430acbcc8b2bbe1e8407001",
+        "title": "'Anyone who runs is shot': Watch Russian soldiers describe killings of troops who refuse orders",
+        "summary": "The men, who are on the run, told of the horrors they witnessed on the Russian side of the front lines in Ukraine.",
+        "link": "https://www.bbc.com/news/videos/cx2rql99rwxo?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:47:42.520602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5908238,
+          28.3622891
+        ]
+      },
+      "properties": {
+        "id_hash": "0f010495ea67b7c65c52ab5986758370193524691040ac51153fd26926ea0e57",
+        "title": "Watch: Winter storm covers parts north-east US in snow",
+        "summary": "Weather warnings and travel bans are in place, as the storm causes power outages.",
+        "link": "https://www.bbc.com/news/videos/ce3g73nnlelo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:47:48.630443+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "1ea6e6cdca968f7e3b1568f92fce62a03eb65bd904cec5967e683b14a0b65f1e",
+        "title": "Russia-Ukraine war: List of key events, day 1,462",
+        "summary": "These are the key developments from day 1,462 of Russia&#039;s war on Ukraine.",
+        "link": "https://www.aljazeera.com/news/2026/2/25/russia-ukraine-war-list-of-key-events-day-1462?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:47:54.250840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9710281,
+          -37.7986221
+        ]
+      },
+      "properties": {
+        "id_hash": "a2fb88bd4861dd0b824c87d65a755b2292f2e68aeb5cd37924ee31892e935c76",
+        "title": "Suspect, four victims dead after stabbing attack in US state of Washington",
+        "summary": "A 32-year-old suspect stabbed four people to death before being shot by a sheriff’s deputy near Tacoma, Washington.",
+        "link": "https://www.aljazeera.com/news/2026/2/25/suspect-four-victims-dead-after-stabbing-attack-in-us-state-of-washington?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:00.424605+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "4b86ba8f4a14f85c4ad067c4d9f5ccebff128a5b8c37b9579bba1a9afb6826cd",
+        "title": "State of the Union live: Trump addresses nation amid tariff, Iran tensions",
+        "summary": "The US president is expected to use the primetime platform to push his agenda and bolster support before the midterms.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/2/24/state-of-the-union-live-trump-to-address-nation-amid-tariff-iran-tensions?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:00.424752+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "5d18fbd39fe114adf1b2b2dd57e3f885ed4ac402ee675992f20a516403f9c6fb",
+        "title": "Mexico’s Claudia Sheinbaum considers legal action after Elon Musk criticism",
+        "summary": "President Sheinbaum responds to accusations from Musk that she was repeating what &#039;cartel bosses tell her to say&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/2/24/mexicos-claudia-sheinbaum-considers-legal-action-after-elon-musk-criticism?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:00.424830+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "2082e34620bddf83547300d99255364a04d08708caff14bca9cdd033058d4c4d",
+        "title": "Russia ‘has not won’ as Ukraine war enters fifth year, Zelenskyy says",
+        "summary": "European leaders travel to Kyiv to mark the war&#039;s fourth anniversary and pledge continued support for Ukraine.",
+        "link": "https://www.aljazeera.com/news/2026/2/24/russia-has-not-won-as-ukraine-war-enters-fifth-year-zelenskyy-says?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:00.424877+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "7c838b2bbf581d8c24a92523bb5f745a487cf538a0858b3b326a1ac11285ec19",
+        "title": "At least 28 people killed as Sudan paramilitary force tears through Darfur",
+        "summary": "Rapid Support Forces launches large-scale assault on town of Misteriha, home to tribal leader Musa Hilal.",
+        "link": "https://www.aljazeera.com/news/2026/2/24/rsf-tears-through-darfur-town-killing-28-doctors?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:00.424993+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2165513,
+          51.5918177
+        ]
+      },
+      "properties": {
+        "id_hash": "03d9c87dfb7dae07c520de251e9d4a18b61d7b129530b40a53e64c518c11a5f8",
+        "title": "What to expect from Trump’s State of the Union address",
+        "summary": "Trump’s State of the Union preview: foreign policy, immigration, tariffs, and the influence of Project 2025.",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/2/24/what-to-expect-from-trumps-state-of-the-union-address-2?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:02.948474+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4416347,
+          51.1785153
+        ]
+      },
+      "properties": {
+        "id_hash": "43313b0a2a3fee2474878cbda315deef1ba3169ff44ef1e1fc3cfee91fb1398a",
+        "title": "New Afghan, Pakistani border clashes follow deadly strikes",
+        "summary": "Both sides accused the other of unprovoked fire near their fraught frontier.",
+        "link": "https://www.aljazeera.com/news/2026/2/24/fresh-afghan-pakistani-border-clashes-follow-deadly-strikes?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:05.165158+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "81e3e1d99388f8f7964012f5481ffcca2ff9e9bed12320faa7a2385016d02f10",
+        "title": "Fatigue and tension in Russia four years after Ukraine invasion",
+        "summary": "Problems are bubbling beneath the surface of Russian society four years after the invasion of Ukraine.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/24/fatigue-and-tension-in-russia-four-years-after-ukraine-invasion?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:05.165262+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.209141,
+          49.283235
+        ]
+      },
+      "properties": {
+        "id_hash": "87cbf3998f207b8388dd0ed7eb1ed33f3120eeaa9e632b315523a37d982a3481",
+        "title": "Warner Bros gets new offer from Paramount but still recommends Netflix bid",
+        "summary": "If Warner’s board changes course and deems Paramount’s latest offer superior, Netflix will be able to revise its bid.",
+        "link": "https://www.aljazeera.com/economy/2026/2/24/warner-bros-gets-new-offer-from-paramount-but-still-recommends-netflix-bid?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:06.940037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3419183,
+          2.0349312
+        ]
+      },
+      "properties": {
+        "id_hash": "0475bac1c76f42b0227ab1a8d816abb70c71868ddc83c7604ebac82609f4172a",
+        "title": "Yemen’s ‘Mogadishu’: Somali refugees face poverty, instability in Aden",
+        "summary": "Generations of refugees in Aden endure poverty, lack identity, and cling to fading memories of Somalia&#039;s distant shores.",
+        "link": "https://www.aljazeera.com/features/2026/2/24/yemens-mogadishu-somali-refugees-face-poverty-instability-in-aden?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:12.646460+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "3b2fdae29f0ce5036438830146adbb589ef64645c63591531a67caa5bb7619de",
+        "title": "Familiar moments mark four years of Russia’s war on Ukraine",
+        "summary": "Shows of solidarity and moments of mourning marked yet another anniversary of Russia’s war on Ukraine.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/24/familiar-moments-mark-four-years-of-russias-war-on-ukraine?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:12.646606+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "089779ae13dc0b484b8ded5de321318a9041723b62f4f72f181abc5410d8d43c",
+        "title": "Indonesia mosque gives out 3,800 free meals every night of Ramadan",
+        "summary": "The Jogokariyan Mosque in Indonesia distributes thousands of free meals each night of Ramadan.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/24/indonesia-mosque-gives-out-3800-free-meals-every-night-of-ramadan?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:12.646647+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "543834714c50d93f0efe4c8987dd9134bb0f3cae2799bc78c41879b65d790b17",
+        "title": "Israel’s opposition leader voices support for ‘broad’ Middle East expansion",
+        "summary": "Yair Lapid says expansionist view for Israel taking over the Middle East is based on Zionist and biblical foundations.",
+        "link": "https://www.aljazeera.com/news/2026/2/24/israels-opposition-leader-voices-support-for-broad-middle-east-expansion?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:12.646701+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "0fa1e3d56d0ac4c77966bc003aadcd83582e190d770f162240c7023f14b3889a",
+        "title": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme",
+        "summary": "The White House comment comes after a senior Trump aide said Iran is a week away from having material for nuclear bomb.",
+        "link": "https://www.aljazeera.com/news/2026/2/24/us-re-asserts-2025-strikes-obliterated-irans-nuclear-programme?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:12.646775+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5528,
+          23.6345
+        ]
+      },
+      "properties": {
+        "id_hash": "3bc466378eedb6251806e8f373d62d4ea34652c9bcac70c0b0bc4a6d051bf3e9",
+        "title": "Mexico pledges safety for World Cup after violence erupts from cartel boss’s killing",
+        "summary": "<p>Mexico’s president says there is ‘no risk’ for those visiting for Fifa games after military killed drug lord ‘El Mencho’</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/feb/23/violence-erupts-mexico-military-kills-drug-cartel-boss-el-mencho-visual-guide\">Violence in Mexico after military kills notorious drug cartel boss – a visual guide</a></p></li></ul><p>Mexico’s president, Claudia Sheinbaum, has said that there is “no risk” for visitors coming to Fifa <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> games scheduled to be held in the country, after the death of a top cartel boss triggered a wave of retaliatory violence from gunmen who blocked roads and attacked security forces across the country.</p><p>The Mexican military <a href=\"https://www.theguardian.com/world/2026/feb/23/el-mencho-mexican-drug-cartel-boss-killing-violence\">attempted to detain “El Mencho”, the leader of the Jalisco New Generation Cartel, in a dawn raid on Sunday,</a> leading to a firefight in which he was fatally wounded, before dying while being airlifted to hospital.</p> <a href=\"https://www.theguardian.com/world/2026/feb/24/sheinbaum-world-cup-visitors-violence-el-mencho\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/feb/24/sheinbaum-world-cup-visitors-violence-el-mencho",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:48:13.381503+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.991707,
+          61.0666922
+        ]
+      },
+      "properties": {
+        "id_hash": "3b6cdd0482c69dd955f3ad4af3d96d4380a483ab95415e884acb4cc0bba8450b",
+        "title": "Canada seeks answers from OpenAI for failing to alert police after suspending school shooter’s account",
+        "summary": "<p>Company had suspended account of Tumbler Ridge shooter in June 2025 over ‘furtherance of violent activities’</p><p>Canada’s artificial intelligence minister says he has summoned representatives from the technology company OpenAI after the company declined to alert police after suspending the account of a user who became the perpetrator of one of the country’s <a href=\"https://www.theguardian.com/world/2026/feb/11/tumbler-ridge-canada-shooting-school-mark-carney\">worst-ever school shootings</a>.</p><p>Evan Solomon says he is “deeply disturbed” by <a href=\"https://www.wsj.com/us-news/law/openai-employees-raised-alarms-about-canada-shooting-suspect-months-ago-b585df62\">reports</a> that the company, which operates the popular ChatGPT chatbot, suspended the account of Jesse Van Rootselaar over the “furtherance of violent activities” in June 2025 but did not reach out to Canadian law enforcement.</p> <a href=\"https://www.theguardian.com/world/2026/feb/23/openai-tumber-ridge-shooter-account-suspended\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/feb/23/openai-tumber-ridge-shooter-account-suspended",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:14.746602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "dc9aad4d3ea0d369d0ab396cdf47df38b556c30e646cbe62db64b525050335f3",
+        "title": "US accuses China of ‘massively’ expanding nuclear arsenal amid fears of new arms race",
+        "summary": "<p>China has opposed the ‘smearing of its nuclear policy’  while insisting Beijing would not ‘engage in any nuclear arms race’</p><p>The US has accused China of dramatically expanding its nuclear arsenal, while doubling down on claims that Beijing had conducted secret nuclear tests.</p><p>Washington said the <a href=\"https://www.theguardian.com/world/2026/feb/03/expiry-nuclear-weapons-pact-us-russia-arms-race\">lapsing of New Start</a> – the last treaty between top nuclear powers the US and Russia – earlier this month presented the possibility of striking a “better agreement” that included Beijing.</p> <a href=\"https://www.theguardian.com/world/2026/feb/24/us-accuses-china-of-massively-expanding-nuclear-arsenal-amid-fears-of-new-arms-race\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/feb/24/us-accuses-china-of-massively-expanding-nuclear-arsenal-amid-fears-of-new-arms-race",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:14.746968+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "80e22d657c096b3f28353e5c6119f76544fbb1f21e993132606dea6335ccdb47",
+        "title": "Duterte at ‘very heart’ of murderous drug crackdowns in Philippines, ICC told",
+        "summary": "<p>Ex-president, accused of crimes against humanity, selected targets and promised immunity for death squad members, prosecutor says</p><p>Rodrigo Duterte, the former president of the Philippines, was “at the very heart” of brutal anti-drugs campaigns that led to the killing of thousands of people, prosecutors at the international criminal court (ICC) have argued, as they called for charges against him to proceed to trial.</p><p>Duterte, 80, who was <a href=\"https://www.theguardian.com/world/2025/mar/11/rodrigo-duterte-arrest-manila-former-philippines-president-war-on-drugs-ntwnfb\">arrested in Manila last year</a> and flown to The Hague, is facing three counts of crimes against humanity over campaigns against drug users and dealers during his presidency, and his earlier tenure as mayor of the city of Davao.</p> <a href=\"https://www.theguardian.com/world/2026/feb/23/rodrigo-duterte-drug-war-case-icc-pre-trial-hearing-international-criminal-court-ntwnfb\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/feb/23/rodrigo-duterte-drug-war-case-icc-pre-trial-hearing-international-criminal-court-ntwnfb",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:14.747065+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "bf29d4846d1032fbbc404d89fca2a9dcb71e8f72c7dde89870e574d713045a88",
+        "title": "Heavily armed police to patrol places of worship and protests in NSW after hate crime unit made permanent",
+        "summary": "<p>NSW Greens MLC Sue Higginson says the move could put public at risk of ‘violence, harm and death’ </p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/25/capital-gains-tax-hearing-anthony-albanese-canberra-threat-evacuation-cpi-inflation-figures-labor-coalition-politics-updates-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>NSW police will patrol high-profile public buildings, places of worship and protests with long-arm firearms after a unit created following the Bondi beach terror attack became permanent.</p><p>But the state Greens have criticised the Minns government for the move, saying it would not prevent the public from protesting and may place them at greater risk of harm or violence. Violence at a protest in Sydney against Israeli president <a href=\"https://www.theguardian.com/australia-news/2026/feb/14/inside-the-chaos-at-sydney-anti-herzog-protest-ntwnfb\">Isaac Herzog’s controversial visit</a> earlier this month promoted an independent probe into police conduct.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/25/heavily-armed-nsw-police-to-patrol-places-of-worship-and-protests-after-hate-unit-made-permanent-ntwnfb\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/feb/25/heavily-armed-nsw-police-to-patrol-places-of-worship-and-protests-after-hate-unit-made-permanent-ntwnfb",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:14.747311+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4386583,
+          43.6865841
+        ]
+      },
+      "properties": {
+        "id_hash": "d280c49dbfc44c87afc8d9d5500938eacc0bed9859060a17b4189b3500a37f98",
+        "title": "Signs of psychosis seen in Australian users’ interactions with AI chatbots, expert warns",
+        "summary": "<p>Toby Walsh says he despairs at Australian government’s lack of regulation of artificial intelligence</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/25/capital-gains-tax-hearing-anthony-albanese-canberra-threat-evacuation-cpi-inflation-figures-labor-coalition-politics-updates-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A leading AI expert has warned some Australians are showing signs of psychosis or mania in their interactions with chatbots, arguing Silicon Valley is being “careless” with the technology amid a pursuit of profit.</p><p>During an address at the National Press Club on Wednesday, Toby Walsh, scientia professor of artificial intelligence at the University of New South Wales, said he believed the AI race will be both “boom and doom”, with some benefits.</p> <a href=\"https://www.theguardian.com/technology/2026/feb/25/signs-of-psychosis-seen-in-australian-users-interactions-with-ai-chatbots-expert-warns\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/technology/2026/feb/25/signs-of-psychosis-seen-in-australian-users-interactions-with-ai-chatbots-expert-warns",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:15.897508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.347307,
+          46.193239
+        ]
+      },
+      "properties": {
+        "id_hash": "95bb71bdbba9a9922f40d16b3b26f11a4cd68501b13424d7a1bdbe6ab703136b",
+        "title": "Spanish engineer reports flaw in ‘smart’ vacuums after gaining control of 7,000 devices",
+        "summary": "<p>Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world</p><p>A Spanish software engineer reportedly contacted a <a href=\"https://www.theguardian.com/us-news/new-york\">New York</a>-based tech outlet recently to reveal he had <a href=\"https://www.theguardian.com/lifeandstyle/2026/feb/24/accidental-hacker-how-one-man-gained-control-robots-\">remotely taken control of about 7,000 vacuums worldwide</a>, in the process shedding light on a broad vulnerability with smart products, according to a cybersecurity expert.</p><p><a href=\"https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt\">The Verge</a> reported that the situation came to light when Sammy Azdoufal was trying to reverse-engineer his new DJI Romo vacuum so that he could control it with his Playstation 5 gamepad.</p> <a href=\"https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:17.670361+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "809f8ec874fe471819c7acd0ec088334b467e6634492f1ab1604b11495d7008f",
+        "title": "Zelenskyy pushes for Ukraine’s 2027 EU accession as Europe marks four years of war – as it happened",
+        "summary": "<p>Ursula von der Leyen talks up prospect of €90bn loan but appears cautious on timetable for Ukraine joining bloc</p><p><strong>Zelenskyy says “we must be just as determined and strong as we were when the invasion began,” as “the threat hasn’t become smaller.”</strong></p><p>He says <strong>Europe can only respond to this war working together with the US,</strong> even as he remarks it “is not an easy task to maintain transatlantic unity and cooperation in the current conditions.”</p><p><em>“So there must be no place in the free world for Russian oil, for Russian tankers, Russian banks, Russian sanctions …, schemes, or for any Russian war criminals. T<strong>he time has come to fully ban all participants in Russia’s aggression from entire Europe.”</strong></em></p> <a href=\"https://www.theguardian.com/world/live/2026/feb/24/russia-ukraine-war-four-year-anniversary-invasion-zelenskyy-putin-europe-latest-news\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/live/2026/feb/24/russia-ukraine-war-four-year-anniversary-invasion-zelenskyy-putin-europe-latest-news",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:48:17.671078+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "4df33c01d760ef6e85c4d11f090173748b0cbd9d8bb9a193d8a83657d59f6c2d",
+        "title": "US ambassador to France vows not to interfere in its domestic affairs",
+        "summary": "<p>Charles Kushner, father of president’s son-in-law Jared, failed to show up to  meeting to explain US comments relating to death of far-right activist</p><p>Donald Trump’s envoy to Paris has called France’s foreign minister and pledged not to interfere in the country’s domestic affairs, a day after he was barred from talking to government officials for failing to attend a formal meeting at the ministry.</p><p>The foreign ministry said on Monday that Charles Kushner would not be permitted to carry out his diplomatic duties until he had explained his refusal to comply with the summons over US comments about the killing of a far-right activist in France.</p> <a href=\"https://www.theguardian.com/world/2026/feb/23/us-ambassador-to-paris-banned-from-meeting-french-ministers-after-no-show\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/feb/23/us-ambassador-to-paris-banned-from-meeting-french-ministers-after-no-show",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:17.671226+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "04b8687504d065114fda9c658a4ac6e25767d16561f126be30d853bee0e9600e",
+        "title": "Marco Rubio delivers rare briefing to top US lawmakers on Iran amid tensions",
+        "summary": "<p>Secretary of state’s address came as US deploys largest force of aircraft and warships to Middle East since 2003</p><p><a href=\"https://www.theguardian.com/us-news/marco-rubio\">Marco Rubio</a> delivered a rare briefing to top US lawmakers on <a href=\"https://www.theguardian.com/world/iran\">Iran</a> from the White House on Tuesday as Washington deploys its largest force of aircraft and warships to the Middle East since the 2003 buildup to the Iraq war.</p><p>The audience for the secretary of state’s briefing was reported to include the so-called “gang of eight”, which includes the senior lawmakers from both parties in the House and Senate, as well as the chairs and ranking members of the House and Senate intelligence committees.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/24/marco-rubio-iran-briefing\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/feb/24/marco-rubio-iran-briefing",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:17.671315+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "8e3d28ec9f026c17a7fb846d95e9422c9d24f43cc85b7cfb3dcec95f90e200f0",
+        "title": "Armed police flood Iran’s universities to crush student protests",
+        "summary": "<p>Campus clashes provide uneasy backdrop to third round of talks on nuclear programme in Geneva</p><p>Plainclothes police and security forces, many of them armed, have tried to flood Iran’s remaining open universities in an attempt to crush a fourth day of student protests against the supreme leader, Ali Khamenei.</p><p>Running battles were reported on some campuses, with videos showing fistfights between the Basji state-backed militia and students at the University of Science and Technology in Tehran. Pick-up trucks with machine-guns were photographed parked outside the University of Tehran, with demonstrations also in Mashhad.</p> <a href=\"https://www.theguardian.com/world/2026/feb/24/iran-armed-police-flood-universities-to-crush-student-protests\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/feb/24/iran-armed-police-flood-universities-to-crush-student-protests",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:17.671414+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.755,
+          -24.7761086
+        ]
+      },
+      "properties": {
+        "id_hash": "69ce28b040c4cf459a9a784da14a38835c65dcb1ea8824b8ba019117f19cf4ac",
+        "title": "Australian women held in Syrian camp say they would accept children returning home separately",
+        "summary": "<p><strong>Exclusive:</strong> Some of the 11 mothers detained in Kurdish-controlled al-Roj camp say they want Australian government to repatriate children at any cost</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/feb/24/australian-families-in-convoy-from-syrian-camp-warned-they-would-be-attacked-unless-they-turned-around\">Families in convoy from Syrian camp warned they would be attacked unless they turned around</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/24/mark-carney-one-nation-coalition-labor-poll-anthony-albanese-pauline-hanson-bondi-attack-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australian women detained in north-east Syria over ties to Islamic State fighters said they would accept separation from their children if it meant the children could return to Australia.</p><p>Some of the 11 women held in Kurdish-controlled al-Roj camp said on Monday that they wanted the Australian government to repatriate their children at any cost, even if it meant placing children in the hands of relatives at home while they stayed behind in the camp.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/24/australian-women-syria-camps-children-ntwnfb\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/feb/24/australian-women-syria-camps-children-ntwnfb",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:48:20.553840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.755,
+          -24.7761086
+        ]
+      },
+      "properties": {
+        "id_hash": "b69c66e0cfddd68c8dc92e6419def8cfdf745e5795977e6a34283badcbbdb6bc",
+        "title": "Australian families in convoy from Syrian camp warned they would be attacked unless they turned around",
+        "summary": "<p>Exclusive: Government forces issued threat because Australian government failed to coordinate with them, official says</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/24/mark-carney-one-nation-coalition-labor-poll-anthony-albanese-pauline-hanson-bondi-attack-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Syrian government officials warned a convoy of Australian families linked to Islamic State fighters that they would be fired upon if they continued towards Damascus last week, a Kurdish official said.</p><p>A group of 34 Australian women and children, assisted by their relatives, left al-Roj detention camp on Monday 16 February under a Kurdish military escort, with the aim of reaching Damascus before flying to Australia. <br /><br />\n But about 50km away from the camp, Kurdish security forces received a call from the government in Damascus, telling them that the convoy would be “struck” if they tried to reach territory controlled by Syrian government forces. Kurdish forces de-facto control much of north-east Syria, including the area by the Iraqi border where al-Roj is located, and the convoy needed to “cross” a checkpoint controlled by the Syrian government to reach Damascus.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/24/australian-families-in-convoy-from-syrian-camp-warned-they-would-be-attacked-unless-they-turned-around\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/feb/24/australian-families-in-convoy-from-syrian-camp-warned-they-would-be-attacked-unless-they-turned-around",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:48:21.399286+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "db5ab3e8216415df73286630d6bcabba00537ab9869b10f3321079da13ccc455",
+        "title": "Trump Iran airstrikes decision to be guided by Jared Kushner and Steve Witkoff’s advice",
+        "summary": "<p>Exclusive: Trump’s decision will be driven by envoys’ judgment on whether Iran is stalling on a nuclear deal</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s decision to order airstrikes against Iran will hinge in part on the judgment of Trump’s special envoys, Steve Witkoff and Jared Kushner, about whether Tehran is stalling over a deal to relinquish its capacity to produce nuclear weapons, according to people familiar with the matter.</p><p>The president has not made a final determination on any strikes, as the administration prepares for Iran to send its latest proposal this week, ahead of what officials have described as a last-ditch round of negotiations scheduled for Thursday in Geneva.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/23/trump-iran-airstrikes-nuclear-deal\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/feb/23/trump-iran-airstrikes-nuclear-deal",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:21.399468+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9601825,
+          40.5825678
+        ]
+      },
+      "properties": {
+        "id_hash": "fa914106c214bbdb93c3b5ed0057e6dcf479e193db998a319ff85a80cce981fb",
+        "title": "Tributes paid to ‘very loving and caring’ British hiker killed in Nepal bus crash",
+        "summary": "<p>Dominic Ethan Stewart was among 19 killed when vehicle veered off road and plunged down mountainside</p><p>Tributes have been paid to a young British hiker who was among 19 people killed when a packed passenger bus veered off a treacherous stretch of road and plunged 200 metres down a steep mountainside in Nepal.</p><p>Twenty-five others were injured in the pre-dawn crash in the Himalayan foothills on Monday. The bus was carrying 44 people, including a number of tourists.</p> <a href=\"https://www.theguardian.com/world/2026/feb/24/tributes-paid-to-very-loving-and-caring-british-hiker-killed-in-nepal-bus-crash\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/feb/24/tributes-paid-to-very-loving-and-caring-british-hiker-killed-in-nepal-bus-crash",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:48:22.902739+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.247499,
+          30.3308401
+        ]
+      },
+      "properties": {
+        "id_hash": "616c71b652859c731437061d9bc8b27352ebd615dba58da0e7bcfb11c38b492e",
+        "title": "Pakistan strikes militant hideouts on Afghan border after surge in attacks",
+        "summary": "<p>‘Intelligence-based, selective operations’ carried out against Pakistani Taliban camps, says information ministry </p><p>Pakistan launched multiple airstrikes on Saturday night targeting militants in neighbouring Afghanistan, where the government reported children were among dozens of people killed and wounded.</p><p>Islamabad did not say precisely where the strikes were carried out or provide other details.</p> <a href=\"https://www.theguardian.com/world/2026/feb/21/pakistan-strikes-militant-hideouts-on-afghan-border-after-surge-in-attacks\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/feb/21/pakistan-strikes-militant-hideouts-on-afghan-border-after-surge-in-attacks",
+        "severity": 6,
+        "scraped_at": "2026-02-25T02:48:24.318070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "333115a02621b13ea8c43f006fc92c6a467df1efb111ababda1dcc5ca992ebc0",
+        "title": "British dual nationals risk imminent refusal of travel to UK, Home Office affirms",
+        "summary": "<p>Government ignores pleas for a grace period before new rules come into force on Wednesday</p><p>British citizens with a second nationality risk being blocked from entering the UK from Wednesday, the Home Office has confirmed.</p><p>The government has decided to ignore pleas from families, the3million<strong> </strong><strong> </strong>campaign group, the Liberal Democrats and the former Conservative cabinet minister David Davis <a href=\"https://www.theguardian.com/uk-news/2026/feb/22/lib-dems-home-secretary-delay-new-dual-national-border-rules\">for a grace period</a> to allow British dual nationals to adapt to the new rules they face.</p> <a href=\"https://www.theguardian.com/politics/2026/feb/24/british-dual-nationals-risk-imminent-refusal-of-travel-to-uk-home-office-affirms\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/politics/2026/feb/24/british-dual-nationals-risk-imminent-refusal-of-travel-to-uk-home-office-affirms",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:24.318367+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1624831,
+          51.4636528
+        ]
+      },
+      "properties": {
+        "id_hash": "be05b153a53cfc44c15219d74d1e5953a84c4c1545cfd7bc4506b8a1f4c8fee3",
+        "title": "Senedd votes in favour of implementing Westminster’s assisted dying bill",
+        "summary": "<p>Should legislation pass House of Lords, the matter will require another vote after May’s Welsh elections</p><p>Wales’s Senedd has voted in favour of implementing Westminster’s assisted dying bill, overcoming a constitutionally awkward situation that could have forced terminally ill people who wish to end their lives to travel to England or seek private provision.</p><p>In a debate stretching into Tuesday night in the Senedd’s newly expanded chamber, members voted 28 for and 23 against, with two abstentions. Should the legislation pass the House of Lords, the matter will require another Senedd vote after May’s Welsh elections.</p> <a href=\"https://www.theguardian.com/politics/2026/feb/24/senedd-votes-in-favour-of-implementing-westminsters-assisted-dying-bill\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/politics/2026/feb/24/senedd-votes-in-favour-of-implementing-westminsters-assisted-dying-bill",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:25.688866+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "2b4ef7283a55c5fb1a41963428e086175a8bb5180d2127d5a3f18381140cc2a0",
+        "title": "Mandelson complains arrest followed ‘baseless suggestion’ he was about to flee the country – UK politics as it happened",
+        "summary": "<p>Former US ambassador issues statement via lawyers saying his priority is to cooperate with police and clear his name</p><p><strong>Keir Starmer</strong> is taking part in a coalition of the willing video call to discuss Ukraine. There is a live feed of his public contribution here.</p><p><strong>Kemi Badenoch</strong> is holding a press conference now. She is appearing with the relatives of children who she says have died as a result of social media – either because they took their own lives, or because it led to them being attacked. She says she wants to give them a platform to tell their stories.</p> <a href=\"https://www.theguardian.com/politics/live/2026/feb/24/peter-mandelson-ex-prince-andrew-labour-keir-starmer-uk-politics-latest-news-updates\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/politics/live/2026/feb/24/peter-mandelson-ex-prince-andrew-labour-keir-starmer-uk-politics-latest-news-updates",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:25.689108+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "7dfad4ee194adceb9c795ecc7d6eacae96fa6a3427230562006872ac3a2c5509",
+        "title": "State of the Union address: Trump boasts about ‘winning too much’ and welcomes US men’s Olympic hockey team into House chamber – live",
+        "summary": "<p>Dozens of congressional Democrats skip president’s address and gather for counter rally to protest</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/feb/24/democrats-boycott-trump-state-of-the-union-peoples-sotu\">Democrats hold counter-events during Trump’s State of the Union address: ‘These are not normal times’</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p><strong>Erika Kirk</strong>, the widow of the late conservative activist <strong>Charlie Kirk</strong>, will attend tonight’s State of the Union address as a special guest of the president.</p><p>After her husband was assassinated at a college event for his non-profit Turning Point USA, Erika Kirk took over the organization.</p><p>If he’s coming to our house, you got to be there. Otherwise, you let him own the house.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/feb/24/trump-state-of-the-union-address-congress-watch-updates\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/live/2026/feb/24/trump-state-of-the-union-address-congress-watch-updates",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:25.689320+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.2819679,
+          42.0523105
+        ]
+      },
+      "properties": {
+        "id_hash": "cea29838bfd46052d38fa51a8b623c8babcf1768753d23bfab7955d89414e867",
+        "title": "Democrats hold counter-events during Trump’s State of the Union address: ‘These are not normal times’",
+        "summary": "<p>About 30 Democratic lawmakers gather on National Mall as politicians and celebrities gather at National Press Club</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/feb/24/trump-state-of-the-union-address-congress-watch-updates\">State of the Union address - live updates</a></p></li></ul><p>Democrats are holding competing events on the evening of the State of the Union address across Washington where lawmakers are boycotting the official event and protesters say they want to show the growing opposition to Donald Trump’s <a href=\"https://www.cnn.com/2026/02/23/politics/trump-approval-rating-independents-cnn-poll\">increasingly unpopular</a> agenda.</p><p>On the National Mall, hundreds of people, including about 30 Democratic members of Congress, gathered for the “People’s State of the Union”, a counter-rally. Attendees held signs that read “No Money for ICE” and “Healthcare Not Warfare”. One person on stage carried a large poster with the photographs of the more than 30 people who have been killed in dealings with ICE since Trump took office in 2025.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/24/democrats-boycott-trump-state-of-the-union-peoples-sotu\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/feb/24/democrats-boycott-trump-state-of-the-union-peoples-sotu",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:48:28.235746+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7807254,
+          38.420599
+        ]
+      },
+      "properties": {
+        "id_hash": "6635d641e5695dfbc7f96df5f961f579c8608f4312b675e3020b13d536e03691",
+        "title": "Judge blocks DoJ from searching Washington Post reporter’s seized devices",
+        "summary": "<p>Court itself to search devices for documents related to national security inquiry as newspaper calls ruling ‘victory’</p><p>A federal judge has prohibited the justice department from searching electronic devices it seized from a Washington Post reporter, ruling that the court will search the devices for documents related to a national security investigation itself.</p><p>In his ruling, magistrate judge William Porter criticized the Trump administration for omitting relevant case law in its application for a search warrant to seize the devices in the first place, but acknowledged “the possibility that classified national security information may be among the seized material” complicated the matter.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/24/judge-blocks-washington-post-reporter-search-devices-doj\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/feb/24/judge-blocks-washington-post-reporter-search-devices-doj",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:30.578763+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "d008025d5796d064b4792b8130db26333cdd1faecb9cdd8b3e974724d88ba585",
+        "title": "Trump vows 'turnaround for the ages' in State of the Union address",
+        "summary": "President Donald Trump will use Tuesday’s State of the Union address to champion his immigration crackdowns, his slashing of the federal government, his push to preserve widespread tariffs that the Supreme Court just struck down and his ability to direct quick-hit military actions around the world, including in Iran and Venezuela.",
+        "link": "https://www.france24.com/en/americas/20260225-trump-2026-state-of-the-union-economy-tariffs-foreign-policy",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:31.504858+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "2c3b43d0489f96b6f2b98e4f35f5ec9f8d4bcbf5e1252882a87e0fcea88f0fd7",
+        "title": "Iran says deal with US 'within reach' ahead of talks in Geneva",
+        "summary": "Iran’s Foreign Minister Abbas Araghchi said Tuesday a deal to avert military confrontation with the United States was within reach, ahead of talks set to resume in Geneva. His remarks came as Tehran issued a muted warning to student protesters amid mounting US threats over Iran’s nuclear programme.",
+        "link": "https://www.france24.com/en/middle-east/20260224-iran-us-nuclear-deal-within-reach-geneva-talks",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:31.505007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.602191,
+          39.6823264
+        ]
+      },
+      "properties": {
+        "id_hash": "65f4793957b0666820a57abb45ce3ef7b8dab50a54d257bb07a292c0e4d4f1f3",
+        "title": "Trump 'now underwater on all top ten issues except border security', analyst says",
+        "summary": "Speaking with FRANCE 24's Sharon Gaffney, Larry Sabato, Founder and Director of the University of Virginia Centre for Politics, explains that US President Donald Trump will be focused on maintaining his MAGA base ahead of the State of the Union address, stressing that Trump \"has lost a great deal\" of popularity since the inauguration and \"on the ten top issues he is now underwater in every single one except border security\".",
+        "link": "https://www.france24.com/en/tv-shows/a-propos/20260224-trump-now-underwater-on-all-top-ten-issues-except-border-security-analyst-says",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:32.660974+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "80e9a63eb6df075627f3b2cfcfb5757c8df411e33a5516e5610fee2019df10a5",
+        "title": "How Russia has finetuned its disinformation campaign in 4 years of Ukraine war",
+        "summary": "Four years into Russia’s full-scale invasion of Ukraine, Moscow has redoubled its efforts in disinformation warfare. Its methods have evolved, with more generative AI, more targeting of Ukraine’s allies, and increasing manipulation of real news stories. It’s therefore fitting that disinformation watchdog NewsGuard named a Russian tech bro, Yevgeny Shevchenko, its 2025 “Disinformer of the Year”.",
+        "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20260224-how-russia-has-finetuned-its-disinformation-campaign-in-4-years-of-ukraine-war",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:48:32.661160+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "2024f9e137158b5cc527d3bf792f82060c6752819141a607eecb3632d7dec24a",
+        "title": "South Africa secures release of more nationals lured to Ukraine war",
+        "summary": "In tonight's edition, President Cyril Ramaphosa thanks his counterpart Vladimir Putin for helping to secure the return of 11 South Africans tricked into joining the Russia-Ukraine war. Also, the military spokesperson for the M23 rebel group is reportedly killed in an army drone strike in eastern DR Congo. And more than 6 million people are on the brink of famine in Somalia as the country is facing widespread drought.",
+        "link": "https://www.france24.com/en/south-africa-secures-release-of-more-nationals-lured-to-ukraine-war",
+        "severity": 6,
+        "scraped_at": "2026-02-25T02:48:32.661223+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "0cc1f93d41af00f6258ed2c5bd64d47818dc6de7030e2c825b1acd669872571f",
+        "title": "German Chancellor seeks \"right balance\" in his first official visit to China",
+        "summary": "German Chancellor Friedrich Merz is visiting China on a two-day trip starting Wednesday.  He's the latest in a string of Western leaders to try and seek new partnerships with the Asian giant in recent weeks, amid Donald Trump's trade war against the rest of the world.  It's a delicate balancing act for the German leader as the country's industry has been squeezed by competition from China. But first, we take stock of what four years of war have done to Ukraine's economy.",
+        "link": "https://www.france24.com/en/tv-shows/business/20260224-german-chancellor-seeks-right-balance-in-his-first-official-visit-to-china",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:32.661291+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "3ff378ac74c2a7aff7ad81176e5a8229337f19c3e6f24f944ef61d31fd19ed15",
+        "title": "'Ukrainians are getting ready to fight as long as needed', Director of Amnesty Intl Ukraine says",
+        "summary": "Speaking with FRANCE 24's Sharon Gaffney, Veronika Velch, Director of Amnesty International in Ukraine, says that \"Ukrainians are getting ready to fight as long as it would be needed\", stressing that \"Ukrainians really want peace, but there's very little trust in a peace that will come without justice\".",
+        "link": "https://www.france24.com/en/ukrainians-are-getting-ready-to-fight-as-long-as-needed-director-of-amnesty-intl-ukraine-says",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:32.661343+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "53dc3a354a04cda81479c8767d0a2d9fdd71b8560a11a926762af4d453246276",
+        "title": "'We are not victims, we sacrifice our lives to protect freedom and democracy all over the world'",
+        "summary": "FRANCE 24's Mark Owen speaks with Ukrainian actress and musician Ruslana Khazipova, of the arts collective Dakh Daughters, about the impact of the Russian invasion and Kremlin propaganda on Ukrainian identity and resilience.",
+        "link": "https://www.france24.com/en/we-are-not-victims-we-sacrifice-our-lives-to-protect-freedom-and-democracy-all-over-the-world",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:32.661448+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "5d88ac0de2756acdad79d7966faf4924515653bbe4bb7ff1a131ffd3d60ed70b",
+        "title": "Ukraine allies scramble on anniversary date: Is it Europe's war now?",
+        "summary": "We think about war and peace like a light switch that's either flicked on or off. But Russia did not suddenly decide to swoop for Kyiv on a February night of 2022. To this day in fact, it still refuses to call it a war, sticking instead to the less definitive 'special military operation'.",
+        "link": "https://www.france24.com/en/tv-shows/the-debate/20260224-ukraine-allies-scramble-on-anniversary-date-is-it-europe-s-war-now",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:32.661482+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "46d32e458148c8d304d015b50e7191a87d179b3f5878651da91e720240476da4",
+        "title": "War in Ukraine: Children who fled Russian-occupied Ukrainian territories share their stories",
+        "summary": "Russia launched its full-scale invasion of Ukraine on February 24, 2022, unleashing the deadliest war in Europe since World War II and civilians in Ukraine have paid a heavy price. UNICEF has been warning the conflict has taken a devastating toll on children, disrupting their lives at critical stages in their development. Here are the stories of some children who fled Russian-occupied Ukrainian territories.",
+        "link": "https://www.france24.com/en/video/20260224-war-in-ukraine-children-who-fled-russian-occupied-ukrainian-territories-share-their-stories",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:48:32.661558+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "c4728f741c89b32fd3f29d4eac7f388753401fa0ec48506ed00be2ec35866101",
+        "title": "Four years of war in Ukraine: 'Time is on Ukraine’s side', argues an analyst",
+        "summary": "Ukraine marked the fourth anniversary of Russia's full-scale invasion on Tuesday (February 24). Tens of thousands of lives have been lost since the Kremlin ordered troops into Ukraine on February 24, 2022. For more analysis, FRANCE 24's Carys Garland is joined by Samuel Ramani, associate fellow at the Royal United Services Institute.",
+        "link": "https://www.france24.com/en/four-years-of-war-in-ukraine-time-is-on-ukraine-s-side-argues-an-analyst",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:48:32.661618+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "9a2cea8fbf79f8f8cddaa8b2623ceed1b4dd819ad2e4d23562bc78e5bfa49ed1",
+        "title": "Four years of war in Ukraine: An organization turns civilian cars into tactical assets",
+        "summary": "Ukraine marked the fourth anniversary of Russia's full-scale invasion on Tuesday (February 24). For more on that topic, FRANCE 24 spoke to Ivan Oleksii. He is the co-founder of Car For Ukraine, an organisation that sources cars -- mostly from outside Ukraine -- then upgrades and deliver them to the frontlines.",
+        "link": "https://www.france24.com/en/video/20260224-four-years-of-war-in-ukraine-an-organization-turns-civilian-cars-into-tactical-assets",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:48:32.661652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380277,
+          48.8611473
+        ]
+      },
+      "properties": {
+        "id_hash": "1fff1856ebaf43b611073d799d4eb34bfec958be5c5a3d2c0582eaa4efca06b7",
+        "title": "Louvre director resigns after a series of high-profile setbacks for the museum",
+        "summary": "Louvre museum director Laurence des Cars resigned on Tuesday after a series of setbacks for the world-renowned museum. A high-profile jewel heist in October raised questions about security lapses while labour strikes and reports that the building is falling into disrepair have led to calls for an overhaul of the famous landmark.",
+        "link": "https://www.france24.com/en/france/20260224-french-president-macron-accepts-the-resignation-of-louvre-director-laurence-des-cars",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:34.180467+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "id_hash": "1aebc1f85ec59eccb5e62ec9795a8f2a354bbc4c8e76e0f8943995458bc23c85",
+        "title": "Ukraine war: Brazil 'seems to want to project an image of not taking sides'",
+        "summary": "While Europe and the US have largely backed Kyiv with sanctions and weapons, countries in the Global South have tried to tow a more neutral line, none more so than Brazil. The country’s president Lula has condemned the invasion in principle, but he also refused to take sides. Our correspondent in Brazil, Jan Onoszko, tells us more.",
+        "link": "https://www.france24.com/en/ukraine-war-brazil-wants-to-project-an-image-of-not-taking-sides",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:48:34.180603+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5691241,
+          -11.8775768
+        ]
+      },
+      "properties": {
+        "id_hash": "cd221f7a46e9daf2c3335c1103a3c454c82fefaa587a0308bd779edeaf6ebdb0",
+        "title": "Angola: Reject Bill to Restrict Civil Society",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              The National Assembly building in Luanda, Angola, February 13, 2013.\n                    © 2013 FrankvandenBergh/Getty Images\n          \n    \n\n\n  \n<p>(Johannesburg) – A bill passed by&nbsp;Angola’s parliament on January 22, 2026, to regulate nongovernmental organizations would significantly expand&nbsp;government control over civil society and undermine fundamental freedoms, Human Rights Watch said today. President João Lourenço should not sign the bill into law but return it to parliament for revisions that ensure compliance with Angola’s international human rights obligations.</p><p>The draft Law on the Statute of Non-Governmental Organizations&nbsp;grants broad administrative powers allowing the authorities to authorize, monitor, suspend, and financially restrict organizations, undermining their independence and ability to operate freely. Parliament approved the bill, which the executive&nbsp;introduced in 2023, after review and revision, but without major changes.</p><p>“Angola’s draft law to regulate nongovernmental groups contains excessive and vague controls that endanger the free and effective functioning of civil society,” said&nbsp;Sheila Nhancale, Africa researcher at Human Rights Watch. “President Lourenço should call for a revised bill that strengthens, rather than restricts, civil society’s work and that is in line with Angola’s human rights obligations.”</p><p>The bill&nbsp;passed with 106 votes in favor from the ruling&nbsp;People’s Movement for the Liberation of Angola (Movimento Popular de Libertação de Angola) and the opposition&nbsp;Social Renewal Party (Partido de Renovação Social), and 77 votes against from the primary opposition party, National Union for the Total Independence of Angola (União Nacional para a Independência Total de Angola or UNITA).</p><p>UNITA lawmakers&nbsp;criticized the legislation for&nbsp;treating civil society as inherently risky and shifting control of a fundamental right from the courts to administrative authorities.</p><p>Human Rights Watch found several provisions of the draft law incompatible with international human rights standards. Article 6 requires groups to obtain administrative authorization to carry out their activities, establishing a vague licensing system without clear criteria, timelines, or guarantees of judicial oversight. This effectively transforms the right to freedom of association into a privilege subject to government discretion.</p><p>Articles 7 and 34 allow extensive government monitoring of groups’ activities and finances, empower authorities to determine where projects may operate, and permit assessments of the “suitability” of leadership bodies. These provisions undermine organizational autonomy and raise serious concerns about privacy and data protection.</p><p>The legislation lacks strong safeguards to protect personal data, authorizing extensive collection and information-sharing between state bodies, exposing activists and organizations to potential misuse of sensitive information.</p><p>Article 30 authorizes administrative suspension of groups for up to 120 days, renewable, based on loosely defined “strong indications” of unlawful conduct or threats to national security, without requiring prior judicial approval. Such vague standards put groups at risk of abuse and risks silencing critical voices, Human Rights Watch said.</p><p>The draft law also imposes strict financial controls, including requiring all funds to pass through domestic banks and banning international capital transfers. These restrictions could obstruct legitimate humanitarian, development, and human rights work that depends on cross-border cooperation and assistance.</p><p>Throughout the bill, vague terminology such as “immoral,” “non-compliant,” “appropriate measures,” and “strong indications” grants wide discretion to the authorities, contrary to the principle of legal certainty required for any restriction on fundamental rights.</p><p>Civil society groups across Angola have&nbsp;criticized the law as unconstitutional and warned it will further shrink civic space.</p><p>“This framework allows authorities to control civil society through administrative measures rather than lawful, proportionate regulation,” Hermenegildo Teotónio, a lawyer and deputy chairperson of the Human Rights Commission of the Angolan Bar Association, told Human Rights Watch. “Without clear limits and independent oversight, the risk of repression is high.”</p><p>Zola Álvaro, a human rights activist working with a local organization in Luanda, the capital, told Human Rights Watch that: “The law would make NGO work increasingly difficult due to excessive bureaucracy and government interference.”</p><p>Under international human rights law, including the International Covenant on Civil and Political Rights and the African Charter on Human and Peoples’ Rights, restrictions on freedom of association, expression, and peaceful assembly must be lawful, necessary, proportionate, and subject to effective safeguards.</p><p>On January 22, parliament also&nbsp;approved, in general terms, a draft law addressing online misinformation. Media freedom groups, including the Committee to Protect Journalists,&nbsp;warned that vague definitions and harsh penalties could be used to suppress free expression.</p><p>Together, the two proposed laws signal a broader trend toward expanding government control over civic and public life in Angola, Human Rights Watch said.</p><p>“The draft law to regulate nongovernmental groups represents a serious setback for civil society and democratic freedoms in Angola,” Nhancale said. “Concerned governments should send a strong public message to the president and parliament that any law regulating civil society should advance the rights to organize and participate in public life.”</p>",
+        "link": "https://www.hrw.org/news/2026/02/24/angola-reject-bill-to-restrict-civil-society",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:38.024100+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "768dd1739c5f0dc833ecc4eb66d30f8f3a3027e2c5f6ba84650518e811fbaf2f",
+        "title": "Israel: Aid Groups Barred From Gaza, West Bank",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Trucks carrying humanitarian aid wait in Egypt at the Rafah crossing to enter Gaza on January 27, 2026.\n                    © 2026 Ali Moustafa/Getty images \n          \n    \n\n\n  \n<p>(New York) – Israeli authorities plan to bar 37 international nongovernmental organizations from operating in Gaza and the West Bank on March 1, 2026 for refusing to provide the government with lists of their staff and their biodata as part of new registration requirements, Human Rights Watch said today. The organizations say that these requirements violate the humanitarian principles of neutrality and independence.</p><p>International aid groups have long provided lifesaving humanitarian aid to Palestinians in Gaza and the West Bank including East Jerusalem, amid considerable duress and Israeli attacks. On February 22, more than 15 groups appealed to the Israeli High Court, saying the new registration requirements undermine international humanitarian law and threaten to cut off lifesaving assistance to Palestinians in Gaza and the West Bank.</p><p>“Israel’s politicization of registration requirements for aid groups hamstrings their lifesaving activities while Israeli authorities continue to impose a crippling, unlawful blockade on Gaza,” said Michelle Randhawa, senior refugee and migrant rights officer at Human Rights Watch. “Israel should rescind the registration requirements and stop interfering with organizations trying to respond to the devastating humanitarian crises it has created in Gaza and the West Bank.”</p><p>The Israeli government has not committed to filling the aid gap, and only 27 organizations have approved registration.</p><p>According to the United Nations Office for the Coordination of Humanitarian Affairs (OCHA), if these groups cease operations in Gaza, one in three health facilities would immediately close, 20,000 patients requiring monthly specialized care would lose access to care, waterborne diseases and sanitation conditions would worsen, and there would be immediate and severe gaps in detecting and treating malnutrition.</p><p>“We will not transfer sensitive personal data to a party to the conflict since this would breach humanitarian principles, duty of care, and data protection obligations,” an Oxfam spokesperson told Al Jazeera in January. Humanitarian principles emphasize that humanitarian organizations should operate without political interference and maintain autonomy from governments. In a May 2025 press release, 55 organizations operating in the region said that the new rules make INGO registration “conditional on political and ideological alignment, undermining the neutrality, impartiality and independence of humanitarian actors.”</p><p>The law, Government Resolution No. 2542, approved in December 2024, mandated all international organizations providing “Palestinian residents” humanitarian aid to register with the Ministry of Diaspora Affairs and Combating Antisemitism by December 31, 2025, or lose their registration and be forced to cease operations by March 1, 2026. The law gives the Israeli government broad power to deny or cancel the registration of any organization or individual staff member deemed to be a “public safety or state security” risk. The law does not apply to organizations providing services to “Israeli citizens or residents, including residents of East Jerusalem.”</p><p>As of mid-October 2025, the UN Satellite Center reported that approximately 81 percent of all structures in Gaza had been damaged. All 36 hospitals and the majority of primary health care centers in the strip have been damaged or destroyed, and as of November, more than 97 percent of schools have been damaged or destroyed.</p><p>The Integrated Food Security Phase Classification, a global tracker of malnutrition and food insecurity, determined that between mid-October and the end of November, about 1.6 million people in Gaza—roughly 77 percent of the population—faced crisis-level hunger or worse.</p><p>Oxfam, the Norwegian Refugee Council (NRC), Save the Children, and Médecins Sans Frontières (Doctors Without Borders or MSF) are among the 37 affected organizations that, together with Palestinian civil society groups and the UN, have provided lifesaving goods and services to millions of Palestinians in Gaza and the West Bank. According to OCHA, international organizations in Gaza run or support 60 percent of field hospitals and all the stabilization centers for children with severe malnutrition, and they deliver 42 percent of all water, sanitation, and hygiene services.</p><p>Despite the ceasefire agreement in October, Israel’s continued restriction of aid entry into Gaza causes shortages of medicines, reconstruction equipment, food, and water. Israel’s deliberate restrictions to aid in pursuit of its political or military objectives violate its obligations as an occupying party under international humanitarian law and constitute a war crime when they amount to using starvation as a weapon of war</p><p>In November, the deputy UN spokesperson, Farhan Haq, said: “The Israeli authorities have rejected 107 requests for the entry of relief materials,” saying the materials were outside the scope of humanitarian aid or “dual-use” items. The Guardian reported in January 2026 that Israel has allowed commercial shippers to import “dual-use” items for sale on the market.</p><p>As of the end of October 2025, “almost $50 million worth of essential goods from operational INGOs, including food, medical supplies, and shelter materials, remain stockpiled at crossings and warehouses.”</p><p>Aid workers in Gaza have for the last two years operated amid Israel’s indiscriminate and disproportionate attacks, use of starvation as a weapon of war, extermination and acts of genocide, and massive, deliberate forced displacement of Palestinian civilians, amounting to crimes against humanity. As of September, 543 aid workers were confirmed killed in Israeli attacks in Gaza. Human Rights Watch found in May 2024 that Israeli forces had attacked eight known aid-worker locations, where the organizations had provided their exact coordinates. Humanitarian workers are protected under international law, and targeting humanitarian workers is a war crime.</p><p>Since October 2023, at least 255 journalists, 1,700 medical workers, and 967 educational staff have been killed in Israeli attacks in Gaza.</p><p>The ban of the 37 groups follows Israel’s ban on the UN Relief and Works Agency for Palestine Refugees in the Near East (UNRWA), which severely limited the agency’s humanitarian assistance capabilities, including blocking aid distribution into Gaza and issuing closure orders for UNRWA-operated schools in East Jerusalem. In October 2025, the International Court of Justice issued an advisory opinion that Israel’s allegations that UNRWA lacks impartiality are unfounded and that its obstruction of the agency’s work is at odds with international law.</p><p>In the West Bank, settler violence is on the rise, illegal settlements are expanding, and campaigns of forced displacement and housing demolitions are ongoing. In January and February 2025, Israeli authorities forcibly displaced 32,000 people from three West Bank refugee camps, amounting to war crimes and crimes against humanity. As of February 2026, the UN reports that Israeli authorities have not permitted any of them to return.</p><p>“Beyond providing immediate relief, humanitarian workers advocate for civilian protection under international law and work to preserve human dignity,” Randhawa said. “Making the distribution of humanitarian aid to Palestinians a national security concern is yet another Israeli ‘assault on dignity’ of Palestinians and part of a larger pattern of debilitating Palestinian civil society and the international presence in the Occupied Palestinian Territory.”</p>",
+        "link": "https://www.hrw.org/news/2026/02/24/israel-aid-groups-barred-from-gaza-west-bank",
+        "severity": 6,
+        "scraped_at": "2026-02-25T02:48:38.024833+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "18861cd822a9e0d6786441bdd68d8f5542ccf7a18257bcacc9ad4d6e7aac3d75",
+        "title": "UN Body Finds 'Hallmarks of Genocide' in Darfur",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              A Sudanese woman displaced from El-Fasher carries her child as she walks between tents at El-Afadh camp in Al Dabbah, in Sudan's Northern State, November 16, 2025.\n                    © 2025 Marwan Ali/AP Photo \n          \n    \n\n\n  \n<p>The United Nations&nbsp;Independent International Fact-Finding Mission (FFM) for the Sudan has released a damning&nbsp;report on atrocities by the Rapid Support Forces (RSF) during their takeover of El Fasher, North Darfur, in late October 2025.</p><p>It concludes that the RSF, which is fighting Sudan’s military for control of the country, committed war crimes and crimes against humanity and that its “conduct, and inferred intent, present indications pointing to genocide.” The report warns that without decisive measures to advance accountability and protection of civilians, “the risk of further genocidal violence remains acute.”</p><p>The 18-month siege on El Fasher, the mission members found, was deliberately calculated to leave the population on its knees. It preceded “three days of horror” during which RSF forces rampaged through the city, killing, forcibly disappearing, and raping thousands. They further found that “[i]dentity-based targeting linked to ethnicity, gender, and perceived political affiliation was a central element of the RSF operation.” They concluded that the hallmarks of at least three underlying acts of genocide were present.</p><p>The atrocities in El Fasher were&nbsp;wholly predictable, fitting into what the fact-finding mission described as the RSF’s “modus operandi” across Darfur and making clear that only a radical shift in global response to RSF crimes can prevent further atrocities.</p><p>The report provides a compelling roadmap on protection and accountability as conflict expands into the Kordofan region.</p><p>The UN Security Council should immediately endorse&nbsp;the deployment of a civilian protection mission and enforce and expand the UN arms embargo from Darfur to the whole of Sudan. Other countries should speak out against the UAE’s ongoing military support to the RSF, and the UN should investigate the UAE’s potential complicity in these crimes.</p><p>UN member states, notably Security Council members, should act to advance accountability, including through targeted sanctions, supporting the International Criminal Court and expanding its jurisdiction across Sudan; and pursuing universal jurisdiction cases, which could draw on the confidential dossiers the FFM is preparing on individual perpetrators. States should work with UN leadership to support the mission’s ongoing investigations, ensuring it has the necessary resources.</p><p>States should commit to decisive action when convening to discuss the mission’s report in Geneva on February 26. Without such action yet more Sudanese civilians will suffer similar horrors to those laid bare in this report.</p>",
+        "link": "https://www.hrw.org/news/2026/02/24/un-body-finds-hallmarks-of-genocide-in-darfur",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:38.025140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8444985,
+          18.2612839
+        ]
+      },
+      "properties": {
+        "id_hash": "537da8ea3b2dcf122c35a98ce86cf1901475f506606c3673c675622a87b1de76",
+        "title": "South Africa: Whistleblowers Under Attack",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Supporters attend the International Anti-Corruption Day Commemoration in Durban, South Africa, December 8, 2024.\n                    © 2024 Eliah July/Gallo Images via Getty Images\n          \n    \n\n\n  \n<p>(Johannesburg) –&nbsp;South African authorities have failed to protect whistleblowers, who expose corruption and criminal activities in government and state-owned enterprises, from attacks and killings, Human Rights Watch said today. The authorities need to conduct effective, prompt, and impartial investigations to hold those responsible to account and to ensure justice for the victims and their families.</p><p>During the State of the Nation Address on February 12, 2026, President Cyril Ramaphosa repeated a previous commitment to introduce a new Whistleblower Protection Bill in parliament. But the bill has not been passed and as the killings in 2025 of two whistleblowers, Mpho Mafole and Marius Van Der Merwe, demonstrate, whistleblowers cannot afford more unfulfilled promises.</p><p>“The scale and frequency with which whistleblowers are attacked and killed for exposing criminal syndicates and corruption is alarming and raises serious concerns for their safety and protection in South Africa,” said&nbsp;Nomathamsanqa Masiko-Mpaka, South Africa researcher at Human Rights Watch. “South African authorities should urgently enhance safety measures for whistleblowers and address limitations in the existing legal framework.”</p><p>Unidentified people&nbsp;killed Mafole in a drive-by shooting on June 30, 2025, in Johannesburg. Mafole was a 47-year-old municipal forensic auditor and group divisional head for corporate and forensic audits for the city of Ekurhuleni. He had flagged procurement irregularities in a 1.8 billion rand (approximately US$112.9 million) mobile chemical toilet&nbsp;tender and submitted his audit findings on&nbsp;June 26, four days before his killing. Investigative journalists have&nbsp;reported that Mafole was tracked by his killers starting when he left his home around 8 a.m. until shortly before 6 p.m., when he was killed.</p><p>Thabani Goodwill Ntshalintshali was&nbsp;arrested on July 25, and charged with Mafole’s murder. His&nbsp;trial is scheduled to start on March 24, 2026. A warrant has also been issued for a second suspect,&nbsp;Hlanganani Agripper Mncwango, who is still at large.</p><p>On December 5, 2025, unidentified people shot&nbsp;Van Der Merwe multiple times in full view of his family outside their home in Brakpan, east of Johannesburg. Van Der Merwe was a former police official who&nbsp;testified off-camera before the Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System (Madlanga Commission). He highlighted serious allegations of criminality and corruption in the Ekurhuleni Metropolitan Police Department.</p><p>On February 5, 2026, Wiandre Pretorius, a police reservist, survived an attempt on his life by individuals who reportedly fired 16 bullets at his vehicle as he was leaving his home in Boksburg. On February 7, he allegedly died by suicide. He had been implicated by Van Der Merwe in the 2022 killing of Emmanuel Mbense, allegedly at the hands of the police .Three others out of twelve people identified as persons of interest in Mbense’s death have been&nbsp;killed, reportedly “execution style.”</p><p>“Whistleblowing is central to countering corruption and improving transparency, [yet] it has also proven to be fatal in too many instances,” Nkululeko Conco, attorney at&nbsp;Corruption Watch, a South African group, told Human Rights Watch. As such, legislative reform should “consolidate the fragmented approach to whistleblowing, which is articulated in various pieces of legislation.”</p><p>Whistleblower attacks in post-Apartheid South Africa have a long history with many whistleblowers over the past two decades being victims of targeted killings or abusive attacks, in retaliation for exposing corruption and criminality.</p><p>While the&nbsp;Protected Disclosures Act 26 of 2000 nominally provides legal protection against reprisals for workers who disclose information about wrongdoing in public and private sectors, the law is woefully inadequate, Human Rights Watch said. In 2023, the Department of Justice and Constitutional Development issued a&nbsp;discussion document proposing reforms to the whistleblower protection regime, which highlights how the act and other related legislation could be strengthened.</p><p>Proposals included expanding the definitions of whistleblower beyond the employer-employer relationship; shortening time frames for investigating a disclosure; improved measures to keep a protected disclosure confidential; making it an offense not to act on a protected disclosure; establishing a mechanism to help whistleblowers with legal assistance; and enhancing the powers of regulatory bodies such as the South African Human Rights Commission to deal with protected disclosures.</p><p>President Ramaphosa first made the&nbsp;commitment to “finalize the Whistleblower Protection Framework and introduce the Whistleblower Protection Bill in Parliament” during last year’s State of the Nation Address. One year later, this has not happened.</p><p>In this year’s&nbsp;address, President Ramaphosa made a similar commitment, saying: “We cannot accept that those who speak out against corruption are victimized and targeted. The Whistleblower Protection Bill will be introduced in Parliament. Among other things, this will criminalize retaliation and provide psychosocial, legal, and financial support to whistleblowers. And there will be a special focus on restructuring our procurement system with a view to ending corruption.”</p><p>The South African government urgently needs to translate the commitment into concrete actions, Human Rights Watch said. These include the prompt passage of the Whistleblower Protection Bill and the implementation of comprehensive safeguards for whistleblowers such as effective witness protection.</p><p>“South African authorities cannot afford to recycle empty promises because the lives of whistleblowers are at risk,” Masiko-Mpaka said. “Whistleblowers do not need promises, but specific, measurable, and tangible steps to ensure their safety and end the risk of retaliation and violence.”</p>",
+        "link": "https://www.hrw.org/news/2026/02/24/south-africa-whistleblowers-under-attack",
+        "severity": 6,
+        "scraped_at": "2026-02-25T02:48:39.380871+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1535811,
+          4.6125522
+        ]
+      },
+      "properties": {
+        "id_hash": "d0115f203b03f1f747fd1cee1e4de5893832f2057c083dbdb55361c7dbd2f571",
+        "title": "Cameroon: Massacre Trial Short on Justice",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              \n\n\nMemorial ceremony held on February 21, 2020 at the Saint Theresia Cathedral l in Kumbo, North-West region, Cameroon, for victims of the Ngarbuh massacre. \n\n\n\n\n                    © 2020 Private\n          \n    \n\n\n  \n<p>(Nairobi) – The lenient prison terms for defendants on trial for the February 2020 massacre in Ngarbuh, in Cameroon’s North-West region, compounds the authorities’ insufficient efforts to hold senior military officers accountable and compensate victims’ families, Human Rights Watch said today.</p><p>On February 20, 2026, a military court in Cameroon’s capital, Yaoundé, sentenced three security force members and a pro-government militia member who was tried in absentia for the killing of 21 people—as well as other abuses—by the military and Fulani militiamen in Ngarbuh on February 14, 2020. The court handed down sentences of between 5 and 10 years and modest fines.</p><p>“Prosecutors did not pursue any evidence about who planned and ordered the killings,” said Ilaria Allegrozzi, senior Africa researcher at Human Rights Watch. “The failure of Cameroon’s prosecutors and judiciary to investigate those bearing command responsibility, combined with the denial of reparations, exacerbates the suffering of victims’ families.”</p><p>The trial, which lasted more than five years, was marred by serious shortcomings. Authorities never arrested or charged senior officers who authorized and oversaw the operation. Seventeen ethnic Fulani militiamen accused of murder remain at large. Victims’ families had only limited access to and participation in the proceedings, key evidence was excluded, and the court rejected claims for compensation.</p><p>Human Rights Watch research found that government forces and allied ethnic Fulani militiamen killed 21 people in Ngarbuh, including 13 children and a pregnant woman. The assailants also burned at least five homes, looted dozens of properties, and beat residents during what appeared to be a reprisal operation against a community suspected of harboring separatist fighters. Since 2016, brutalviolence has engulfed Cameroon’s Anglophone North-West and South-West regions, where armed separatist groups are seeking independence.</p><p>Initially, the government denied any involvement of its forces in the killings and publicly discredited human rights groups, United Nations agencies, and media outlets that reported on the massacre. On March 1, 2020, following domestic and internationalpressure, President Paul Biya established a commission of inquiry.</p><p>The commission concluded that security forces and members of “local vigilance groups” carried out a reconnaissance operation in Ngarbuh, where they confronted separatist fighters, killing five. In the ensuing violence, 13 civilians were killed. The commission found that soldiers then attempted to cover up the killings by burning homes and filing a false report.</p><p>President Biya ordered disciplinary proceedings against the commander of the 52nd Motorized Infantry Battalion (Bataillon d’Infanterie Motorisé, BIM), who had authorized the operation, as well as criminal proceedings against three members of the security forces—two lower-ranking soldiers and a gendarme—who were arrested in June 2020.</p><p>The trial opened on December 17, 2020. The defendants included the three security force members—Baba Guida, Gilbert Haranga, and Cyrille Sanding Sanding—and the 17 ethnic Fulani militiamen. Only one of them, Tata Nfor, also known as “Bullet,” was identified by name and tried in absentia.</p><p>On January 15, 2026, the court convicted the three soldiers and Nfor as co-perpetrators in murder, arson, and destruction; Guida and Sanding were also convicted of disobeying orders and Haranga of disobeying orders and violence against a pregnant woman.</p><p>On February 20, the court sentenced Haranga and Nfor to 10 years in prison, Guida to 8 years, and Sanding to 5 years. Each was also fined 183,100 CFA francs (about US$328).</p><p>Under Cameroon’s penal code, murder is punishable by life in prison, and co-perpetrators are subject to the same penalties as principal offenders unless otherwise provided by law. The sentences imposed on two defendants in this case are relatively light, taking into account the gravity of the crimes, Human Rights Watch said.</p><p>While international law does not prescribe strict sentencing guidelines, international practice provides that punishment for serious crimes should reflect the gravity of the crime and serve the purposes, among others, of deterrence and retribution.</p><p>Barrister Menkem Sother, the lawyer representing the victims’ families, told Human Rights Watch that the public prosecutor initially requested five-year prison terms for the three security force members, contending that they were “brave soldiers” who had long participated in military operations. The judges ultimately confirmed a five-year sentence for Sanding, who has already served that time and is expected to be released in the coming days.</p><p>Sother requested 1,700,000,000 CFA francs (about $3,049,970) in compensation on behalf of the victims. The court rejected the claim as “unjustified,” asserting that the victims had already received a total of 80,000,000 CFA francs (about $143,528). Sother said, though, that there is no proof that any payment has been made.</p><p>The Ngarbuh proceedings were repeatedly delayed, often due to the absence of judges and other court officials. The court refused to admit key evidence, including death certificates to identify all of those killed, and the victims’ families were allowed only minimal participation. The military court in Yaoundé is about 450 kilometers from Ngarbuh, making it difficult for family members to attend. Family members’ lawyers had expressed concern about the issue. Only three victims’ relatives and one witness testified before the court, Sother said.</p><p>Defense and civil parties’ lawyers have 10 days to appeal the court’s decision. Henri Athanase Atangana, a defense lawyer representing Guida and Haranga, told the media that he would consult his clients before deciding whether to do so. Sother told Human Rights Watch that he does not intend to appeal, saying: “I have carried this cross alone.”</p><p>At the outset of the trial, there was sustained mobilization in support of the victims’ families, with several lawyers offering pro bono representation and numerous national and international human rights and civil society organizations attending or closely monitoring the proceedings. However, this collective engagement gradually waned, and for the final three years the families were represented solely by Sother, who represented their interests with unwavering dedication.</p><p>The UN Centre for Human Rights and Democracy in Central Africa, which is based in Yaoundé and is mandated to promote and protect human rights, including through ensuring the rule of law and accountability for human rights violations, assigned a lawyer to attend one hearing in 2022. “But after that, I’ve never seen her again,” Sother said.</p><p>The International Covenant on Civil and Political Rights, which Cameroon ratified in 1984, provides that states parties should ensure that any person whose rights are violated has access to an effective remedy, determined by competent judicial, administrative, or legislative authorities, and that such remedies are duly enforced.</p><p>“The Ngarbuh trial has delivered neither full accountability nor meaningful redress,” Allegrozzi said. “The United Nations Centre for Human Rights and Democracy in Central Africa should offer legal and technical assistance to the victims’ families, to enable them to file a well-grounded appeal seeking reparations and to ensure continued protection of their rights throughout the process.”</p>",
+        "link": "https://www.hrw.org/news/2026/02/24/cameroon-massacre-trial-short-on-justice",
+        "severity": 4,
+        "scraped_at": "2026-02-25T02:48:40.418909+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "376d70b81d1a9661a5bfac7a141603e7d6c9c64b5c1c356065976246f1285ae3",
+        "title": "FIFA Needs to Call Full Time on Discrimination",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Real Madrid's Vinicius Junior shoots the ball to score teams first goal during a Champions League playoff soccer match between SL Benfica and Real Madrid in Lisbon, Portugal, February 17, 2026.\n                    © 2026 Joao Bravo/Sports Press Photo/Sipa USA/AP Photo \n          \n    \n\n\n  \n<p>Just months before the 2026 FIFA World Cup kicks off, the world of football is again rocked by cases of discrimination both off and on the pitch.</p><p>Members of the football community, including footballers and fan groups, have long warned of pervasive discrimination in the sport.</p><p>During a UEFA Champions League match this month, Real Madrid’s Vinícius Júnior reported Benfica’s Gianluca Prestianni directed a racial slur towards him. Making matters worse, Benfica’s manager, José Mourinho, sought to blame Vinícius for instigating the alleged abuse in the way he celebrated a goal. Victim-blaming doesn’t just obstruct the fight against racism, it fuels and legitimizes it.</p><p>Reports allege that Prestianni later claimed he used a homophobic slur against Vinícius, not a racial one. If true, that would be an appalling attempt to refute the allegations.</p><p>Fellow players expressed support for Vinícius, who has been a repeated victim of racial abuse. UEFA, European football’s governing body, has opened an investigation and issued a provisional suspension for Prestianni.</p><p>Meanwhile in the UK, the Football Association (FA) recently charged Cardiff City in response to its fans directing homophobic chants at opponents Chelsea during a December English Football League Cup match. The FA also sanctioned Reading’s kitman, Richard Bone, for making homophobic comments toward referee Matt Corlett during an August 2025 game.</p><p>These cases come after FIFA, the global governing body for football, egregiously canceled its own planned anti-racism and anti-discrimination campaign at the 2025 Club World Cup in the US. FIFA did not share the reasons, and it has been described as a step backward by fans and rights groups including Human Rights Watch.</p><p>Under the United Nations Guiding Principles on Business and Human Rights, FIFA has a responsibility to tackle human rights risks, including discrimination.</p><p>“Vinícius’ case and continued reports of homophobic chants remind us of the hate faced by many in football simply because of who they are,” said Andrea Florence, executive director of the Sport and Rights Alliance. “We are concerned hate speech is likely to occur during the 2026 World Cup.”</p><p>Given the continued prevalence of discrimination in football, FIFA should be setting an example, not avoiding its responsibilities. FIFA should reinstate its anti-discrimination campaigns ahead of the tournament and consider imposing harsher punishments for any discrimination, whether by players, staff, or fans.</p>",
+        "link": "https://www.hrw.org/news/2026/02/24/fifa-needs-to-call-full-time-on-discrimination",
+        "severity": 2,
+        "scraped_at": "2026-02-25T02:48:40.419164+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "41a4addbaef3b7721d566765750474dfef0581a24636ba82b8f9a0e1ec40276e",
+        "title": "Iran: Tsunami of Arbitrary Arrests, Enforced Disappearances",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n                    © 2026 John Holmes for Human Rights Watch\n          \n    \n\n\n  \nIran’s intelligence agencies and security forces have carried out mass, arbitrary, violent arrests and detentions of protesters, including children, since December 28, 2025. Tens of thousands are reported to have been arrested across the country. Waves of arrests have continued following the&nbsp;countrywide massacres of January 8 and 9, 2026.Authorities have subjected detainees to torture and other ill-treatment. Those detained are at serious risk of death in custody, grossly unfair trials, and secret, summary, and arbitrary executions. Authorities have systematically refused to provide any information about the fate and whereabouts of detainees, thus forcibly disappearing them.UN member states should demand Iranian authorities immediately release all those arbitrarily detained, disclose the fate and whereabouts of people forcibly disappeared, halt any planned executions, and allow independent international bodies and monitors, particularly the UN Fact-Finding Mission on Iran, unhindered access to the country, including to all prisons and detention facilities. Judicial authorities in other countries should act to open criminal investigations, including under the principle of universal jurisdiction. Governments with embassies in Iran should send high level observers to all capital trial proceedings and urgently request to visit all sections of detention facilities.<p>(Beirut) –&nbsp;Iran’s authorities have waged a brutal campaign to terrorize the population through mass arbitrary detentions, torture, and enforced disappearances in the aftermath&nbsp;countrywide massacres of protesters and bystanders by security forces on January 8 and 9, 2026, Human Rights Watch said today.</p><p>Evidence examined by Human Rights Watch shows that senior officials, Iran’s security and intelligence agencies including the police, known as FARAJA, the Islamic Revolutionary Guards Corp (IRGC) and its intelligence organization, the Ministry of Intelligence, and prosecutorial and judicial officials have orchestrated a coordinated, brutal mass clampdown to quash further dissent and conceal their atrocities. In addition to mass arrests, they have held detainees in incommunicado detention including in unofficial facilities, broadcast&nbsp;hundreds of coerced “confessions,” including by&nbsp;children, and carried out large-scale enforced disappearances while imposing severe restrictions resembling martial law in many cities.</p><p>“As a whole nation remains in shock, horror, and grief, and families still search for their loved ones in the aftermath of the massacres of January 8 and 9, authorities continue to terrorize the population. Arrests continue and detainees face torture, coerced “confessions,” and secret, summary, and arbitrary executions,” said&nbsp;Bahar Saba, senior Iran researcher at Human Rights Watch. “Given the immense dangers those detained and forcibly disappeared face, international monitors should immediately be given unhindered access to all detention facilities and prisons.”</p><p>A prisoner whose voice recording was received by Human Rights Watch stressed the importance of maintaining international scrutiny, saying, “Do not forget the detainees… Be our voice, if you do not raise your voice, they will eliminate us all.”</p><p>Those forcibly disappeared include individuals arrested and may include cases of people who participated in the protests but never returned home. Some families have received calls informing them that their loved ones had been killed but have not had the bodies of their loved ones returned, or received any information about them despite repeated inquiries.</p><p>A January 26&nbsp;statement by the IRGC’s Intelligence Organization indicated that at least 11,000 people had been summoned by intelligence and security forces as of that date. According to judiciary’s spokesperson, 10,538 individuals had been referred for prosecution and&nbsp;8,843 indictments were issued by February 17.</p><p>Human Rights Watch spoke with 23 people both inside and outside Iran, including detained protesters; relatives of people killed, detained, and/or forcibly disappeared; people participating in protests; lawyers; human rights defenders; medical professionals; and journalists. Sources provided information about the situation in areas across the country, including the provinces of Alborz, Eastern Azerbaijan, Fars, Golestan, Hormozgan, Ilam, Kermanshah, Khouzestan, Kurdistan, Lorestan, Mazandaran, Razavi Khorasan, and Tehran.</p><p>Human Rights Watch also analyzed videos of security forces violently arresting protesters and their heavy presence on the streets after the mass killings, including 139 videos of forced “confessions” broadcast by the state broadcaster—Islamic Republic of Iran Broadcasting (IRIB)—and state-affiliated media as of February 6. Human Rights Watch also reviewed official statements, reports, and publications by independent media and human rights organizations.</p><p>Authorities have repeatedly vowed “speedy trials” and a “harsh response” without “any leniency,” while labelling protesters “criminals,” “enemies of God,” and “terrorists.” On February 3, a criminal court in Qom sentenced 19-year-old wrestling champion, Saleh Mohammadi, to death for alleged involvement in the death of a member of the security forces. Mohammadi was convicted after summary proceedings that did not even last a month and relied on forced “confessions” that he said were extracted under torture. The court has ruled that Mohammadi’s execution should be carried out in public.</p><p>On February 19, Amnesty International&nbsp;reported that&nbsp;children were also among 30 people facing the death penalty whose cases were documented by the organization. In a measure reminiscent of&nbsp;sham trials broadcast in 2022 that resulted in&nbsp;arbitrary executions of several men, IRIB started broadcasting segments of trial proceedings, including against two children, for alleged offences in connection with the protests.</p><p>The exact number of those arrested since the start of the protests remains unknown, but human rights&nbsp;groups have reported the figures to be in the tens of thousands. As of February 13, the Volunteer Committee to Follow-Up on the Situation of Detainees, a network of activists outside Iran, had&nbsp;published the names and details of over 2,800 people arrested.</p><p>Those interviewed said that prosecutors and prison officials have systematically denied detainees access to their families and lawyers and refuse to provide information about detainees’ fate and whereabouts, thus subjecting them to enforced disappearance. Enforced disappearances are grave crimes under international law and are considered&nbsp;ongoing so long as the authorities refuse to acknowledge the fate or whereabouts of those disappeared.</p><p>A human rights defender who has spoken to several detainees’ relatives in the provinces of Ilam and Kermanshah said that officials responded to families’ requests with insults and profanities. Verified videos posted online and verified by Human Rights Watch show scores of concerned families gathering outside prisons, prosecutors’ offices, and police stations in search of their loved ones.</p><p>Human Rights Watch has also documented cases of torture and other ill-treatment, including severe beatings with batons; kicks and punches; sexual and gender-based violence; food deprivation; and psychological torture, such as threats of execution, and denial of medical care to those injured. These cases, which can also amount to serious international crimes, are believed to be a fraction of the true scale of gross detention violations given that many people remain in incommunicado detention.</p><p>Iran’s authorities have imposed and maintained a heavy military presence applying severe restrictions against the population across numerous cities in the aftermath of the massacres. Several witnesses described measures resembling curfews and martial law, including checkpoints across cities and intra-city roads and armed agents routinely stopping vehicles and searching cars and passengers’ mobile phones. These descriptions were corroborated in videos verified by Human Rights Watch.</p><p>Security and intelligence forces have continued to carry out arrests of real and perceived dissidents. Those targeted include protesters,&nbsp;lawyers, medical professionals, human rights defenders, students, schoolchildren, athletes,&nbsp;journalists, political activists, environmentalists, and members of&nbsp;ethnic and religious minorities including&nbsp;Baha’is.</p><p>Since the start of the protests, the IRIB and media outlets affiliated with the IRGC have broadcast hundreds of protesters’ coerced “confessions.” They further heighten fears that people whose forced “confessions” have been aired will face the death penalty, and arbitrary executions.</p><p>Coerced television “confessions” violate the absolute prohibition of torture and other ill-treatment, the rights to presumption of innocence, and to a fair trial. The Islamic Republic has a long&nbsp;history of using coerced “confessions” to quash dissent and in cases leading to death sentences and arbitrary executions after grossly unfair trials.</p><p>Fears of a wave of death sentences and arbitrary, summary, and secret executions are growing in light of official statements and the&nbsp;execution spree of recent years. Since the start of the protests, officials have vilified protesters, repeatedly&nbsp;referring to them as “criminals”, and mohareb, an individual “waging war against God,” which is a capital offense.</p><p>UN member states should demand that Iran’s authorities immediately release all those arbitrarily detained, disclose the fate and whereabouts of people forcibly disappeared, halt any planned executions, and allow independent international bodies, such as the UN Fact-Finding Mission on Iran, unhindered country access, including to prisons and detention facilities, hospitals, morgues, and cemeteries.</p><p>Governments with embassies in Iran should send high level observers to all capital trial proceedings and urgently request to visit to all sections of detention facilities.</p><p>“Systematic impunity has enabled Iranian authorities to repeatedly commit crimes under international law,” Saba said. “Other countries’ judicial authorities should initiate criminal investigations of international crimes under the principle of universal jurisdiction and in accordance with national laws, with a view to prosecute those suspected of criminal responsibility.”</p>\n\n\n\n      \n\n\n  \n  \n\n\n\n\n  \n          \n                    \n\n\n\n                  \n          Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              A woman described to Human Rights Watch how several members of Iran’s security forces first restrained her and then severely beat her on the street. &nbsp;\n                    © 2026 John Holmes for Human Rights Watch\n          \n    \n\n\n  \nMass Arbitrary and Violent Arrests, Unlawful Detentions<p>Officials and state-affiliated media in Iran have stated that authorities have arrested&nbsp;thousands of people across the country, but independent rights organizations have&nbsp;reported that there have been tens of thousands of arrests.</p><p>Several sources who had spoken to people in prisons across the country said that authorities had emptied prison wards to hold detainees together and in isolation from other prisoners, in an apparent attempt to stop the flow of information.</p><p>Protest detainees are also held in unofficial detention facilities run by security and intelligence bodies, and other unregistered and secret locations, placing them at heightened risk of torture and arbitrary, summary, and secret executions. Iranian authorities have a track record of using secret, unofficial, and makeshift detention facilities, in particular during protest crackdowns, to hold detainees without registration.</p><p>Security forces have continued to arrest protesters on the streets, at checkpoints, and in home raids. A spokesperson for the Volunteer Committee to Follow-Up on the Situation of Detainees told Human Rights Watch that many people were arrested at home, days after they had participated in protests.</p><p>In one case, based on credible information received, Revolutionary Guard forces conducted an early morning raid on the house of Milad Ebrahimi, an injured protester in Kamyaran, Kurdistan and arrested him on February 1. The source said Ebrahimi sustained a gunshot wound during the protests but did not seek medical care at a hospital fearing arrest. Security forces also arrested his brother, Hamed Ebrahimi, for objecting to the arrest.</p><p>Witness statements and state media reports indicate that security forces have used video footage from CCTV cameras, and drones to identify those participating in protests.</p><p>Relatives of detainees and lawyers interviewed said that the authorities prohibited access to lawyers during the investigation phase, consistent with authorities’ decades-long pattern of denying detainees access to legal representation, including independent lawyers of their choice.</p><p>Under Note to Article 48 of the Code of Criminal Procedure, individuals charged with certain offenses, including national security offenses, are denied the right to access an independent lawyer of their own choosing. Only lawyers approved by the head of the judiciary can be appointed to defend them. The&nbsp;UN Fact-Finding Mission on Iran and human rights organizations have documented a pattern of complicity by many judiciary-approved lawyers in grave human rights violations. As a result, families and detainees have said they do not trust them.</p><p>“Detainees have no access to lawyers,” a lawyer said. “Families do not want to retain Article 48 lawyers. Independent lawyers who go to officials to take on protest detainees’ cases are told by the authorities, ‘Are you an Article 48 lawyer? No? Then leave, you cannot take the case.’”</p><p>In practice, even in cases with judiciary-approved lawyers, detainees are denied access to legal counsel during the investigation phase including during interrogations.</p><p>Witnesses said that, consistent with their track record, authorities have also harassed families of detainees, warning them not to speak up or publicize the situation of their loved ones.</p>Incommunicado Detention; Enforced Disappearances<p>The authorities have held those arrested during and after the protests in incommunicado detention. In many cases those detained are forcibly disappeared, as authorities have refused to provide families with any information about their fate and whereabouts.</p><p>In one case, authorities arrested Youresh Mehrali Beiglou, an Azerbaijani Turk activist, on January 4 in or around Tabriz, East Azerbaijan province, after releasing a video in which he spoke about the protests. After the arrest and for a period of over a month, he was allowed to make only one brief phone call to his family, and they were denied information about his whereabouts.</p><p>Another Azerbaijani Turk activist, Ali Babai, was arrested on January 14. Other than one brief phone call informing his family that he was in an intelligence ministry detention facility, the authorities have denied his relatives information about his fate and whereabouts.</p><p>In Karaj, Alborz province, security forces raided Jahangir Kazemi’s home on January 14 and arrested him. His family received two brief phone calls from Kazemi, who is reportedly held in solitary confinement, but has been denied visits and information about his situation. Kazemi’s wife, Fatemeh Golmohammadi, was arrested on January 27. The couple, who have young children, have been denied access to a lawyer.</p><p>A relative of a detainee in a northern province, described the response of prosecution officials to detainees’ families:</p><p>“When we ask officials at the prosecutor’s office [about our loved one], they tell us, ‘They are criminals, if they weren’t, we would not have arrested them,’ “When we ask what their crime is, they respond, ‘You yourselves know better.’”</p><p>Families have been gathering outside prisons, police stations, and prosecutors and governors’ offices. Human Rights Watch has reviewed four videos showing such gatherings.</p><p>Researchers geolocated videos showing these scenes outside the county courthouse in Karaj, Alborz province, Qazvin Central Prison, Qazvin province, and outside the governor’s office in Yasuj, Kohgiluyeh, and Boyer-Ahmad province.&nbsp;</p><p>Verified videos analyzed by Human Rights Watch from the provinces of Alborz, Esfahan, Lorestan, and Razavi Khorasan corroborated these accounts. Collectively, the videos show large numbers of armed security forces patrolling cities on foot or in vehicles, including trucks mounted with heavy machine guns, discharging weapons and using megaphones to order people to stay indoors.</p><p>In one video published online on January 29, and reported to have been recorded outside a police station in Kerman, concerned families are seen speaking to an official from behind a closed door, repeatedly saying that their loved ones are missing. One man is heard saying, “Why is there no one to answer us… my child has disappeared for 24 hours, but no one answers… is there not a manager, a supervisor, someone to step outside? So many people are here worried for their children.”</p>\n\n\n\n      \n\n\n  \n  \n\n\n\n\n  \n          \n                    \n\n\n\n                  \n          Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Many concerned families in Iran have been gathering outside prisons, prosecutors’ offices, and police stations in search of their loved ones.\n                    © 2026 John Holmes for Human Rights Watch\n          \n    \n\n\n  \n<p>Those forcibly disappeared may also include people who participated in protests but never returned home.</p><p>An informed source said that two of their students, a young man and a young woman, had remained disappeared since January 8, when they took part in the protests in Tehran: “The family knows they were in the protests and has since been to all police stations, hospitals, and morgues, but there is no trace of them. They do not know if they are dead or alive.”</p><p>An activist outside Iran who has been in touch with relatives of detainees and the missing in the provinces of Ilam and Lorestan said that he was aware of 12 people who didn’t return from the protests. Human rights defenders and journalists provided similar accounts from other provinces.</p><p>In some cases, families have spoken publicly about their search for their loved ones. On February 1, Sekhavat Salimi, a former political prisoner, published a&nbsp;video online in which he said that he had searched for his son, Mohammadi Ali Salimi, for days after the family received a call informing them that he had been killed and they should collect his body: “For 10 to 15 days, I searched everywhere in Tehran and Karaj. I went to Kahrizak [morgue], and to Behest-e Zahra and Behesht-e Sakineh [cemeteries]. I searched for my son everywhere but did not find him or his body... There is no trace of him, I do not know what to do.”</p>Torture and Ill-Treatment&nbsp;<p>Security forces including FARAJA, Revolutionary Guards, the Ministry of Intelligence, and plainclothes agents, have tortured protesters, including on the streets during arrests and after restraining them and in detention facilities. These ongoing gross violations and crimes under international law are consistent with Iranian authorities’ decades-long record of torture.</p><p>Witnesses described violent arrests of protesters. A protester from Tehran said they had seen security forces severely beat a man they had arrested and restrained:“They had handcuffed him, covered his eyes with a medical mask, and sat him on a motorbike. There, right before everyone’s eyes, they started beating this fully defenseless man. They repeatedly struck him on the head with a baton and beat him on his back and arms.</p>\n\n\n\n      \n\n\n  \n  \n\n\n\n\n  \n          \n                    \n\n\n\n                  \n          Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              A protester described how security forces beat a young, defenseless man they had already restrained and sat on a motorbike, including by repeatedly striking him on the head with batons.\n                    © 2026 John Holmes for Human Rights Watch\n          \n    \n\n\n  \n<p>Another source said security forces severely beat their relative, a 16-year-old boy, while restrained in a city in Khuzestan province, breaking one of his ribs, then left him on the street. The child had started running when security forces ordered him to stop.</p><p>A woman who was detained in a city in Razavi Khorasan said several agents violently arrested her while subjecting her to sexualized insults and profanities: “Suddenly, around five or six members of security forces attacked me and started beating me on the back of my head and neck with batons and gunstock. I am a small sized woman and there were six of them, all men. They handcuffed me from the back and made me lie on my stomach, faced down. Then they took me to their vehicle while constantly swearing at me and put my face on the trunk of the car. When I objected to my arrest telling them that I had not done anything, they hit me in the face with a shield, and I got a bloodied nose.”</p><p>Human Rights Watch also analyzed videos depicting violent arrests. One video analyzed, published online on January 2 and said to be recorded in Neishabour, Razavi Khorasan, shows several uniformed and plainclothes security forces’ members beating a woman and pushing her into a private car.</p><p>Human Rights Watch also received credible information about violent home arrests, with security forces beating the person arrested as well as other family members. The relative of a detainee in Kermanshah province said that security forces beat his brother during the arrest, adding, “This is no exception, all arrests I know of have been violent and carried out with beatings.”</p><p>Based on witness accounts, informed sources, and reports by other&nbsp;human rights organizations, security and intelligence forces have committed torture and other ill-treatment in detention facilities.</p><p>A detainee who was held in solitary confinement in Razavi Khorasan province said she could hear other detainees being tortured and saw young people beaten with batons. Accounts from Kermanshah and Fars provinces described severe beatings resulting in injuries and sexual and gender-based violence.</p><p>“Everyone you see has been horribly tortured,” a prisoner in central Iran said in a voice recording. … “All [confessions] are coerced, they [authorities] would write up what they want themselves or would dictate what to write… and if you did not accept to sign, they would hit you with a shocker [electric shock weapon] on the head. You are sitting there blindfolded, shackled, and in handcuffs, encircled by several men, you would accept anything.”</p><p>An informed source said security forces arrested and beat a 16-year-old boy at his home in a northern province, then transferred him to detention facilities run by intelligence bodies where he was severely tortured and was denied food for 5 days. Security forces repeatedly beat him to the point he lost consciousness on four occasions. Relatives who were able to visit him days later saw bruises on his face but were not able to see his body as they were only allowed to speak to him behind a glass barrier.</p><p>People interviewed said that many protest detainees had wounds from metal pellets, or other injuries such as broken ribs, but were denied medical care in prison.</p><p>Human Rights Watch received credible information that the authorities pressured the Nobel Peace Laureate Narges Mohammadi, arbitrarily&nbsp;detained since December 12, to condemn the protests that started on December 28. According to the information, Mohammadi was tortured and otherwise ill-treated at the time of her arrest, including being severely beaten with sticks and batons causing injury to her head and her genital area.</p><p>Security forces also dragged her by her hair and threatened her with further violence. On February 7, a revolutionary court in Mashhad&nbsp;sentenced Mohammadi to seven years and six months in prison for vaguely worded national security offenses and supplementary punishments, including a two-year travel ban.</p>Forced Televised Confessions; Death Penalty Risk<p>Since January, the IRIB and state-affiliated media have aired hundreds of coerced “confessions” by protest detainees. Human Rights Watch reviewed 139 clips aired as of February 6.</p><p>These videos systematically label detainees “rioters,” “terrorists,” and “agents” of foreign intelligence services, prior to any judicial proceedings and when detainees are denied access to lawyers. Some were taken during arrests, on the streets, in buses or vehicles used to transfer detainees, and in police stations. They depict women, men, and children, often blindfolded and in handcuffs, “confessing” to “collaboration with enemies” and various offenses including some that carry the death penalty.</p><p>In at least two videos reviewed, two girls aged 16 are coerced into making self-incriminating statements, including that they had received foreign support and instructions. Another video shows a 16-year-old boy, introduced as a “leader of riots” making a coerced “confession.”</p><p>Several other videos also depict people who appear to be under the age of 18 and therefore likely children. In one video, two men interrogate a visibly terrified young person in handcuffs on the street, accusing him of carrying stones in his cross-body bag with the intention of throwing them at security forces.</p><p>In some videos, detained protesters make statements about engaging in conduct that falls under the exercise of human rights, including chanting slogans, inviting others to take to the streets to protest, writing slogans on the walls, filming the security forces’ use of force against protesters, and sharing footage and images of protests with Persian speaking media outside Iran.</p>\n\n\n\n      \n\n\n  \n  \n\n\n\n\n  \n          \n                    \n\n\n\n                  \n          Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Since the start of the protests, Iran’s state media have broadcast hundreds of coerced “confessions” of protesters, including children. They heighten fears that people whose forced “confessions” have been aired will face the death penalty and summary and arbitrary executions.\n                    © 2026 John Holmes for Human Rights Watch\n          \n    \n\n\n  \n<p>In one video, a man, identified as Rasoul Salehi, is accused of having committed a “grave crime” by attending a peaceful gathering outside a government building in Yazdanshahr in Esfahan province and inviting people to protest if authorities did not release the detainees. A video of the gathering, in which Salehi is seen giving a speech and demanding the release of detainees, widely circulated online in early January.</p><p>Amid a&nbsp;surge in acts of&nbsp;persecution against members of the Baha’is religious minority, including an increase in arrests and detentions, on February 1, the IRIB aired coerced “confessions” of three young adults, including two members of the Baha’i community, Venus Hosseininejad, arrested on January 8, and Peyvand Niami, arrested on January 15 in Kerman.</p><p>Consistent with&nbsp;the authorities' long-standing campaign of spreading disinformation and inciting hatred and discrimination against Baha’is, the video clip sought to portray them, among other youth, as members of an “organized, violent, and foreign-backed network” with links to “Zionist networks” and “Satanism.”</p><p>According to information the Baha’i International Community provided to Human Rights Watch, at least 50 members of the Baha’i religious minority have been arrested between January 8 and February 13.</p><p>On February 4, in a&nbsp;letter published by media outlets outside Iran, Hosseininejad’s parents wrote that they were refused information about the intelligence body that had arrested their daughter for 15 days and had only received three brief phone calls from her. In one of the calls, they wrote, Hosseininejad said that she had agreed to “cooperate” under “severe physical and mental pressures” by giving false confessions because she was “promised” that she would be released.</p><p>Human Rights Watch also reviewed footage in which Gholamhossein Mohseni Eje’i, the judiciary head, interrogated detainees, including a woman, in front of a camera. The interrogations were&nbsp;reported by state media to have been carried out during a five-hour visit he made to a detention facility. Two other officials, including the Tehran prosecutor, are shown in these videos.</p><p>Iran’s laws criminalize a wide range of conduct that fall under the exercise of human rights, including some that are subject to the death penalty. Capital offenses also include acts that do not meet the threshold of the “most serious crimes,” limited only to intentional killing, as well as vaguely worded charges that contravene the principle of legality, such as “waging war on God” and “corruption on earth”.</p><p>A new law to “Intensify the Punishment of Spies and Collaborators with the Zionist Regime and Hostile States,” adopted in 2025, has further expanded the scope of the death penalty. The law imposes capital punishment for a range of vaguely worded offenses pertaining to collaboration and cooperation with “hostile states” and further criminalizes and subjects to long prison terms acts such as “sending footage, images or information to [media] networks, citizen journalists or online foreign [social media] pages where [such acts] contravene national security.”</p><p>The sheer number of coerced “confessions” that have been aired, official statements that routinely describe protesters as “those waging war on God,” and the authorities’ increasing use of the death penalty&nbsp;as a tool of political repressiongive rise to growing concerns about a wave of death sentences and arbitrary executions against protest detainees in the coming weeks and months. These include child detainees, some of whom have already been charged with capital offenses. In flagrant violation of the absolute prohibition on the use of the death penalty against people under age 18, Iran’s authorities continue to impose and implement death sentences against children.</p>De Facto Martial Law and Militarized Clampdown<p>In the days that followed the massacres, the authorities imposed curfews and enforced martial law-like restrictions across many cities while carrying out waves of arrests of real and perceived dissidents.</p><p>One protester from Tehran told Human Rights Watch that, “from 8 p.m., there was effective martial law. You could not really go out.”</p><p>Interviewees said that security forces had set up and maintained checkpoints in cities and intra-city roads including the in provinces of Kermanshah, Ilam, Lorestan, and Khouzestan.</p><p>Human Rights Watch has analyzed videos from several provinces corroborating these accounts.</p><p>In one video published online on January 15, 11 armed members of the security forces both in uniforms and plain clothes are seen along with a vehicle passing through a residential alley. The person who posted the video online said it was taken in Karaj, Alborz province. Due to the lack of geographic information, Human Rights Watch could not confirm the location. The forces are heard repeatedly warning through a megaphone that “no one should be near the windows,” ordering residents to “go inside” and “part ways with the rioters.”</p><p>Another video published online on January 20, and geolocated by Human Rights Watch to a city in Esfahan province, shows dozens of armed forces in uniforms and plain clothes with their faces covered patrolling a large street. The video shows four tan vehicles consistent with those used by the Islamic Revolutionary Guard Corps mounted with heavy machine guns and four white Toyota pickup trucks carrying at least four armed men in each vehicle. The forces repeatedly shout “go inside” then chant slogans vowing obedience to the Supreme Leader. A burst of automatic gunfire and other solo gunshots can be heard. One uniformed man in the back of a white pickup truck fires five shots into the air.</p><p>A third video, initially geolocated by a GeoConfirmed member,&nbsp;AndyNovy, and analyzed by Human Rights Watch shows more than 40 members of the security forces in vehicles, motorbikes, and on foot in several locations along the Hashemiye Boulevard, Kowsar Boulevard, and Vakil Abad Highway, in Mashhad, Razavi Khorasan. The video was filmed at night from a moving car. No pedestrians could be clearly seen in the video.</p><p>Another video from Boroujerd, Lorestan province, published online on January 17, and geolocated by Zaryon OSINT, shows a row of at least 15 military vehicles, including six-wheeled green trucks, trucks with pedestal-mounted heavy machine guns, and at least 22 members of the security forces armed with rifles along Takhti Boulevard. Riot police at an assembly point with vans nearby appear prepared to detain or arrest people. The number of vehicles and personnel indicates that the police action was deliberately planned and organized.</p><p>In the ongoing clampdown, authorities have targeted lawyers and medical professionals and other groups such as journalists, medical, students, human rights defenders, and members of ethnic and religious minorities.</p><p>On January 31, the domestic newspaper Shargh reported cases of eight detained lawyers, six of them arrested in the city of Shiraz, Fars province alone. As of February 16, the Volunteer Committee to Follow-Up on the Situation of Detainees had recorded&nbsp;the names of 20 lawyers arrested across the country since January 16.</p><p>Lawyers have also been held incommunicado and without access to their families and legal counsel. In an interview with a domestic newspaper, the lawyer for Shima Ghousheh, one of the first lawyers arrested,&nbsp;stated that he did not have access to his client and was not given any information about the charges against her.&nbsp;</p><p>Two lawyers who spoke with Human Rights Watch said that the real number of lawyers arrested across the country was higher and that each was aware of other arrested lawyers whose cases had not become public.</p><p>Authorities have also targeted medical professionals including doctors and nurses who have provided medical care to injured protesters in hospitals and private clinics, arbitrarily arresting them and subjecting them to enforced disappearances. As of February 16, the Volunteer Committee to Follow-Up on the Situation of Detainees had&nbsp;published the names of 39 medical professionals arrested across the country in connection with the protests.</p><p>A lawyer and a journalist interviewed by Human Rights Watch said that, in addition to large-scale arrests, intelligence bodies have been routinely summoning real and perceived dissidents, including student activists and lawyers, and coercing them to sign statements that they would not engage in any forms of activism.</p>",
+        "link": "https://www.hrw.org/news/2026/02/24/iran-tsunami-of-arbitrary-arrests-enforced-disappearances",
+        "severity": 10,
+        "scraped_at": "2026-02-25T02:48:40.420854+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "a4b61d6887a942987961b8dfc577b46cebde8aeaa156f48ecba7e814a6247eb9",
+        "title": "Russia’s War on Ukraine Four Years On",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Residents react after a missile hit an apartment building during Russian attacks on Kyiv, Ukraine, June 17, 2025.\n                    © 2025 Efrem Lukatsky/AP Photo \n          \n    \n\n\n  \n<p>On February 24, 2022, Russia launched its full-scale invasion of Ukraine. The war—defined by a relentless series of apparent war crimes and crimes against humanity—has resulted in tens of thousands of civilian casualties and triggered Europe’s largest displacement crisis since World War II.</p><p>Throughout the war, Russian forces have repeatedly shown&nbsp;disregard for international humanitarian law and civilian life. From&nbsp;Kharkiv,&nbsp;Izium, and Mariupol to&nbsp;Kyiv,&nbsp;Chernihiv, and&nbsp;Kherson, they have struck&nbsp;hospitals,&nbsp;schools, and&nbsp;apartment blocks, devastating&nbsp;entire neighborhoods, often the result of indiscriminate attacks using explosive weapons in populated areas.</p><p>In areas that fell&nbsp;under Russian occupation, including&nbsp;Bucha,&nbsp;Izium, and&nbsp;Kherson, Russian forces have carried out&nbsp;summary executions,&nbsp;enforced disappearances,&nbsp;sexual violence, and&nbsp;torture. Civilians were&nbsp;held in basements and makeshift detention sites, beaten, and subjected to electric shocks and mock executions.&nbsp;Ukrainian prisoners of war and civilian detainees still in Russian custody face daily physical and psychological abuse. Thousands of Ukrainian children have been deported or forcibly&nbsp;transferred to Russia or Russian occupied areas.</p><p>Russian authorities continue to commit routine abuses in occupied territories, imposing Russian laws, unlawfully seizing property, and coercing Ukrainians into adopting Russian citizenship and performing&nbsp;military service. Occupying authorities have&nbsp;imposed Russian language and Russian curriculum in schools as part of a systematic campaign to suppress Ukrainian identity, language, and culture.</p><p>Since 2022, Russian forces have also repeatedly targeted Ukraine’s energy grid, infrastructure indispensable to civilian survival. The latest wave of strikes&nbsp;has left over one million Ukrainians with severely interrupted heat, water, and electricity during winter months. As United States-led peace negotiations continue, Ukrainians joke grimly after each brutal night that these missiles are the Kremlin’s true “peace offerings”.</p><p>Four years on, the&nbsp;scale of documented atrocities demands concrete accountability across Russia’s entire chain of command, from those on the ground to Russia’s highest political and military leadership. The International Criminal Court’s (ICC) arrest&nbsp;warrants for senior Russian officials are an important milestone toward redress for victims. Ukraine’s allies, including the European Union and its member states, should fully support justice for all grave crimes throughdomestic and ICC investigations, act to enforce arrest warrants, encourage the expansion of universal jurisdiction prosecutions, and back Ukraine’s strong and resilient civil society groups documenting violations and assisting survivors.</p>",
+        "link": "https://www.hrw.org/news/2026/02/24/russias-war-on-ukraine-four-years-on",
+        "severity": 8,
+        "scraped_at": "2026-02-25T02:48:40.421043+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.83273,
+          14.8971921
+        ]
+      },
+      "properties": {
+        "id_hash": "05d4c098cb2f6541b2bc2a5f893c781e0d1e226635be1dd5602909094cbbe509",
+        "title": "Thailand: Free Speech Activists Get 32-Month Sentences",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Free speech activist Pimsiri Petchnamrob in Bangkok, Thailand.\n                    © 2020 The Momentum\n          \n    \n\n\n  \n<p>(Bangkok) – A Thai court on February 20, 2026, sentenced a prominent free speech activist and three others to 32 months in prison for criticizing King Maha Vajiralongkorn under Thailand’s royal insult law, Human Rights Watch said today.</p><p>The Bangkok Criminal Court found Pimsiri Petchnamrob, 35, guilty of lese majeste (insulting the monarchy) for her speech during a democracy rally in Bangkok in November 2020 that criticized what she considered to be the monarchy’s unchecked power. She was also convicted for referring to a 2017 statement by the United Nations expert on freedom of expression that the lese majeste law should have no place in a democratic country. She was also found guilty of violating Covid-19 containment measures and using loudspeakers without permission.</p><p>“Sentencing free speech activists to prison sends a chilling message that the monarchy and the law protecting it are untouchable,” said Elaine Pearson, Asia director at Human Rights Watch. “The government’s prosecution of Pimsiri specifically for criticizing the lese majeste law marks further backsliding on fundamental freedoms in Thailand.”</p><p>Three other democracy activists—Arnon Nampa, Somyot Pruksakaseksuk, and Promsorn Viradhammajari—were also convicted at the same trial of lese majeste charges and sentenced to two years and eight months for criticizing the king.</p><p>The four defendents’ original sentences of four years were reduced by one-third because the court considered their testimony useful. Hours after being sentenced, the court granted Pimsiri bail of 150,000 Thai baht (US$4,800) on the condition that she remain in Thailand and not reoffend while she appeals the verdict.</p><p>The court’s decision appears to follow the Constitutional Court’s ruling in January 2024 that the campaign to amend the lese majeste law amounted to an attempt to abolish Thailand’s constitutional democracy with the king as head of state, Human Rights Watch said.</p><p>The continued use of Penal Code section 112 on lese majeste, which carries punishment from 3 to 15 years in prison for each offense, amounts to excessive restriction on the right to freedom of expression. Since the military coup in 2014, at least&nbsp;1,987 people have been prosecuted in Thailand for exercising their rights to free expression and peaceful assembly, including at least&nbsp;285 who faced lese majeste charges.</p><p>In July 2025, UN human rights experts issued a statement urging Thai authorities to drop charges against Pimsiri and other activists on trial.</p><p>Thai authorities have often detained critics of the monarchy for months before trial without access to bail. Arnon, one of the four defendants and a human rights lawyer, also faces 14 royal defamation charges related to his speeches and online commentary calling for reforms of the monarchy. All of his bail applications have been denied. In August 2024, the United Nations Working Group on Arbitrary Detention called for his immediate release.</p><p>The International Covenant on Civil and Political Rights, which Thailand has ratified, protects the right to freedom of expression. The United Nations Human Rights Committee, the international expert body that monitors compliance with the covenant, has stated in its&nbsp;General Comment No. 34 that laws such as those for lese majeste “should not provide for more severe penalties solely on the basis of the identity of the person that may have been impugned” and that governments “should not prohibit criticism of institutions.”</p><p>Thailand, a current member of the UN Human Rights Council, supported multiple recommendations regarding freedom of expression from its 2021 Universal Periodic Review, but has made no progress implementing them. Prime Minister Anutin Charnvirakul has opposed efforts to reform Penal Code section 112. His conservative Bhum Jai Thai Party, which won the general election on February 8, has rejected a proposal to pardon those charged with lese majeste or to adopt a moratorium on prosecutions and pretrial detention of people under the law.</p><p>“The abuse of lese majeste&nbsp;charges in Thailand should end and all those held should be released,” Pearson said. “As Thailand prepares to have its human rights record reviewed at the UN Human Rights Council in November, the United Nations and concerned governments should urge Thailand to promote free expression and other fundamental freedoms rather than suppress them.”</p>",
+        "link": "https://www.hrw.org/news/2026/02/24/thailand-free-speech-activists-get-32-month-sentences",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:43.285917+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "b697462894f19cb6ac192f09e4e7467d6b02feab6d6868cb578a5fd22bd0adc7",
+        "title": "Northeast Syria: Camp Closures Leave Thousands Stranded",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Syrian security forces take control of al-Hol camp in the desert region of al-Hasakah Province, Syria, on January 21, 2026, following the withdrawal of Kurdish forces the previous day.\n                    © 2026 Rami Alsayed/NurPhoto via AP Photo \n          \n    \n\n\n  \n<p>(Beirut) – The wellbeing of about 8,500 people held in camps housing families of men suspected of Islamic State (ISIS) affiliation in northeast&nbsp;Syria remains uncertain, Human Rights Watch said today. On January 30, 2026, the Syrian government announced that the camps, called al-Hol and Roj, would be imminently closed. After control of al-Hol was transferred to Syrian authorities on January 20, most residents reportedly left in a largely unplanned and chaotic manner, and authorities said on February 22 that they had fully evacuated and shut down the camp.&nbsp;</p><p>The camps have long held thousands of women and children, most of whom have never been charged with a crime and were detained for years in life-threatening conditions because their countries failed to repatriate them.&nbsp;</p><p>“For years, many governments claimed that difficulties negotiating with a non-state actor in charge of the camps was why they couldn’t repatriate their citizens, but now that excuse won’t hold,” said&nbsp;Adam Coogle, deputy Middle East director at Human Rights Watch. “Seven years is a long time to kick the can down the road. These countries need to bring their citizens home.”</p><p>Until mid-January, the camps housed approximately 28,000 people. About 12,500 are foreigners from more than 60 countries; 4,000 of them are Iraqi. Roj camp remains under the control of the Kurdish-led Syrian Democratic Forces (SDF) and is also expected to close.&nbsp;</p><p>Human Rights Watch spoke with four foreign women in the camps and five employees of organizations working in the camps between November 2025 and February 2026.</p><p>Since the government took control of al-Hol on January 20, the population has dropped, with many people&nbsp;leaving in a largely unplanned and chaotic manner.</p><p>In Roj camp, those interviewed said that guards have conducted near-nightly raids, beating and threatening detainees, and separating boys from their mothers.&nbsp;</p><p>While ending arbitrary and indefinite detention in the camps is long overdue, the way these departures have unfolded has exposed women and children to serious risks, including trafficking, exploitation, and recruitment by armed groups, Human Rights Watch said. Syrian authorities should prioritize identifying and protecting those who have left, ensuring safe shelter, access to health care, psychosocial support, and child protection services, and establishing individualized screening procedures that respect due process and avoid punitive or discriminatory treatment.</p><p>Three women in Roj camp, which houses 2,300 foreign women and children, said they have been experiencing near nightly raids by the Asayish, Kurdish internal security forces, which involve beatings, destruction of property, verbal harassment, and threats, theft, and extortion.</p><p>On February 9, one woman said, armed men kidnapped her neighbor’s two sons and refused to return them unless their mother paid US$2,000. “When they returned the boys, the oldest one was beaten and bloody,” she said.</p><p>A Trinidadian woman said that on January 31, “a big entourage of cars started coming in” around 11 p.m., with security forces “shooting in the air” then banging on tents and ordering women to come out. She said the women were gathered in a playground in freezing temperatures while guards insulted them.&nbsp;</p><p>She said that boys age 11 and over were separated from their mothers and beaten and quoted a guard saying, “this is the last day you are going to see these boys, we are going to take them away and kill them.” She said guards forced the boys to put their heads down and arms behind their backs “like prisoners,” while searching women in groups. “They started ripping off people’s jackets. They started slapping me and hitting my head, pulling off my hijab.” She said the raid lasted four and a half hours.</p><p>On February 12, she said that the raids and beatings continued.&nbsp;</p><p>Human Rights Watch was unable to independently verify these accounts, though aid workers reported hearing similar concerns.</p><p>Human Rights Watch asked the SDF for comment but has not received a response as of the time of publication.&nbsp;</p><p>Since the fall of the Assad government in Syria, the US-led coalition against ISIS supporting has stepped up its efforts to facilitate the repatriation of foreigners through the establishment of a&nbsp;Joint Repatriation Cell.&nbsp;</p><p>“[Bosnian authorities] carried out one repatriation in 2019 of a few women and children while leaving the rest of us without explanation,” said a woman who said her parents have been seeking her release for two years. “We feel discriminated against because we are the same citizens of Bosnia and our basic rights are being violated.”&nbsp;</p><p>While some countries have long ignored the call to repatriate their citizens, others are trying to ensure that their citizens are never able to return. The&nbsp;United Kingdom and&nbsp;Denmark have revoked the citizenship of many or some of their nationals, leaving several stateless. Australia has&nbsp;recently confirmed that it will not support the repatriation of 34 Australian women and children with alleged links to ISIS, with the government saying it will provide “absolutely no support.” Australian authorities have also&nbsp;issued a temporary exclusion order against at least one citizen in the camps, leaving the person effectively stateless.&nbsp;</p><p>Human Rights Watch has&nbsp;found that many of the children who were returned to their countries are reintegrating successfully.</p><p>Some women in the camps do not want to return. Uyghurs, Afghanis, or Iranians may be at risk of refoulement (mistreatment) if returned. For these women, a proper resettlement plan is needed, Human Rights Watch said.</p><p>Other women fear they will be separated from their children if they are detained in their home countries. “This will by default happen to 100 percent of the women who will be prosecuted upon return,” said Beatrice Eriksson, cofounder of Repatriate the Children. “These women have been 24/7 with their children since they were born, and in many cases, they are the only caregiver. Many say they don’t want to add that trauma of separation to their children when they have already gone through so much, but what is the alternative? Stay in Syria and settle there?”&nbsp;</p><p>Iraq ramped up repatriation efforts following the fall of the Syrian Assad government in December 2024. At its peak in 2019, al-Hol housed around&nbsp;31,000 Iraqis. On February 9, Iraq’s National Security Adviser, Qasim al-Araji,&nbsp;said&nbsp;Iraq had repatriated all but 300 to 350 families from al-Hol. Iraqis are transferred to a camp in Ninewa Governorate, for security screening and rehabilitation.&nbsp;</p><p>Separately, on January 21, United States armed forces began&nbsp;transferring 5,700 male detainees, including Syrians, Iraqis, and third country nationals, from northeast Syria to Iraq for trial. Iraq’s Supreme Judicial Council said they include&nbsp;157 boys under 18. A few hundred other boys and young men are held in so-called rehabilitation centers, most after being&nbsp;forcibly separated from their mothers in the camps.&nbsp;</p><p>All governments should urgently ensure the repatriation of their nationals. Pending repatriation and possible camp closures, all parties to the conflict should cooperate to ensure the well-being of camp residents and take urgent steps to improve the dire conditions. Anyone unlawfully detained should be immediately released or detained according to law including ensuring full due process rights for anyone charged with crimes.&nbsp;</p><p>“After years of terrible conditions in the camps, women and children are fleeing in fear, with nothing, and could risk further ill-treatment,” Coogle said. “Unless there is evidence they have committed a crime, all residents regardless of nationality need to be given support to return, reintegrate, rehabilitate, and rebuild their lives.</p>",
+        "link": "https://www.hrw.org/news/2026/02/23/northeast-syria-camp-closures-leave-thousands-stranded",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:43.286460+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "9b810ccb88dcbc3a3572f268fbe5d34ebb37c127eb064d45c7bc8073469d3037",
+        "title": "Baranoa, primer municipio del Atlántico en poner en marcha el Sistema Local del Cuidado: un modelo para dar apoyo a quienes realizan esta labor",
+        "summary": "En Colombia, más de 32 millones de personas realizan cuidado no remunerado; por eso se implementó una política pública que apoyara a quienes lo hacen.",
+        "link": "https://www.eltiempo.com/colombia/barranquilla/baranoa-primer-municipio-del-atlantico-en-poner-en-marcha-el-sistema-local-del-cuidado-un-modelo-para-dar-apoyo-a-quienes-realizan-esta-labor-3535218",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:46.470608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "cb919b803ee36b829911ed039db4f1784f21146d9d2e4b65d28df44697d96d60",
+        "title": "Avión de American Airlines aterrizó en aeropuerto de Medellín con presunto agujero de bala: viajaba desde Miami, Estados Unidos",
+        "summary": "Autoridades adelantan investigaciones para determinar las causas oficiales de la perforación que encontraron al momento de la inspección.",
+        "link": "https://www.eltiempo.com/colombia/otras-ciudades/avion-de-american-airlines-que-volaba-desde-estados-unidos-aterrizo-en-aeropuerto-de-medellin-con-un-presunto-agujero-de-bala-esto-es-lo-que-se-sabe-3535208",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:46.470682+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "625e8f4ca91f43aa78e9fa49a65aff2f9f5a3f3cb76cf5fc96a94d9f6c301a1e",
+        "title": "La verdad detrás del polémico video hecho con IA que cosifica a las mujeres de Medellín y otras ciudades de Colombia: indignación en redes sociales",
+        "summary": "La investigación de un experto reveló una operación masiva desde Frankfurt que usa IA para generar este tipo de videos. Hay otras ciudades afectadas.",
+        "link": "https://www.eltiempo.com/colombia/medellin/la-verdad-detras-del-polemico-video-hecho-con-ia-que-cosifica-a-las-mujeres-y-esta-danando-la-reputacion-de-medellin-3535152",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:46.470814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8258668,
+          52.4760892
+        ]
+      },
+      "properties": {
+        "id_hash": "f37ccaa3d18bb8f3d96472cec9bbf5ac9d65456666e422f7f42b3490a19fa56a",
+        "title": "¿Qué hay detrás del robo a un carro de valores en Cauca?: los ladrones se llevaron $ 12 millones, además de armas de dotación; ¿quién era la víctima?",
+        "summary": "La camioneta de valores se movilizaba desde El Bordo con destino a Popayán, cuando fue interceptada por hombres armados que cometieron el asalto.",
+        "link": "https://www.eltiempo.com/colombia/cali/que-hay-detras-del-robo-de-carro-de-valores-en-cauca-los-ladrones-se-llevaron-12-millones-ademas-de-armas-de-dotacion-quien-era-la-victima-3535150",
+        "severity": 0,
+        "scraped_at": "2026-02-25T02:48:48.063342+00:00"
+      }
+    }
+  ]
+}

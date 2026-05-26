@@ -1,0 +1,1463 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "ab242c22e9b19972099b0e458d436f23260092aa5cb98c251d0383557fa16509",
+        "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+        "summary": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon.",
+        "link": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:43.085348+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.602191,
+          39.6823264
+        ]
+      },
+      "properties": {
+        "id_hash": "de939459b79f8aecbb7fca8437c95941502c9a7c665b277f9377e3565a2fc430",
+        "title": "Trump to give primetime address on war as questions swirl over his next move",
+        "summary": "The US president finds himself under growing pressure at home to avoid a protracted conflict.",
+        "link": "https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:44.524177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.315398,
+          -27.9687454
+        ]
+      },
+      "properties": {
+        "id_hash": "e142fb86efa9b5830ae637bdc505795dac8acb5f79b8baff10cb308d9c484ff1",
+        "title": "Explosions at Burundi ammunition depot kill civilians, witnesses say",
+        "summary": "Powerful blasts destroyed homes and sparked panic in the city of Bujumbura on Tuesday night.",
+        "link": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:46.774342+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8444985,
+          18.2612839
+        ]
+      },
+      "properties": {
+        "id_hash": "9ef15ca804ecda5d82cae7300e0e53ac8fcc5d7da530f954128a8b77bcd7031e",
+        "title": "South African army arrive in crime hotspots to help tackle gangs",
+        "summary": "The army has been deployed to five of South Africa's nine provinces for a year-long operation.",
+        "link": "https://www.bbc.com/news/articles/cx2e78yk09no?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:01:48.122612+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "d9109fe1894e85e35fe67ffe46b686ed78e328997733a7ca774abd5055568077",
+        "title": "Iran war economic shocks will last 'months', says Australia's PM",
+        "summary": "Anthony Albanese used a rare TV address to tell Australians that the \"months ahead may not be easy\" amid the global effects of the war.",
+        "link": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:48.122724+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "40b8f3e2b948da976d3c92f23b3ec1c7c533899bc75a2825a526dc556e4d02fd",
+        "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
+        "summary": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
+        "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:48.122849+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "30e78ec74e2ff7c71cfa06da32db6a30f41e9eb801836d07315b0290a505b574",
+        "title": "Thousands lose their jobs in deep cuts at tech giant Oracle",
+        "summary": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.",
+        "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:01:48.122884+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7807254,
+          38.420599
+        ]
+      },
+      "properties": {
+        "id_hash": "ee77402f3cb8ba9e823c2c619d0ed57f3f5d8b8827404cff603490adcc9e6cea",
+        "title": "Judge temporarily halts construction of Trump's White House ballroom",
+        "summary": "The Republican-appointed judge ruled that Trump was a \"steward\" of the White House, not the owner.",
+        "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:49.453642+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "0a84bdaa620e3877aaad87c5aa722ee01ea35a1b47893184c6f08e99684114ef",
+        "title": "'You're no longer my sister' - rows erupt as war divides Iranian families",
+        "summary": "People in Iran describe angry scenes and tense relationships as rifts open up over the war.",
+        "link": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:49.453754+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "3d09e7859a7e024e1671e7c870c49b31685327c24db9f6c220f0a5b7c51353fb",
+        "title": "China is trying to play peacemaker in the Iran war - will it work?",
+        "summary": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
+        "link": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:49.453790+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "90c27f69524ba8eb4a551bbe194f877e3df43878d9d2c7731b2ef08ec6c44afb",
+        "title": "Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war",
+        "summary": "Iran's strikes on Gulf states have been especially hard for migrants who have long supported these economies to lift their families back home from poverty.",
+        "link": "https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&at_campaign=rss",
+        "severity": 4,
+        "scraped_at": "2026-04-02T02:01:49.453896+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "24e84e834722a512b8fc5f9595e0be18118fbe2f5aa4b2ef7672c42e028fc5b4",
+        "title": "How Pakistan won over Trump to become an unlikely mediator in the Iran war",
+        "summary": "Pakistan's role as intermediary in this conflict took many by surprise. But perhaps it shouldn't have.",
+        "link": "https://www.bbc.com/news/articles/cy91vrzxn34o?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:49.453947+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "35973f15c7c41a9016ccd98e0760caef114ba53b43631115711bbeef9002efa3",
+        "title": "Hundreds in Beirut mourn journalists killed in Israeli strike",
+        "summary": "BBC reports from the funerals of three journalists killed by a targeted attack in southern Lebanon.",
+        "link": "https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss",
+        "severity": 6,
+        "scraped_at": "2026-04-02T02:01:49.454093+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "2805fe1801852bed7d8cb44c3528d6335129f5b7aa4d01c3debfe22e03d73cad",
+        "title": "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’",
+        "summary": "Iran denies seeking a truce and keeps up counterattacks, as US-Israeli raids cause deaths and damage across the country.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
+        "severity": 4,
+        "scraped_at": "2026-04-02T02:01:57.428397+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1413424,
+          39.9779039
+        ]
+      },
+      "properties": {
+        "id_hash": "64db8620c41d7e4fe0d8d9386900df987f8cc717d4d75e2dc63c001e2dcf4bdc",
+        "title": "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning triggered",
+        "summary": "The ​epicentre of the ⁠earthquake was about ⁠120km (75 miles) from Ternate, in Indonesia&#039;s North Maluku ‌province.",
+        "link": "https://www.aljazeera.com/news/2026/4/1/magnitude-7-4-quake-hits-off-indonesias-ternate-tsunami-warning-triggered?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:58.716860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "e6b5636671ebeb22f5361e1ef9420924602659ba738619ffc98a2a4e297c80c2",
+        "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
+        "summary": "US has exerted growing influence over the Venezuelan government after abducting former President Nicolas Maduro.",
+        "link": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:01:58.717074+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "ebe33caed747f75542b368b381a78b4ab7ec30c6cc6afb5a7d4a18e7030ce634",
+        "title": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
+        "summary": "Astronauts have boarded NASA’s Orion capsule as they prepare for the first crewed lunar mission in more than 50 years.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:58.717124+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "767c902397a5c4572e2221b5ba5354d7e93fb1348745128fbf027e83e9eaa66b",
+        "title": "Smoke and embers seen over Iran’s Isfahan after strike",
+        "summary": "Video captured a massive column of smoke and burning embers towering over Isfahan, Iran following a US-Israeli strike.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:58.717188+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "9fd91d082c2556a01c2de958fb776148963f29236ca42a80e455db1ef8d7d8d4",
+        "title": "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public",
+        "summary": "In open letter, Iran&#039;s President Masoud Pezeshkian urges people in US to see beyond &#039;flood of distortions&#039; as war rages.",
+        "link": "https://www.aljazeera.com/news/2026/4/1/which-interests-being-served-by-war-irans-pezeshkian-asks-us-public?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:58.717311+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1834,
+          -1.8312
+        ]
+      },
+      "properties": {
+        "id_hash": "6e8925b9f2fd53e0329e5277f61d577d85e6a1fa2ba2147b9b91e7d081b193a5",
+        "title": "Ecuador claims 28% drop in homicides amid concerns over anti-crime campaign",
+        "summary": "President Daniel Noboa has led a hardline effort against local criminal networks, including military operations with US.",
+        "link": "https://www.aljazeera.com/news/2026/4/1/ecuador-claims-28-drop-in-homicides-amid-concerns-over-anti-crime-campaign?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:01:58.717349+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9324519,
+          -3.426449
+        ]
+      },
+      "properties": {
+        "id_hash": "cdef9935dd74e94f64e5f4f96e80f9581aaab443b7c09c11bb83e81207dcd6bf",
+        "title": "Burundi says at least 13 killed, dozens injured in military base blast",
+        "summary": "Army spokesperson says houses, buildings, vehicles ​and military equipment were destroyed in ammunition depot blast.",
+        "link": "https://www.aljazeera.com/news/2026/4/1/burundi-says-at-least-13-killed-dozens-injured-in-military-base-blast?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:59.769911+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "2c5c0d63090d2fa757b5378d4f575220196b299660e0dc1e24e5f9cf87cad910",
+        "title": "Central Israel hit by one of Iran’s largest missile barrages in weeks",
+        "summary": "One of Iran’s largest missile barrages in weeks injured at least 14 people and caused damage across several Israel.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/central-israel-hit-by-one-of-irans-largest-missile-barrages-in-weeks?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:01:59.770086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "4caad45199d59a9c88315c08e127969f33d27ff4d4b56fd11f28ae73e713978a",
+        "title": "Palestinians in West Bank protest, strike against Israeli death penalty law",
+        "summary": "Palestinian Authority President Mahmoud Abbas&#039;s Fatah party had called for the strike.",
+        "link": "https://www.aljazeera.com/news/2026/4/1/palestinians-in-west-bank-protest-strike-against-israeli-death-penalty-law?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:59.770125+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "9b49b96c8cb6362656572bfdad8631b9f2554ee5e95f3bac9f7f6f83c1c71ab3",
+        "title": "Why Iran says its universities are being targeted",
+        "summary": "Iran reportedly follows through on threat on American universities, after attacks on two Iranian research universities.",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/4/1/aje-onl-tt_irn_scholasticide_av_v3-010426?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:01:59.770175+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1749775,
+          33.0955793
+        ]
+      },
+      "properties": {
+        "id_hash": "2f6a435c08526beccfe12debd7c222e411d05bb52034d0ff86ee9c7f2a1259ff",
+        "title": "Iraq coach says World Cup can help ‘change perception’ of country",
+        "summary": "Over those past four decades, Iraq has faced a number of crises, including wars and separatist movements.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iraq-coach-says-world-cup-can-help-change-perception-of-country?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:01.075965+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "51128f8d0b535e7998c1a77d663dd0a20edba8fcf1d47a2afa31c9042309518c",
+        "title": "Iran authorities await war ‘victory’ as supporters mark 1979 anniversary",
+        "summary": "Officials, government supporters take to streets to mark Islamic Republic Day, even as US, Israel continue bombing.",
+        "link": "https://www.aljazeera.com/news/2026/4/1/iran-authorities-await-war-victory-as-supporters-mark-1979-anniversary?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:01.076094+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "90826d6ed02f5aefa41bceade6d60d6140a7ac51822b4dbcf47c2306f07b7f77",
+        "title": "News outlets falsely report Somaliland called for extradition of Ilhan Omar",
+        "summary": "<p>Reports, based on X post from unofficial account, follow JD Vance’s accusations and threats of finding ‘legal remedies’</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>Several news outlets have falsely reported that Somaliland’s government called for the extradition of <a href=\"https://www.theguardian.com/us-news/ilhan-omar\">Ilhan Omar</a>, basing their stories on a post from an X account that does not represent the state despite its claims to the contrary.</p><p>Fox News, the New York Post, Sinclair Broadcast Group’s the National News Desk and the Independent ran stories on the US representative. The reports centred on a post by @RepOfSomaliland in reaction to claims by <a href=\"https://www.theguardian.com/us-news/jd-vance\">JD Vance</a> that Omar had committed immigration fraud, which echoed prior allegations against the Somali-born Minnesota Democrat that she has vehemently denied.</p> <a href=\"https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:01.826551+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8481081,
+          45.7821579
+        ]
+      },
+      "properties": {
+        "id_hash": "804e9d7a13f2772a832da5d621935f99c6aec324aaf0c418cf1d9280e776f361",
+        "title": "Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas",
+        "summary": "<ul><li><p>Football federation president on the run with wife and son</p></li><li><p>Conviction in absentia of wide-ranging corruption charges</p></li></ul><p>Authorities in Congo-Brazzaville have applied to Interpol for an international arrest warrant against Jean-Guy Blaise Mayolas, the president of the country’s football federation, Fecofoot, after he was convicted of embezzling $1.1m in Fifa funds.</p><p>Mayolas is on the run with his wife and son after they were all sentenced to life imprisonment this month for embezzling funds provided by world football’s governing body as part of its Covid-19 relief plan in February 2021. As <a href=\"https://www.theguardian.com/football/2025/jul/09/head-of-football-in-republic-of-the-congo-accused-of-embezzling-13m-of-fifa-funds\">the Guardian revealed</a> last year, that included almost $500,000 earmarked for the Congo women’s team.</p> <a href=\"https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fifa-interpol-arrest-warrant\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fifa-interpol-arrest-warrant",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:05.327838+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.12456,
+          47.59397
+        ]
+      },
+      "properties": {
+        "id_hash": "17e8751a2fc5fedd74d440010fba18fb625559184d88707dc04dd20f224038b7",
+        "title": "At least 70 people killed and 30 injured in Haiti gang attack",
+        "summary": "<p>Nearly 6,000 people forced to flee, human rights group says, as it criticises ‘abandonment’ from authorities</p><p>At least 70 people have been killed and 30 injured during an attack in Haiti’s breadbasket Artibonite region, significantly more than official estimates, a human rights group has said.</p><p>Police initially reported 16 dead and 10 injured, while a preliminary report from civil protection authorities suggested 17 had died and 19 were wounded.</p> <a href=\"https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate",
+        "severity": 4,
+        "scraped_at": "2026-04-02T02:02:06.442112+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1413424,
+          39.9779039
+        ]
+      },
+      "properties": {
+        "id_hash": "7ea72b1363e394e1bc9d1fcda883fe65f79687283331cc85086f0b91e397684a",
+        "title": "Magnitude 7.4 earthquake strikes in Indonesia, sparking tsunami alert",
+        "summary": "<p>The quake had depth of 35km and its epicentre was 127km (79 miles) west-north-west of Ternate in Northern Molucca Sea region</p><p>A <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000slss/executive\">magnitude 7.4 earthquake</a> has struck the Northern Molucca Sea region in Indonesia, the United States Geological Survey (USGS) said.</p><p>The quake, which hit early on Thursday local time, had depth of 35km and its epicentre was 127km (79 miles) west-northwest of Ternate, Indonesia, the USGS said.</p> <a href=\"https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:07.256470+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "a4f788aee4103acbc3c26bf4abb6d638e27800615ef9c6ee415f64a69f82f8f9",
+        "title": "Asia ramps up use of dirty fuels to cover energy shortfall triggered by Iran war",
+        "summary": "<p>South Korea will delay the shutdown of coal-fired plants, while the Philippines also plans to boost the output of its coal-burning plants</p><p>Governments across Asia are ramping up their use of coal, the dirtiest fossil fuel, as they try to cover huge energy shortfalls triggered by the US-Israel war on Iran.</p><p>The move has triggered warnings from climate experts who point to coal’s devastating environmental impact, and say the energy crisis should be a wake up call for governments to invest in renewables, which can offer a more stable supply that is not exposed to price shocks.</p> <a href=\"https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:07.256689+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6146019,
+          53.8129133
+        ]
+      },
+      "properties": {
+        "id_hash": "df29be8a6d36bcc231a91e9135d8751c4e598055e670f58e4bd9a1b4675528b5",
+        "title": "Molly the border collie rescued after a week waiting for injured owner in New Zealand’s remote backcountry",
+        "summary": "<p>A rescue mission involving volunteer helicopter crew and public donations ended in joy after Molly was located and brought home </p><p>A spot of furry black and white appears among the jagged rocks of New Zealand’s alpine backcountry. It is Molly the border collie, sitting near the foot of a waterfall where she had been separated from her owner one week earlier.</p><p>Molly was rescued on Tuesday after an avalanche of donations from the public funded a volunteer team made up of former helicopter pilots and crew to mount a search in the wilderness.</p> <a href=\"https://www.theguardian.com/world/2026/apr/01/molly-border-collie-rescued-new-zealand\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/apr/01/molly-border-collie-rescued-new-zealand",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:08.712781+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "14a7cf25679530b08f2e4786333b4a67259295d96bbf9afc6d03548fc86b55b3",
+        "title": "Track Australia’s fuel prices, service station outages and shipments in charts",
+        "summary": "<p>Check how much petrol prices have risen since the US and Israel’s war on Iran began in late February </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Hundreds of service stations across Australia have run empty, fuel prices are elevated and oil shipments have been cancelled.</p><p>Australia is battling a fuel crises as Iran’s closure of the strait of Hormuz continues to bite. The federal government has <a href=\"https://www.theguardian.com/australia-news/2026/mar/13/australia-to-release-nearly-20-of-fuel-stockpile-as-bowen-insists-country-nowhere-near-running-out\">released</a> fuel reserves, cut fuel excise taxes and rolled out a <a href=\"https://www.theguardian.com/australia-news/2026/mar/30/fuel-crisis-australia-government-measures-excise-explained-petrol-prices-cheaper\">national fuel security plan</a>.</p> <a href=\"https://www.theguardian.com/australia-news/2026/apr/01/australia-fuel-crisis-petrol-prices-graphs\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/01/australia-fuel-crisis-petrol-prices-graphs",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:08.713141+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9758855,
+          41.2205516
+        ]
+      },
+      "properties": {
+        "id_hash": "bb6a0151e386e274b63ea4ce48c30b6b9fab3d9149952e7dd6eea414dbeca7ef",
+        "title": "Alleged Bondi terrorist Naveed Akram denied suppression order over identities of family members",
+        "summary": "<p>Lawyers for accused had argued names of family members should be suppressed due to fears for their mental and physical safety</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/apr/02/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-easter-travel-press-club-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The alleged Bondi attacker has been denied a suppression order over his family member’s names and home and work addresses after a collective of media organisations won a challenge against the bid.</p><p>In the Downing Centre local court on Thursday, judge Hugh Donnelly decided to<strong> </strong>deny the request for a 40-year suppression order, ending an interim suppression order that was granted for Naveed Akram’s mother, brother and sister in early March which banned the publication of their names and addresses.</p> <a href=\"https://www.theguardian.com/australia-news/2026/apr/02/alleged-bondi-terrorist-naveed-akram-denied-suppression-order-over-identities-of-family-members-ntwnfb\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/02/alleged-bondi-terrorist-naveed-akram-denied-suppression-order-over-identities-of-family-members-ntwnfb",
+        "severity": 4,
+        "scraped_at": "2026-04-02T02:02:10.277758+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5147669,
+          54.2359207
+        ]
+      },
+      "properties": {
+        "id_hash": "0130ab1adeaf0d8c21d9779d6143e46aaa3b83dae94c7316a656f7fbab185e36",
+        "title": "Man accused of plotting WA terror attack believed assault he was planning would be worse than Bondi beach shootings, court hears",
+        "summary": "<p>Defence lawyer, former federal attorney general Christian Porter, says accused Jayson Joseph Michaels was ‘pretender full of big talk’ </p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/apr/02/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-easter-travel-press-club-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A man accused of plotting a mass casualty terror attack targeting public buildings and places of worship believed his assault would be worse than the Bondi beach mass shootings, a court has heard.</p><p>Jayson Joseph Michaels detailed his alleged plan for a violent assault on Western Australia police headquarters, WA Parliament House and mosques in a diary, the Perth magistrates court was told during a failed bid for bail on Wednesday.</p> <a href=\"https://www.theguardian.com/australia-news/2026/apr/02/man-accused-of-plotting-wa-terror-attack-believed-assault-he-was-planning-would-be-worse-than-bondi-beach-shootings-court-hears-ntwnfb\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/02/man-accused-of-plotting-wa-terror-attack-believed-assault-he-was-planning-would-be-worse-than-bondi-beach-shootings-court-hears-ntwnfb",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:11.432145+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0704875,
+          59.3297497
+        ]
+      },
+      "properties": {
+        "id_hash": "a8a8c957d7bea5c9ee0874279677201cd98b90c8b6a772734b039b8caf5b7535",
+        "title": "Swedish PM offers deal that could see far-right allowed into government",
+        "summary": "<p>Party, which has neo-Nazi roots, will hold ‘important ministerial posts within immigration’ if four-party coalition wins in September</p><p>The Swedish prime minister, Ulf Kristersson, has said that he will allow the far-right Sweden Democrats (SD) into government for the first time – and give its members key ministerial posts – if his coalition wins the next general election.</p><p>Despite becoming Sweden’s second biggest political party after the Social Democrats in the last election, SD currently plays only a supporting role in the minority-run coalition.</p> <a href=\"https://www.theguardian.com/world/2026/apr/01/swedish-pm-offers-deal-that-could-see-far-right-allowed-into-government\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/apr/01/swedish-pm-offers-deal-that-could-see-far-right-allowed-into-government",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:12.826343+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "35d3e4a3737a28b6a4ca9e0fca4dea10c2bc61d145c888209375028c83b05749",
+        "title": "Starmer calls for ‘ambitious’ new UK-EU ties as Trump threatens to quit Nato",
+        "summary": "<p>PM to focus on European defence and economic partnership for ‘dangerous world’, in pivot away from US</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>The UK will seek an even deeper partnership with the EU because of the instability wreaked by Donald Trump’s war with Iran, Keir Starmer has said, adding that the moment called for a more ambitious deal with Brussels to strengthen trade and defence.</p><p>His comments came as the US president again said he was <a href=\"https://www.theguardian.com/world/2026/apr/01/trump-says-he-is-absolutely-considering-withdrawing-us-from-nato\">considering pulling the US out of Nato</a>, which he described as a “paper tiger”. Trump has frequently lambasted the UK and European nations for failing to support the US-Israeli strikes on Iran, and <a href=\"https://www.theguardian.com/world/2026/mar/31/uk-troops-gulf-donald-trump-jibes-british-military-involvement\">criticised their militaries</a>.</p> <a href=\"https://www.theguardian.com/world/2026/apr/01/uk-needs-ambitious-new-eu-ties-amid-iran-war-starmer-says\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/apr/01/uk-needs-ambitious-new-eu-ties-amid-iran-war-starmer-says",
+        "severity": 4,
+        "scraped_at": "2026-04-02T02:02:12.826535+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.747185,
+          33.6123265
+        ]
+      },
+      "properties": {
+        "id_hash": "d049793a307c5c71e977ca55c4c26ab2208c22241651621d404935e388179f6b",
+        "title": "High times or low blows? Experts fail to clear air over German drug legalisation",
+        "summary": "<p>Cannabis policy still divisive two years in, with SPD hailing it while CDU minister says it is risk to young people’s health</p><p>It was a landmark piece of legislation passed by Germany’s previous, centre-left-led government: a measure that legalised the <a href=\"https://viewer.gutools.co.uk/world/2024/apr/01/germany-legal-cannabis-weed-laws-personal-use\">personal recreational use of cannabis</a> for over-18s despite warnings from critics it would cause a steep rise in the drug’s use, including by teenagers, and boost criminal gangs.</p><p>Two years on, controversy over the move has still not been stubbed out, with critics and proponents at odds over its impact on consumption, youth welfare and organised crime.</p> <a href=\"https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:14.232755+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "cc9ccf1c22c19401ae5ea4cee5e3df56c1516c842439e5f16aab2466940b3855",
+        "title": "Two dead and one missing after trying to cross Channel to UK",
+        "summary": "<p>First fatal incident this year occurred hours after £16.2m ‘stop the boats’ deal agreed between Britain and France</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/apr/01/zelenskyy-trump-putin-ukraine-russia-war-easter-ceasefire-iran-europe-latest-news-updates\">Europe live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>Two people have died and another is missing after trying to cross the Channel from France to the UK on Wednesday morning. It is the first fatal incident in the Channel this year.</p><p>The deaths occurred just hours after an interim £16.2m <a href=\"https://www.theguardian.com/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches\">“stop the boats” deal</a> was agreed between the UK and France which will be in place until May. Negotiations will continue for a longer-term deal to replace the previous three-year deal, which expired on Tuesday. According to reports, the home secretary, Shabana Mahmood, is trying to secure a “payment by results” agreement to reduce small boat crossings.</p> <a href=\"https://www.theguardian.com/uk-news/2026/apr/01/dead-missing-after-trying-to-cross-channel-to-uk\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/uk-news/2026/apr/01/dead-missing-after-trying-to-cross-channel-to-uk",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:14.233007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "6f908c38e345bb244410e334de58f5312c333e7858d28f15c641aca621d71c9c",
+        "title": "Italian coastguard recovers 19 bodies from boat in sea near Lampedusa",
+        "summary": "<p>Fifty-eight other people found alive during rescue involving inflatable craft in early hours of Wednesday</p><p>The bodies of 19 people have been recovered from an inflatable boat south of the island of Lampedusa by the Italian coastguard, a spokesperson told AFP.</p><p>Fifty-eight other people, including five children, were found alive during the rescue in the early hours of Wednesday and transported to Lampedusa by the coastguard, according to Roberto D’Arrigo.</p> <a href=\"https://www.theguardian.com/world/2026/apr/01/italian-coastguard-recovers-bodies-from-inflatable-boat-off-island-of-lampedusa\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/apr/01/italian-coastguard-recovers-bodies-from-inflatable-boat-off-island-of-lampedusa",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:14.233096+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "91418642101482f834e5652c9017e8317bb97145610a6f2dfd758addbbde09e9",
+        "title": "Middle East crisis live: Trump says US close to ‘finishing the job’ in Iran during prime-time address",
+        "summary": "<p>President claims that Iran was ‘right at the doorstep’ of gaining a nuclear weapon as he faces falling poll numbers and global energy crisis </p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/apr/01/trump-says-he-is-absolutely-considering-withdrawing-us-from-nato\">Trump says he is ‘absolutely’ considering withdrawing US from Nato</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/apr/01/israel-hits-iran-attacks-killed-senior-hezbollah-commander\">Israel hits Iran with waves of attacks and says it killed top Hezbollah commander</a></p></li></ul><p><strong>Trump</strong> has claimed that <strong>Iran</strong> was “right at the doorstep” of <strong>gaining a nuclear weapon</strong>.</p><p>Earlier on Wednesday the president said he did not care about Iran’s stock of <strong>highly enriched uranium</strong> (HEU), arguing it was deep underground and could be monitored by satellite.</p><p>From the very beginning my campaign for president in 2015, I said I would never allow Iran to have a nuclear weapon. This regime has been chanting death to America, death to Israel.</p> <a href=\"https://www.theguardian.com/world/live/2026/apr/02/middle-east-crisis-live-trump-prime-time-address-white-house-iran-war-israel-strait-hormuz\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/live/2026/apr/02/middle-east-crisis-live-trump-prime-time-address-white-house-iran-war-israel-strait-hormuz",
+        "severity": 6,
+        "scraped_at": "2026-04-02T02:02:14.233213+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "234f0d732d89713dcb49446f4919cfde8c578a2f322fca126161fdeaec496b50",
+        "title": "Top Iranian official injured in strike on Tehran – as it happened",
+        "summary": "<p><strong>This liveblog is closed, please follow </strong><a href=\"https://www.theguardian.com/world/live/2026/apr/02/middle-east-crisis-live-trump-prime-time-address-white-house-iran-war-israel-strait-hormuz\"><strong>our new liveblog here</strong></a> </p><p><strong>Houthi forces in <a href=\"https://www.theguardian.com/world/yemen\">Yemen</a> have claimed responsibility for a missile attack on southern Israel this morning, saying it was a joint operation with Iran and Hezbollah.</strong></p><p>In a statement, the Houthi movement said it carried out its third missile attack in the conflict “in conjunction with Iran and Hezbollah in Lebanon”.</p> <a href=\"https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship",
+        "severity": 6,
+        "scraped_at": "2026-04-02T02:02:14.233299+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "32e31b4a557db18131f624b61276f6572496b11b4aa541d088a5c892b1f38ed5",
+        "title": "Israel hits Iran with waves of attacks and says it killed top Hezbollah commander",
+        "summary": "<p>War shows little sign of easing despite Donald Trump claiming Iranian leadership ‘just asked’ for ceasefire</p><ul><li><p><a href=\"https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship\">Middle East crisis – live updates</a></p></li></ul><p>Israel unleashed two waves of attacks on Tehran and said it had killed a senior Hezbollah commander on Wednesday with little sign of the war easing up despite Donald Trump repeating a claim that Iran’s leadership was seeking a ceasefire.</p><p>The US president, writing on social media, said that Iran’s president had “just asked” for a ceasefire and that American troops would be “out of Iran pretty quickly” as he sought to extricate the US from the war. He indicated that he was not concerned about leaving Iran’s stockpile of highly enriched uranium (HEU) – often cited as a justification for the war - in its presumed underground hiding place, arguing it could be monitored by satellite.</p> <a href=\"https://www.theguardian.com/world/2026/apr/01/israel-hits-iran-attacks-killed-senior-hezbollah-commander\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/apr/01/israel-hits-iran-attacks-killed-senior-hezbollah-commander",
+        "severity": 6,
+        "scraped_at": "2026-04-02T02:02:14.233400+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "f8defa0d48915ee21a316a8a92022002fd44393adf294f33a98b85e166f1470d",
+        "title": "Families condemn UK ‘impotence’ over UAE ‘social media misuse’ detentions",
+        "summary": "<p>Ministers accused of being too fearful of offending Emirates to help Britons detained for sharing images of war</p><ul><li><p><a href=\"https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship\">Middle East crisis live – latest updates</a></p></li></ul><p>The families of UK citizens held in the United Arab Emirates over allegations that they shared images of the conflict with Iran have voiced frustration at the British government’s failure to help.</p><p>Several British citizens are among more than 100 foreign nationals who have been detained under draconian Emirate rules that outlaw publishing or sharing material that could “disturb public security”.</p> <a href=\"https://www.theguardian.com/world/2026/apr/01/uk-citizens-detained-uae-frustrated-government-intervention-iran-conflict\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/apr/01/uk-citizens-detained-uae-frustrated-government-intervention-iran-conflict",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:14.233489+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "0c264b674b49ee6d02d55b02640562ff4123ffe6624c0a9145f4dadf874ea4da",
+        "title": "Oil price falls and markets rally after Trump says Iran war over in ‘two to three weeks’",
+        "summary": "<p>US president’s claim that conflict is nearing end prompts 15% drop in Brent crude and stock market climb in Asia</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/01/oil-tumbles-stock-markets-gold-bonds-dollar-middle-east-war-manufacturing-factories-news-updates\">Business live – latest updates</a></p></li></ul><p>Oil prices tumbled and stock markets have rallied across the world after Donald Trump said <a href=\"https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship\">the war in Iran would end in “two to three weeks”.</a></p><p>Brent crude, the international benchmark for oil, fell as low as $98.35 a barrel on Wednesday, down more than 15% on the previous day and its lowest level in a week. It later recovered some ground, ending the day at $102.</p> <a href=\"https://www.theguardian.com/world/2026/apr/01/iran-war-oil-prices-trump-crude-stock-markets-business-us-israel-middle-east\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/apr/01/iran-war-oil-prices-trump-crude-stock-markets-business-us-israel-middle-east",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:14.233587+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "ffb43b5f1ca14e57167b0548d545d8bdaa3e638ccecf408cd7b93d67b86c2d53",
+        "title": "Britain to host 35 countries for strait of Hormuz talks, says Starmer",
+        "summary": "<p>US understood not to be invited directly to talks that will explore ways of reopening critical waterway</p><ul><li><p><a href=\"https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship\">Middle East crisis – live updates</a></p></li></ul><p>The UK will convene 35 countries – excluding the US – to explore ways to reopen the strait of Hormuz, the vital shipping route for oil and gas that has been blocked by Iran.</p><p>Keir Starmer, the prime minister, said the next phase of discussions in the joint British and French efforts to secure the waterway would be held on Thursday, with Yvette Cooper, the foreign secretary, alongside international leaders.</p> <a href=\"https://www.theguardian.com/world/2026/apr/01/hormuz-strait-talks-britain-starmer\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/apr/01/hormuz-strait-talks-britain-starmer",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:14.233897+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0001557,
+          -6.8233719
+        ]
+      },
+      "properties": {
+        "id_hash": "df37417096db80f44e5dd6d87a1c6bc9f3c1ed70bfc5dc25bc1c29c9e2d82740",
+        "title": "Resident doctors accuse Keir Starmer of sabotaging talks to end pay and jobs dispute",
+        "summary": "<p>British Medical Association leaders say PM’s threat to cut 1,000 new roles makes next week’s strike action more likely</p><p>Resident doctors have accused Keir Starmer of damaging the prospects of a deal to end their pay and jobs dispute by threatening to cut 1,000 new jobs for medics in the NHS.</p><p>The claim from the British Medical Association leaders came just before the Thursday deadline given by the prime minister for the union to accept the government’s final offer.</p> <a href=\"https://www.theguardian.com/society/2026/apr/01/resident-doctors-accuse-keir-starmer-of-sabotaging-talks-to-end-pay-and-jobs-dispute\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/society/2026/apr/01/resident-doctors-accuse-keir-starmer-of-sabotaging-talks-to-end-pay-and-jobs-dispute",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:15.754445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "f6cc1b3392e4d7fc9b1f9d139096ae2687a7e1a4c08a6871f12d8f6ad55a51d3",
+        "title": "UK food inflation ‘could hit 9%’, trade body warns as Reeves meets retail chiefs",
+        "summary": "<p>Discussion on how to ease impact from Iran war coincides with Food and Drink Federation almost tripling forecast</p><p>Food inflation could hit 9% in the UK this year even if the <a href=\"https://www.theguardian.com/world/strait-of-hormuz\">strait of Hormuz</a> opens within the next few weeks, figures suggest, as the Iran war pushes up energy prices.</p><p>The Food and Drink Federation (FDF), which represents 12,000 food and drink manufacturers, has predicted prices will rise by “at least” 9% by the end of 2026, almost tripling a forecast of 3.2% that was made before the Middle East conflict.</p> <a href=\"https://www.theguardian.com/business/2026/apr/01/uk-food-inflation-iran-war-drives-up-energy-prices\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/business/2026/apr/01/uk-food-inflation-iran-war-drives-up-energy-prices",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:15.754609+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "3a8719c670c2e964b0da491ea790337c19ed408aa268918acc60c416a6a2517b",
+        "title": "UK is most vulnerable European country to jet fuel shortages, Ryanair boss says",
+        "summary": "<p>Michael O’Leary says UK’s reliance on Kuwait for jet fuel supply amid Iran war exposes it to possible shortages</p><p>The UK is the most vulnerable country in Europe to potential jet fuel shortages as the Iran war throttles supplies from the Gulf, the boss of Ryanair has said.</p><p>Michael O’Leary, the chief executive of the budget airline, said Britain would be the most exposed to <a href=\"https://www.theguardian.com/business/2026/mar/19/europe-biggest-airlines-say-fuel-price-spike-caused-by-iran-war-will-drive-up-fares\">jet fuel shortages</a> because it relies on Kuwait for about 25% of its supply.</p> <a href=\"https://www.theguardian.com/business/2026/apr/01/uk-is-most-vulnerable-european-country-to-jet-fuel-shortages-ryanair-boss-says\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/business/2026/apr/01/uk-is-most-vulnerable-european-country-to-jet-fuel-shortages-ryanair-boss-says",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:15.754748+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8300519,
+          46.2019559
+        ]
+      },
+      "properties": {
+        "id_hash": "64e281a64ee857cadb2cb56cf75c4e4dfccb0742bbcc82761c393dc85dbcef37",
+        "title": "Top Senate Democrat says ‘House Republicans caved’ as deal to fund DHS moves forward – as it happened",
+        "summary": "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/apr/01/republicans-dhs-funding-partial-shutdown\">Republican leaders agree to advance funding deal to end DHS shutdown</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email</a></p></li></ul><p>We’re starting to get pictures from outside the US supreme court ahead of oral arguments in Trump v Barbara, which will decide if the administration’s attempts to restrict birthright citizenship are unconstitutional.</p><p>Donald Trump has just arrived, and plans to listen to arguments at the court –&nbsp;the first time a sitting president has attended arguments.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/apr/01/donald-trump-supreme-court-birthright-citizenship-case-us-politics-latest-news-updates\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/live/2026/apr/01/donald-trump-supreme-court-birthright-citizenship-case-us-politics-latest-news-updates",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:17.590592+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.913718,
+          36.4228722
+        ]
+      },
+      "properties": {
+        "id_hash": "38bd2ae07ec65fde6f7080a75c27c0aab35346de2978c62f07c58bcb9c0506c2",
+        "title": "Death of Rohingya refugee left in parking lot by US border agents ruled a homicide",
+        "summary": "<p>Nurul Amin Shah, 56, who was visually impaired, was left outside Buffalo Tim Hortons on cold night and later died</p><p>Authorities have ruled that the death of Nurul Amin Shah, a 56-year-old Rohingya refugee from Myanmar who was left by immigration agents at a restaurant in Buffalo, was a <a href=\"https://www3.erie.gov/health/press/erie-county-provides-statement-regarding-medical-examiners-office-investigation-death-nurul\">homicide</a>.</p><p>Shah, who was visually impaired, died on 24 February, five days after US Border Patrol agents dropped him off in the parking lot of a Tim Hortons on a cold winter night without notifying his family or attorney.</p> <a href=\"https://www.theguardian.com/us-news/2026/apr/01/buffalo-refugee-border-patrol-homicide\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/apr/01/buffalo-refugee-border-patrol-homicide",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:19.090817+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "839a65b546180e4ff00b02e30028742fad133e4f5887a0b664924586dfbeba0f",
+        "title": "Trump pledges to 'finish the job' in Iran in national address",
+        "summary": "President Donald Trump defended US operations in Iran Wednesday night, pledging to “finish the job” as military objectives near completion. Speaking amid rising oil prices, volatile markets and fresh Iranian missile attacks, Trump outlined his timeline for ending the conflict and pressed allies to secure the Strait of Hormuz.",
+        "link": "https://www.france24.com/en/americas/20260402-trump-addresses-nation-on-iran-war",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:20.255327+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "de1cf7c2dab4ed776102a01fb1e810954f588babdfa1fd42e6d5c44beaf9fa36",
+        "title": "Trump to deliver 'important update' on Iran war in televised speech",
+        "summary": "Donald Trump will give an “important update” on the Iran war in a prime-time televised address to the American nation on Wednesday evening, which is expected to reiterate the president's timeline for rolling back US military operations in the region.",
+        "link": "https://www.france24.com/en/americas/20260401-trump-to-deliver-important-update-on-iran-war-in-televised-speech",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:20.255467+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2030286,
+          50.3303149
+        ]
+      },
+      "properties": {
+        "id_hash": "b6623f45b34139278f869a4b0c28866f9f6a8cebeec828bebe792aa3ea0d89d1",
+        "title": "'There's a certain romanticism to sending humans into space'",
+        "summary": "Speaking with FRANCE 24's Sharon Gaffney, Dr David Brown, Senior Research Fellow in the Astronomy and Astrophysics Group at Warwick University, hopes that the Artemis II mission \"is the start of a new era of human spaceflight\", adding that \"it is incredibly exciting and inspiring to see that this is still something that wa can do and something that people can aspire to do\".",
+        "link": "https://www.france24.com/en/tv-shows/a-propos/20260401-there-s-a-certain-romanticism-to-sending-humans-into-space",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:21.395236+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "id_hash": "20488ab7786ac754a2bc5cbe76b50bcc412a8b43e733fe32e74631739a0e7b69",
+        "title": "Trump administration lifts sanctions on Venezuela’s interim leader",
+        "summary": "The US has lifted sanctions on Delcy Rodriguez, Venezuela’s interim president, in a significant shift following the ouster of Nicolas Maduro. The move comes as relations between Washington and Caracas begin to thaw, with Rodriguez taking steps to open the country’s energy sector to US companies after assuming power earlier this year.",
+        "link": "https://www.france24.com/en/americas/20260401-us-lifts-sanctions-on-venezuela-interim-leader-delcy-rodriguez",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:21.395383+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8444985,
+          18.2612839
+        ]
+      },
+      "properties": {
+        "id_hash": "4e8c83835c2d6728231397b5cd254a98ae7988edfb6354568b1648d26691a2d8",
+        "title": "South Africa deploys military to Cape Town townships hit by crime",
+        "summary": "In tonight's edition, South African government ramps up its fight against crime with the deployment of soldiers in Cape Town. Also, DR Congo gets a chance at World Cup glory for the first time in over half a century. And top African leaders and changemakers came together for the international Climate Summit Change Now in Paris. We speak to one of them, Elizabeth Wathuti.",
+        "link": "https://www.france24.com/en/south-africa-deploys-military-to-cape-town-townships-hit-by-crime",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:22.366406+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.602191,
+          39.6823264
+        ]
+      },
+      "properties": {
+        "id_hash": "5f591288a51e33f33a5a7fa794a674ab8e924696fb4e3549f9a4780e3fd57a2a",
+        "title": "Trump attends birthright citizenship hearing at Supreme Court in historic first",
+        "summary": "In a historic first, Donald Trump became the first US sitting president to attend oral arguments at the Supreme Court on Wednesday as it weighed his bid to restrict birthright citizenship. During more than two hours of questioning, justices from across the ideological spectrum assessed the policy’s legality, indicating that the court may be poised to block a key aspect of Trump’s immigration agenda.",
+        "link": "https://www.france24.com/en/americas/20260401-trump-attends-birthright-citizenship-hearing-at-supreme-court-in-historic-first",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:23.260188+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "eb1b92f488571655303329e681b5eb76c283d5d2f4a297f83b0fadcae7acd441",
+        "title": "'It's a nightmare for Keir Starmer' as UK PM sees 'special relationship' with US unravel",
+        "summary": "UK Prime Minister Keir Starmer said on Wednesday that the global instability caused by the Iran war means Britain should pivot to focusing on closer economic and defence ties with Europe, ​following repeated criticism ‌from Trump. Quentin Peel, Associate Fellow on the Europe Programme at Chatham House, explains that the Iran war \"is likely to be doing more damage to the UK economy and therefore to Keir Starmer's political position than any other\".",
+        "link": "https://www.france24.com/en/it-s-a-nightmare-for-keir-starmer-as-uk-pm-sees-special-relationship-with-us-unravel",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:23.260376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "afdfc0e6d446012411e415a0403de1cfb712edcf58d2cb7fd71492b7d8d33408",
+        "title": "NATO 'doesn't really exist anymore other than on paper', experts say",
+        "summary": "US president Donald Trump has once again branded the NATO alliance a 'paper tiger' in an interview with Britain's Daily Telegraph, saying he had moved \"beyond reconsideration\" of U.S. membership. FRANCE 24's Brussels correspondent Dave Keating explains that \"Donald Trump has no intention of defending Europe if it is invaded by Russia\" adding that \"Trump is the only one who determines whether NATO is a 'paper tiger' or not\"",
+        "link": "https://www.france24.com/en/nato-doesn-t-really-exist-anymore-other-than-on-paper-experts-say",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:23.260428+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "d48e03c5ddab17633edcf7d832fcd16d38c358df7fc253f0b20378f750bfd411",
+        "title": "When the oil runs dry: What next for globalization as Asia bears brunt of Iran war?",
+        "summary": "Are we staring at globalization's biggest turning point since the end of the Cold War? With Asia feeling the pain of Donald Trump's war against Iran, with steadfast US allies like the Philippines forced to declare an energy emergency, there's the immediate chain reaction for the nations that manufacture a good part of the stuff we buy here in the West and the boomerang effect for the rest of the planet.",
+        "link": "https://www.france24.com/en/tv-shows/the-debate/20260401-when-the-oil-runs-dry-what-next-for-globalization-as-asia-bears-brunt-of-iran-war",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:23.260526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "504483bac9090697d3a559dfd6fb0fcca21bda68bdc8aab31dff855217286d56",
+        "title": "Bosnia celebrates second-ever World Cup qualification",
+        "summary": "Caption: #Bosnia qualified for its second #WorldCup ever after it won against four-time champion #Italy on April 3 in a penalty shootout. Tens of thousands of people let their joy known by celebrating until early morning.",
+        "link": "https://www.france24.com/en/video/20260401-bosnia-herzegovina-celebrates-second-ever-world-cup",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:23.260565+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883335,
+          46.603354
+        ]
+      },
+      "properties": {
+        "id_hash": "1e1f99bd4f1c61148965983c89242ab2d7d897af2c4730f59794b68bd9d3139c",
+        "title": "French Film Show: ‘Mrs’ lays bare bourgeois family tensions",
+        "summary": "The weight of tradition bears heavily on Marianne, the protagonist of the new film \"Mrs\", played by Mélanie Thierry as a seemingly perfect wife and mother. Film critic Manon Kerjean explains how director David Roux’s minimalist approach draws on the legacy of bourgeois drama master Claude Chabrol – and why Thierry’s performance carries the film.",
+        "link": "https://www.france24.com/en/tv-shows/arts24/20260401-french-film-show-mrs-lays-bare-bourgeois-family-tensions",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:26.000429+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "df4953ad9baa23e34353e1a38cfaaf8bb7c38e45340cec58796a9ceba9db0085",
+        "title": "Transatlantic rift widens as Trump lashes out at NATO",
+        "summary": "President Donald Trump has said he is strongly considering pulling the US out of NATO, ratcheting up his criticism of European allies and exposing a wider rift in the transatlantic alliance — this time over America's war alongside Israel against Iran.",
+        "link": "https://www.france24.com/en/video/20260401-transatlantic-rift-widens-as-trump-lashes-out-at-nato",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:26.000616+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "600e057017b70906ed41d262dd6de2015d6e809751bb6472f132a6d957d5824b",
+        "title": "Israel says will reduce French defence imports 'to zero'",
+        "summary": "Israel will reduce its military imports from France \"to zero\" in retaliation for French policies it deems hostile towards its interests, a defence ministry spokeswoman told AFP on Tuesday. According to the French parliament, Paris does not export weapons to Israel, but components to be used in defence systems or to be re-exported to third countries. FRANCE 24's Noga Tarnopolsky reports from Jerusalem.",
+        "link": "https://www.france24.com/en/video/20260401-israel-says-will-reduce-french-defence-imports-to-zero",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:26.000656+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "98a2b16077f8eb9af75aa18e7d3c2ae6fafa42b203575a63554b599294cecfb8",
+        "title": "Bedouins in Israel’s Negev desert face bomb shelter shortage",
+        "summary": "As Iranian and Hezbollah air strikes on Israel continue, tens of thousands of Bedouins living in the country’s southern Negev desert have no access to shelters. While some NGOs are attempting to install mobile shelters, they are primarily calling on the government to take action, denouncing \"discriminatory planning policies\".",
+        "link": "https://www.france24.com/en/tv-shows/the-observers/20260401-bedouins-israel-negev-desert-shortage-bomb-shelters",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:26.000716+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "8c4fa2dda326f9f6bc906350aed4df405f1ee9f20a1a50a2fabc5ce2a4683c8f",
+        "title": "Iran: Thousands of Prisoners at Risk",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              An external view of the destruction of buildings in Evin prison's northern premises after the Israeli strikes on June 23, 2025 in Tehran, Iran. Photo taken on July 1, 2025.&nbsp;\n                    © 2025 Majid Saeedi/Getty Images\n          \n    \n\n\n  \nThousands of detainees in Iran, including political prisoners and children, are at risk of injury and death from US and Israeli strikes, as well as atrocities by Iran’s authorities, including mass, secret, and arbitrary executions.&nbsp;Instead of releasing prisoners unconditionally or on humanitarian grounds, Iran’s authorities continue to carry out the arrests of real and perceived dissidents as well as arbitrary executions of political prisoners.&nbsp;UN member states should press Iran’s authorities to immediately release anyone arbitrarily detained, halt executions, and implement regulations that allow for the release or temporary leave of prisoners on humanitarian grounds. They should urge all parties to the conflict to respect international humanitarian law and prioritize the protection of civilians. &nbsp;<p>(Beirut) – Thousands of detainees in&nbsp;Iran, including political prisoners and children, are at risk of injury and death from&nbsp;US and&nbsp;Israelistrikes, as well as atrocities by Iran’s authorities, including mass, arbitrary, and secret executions, Human Rights Watch and Kurdistan Human Rights Network said today.&nbsp;</p><p>For decades, Iran’s authorities have carried out large-scale arbitrary detentions with impunity, detaining both real and perceived dissidents as well as debt&nbsp;prisoners. During the weeks preceding the start of the armed conflict on February 28, 2026, Iran’s authorities had&nbsp;carried out mass arbitrary detentions of tens of thousands of protesters, including children, as well as real and perceived dissidents, human rights defenders,&nbsp;lawyers, and&nbsp;medical workers. Many were held in secret and unofficial detention facilities run by security and intelligence bodies and subjected to enforced disappearances.&nbsp;</p><p>“Prisoners, including thousands of arbitrarily detained people in Iran, are facing dual threats, violence at the hands of authorities who have a track record of&nbsp;prison massacres and US and Israeli bombs,” said&nbsp;Bahar Saba, senior Iran researcher at Human Rights Watch. “Unable to seek safety, detainees, many of whom never should have been detained in the first place, are facing human rights violations, serious injury, and death.”</p><p>Human Rights Watch and Kurdistan Human Rights Network spoke with 12 people, including families of prisoners, human rights defenders, and informed sources with knowledge about several prisons, and reviewed reports by other human rights organizations, information shared on social media, official statements, and state media reports.</p><p>“We have no options,” said a prisoner whose statement was shared with the organizations. “Here, we can neither protect ourselves from danger nor have [access to] any shelters.” &nbsp;</p><p>Since the start of the conflict,&nbsp;detainees, their families, and&nbsp;human rights&nbsp;organizations have repeatedly&nbsp;called on Iran’s authorities to release prisoners, including on humanitarian grounds. While a number of detainees have been released, including after posting exorbitant&nbsp;bail, the authorities have&nbsp;refused to release all those arbitrarily detained, in particular political prisoners, and to grant other prisoners temporary humanitarian leave.&nbsp;</p><p>Instead, authorities continue to arrest&nbsp;activists, dissidents, members of ethnic and religious minorities, such as&nbsp;Kurds and&nbsp;Baha’is, and other people for&nbsp;allegedly taking footage or photographs of strikes and sending them to the media. On March 24, the police&nbsp;announced that 446 people had been arrested for “disturbing public opinion, creating fear and anxiety in society, undermining mental security, propaganda for the enemy, and inciting and organizing security-disrupting elements online.”&nbsp;</p><p>The authorities have also been carrying out executions, including on politically motivated charges, heightening&nbsp;fears of mass, arbitrary, and secret executions under the shadow of the war. At least eight men were arbitrarily executed on charges such as “espionage,” “armed rebellion against the state through membership in the People’s Mojahedin Organization of Iran,” and “waging war on God” between March 18 and 31.&nbsp;</p><p>Interviewees, including relatives of prisoners, told researchers about the serious threats those detained face from the US and Israel’s military strikes as well as gross human rights violations by Iran’s authorities.</p><p>“Prisoners in Evin have been hearing loud and terrifying explosions,” said the relative of a prisoner in the notorious Evin Prison. “They have felt them to have been very close, but their access is even more limited [than people outside] to know where the strikes are actually happening ... one of the nights when there were terrible explosions … at around 2:00 a.m., they could feel over 20 explosion shock waves in their ward in the span of an hour.”&nbsp;</p><p>Police stations and security facilities run by the Ministry of Intelligence and the Islamic Revolutionary Guards Corps (IRGC) have been among the&nbsp;targets hit by Israel and US forces. Some of these facilities are commonly known to hold detainees, in particular those arrested for politically motivated charges, often held incommunicado and in circumstances that amount to enforced disappearances.</p><p>Those detained are also facing deteriorating prison conditions in a system already known for&nbsp;poor conditions and systematic and&nbsp;deliberate denial of&nbsp;medical care to prisoners. Sources told the Kurdistan Human Rights Network and Human Rights Watch that since the start of the armed conflict there had been a drop in both the quantity and quality of food and that prisoners were denied access to medication and medical care outside of prison.&nbsp;</p><p>“The amount of food prisoners receive has dropped and so has its quality,” a source said. “Even those who have severe medical conditions are not transferred outside [prison] for medical care … prisoners are not even taken to the prison clinic.” &nbsp;</p><p>Prisoners who protest deteriorating and unsafe prison conditions are at risk of reprisals and violence. The organizations received information that in at least three prisons, security forces have used force, including lethal force, to quash protests by prisoners who fear for their safety and/or object to poor prison conditions. &nbsp;</p><p>Iranian authorities have also been making repeated threats of further atrocities to prevent and stifle any form of dissent. On March 10, Ahmadreza Radan, the commander of the Islamic Republic’s police forces, known as FARAJA,&nbsp;warned, “we will not deem anyone who takes to the streets at the will of the enemies as a protester or anything else, but as the enemy [itself] and will [thus] treat them in the same manner that we would treat the enemy.” He said that security forces had “their fingers on the triggers.” &nbsp;</p><p>The next day, the IRGC’s Intelligence Organization issued a&nbsp;statement warning that any protests would be faced “with [even] a harsher blow than that of January 8,” when Iranian authorities carried out massacres of protesters.</p><p>Iran’s domestic regulations provide for humanitarian release at times of crisis. A 1986 resolution by the Supreme Judicial Council allows for the conditional release or release on bail of prisoners during wartime emergencies. In addition, article 201 of Iran’s Prisons Regulations provides for the release of prisoners in certain circumstances, for example during other times of “crisis such as natural disasters, unforeseeable incidents, or outbreaks of dangerous infectious diseases.”&nbsp;</p><p>Under international humanitarian law, also known as the laws of war, prisons and detention facilities are presumptively civilian objects. Serious laws of war violations committed by individuals with criminal intent—that is, deliberately or recklessly—are war crimes.</p><p>UN member states should press Iran’s authorities to immediately release all individuals arbitrarily detained, halt all planned executions, and implement domestic regulations that allow for the release or temporary leave of prisoners on humanitarian grounds, the two organizations said. They should further urge all parties to the conflict to prioritize the protection of civilians.</p><p>“Instead of releasing prisoners, authorities are relentlessly arresting real and perceived dissidents and carrying out executions, once again putting on full display their absolute disregard for human life,” said Rebin Rahmani, a member of the broad of directors at Kurdistan Human Rights Network. “Many anxious families do not even know where their loved ones are being held as bombs and missiles hit different parts of cities on a daily basis.”</p>Risk of Death and Injuries Due to Airstrikes&nbsp;<p>Since February 28, Israel and the US have carried out thousands of strikes across Iran. According to reports by relatives of detainees, media, and human rights organizations, a number of strikes have targeted locations in proximity to prisons, including Evin Prison and the Greater Tehran Penitentiary,&nbsp;Isfahan Central Prison in Isfahan province, Mahabad Prison in West Azerbaijan province, and Zanjan Central Prison in Zanjan province, while at least one, Marivan Prison in Kurdistan province, is&nbsp;reported to have been damaged as a result of a strike.&nbsp;</p><p>Relatives of Lindsay Foreman and Craig Foreman, a British couple detained in Iran since January 2025, have&nbsp;reported that on February 28 a strike near Evin Prison resulted in shattered windows and plaster raining down from the ceiling of the ward in which they were being held.&nbsp;</p><p>An informed source told Human Rights Watch that prisoners in Zanjan Central Prison, where the arbitrarily detained human rights defender and Nobel Peace Prize laureate Narges Mohammadi is held, could also hear the sounds of airstrikes in the city and were terrified as they felt the explosion’s shock waves. On March 31, the Iranian Red Crecent&nbsp;said that its rescue teams had removed survivors from under the rubble after a strike on Zanjan’s Hossienieh Azam, which appears to be only several kilometers from the Zanjan Central Prison. According to information received by Human Rights Watch, Mohammadi’s health has been deteriorating in detention and&nbsp;she may have suffered a heart attack following denial of medical care.&nbsp;</p><p>A source with information about a prison in central Iran told the organizations, “The night when there was a strike nearby, everyone was terrified and the guards did nothing to reassure them.”&nbsp;</p><p>On March 13, the Kurdistan Human Rights Network&nbsp;raised concerns about the fate of detainees amid&nbsp;a wave of strikes on intelligence and security facilities across Kurdistan, Kermanshah, and West Azerbaijan provinces. One of the facilities reportedly struck was an IRGC-run intelligence center, Shahramfar base in Sanandaj, Kurdistan province. Based on extensive&nbsp;documentation by human rights organizations, the center has included a section used as a detention facility for decades.&nbsp;</p><p>An informed source, whose relative had once been held in Shahramfar, told Human Rights Watch that the detention center was a “terrifying facility” used to hold dissidents, and that at any given time, a group of concerned families would be standing outside to inquire about their detained loved ones. The source also said that there was no information about the fate and whereabouts of a friend who had been arrested during the protests and was subsequently held in Shahramfar. &nbsp;</p><p>During the Israel-Iran conflict in June 2025, Human Rights Watch documented an unlawful attack by the Israeli forces on Evin Prison, an&nbsp;apparent war crime. The attack resulted in the killing and injury of scores of civilians, including prisoners. Prior to the attack, Iran’s authorities refused to take measures to protect prisoners despite prisoners’&nbsp;repeated pleas with judicial, prosecutorial, and prison officials to release them or grant them humanitarian leave.</p><p>Those arbitrarily detained in Iran include thousands of prisoners held for exercising their human rights, including the rights to freedom of expression and peaceful assembly; people convicted following grossly unfair trials, which are&nbsp;systematic and widespread; and debt prisoners whose numbers are&nbsp;reported to be over ten thousand. Article 11 of the International Covenant on Civil and Political Rights prohibits the imprisonment of individuals who are unable to fulfill a contractual obligation.</p>Deteriorating Prison Conditions&nbsp;<p>Detainees, their families, and&nbsp;human rights organizations have also&nbsp;reported that the situation in prisons across the country, including in the provinces of Alborz, Fars, Gilan, Kermanshah, Lorestan, Qazvin, Qom, Razavi Khorasan, Tehran, West Azerbaijan, and Yazd, has been deteriorating. Prisoners face shortages of food and potable water, as well as limited access to basic necessities, medication, medical care, and visitation rights. Prison shops, where prisoners can buy goods such as food, are also reported to be facing shortages while their prices have significantly increased, so many prisoners can no longer afford them. &nbsp;</p><p>In a March 3 letter addressed to the head of the judiciary, the arbitrarily-detained human rights defender&nbsp;Reza Khandan&nbsp;wrotethat, “thousands of unlawfully detained prisoners are held in prisons without any reason, trapped under the threat of bombardments day and night, many services to prisoners have been cut off and if the war continues, shortages or [even] lack of food and hygiene [products] is foreseeable.”&nbsp;</p><p>One source with knowledge about a prison in western Iran said that prisoners whose medication for chronic illnesses is provided by their families will soon run out of medication if this situation continues, as families were prevented from visiting jailed loved ones and authorities had not distributed the items families had brought for the prisoners.&nbsp;</p><p>Another source with information about a facility in central Iran also said that they faced shortages of medication and that all “transfers to hospitals were cancelled … even a prisoner who fell seriously ill was not transferred outside [for medical care].”</p><p>Information received by the organizations from the Greater Tehran Central Penitentiary also points to a further deterioration of the facility’s already poor conditions, including overcrowding, reduction of food portions to half their regular size, and lack of access to potable water.  An informed source told the Kurdistan Human Rights Network that detainees arrested in connection with the protests were held in three halls in the Greater Tehran Central Penitentiary, each holding 250 to 300 people. Several detainees had been taken to the prison with serious injuries, including bullet wounds, and prisoners were held in insect-infested wards without access to adequate medical care, the source said.&nbsp;</p><p>Media and&nbsp;human rights organizations reported that prisoners in Ghezel Hesar Prison in Alborz province have started a hunger strike to protest the deteriorating conditions, particularly the lack of access to sufficient food and medical care.</p><p>Prisoners and their&nbsp;familieshave also reported restrictions imposed by the authorities on visitation rights and contact with the outside world, which has further compounded their anxiety. “They have not allowed any family visits since the start of the war,” said one source with knowledge about a prison in western Iran.&nbsp;</p><p>“Prisoners who are mothers are particularly anxious for their children outside,” another source said. &nbsp;</p>Risk of Atrocities, Including Mass Arbitrary, Secret, and Summary Executions&nbsp;<p>Since the start of the armed conflict on February 28, which came in the wake of the&nbsp;countrywide massacres of protesters and bystanders on January 8 and 9, Iran’s authorities have repeatedly threatened further atrocities. These threats are made by high-ranking commanders and state institutions that orchestrated the January massacres, and, as such, should be treated as serious and imminent.&nbsp;</p><p>Detainees, many of whom have been arrested in connection with recent protests and held&nbsp;incommunicado or subjected to enforced disappearances remain particularly vulnerable and at risk of&nbsp;torture and ill-treatment. On March 24, the Baha’i International Community&nbsp;reported that authorities subjected Peyvand Naimi, a young Baha’i man arrested on January 8 in Kerman, to torture, including beatings, denial of food and water, prolonged solitary confinement, and mock executions on two occasions to coerce him into making self-incriminating statements.&nbsp;</p><p>Based on reports from families of prisoners and human rights organizations, some detainees have been transferred to undisclosed locations, further heightening fears about their fate and safety. In some cases, authorities have refused to provide families with any information about the detainees’ fate and whereabouts, thus subjecting them to enforced disappearances. On March 3,&nbsp;human rights organizations and&nbsp;families of prisoners reported that detainees held in section 209 of Evin Prison, which is controlled by the Ministry of Intelligence, had been transferred to an undisclosed location.&nbsp;</p><p>An informed source told the Kurdistan Human Rights Network that detainees, both men and women, held in Section 2A of Evin Prison, which is controlled by the IRGC, were transferred to an IRGC base for several days following the start of the conflict. Some detainees were subsequently taken to an official prison, but the source had no information about the others.&nbsp;</p><p>Based on information reviewed by Human Rights Watch and the Kurdistan Human Rights Network, the authorities have also significantly increased the presence of security forces in prisons. An informed source with knowledge about a prison in central Iran said that three weeks into the war, senior prison officials told prisoners that prison guards had “pre-authorized shooting orders.”&nbsp;</p><p>The source said that in addition to regular prison guards, anti-riot forces were deployed to the prison and authorities had tripled the number of guards stationed in the prison’s watch towers and at entrances. Another source with information about a prison in western Iran said that the prison was filled with security forces and that armed guards with rifles were stationed on the prison roof.&nbsp;</p><p>There have also been reported crackdowns within Iran’s detention facilities.&nbsp;</p><p>On March 5 and 6, Kurdistan Human Rights Network reported that after a military strike in proximity to Mahabad Prison in West Azerbaijan province on March 3, security forces&nbsp;fired tear gas against prisoners who were scared and started protesting seeking to be released. Subsequently, 120 prisoners were&nbsp;transferred to the quarantine section of Miandoab Prison in the same province, where they were held in poor conditions without access to sufficient food.</p><p>Two Balochi human rights defenders who had spoken with families of prisoners, and other informed sources in Chabahar in Sistan and Balouchistan, said that security forces used force, including&nbsp;lethal force, after protest broke out in Chabahar Prison on March 18, reportedly killing and injuring several prisoners. The protests are&nbsp;reported to have started following several days without food.&nbsp;</p><p>Based on media&nbsp;reports, on March 2, following several strikes around the Greater Tehran Penitentiary, prisoners who attempted to leave their wards in fear were violently repressed. The strikes were&nbsp;reported to have resulted in shattered glasses and damage to walls.&nbsp;</p><p>Fears of mass, summary, secret, and arbitrary executions have also been increasing amid&nbsp;a significant escalation in the authorities’ use of the death penalty over the past years, particularly in 2025, including&nbsp;as a tool of political repression and an&nbsp;ongoing communications blackout that further hinders independent reporting.&nbsp;</p><p>On March 18, Mizan News Agency, owned and operated by Iran’s judiciary, announced that Kourosh Keyvani, a&nbsp;Swedish-Iranian dual national, had been executed for “intelligence cooperation and espionage in favor of the Israeli government.” Keyvani is reportedly&nbsp;the third man to be arbitrarily executed over allegations of espionage for or collaboration with Israel in 2026.&nbsp;At least 13 men were arbitrarily executed on similar charges in 2025, the vast majority after the 12-day armed conflict with Israel. &nbsp;</p><p>On March 19, Mizan News Agency&nbsp;announced that three people—the 19-year-old wrestling champion Saleh Mohammadi and two other young men, Saeed Davoudi and Mehdi Ghassemi—had been executed earlier in the day over allegations of involvement in the deaths of two members of security forces during the nationwide protests of December 2025 and January 2026. Their arbitrary executions were carried out following grossly unfair and summary proceedings that lasted just over two months, from the time of arrest to the implementation of sentences.&nbsp;</p><p>Human Rights Watch reviewed the verdict issued by a criminal court in Qom against Mohammadi and Davoudi, which shows that both defendants retracted their “confessions” in court saying they were extracted under torture, but the court dismissed their testimony without any investigation. Human Rights Watch received information that Mohammadi was held in stress positions and beaten. Mizan News Agency reported that the executions were carried out “in the presence of a group of people in Qom,” indicating that they were carried out in public, in&nbsp;violation of the absolute prohibition against torture and other ill-treatment.&nbsp;</p><p>On March 30, authorities&nbsp;arbitrarily executedAli Akbar Daneshvarkar and Mohammad Taghavi Sangdehi, on the charge of “armed rebellion through membership in the People’s Mojahedin Organization of Iran.” The next day,&nbsp;two other men, Pouya Ghobadi and Babak Alipour,&nbsp;were executed on the same charges. The men, codefendants in one case, had been&nbsp;sentenced to death by a revolutionary court in Tehran following a grossly unfair trial.&nbsp;</p><p>Human rights organizations&nbsp;reported that the authorities did not provide advance notice to the men’s families and lawyers, in violation of both international law and Iran’s domestic regulations. Two other political prisoners sentenced to death in the same case, Vahid Baniamerian and Abolhassan Montazer, are at imminent risk of execution.&nbsp;</p><p>On March 31, Amnesty International&nbsp;reported that another five young men, Mohammad Amin Biglari, Ali Fahim, Abolfazl Salehi Siavashani, Amirhossein Hatami, Shahin Vahedparast Kolo, had been transferred from Ghezel Hesar Prison to an undisclosed location, sparking fears of their imminent execution. All five were sentenced to death in connection with alleged offences committed in the context of the December 2025 and January 2026 protests.</p><p>Iranian authorities’ track record of committing mass atrocities in prisons has further heightened concerns for prisoners. In 1988, authorities&nbsp;extrajudicially executed thousands of imprisoned political dissidents in prisons across the country, known as the “1988 prison massacres.” The massacres constituted&nbsp;crimes against humanity.&nbsp;</p>",
+        "link": "https://www.hrw.org/news/2026/04/01/iran-thousands-of-prisoners-at-risk",
+        "severity": 10,
+        "scraped_at": "2026-04-02T02:02:30.153322+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "a5efee198776a99fc94107429ff781fb28174ba92674e784af8dfd93ad2c782e",
+        "title": "Canada Should Speak Out on Uyghur Forced Labor in China",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Canadian Prime Minister Mark Carney, left, meets with Chinese President Xi Jinping at the Great Hall of the People in Beijing, China, January 16, 2026.\n                    © Sean Kilpatrick/The Canadian Press via AP, File\n          \n    \n\n\n  \n<p>Canadian Prime Minister Mark Carney’s unwillingness to condemn forced labor in China risks reducing pressure on the Chinese government to end its repression of ethnic Uyghurs.</p><p>Responding to Member of Parliament Michael Ma’s comments casting doubts on reports of forced labor in China, Carney told the media on March 30 that Canada “takes issues of forced labor and child labor incredibly seriously.” But when asked directly whether forced labor is present in China, Carney said that “there are parts of China that are higher risk.”</p><p>Carney’s remarks ignore extensive and consistent documentation of state-imposed forced labor involving Uyghurs and other Turkic Muslims in China’s supply chains, including cotton, automotive, solar, and critical minerals. The United Nations, Human Rights Watch, and others have for several years reported on&nbsp;crimes against humanity by Chinese authorities in the Xinjiang region.</p><p>Carney’s comments also divert from past Canadian government statements expressing concern at forced labor in Xinjiang. In January 2021, Canada’s Global Affairs Ministry issued an advisory warning businesses of forced labor risks there.</p><p>In his remarks, Carney also said that “Canada has the most rigorous set of engagements” on child and forced labor. Carney’s government, however, has so far failed to adequately enforce legislation blocking products made with forced labor and has not acted on a proposed supply chain due diligence law modeled in part on legislation in the European Union.</p><p>Canada’s forced labor import restrictions also do not include a presumption that products produced in Xinjiang are linked to forced labor and cannot be imported, a key feature of the United States’ Uyghur Forced Labor Prevention Act. US authorities announced last month an investigation into the effectiveness of forced labor import restrictions in 60 countries, including Canada.</p><p>In the face of US President Donald Trump’s open hostility toward Canada, Carney has sought to strengthen Canada-China ties to diversify Canada’s trade partnerships. But any pivot toward China needs to prioritize human rights; otherwise, Canada risks facilitating a “low-rights” economy that increases economic, security, and governance risks for Canadian manufacturers and consumers.</p><p>As Prime Minister Carney takes Canada forward in a multipolar world, he should make clear that Canada’s foreign and trade policy will be grounded in human rights, including by unequivocally condemning Uyghur forced labor.</p>",
+        "link": "https://www.hrw.org/news/2026/04/01/canada-should-speak-out-on-uyghur-forced-labor-in-china",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:30.153535+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7232457,
+          52.1530237
+        ]
+      },
+      "properties": {
+        "id_hash": "8d1fdf98e7788cdc3cdcaf435249e39558c166f803d57540cd7f5d67bb720ec5",
+        "title": "Former Army Spymasters Arrested in Bangladesh",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Soldiers near the presidential palace after a state of emergency was in Dhaka, Bangladesh, January 11, 2007.\n                    © 2007 Jewel Samad/AFP via Getty Images \n          \n    \n\n\n  \n<p>Bangladesh police have arrested three former army officers linked to the military-backed government that ruled the country from 2007 to 2009, when hundreds were arbitrarily arrested and many were tortured or killed in custody. As the new government of Prime Minister Tarique Rahman seeks to hold those responsible for past abuses to account, authorities should ensure due process, fair trials, and institutional reform to prevent violations from being repeated.</p><p>Recent investigations have implicated senior military and police officers in extrajudicial killings and enforced disappearances under former Prime Minister Sheikh Hasina’s Awami League government, which was forced out in 2024 after widespread protests. Bangladeshi security forces have committed countless rights violations over recent decades against the perceived opponents of the government of the day, including previous Bangladesh National Party and army-backed administrations.</p><p>On March 23, police arrested Lt Gen (retd) Masud Uddin Chowdhury. Police have filed cases against him related to 11 alleged offenses, including murder, human trafficking, and fraud in connection with his later civilian career recruiting overseas workers. On March 26, retired Lt Gen (retd) Mamun Khaled, a former chief of Bangladesh’s military intelligence agency known as the Directorate General of Forces Intelligence, was arrested on suspicion of crimes including murder and corruption. Mohammad Afzal Naser, another former military intelligence chief, was arrested on March 30, on suspicion of abuses during the suppression of the 2024 protests. All three were key figures during the 2007-2009 military-backed government.</p><p>The current prime minister, Tarique Rahman, was allegedly among those tortured during the 2007-2009 military rule. He later spent 17 years in exile before returning to Bangladesh in December and winning a landslide election victory in February.</p><p>To build a rights-respecting future, Bangladesh authorities should end military involvement in civilian law enforcement, reform security agencies, curtail surveillance powers, and strengthen the country’s National Human Rights Commission. The government should empower the police and courts to investigate and prosecute past violations without political interference.&nbsp;</p><p>Only a rigorous, rights-respecting process without political interference can ensure such crimes never happen again.</p>",
+        "link": "https://www.hrw.org/news/2026/04/01/former-army-spymasters-arrested-in-bangladesh",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:31.425855+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "069a62334ff4008d090ae34c8ed37fe665f23a0de46cfc34eb546887ebd4434d",
+        "title": "Gulf Countries: Conflict, Hardships Leave Migrants in Limbo",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Foreign workers watch a plume of black smoke following an explosion in the Fujairah industrial zone in the United Arab Emirates, March 3, 2026.\n                    © 2026 Fadel Senna/AFP via Getty Images \n          \n    \n\n\n  \n<p>(Beirut) – Migrant workers in Gulf Cooperation Council (GCC) countries face additional risks to both their lives and their socioeconomic rights due to the current regional conflict, Human Rights Watch said today.</p><p>Migrant workers carry out jobs essential to the continued functioning of Gulf economies and services during the conflict, including delivering food and water, providing health care, and maintaining critical infrastructure. Yet some workers are unable to pay for everyday expenses due to loss of income, rising costs, and their lack of access to sufficient social services or social security.</p><p>“Millions of migrant workers employed across the Gulf countries are navigating threats to their physical safety and job security amid the conflict,” said&nbsp;Michael Page, deputy Middle East and North Africa director at Human Rights Watch. “The conflict has brought new risks to migrant workers while also exposing the gaps in labor and other rights, including those enabled by the kafala (sponsorship) system.”</p><p>Gulf states should take emergency measures to mitigate and where necessary compensate for income loss, Human Rights Watch said. The crisis also highlights the urgent need for more structural measures, including to ensure that all workers are paid at least a living wage, that their contracts are respected, and that they can access social security benefits.</p><p>Gulf states should also ensure that workers seeking to return to their home countries voluntarily have airfare support. or coordinate with country of origin governments and airlines to provide affordable flight options.</p><p>In March 2026, Human Rights Watch interviewed 38 Indian, Nepali, and Bangladeshi migrant workers based in&nbsp;Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the&nbsp;UAE. They are drivers, delivery workers, security guards, chefs, and cleaners, among the millions of migrant workers working in essential jobs that keep hospitals, markets, and transportation functioning despite heightened risks. Human Rights Watch spoke to family members of Bangladeshis who were killed in Bahrain, UAE, and Saudi Arabia.</p><p>Human Rights Watch wrote to all GCC countries to ask about these concerns, but none have provided substantive responses.</p><p>“My job is at a hospital, so the work has not stopped,” said a worker at a Qatar hospital. “Sometimes explosions come at night, sometimes during the day. Many thoughts keep running through my mind about what might happen … I have left my child back home.”</p><p>As of March 25, conflict-related deaths in Gulf countries have included migrant workers, among them a Pakistani&nbsp;driver, a Nepali&nbsp;security guard, and a Bangladeshi water-tanker&nbsp;driver, according to&nbsp;media and&nbsp;official government reporting. Others have been injured.</p><p>Saleh Ahmed, a Bangladeshi national, was killed in Ajman, UAE, after debris from an attack struck his cab in a water tank truck, piercing it and fatally injuring him, family members said. Another Bangladeshi, A.M. Tarek, was struck on the head while descending from a ship’s roof by shrapnel, which killed him instantly after finishing his night shift in Bahrain’s Hidd industrial area.</p><p>Human Rights Watch has long called for mandatory&nbsp;life insurance policies so deceased workers’ families are compensated, regardless of the cause, time and place of death.</p><p>One injured worker who narrowly escaped death said, “It feels like God saved me.… Otherwise, I would have died like a stray dog.… I feel angry because innocent workers like us are suffering for no reason.” The two workers Human Rights Watch interviewed who had been injured said they received adequate treatment at medical facilities.</p><p>While migrant workers acknowledged the effectiveness of Gulf air defense and warning systems in protecting their lives, workers also shared fears about the current security environment. One UAE-based migrant community leader said: “On one hand, migrants are working in fear. On the other, there is constant anxiety about losing jobs.”</p><p>“I’m afraid every time I go out to work,” said a Qatar-base delivery worker. “There’s no way of knowing where the next missile will land. But I go anyway.… People like me, we are thinking about one thing and one thing only: how to make the next 10 riyals.” When he receives alerts either from the government or his company’s WhatsApp group, he reroutes or goes home.</p><p>While he can log out of the app that assigns him delivery orders if he feels unsafe working, he is required to meet his contractual obligation with the labor supplier company of working 12 hours a day and delivering at least 10 orders.</p><p>“This is a commission-based job,” said a Kuwait-based taxi driver. We don’t have salary. The number of rides has dropped.” His daily earnings have been reduced by more than half and are not enough to cover his living and work-related expenses, including payments to the taxi owner, fuel, car maintenance, housing, and food.</p><p>Migrant workers based in the UAE, Kuwait, Bahrain, and Qatar reported increased food prices. They said that while bigger markets are under government&nbsp;scrutiny, low-paid workers generally shop from smaller shops including baqala (corner stores) that did not face the same level of government oversight. One Kuwait-based worker said, “What we used to spend for two months of food supplies won’t even last for one month now.” Workers listed current prices of food items that have doubled or tripled, including for vegetables.</p><p>Gulf state employers are required by domestic law to provide meals or food allowances to workers, in addition to wages. The amount is often inadequate even when there are no crises. For example, according to&nbsp;Qatari law, employers that do not provide food are required to provide a minimum allowance of 300 QAR (about US$82) every month, which has not been increased since 2021.</p><p>However, in some situations, migrant workers are compelled to cover their own food costs as well. This includes migrant workers who are undocumented, as well as workers who are on what are colloquially referred to as “free” (azad) visas, an arrangement in which companies or individuals sell their visa allocations to workers for profit.</p><p>A Bahrain-based unemployed Bangladeshi worker who is on “free visa” arrangement but struggling to find temporary jobs since the onset of the conflict said: “Sometimes I do not even have enough food to eat. Even if it is risky, I have to go out and look for work just to arrange food … but I cannot find any work. So far, I have already brought about 20,000 taka [about $163] from home to survive. I do not know how long this can continue or how long this conflict will last.”</p><p>Human Rights Watch analyzed and geolocated a video shared directly with researchers showing scores of people gathered on a street in Bahrain who the person who took the video said, were waiting to be picked up by construction contractors for day-labor work.</p><p>A cab driver in Kuwait who pays 70 KD [about $226] every month to his sponsor under the “free visa” arrangement said: “My income has fallen to one-fifth of what it was and does not cover basic costs … Today, I drove for four hours and did not earn anything.”</p><p>Gulf states should assess the anticipated adverse economic impact of the crisis on migrant workers and ensure through emergency measures that all workers can realize their economic, social and cultural rights, such as food and housing.</p><p>Human Rights Watch also spoke to workers who are facing reduced work or pay or compulsory unpaid leave despite having two-year employment contracts.</p><p>Three UAE-based hospitality workers said that hotel occupancy rates have significantly dropped, so companies tell employees to clear pending vacations, take unpaid leaves until further notice, or terminate contracts. One UAE-based chef who still has his job said: “We are down to 3-4 staff from 25-30. Workers on unpaid leave until further notice unable to return home are provided company accommodation, but they must pay for their own food.”</p><p>A worker on unpaid leave said, “We don’t receive salary or benefits. The employer is encouraging us to go home but we have to pay for the ticket ourselves and prices are extremely high.”</p><p>An Abu Dhabi-based chef from Nepal said: “To lose a job after taking recruitment loans to come here is sad. People pay 300,000-400,000 Nepali Rupees [about $ 2,000-2,686] for these jobs.” Human Rights Watch has documented that most workers across the Gulf pay exorbitant recruitment&nbsp;fees financed via informal loans.</p><p>Even some migrant workers who were paid during the first month of the crisis expressed concerns about their job and income security. One Bahrain-based supply company manager said that three of his corporate clients have already told him to cut the salaries by half for over 400 workers.</p><p>A Kuwait-based migrant worker said that the restaurant he works in has had a sharp fall in customers and take-home orders: “Staff are working reduced hours and taking pay cuts accordingly. The airport is closed so going home is not an option. The option of traveling via Saudi Arabia is not affordable as ticket prices have skyrocketed.”</p><p>Under international human rights law, governments have an obligation to ensure that all workers, including migrant workers, in their countries are paid a fair wage and have access to social security to be able to realize their right to an adequate standard of living, including in times of crisis. Gulf states should also ensure that migrant worker communities are adequately informed about emergency plans and directions during times of crisis, including in workers’ native languages.</p><p>Employers should uphold their contractual obligations despite the war, Human Rights Watch said. Businesses vulnerable to externalities in sectors like tourism should also activate contingency plans that acknowledge the inherent instability of the industry and protect workers during business downturns and not shift the burden entirely to the workers, who have families to feed and loans to repay.</p><p>Migrants unable to work as per the contract should continue to receive their contractually owed wages. Governments should prioritize supporting small and medium sized enterprises to ensure that they do not pass the business disruption costs to the lowest-paid migrant workers.</p><p>“Governments and employers should take concrete steps to protect workers caught in the crossfire thousands of miles from home and who despite significant risks are doing essential jobs across the Gulf,” Page said.</p>",
+        "link": "https://www.hrw.org/news/2026/04/01/gulf-countries-conflict-hardships-leave-migrants-in-limbo",
+        "severity": 8,
+        "scraped_at": "2026-04-02T02:02:31.426484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "da1bfc8a2e1f778d37a626891962995eb927e3f48d1ba33571ac636be2471de2",
+        "title": "US Central Command Contradicts Cluster Munition Policy",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Iranian ballistic cluster munitions are launched toward Tel Aviv, Israel on March 27, 2026.\n                    © 2026 Alexi Rosenfeld/Getty Images\n          \n    \n\n\n  \n<p>Admiral Brad Cooper, head of US Central Command,&nbsp;condemned on March 17 Iran’s “reckless” use of&nbsp;cluster munitions, calling it an “inherently indiscriminate type of munition.” Human Rights Watch has also&nbsp;confirmed Iran’s use of these weapons in March in populated civilian areas in Israel, which may amount to war crimes.</p><p>While Admiral Cooper’s condemnation contradicts current US policy, it could reflect a shift in how the military views cluster munitions.</p><p>His comments are in line with the Convention on Cluster Munitions, adopted by&nbsp;124 states, which recognizes the weapons’ inherently indiscriminate nature. Cluster munitions typically open in the&nbsp;air, dispersing dozens or hundreds of explosive submunitions or bomblets over a wide area in a way that cannot discriminate between combatants and civilians. At times, bomblets fail to detonate on impact, in effect acting like landmines, waiting for someone to trigger them. Whenever they detonate, bomblets spread hundreds or even thousands of preformed metal fragments.</p><p>Although the US military&nbsp;last used cluster munitions in a strike in Yemen in 2009, it has retained the right to use them and maintains&nbsp;stockpiles of these weapons.</p><p>The most recent&nbsp;US policy, dating back to President Donald Trump’s first term in 2017, indefinitely delays a phased ban on the United States using what it terms “unreliable” types of cluster munitions. The ban—introduced in 2008 and meant to take full effect in 2019—defines “unreliable” cluster munitions as those with a detonation failure rate of more than 1 percent.</p><p>And the United States has continued to sell and acquire other, more apparently “reliable,” types of the munitions, such as those which it says have a failure rate of less than 1 percent. In 2023, President Joe Biden&nbsp;approved a series of transfers of cluster munitions to Ukraine that were&nbsp;transferred via Germany and Poland. Reports&nbsp;emerged in February 2026 that the Pentagon had signed a deal worth at least US$210 million to acquire these weapons from an Israeli government-owned manufacturer.</p><p>The United States should immediately destroy its stockpiles, cancel deals to buy more cluster munitions, and confirm the US won’t transfer or use these weapons. Unless such action is taken, any condemnation of an adversary’s use of the weapon will lack credibility</p>",
+        "link": "https://www.hrw.org/news/2026/03/31/us-central-command-contradicts-cluster-munition-policy",
+        "severity": 4,
+        "scraped_at": "2026-04-02T02:02:31.426654+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "29f48a46a5a909ccd43ca476b6be8e2335844c2f2529201a93f87e287195eb42",
+        "title": "Russia: Internet Shutdowns Escalate",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              A person uses their smartphone as they walk on the Moskvoretsky bridge in Moscow, Russia, March 17, 2026.\n                    © 2026 Igor Ivanko/AFP via Getty Images\n          \n    \n\n\n  \n<p>(Berlin, March 31, 2026) – Russian authorities increasingly impose broad mobile internet shutdowns under the pretext of public safety, Human Rights Watch said today. Over the past month, they blocked mobile internet and cellular access in areas of Moscow and Saint Petersburg for almost three weeks.</p><p>On March 29, 2026, police detained at least 14 people at a peaceful protest against internet restrictions in Moscow, and 5 more people in other cities. Two said they were beaten. The authorities banned the protests in at least 40 cities across Russia under false pretexts. They also arrested and threatened organizers ahead of the planned rallies.</p><p>“Russia’s internet shutdowns and the crackdown on peaceful protesters are blatant violations of Russia’s obligations to respect freedom of expression, of information and of assembly,” said Hugh Williamson, Europe and Central Asia director at Human Rights Watch.</p><p>On March 5, internet users in mostly central and southern parts of Moscow reported unavailable cellular network and mobile internet. Mobile service providers said that the issues were due to “externally” imposed restrictions. Users reported that connectivity varied within the affected areas, sometimes from street to street.</p><p>On March 11, Dmitry Peskov, a presidential spokesperson, said that “all recent connection and internet restrictions in Moscow were introduced in accordance with [Russia’s] legal framework and aim at ensuring the safety of Russian citizens.” He also said the measures would remain in place for “as long as necessary to ensure the citizens’ safety.”</p><p>On March 9, the authorities began blocking mobile internet in Saint Petersburg and the neighboring Leningrad region, following an announcement by the Leningrad region governor about a possible internet slowdown due to the threat of drone attacks by Ukraine.</p><p>On March 24, the mobile internet reportedly became available in Moscow. But internet users in Saint Petersburg continued reporting issues accessing the internet, coinciding with the announcement of air raid and internet slowdown state alerts by the Russian System for Warning and Action in Emergency Situations.</p><p>Russian authorities have been blocking mobile internet in many regions due to drone attacks since at least spring 2025. The Moscow Times reported that Russia had the most mobile internet shutdowns of any country in 2025.</p><p>Human Rights Watch spoke to seven people who confirmed protracted mobile internet blocking in Orel, Vladimir, Nizhniy Novgorod, Novorossiysk, and Moscow. In some regions mobile internet access has been restricted for more than six months. In Nizhniy Novgorod, the authorities have been restricting mobile internet access since May 2025. Regional authorities cited the threat of Ukrainian drone attacks as justification. Ukrainian areas occupied by Russia have also faced such shutdowns.</p><p>Mobile internet blocking, especially coupled with a lack of cellular access, affects rights and freedoms of internet users, preventing them from accessing basic services. During the March blocking in Moscow, users could not connect to messengers and maps, use ATMs or taxi apps or pay for services via card machines if they were not connected to landline internet. Users often could not access public Wi-Fi. According to some estimates, Russian businesses lost 1 billion rubles for every day of the Moscow shutdown.</p><p>During the recent mobile internet shutdowns, mobile service providers sent out notifications outlining the lists of websites, the so-called whitelists, that should remain accessible when the internet was blocked, but users said that at times, even these censored resources would not load.</p><p>The “whitelists,” announced by the Ministry of Digital Development, Communications and Mass Media in August 2025, were to include “all resources essential to everyday life,” said the minister, Maksut Shadayev. In September, the first version of the lists was published, including the websites of state media, state services online, government agencies, Russian social media and streaming platforms transparent to the government. It has been expanded several times to include online shops, food delivery, major taxi services, banks, and other services.</p><p>While the criteria for getting on the list are not fully clear, the Ministry compiles it “in consultation with state bodies responsible for security.” All the listed resources are registered and have infrastructure based in Russia, and are obligated under Russian law to share information with state agencies.</p><p>Sergei Boyarskiy, head of the State Duma Committee on Informational Technology, Communications and Policies, said that Russian messenger MAX, for instance, is included on the lists as it cooperated with Russian state bodies via closed channels, while Telegram, a foreign platform that authorities have taken steps toward banning, was predictably not included.</p><p>The switch to whitelists is an incremental shift in Russia’s online censorship. Previously, authorities fully or partially blocked access to specific sites. The latest approach introduces new challenges to circumventing censorship and accessing information, Human Rights Watch said.</p><p>On March 26, Boyarskiy said that internet shutdowns were a “new norm” and shutdowns without access to even whitelisted sources were also possible.</p><p>Prior to the March 29 protests, regional authorities in 40 cities rejected notifications of planned assemblies to protest blockings, with bogus pretexts such as COVID-related restrictions, threats of terrorism or drone attacks, snow, tree inspections, repair works, sports festivals, and other government events. Authorities in Yakutsk issued a blanket ban on all events to protest internet restrictions due to “increased attention from malicious actors.”</p><p>In the days before March 29, law enforcement searched homes, detained organizers, and issued “warnings” against “violating the law.” Five organizers were sentenced to 15 days of detention for allegedly disobeying law enforcement in Moscow, an administrative offense; a Rostov rally organizer was sentenced to 10 days of detention and was allegedly beaten in custody.</p><p>According to International Telecommunication Union data from 2024, internet usage in Russia is predominantly through mobile broadband connections. While landline internet has not been affected to the same extent recently, government internet censorship technology facilitates full landline internet blockings, including by the Federal Security Services without a court order.</p><p>The increasing blocking in Russia violates the right to seek, receive, and provide information and ideas through all media, including the internet. Any restrictions imposed on internet access and related communications, whether in the context of potential Ukrainian drone attacks or otherwise, must have a proper legal basis, and be both necessary and proportionate to achieve a legitimate purpose. The protracted internet shutdowns and cell networks shutdown across the regions of Russia, as well as in Russia-occupied areas of Ukraine, cannot be justified and do not comply with international human rights law, Human Rights Watch said.</p><p>Russian authorities should restore unrestricted access to the internet and communications networks and end the prosecution of peaceful protesters against internet shutdowns. The international community, foreign governments, and technology companies should support the groups working to ensure access to information online and censorship circumvention.</p><p>“A government has no legitimacy to determine what is ‘essential’ for an average internet user in Russia or limit internet access to a handful of state-approved resources,” Williamson said. “Neither should it prevent people from peacefully protesting its assault on their right to access an open and free internet.”</p>",
+        "link": "https://www.hrw.org/news/2026/03/31/russia-internet-shutdowns-escalate",
+        "severity": 4,
+        "scraped_at": "2026-04-02T02:02:31.427088+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4416347,
+          51.1785153
+        ]
+      },
+      "properties": {
+        "id_hash": "d5dfda9ebdf82ec249a097a802b9cce6ff6f4b60f8f858852f9dbb3a08a335ce",
+        "title": "US: New Unlawful US Boat Strike",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Defense Secretary Pete Hegseth arrives to brief senators at the US Capitol, Washington DC, January 7, 2026.\n                    © 2026 Francis Chung/POLITICO via AP Photo \n          \n    \n\n\n  \n<p>(Washington, DC) — The United States’ latest strike on a vessel in the Caribbean, which reportedly killed four people, highlights a sustained pattern of unlawful use of lethal force outside any context of armed conflict, amounting to extrajudicial executions, Human Rights Watch said today.</p><p>The US Southern Command&nbsp;announced on March 25, 2026, that it had carried out a “lethal kinetic strike” against a boat it said was involved in drug trafficking. The strike is the 47th in a series of lethal strikes by the US military in the Caribbean and Pacific oceans, resulting in a total of 163 people killed. &nbsp;</p><p>“These strikes aren’t one-off incidents, they’re part of a pattern of using military force where the law does not permit it, over and over again,” said Sarah Yager, Washington director at Human Rights Watch. “The fact that these strikes have faded from public attention does not make these violations any less grave or unlawful.”</p><p>International law draws a clear line between armed conflict and law enforcement. There is no armed conflict in the Caribbean or Pacific between the US and any drug-trafficking organization, and so there is no group of people who are a legitimate military target.&nbsp;</p><p>Outside of armed conflict, the deliberate, lethal use of force is only lawful when strictly necessary to protect life. Suspected criminals are not otherwise lawful targets for these deliberately lethal US strikes, and no information has been released to the public showing that any of the people targeted and killed posed an imminent threat to the life of any person.</p><p>The US government should immediately end this campaign of lethal strikes, Human Rights Watch said. It should also ensure accountability for these unlawful killings, properly assess the harm caused to victims and their families, and provide redress for that harm. If the Trump administration continues to avoid taking responsibility for these unlawful killings, Congress should ensure independent investigations and accountability.</p><p>“When unlawful force is repeated over time, it risks becoming normalized,” Yager said. “That’s dangerous because it opens the door to using lethal force whenever and wherever a government wishes and without constraints.”</p>",
+        "link": "https://www.hrw.org/news/2026/03/31/us-new-unlawful-us-boat-strike",
+        "severity": 4,
+        "scraped_at": "2026-04-02T02:02:36.474327+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "bff5d44a6ca64c5ba4fc7317e6bd8ee2a44521da34ba1e1733cfc209d8cf9456",
+        "title": "Iran: Military Stepping Up Child Recruitment",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Iranian security forces stand guard on top of an armored vehicle in Tehran on March 21, 2026.\n                    © 2026 AFP via Getty Images \n          \n    \n\n\n  \n<p>(Beirut) –&nbsp;Iran’s Islamic Revolutionary Guard Corps (IRGC) is conducting a campaign to recruit children as young as 12 to volunteer to become “homeland defending combatants,” Human Rights Watch said today. The military recruitment and use of children is a grave violation of children’s rights and a war crime when the children are under 15.<br /><br />On March 26, 2026, an official from the IRGC’s 27th Mohammad Rasulullah Division in Tehran&nbsp;said that a campaign to enlist civilians, called “Homeland Defending Combatants for Iran,” had set the minimum age at 12. Amid thousands of attacks by the&nbsp;United States and&nbsp;Israel across the country, children at military facilities would be at serious risk of death and injury. Iranian officials should revoke the campaign and prohibit all military and paramilitary forces in Iran from enlisting children under 18.<br /><br />“There is no excuse for a military recruitment drive that targets children to sign up, much less 12-year-olds,” said&nbsp;Bill Van Esveld, associate children’s rights director at Human Rights Watch. “What this boils down to is that Iranian authorities are apparently willing to risk children’s lives for some extra manpower.”<br /><br />The&nbsp;campaign aims to attract civilians to provide cooking services and medical care, distribute items, and deal with damaged homes, as well as for security activities such as staffing checkpoints, operational patrols, intelligence patrols, and vehicle convoys,&nbsp;said Rahim Nadali, an IRGC official, in an interview with Iran’s Defa Press News Agency. The advertising poster for the recruitment drive, published by the news agency, also lists these activities and features two children, a boy and a girl, alongside two adults, including a man in a military uniform.<br /><br />In a televised&nbsp;interview, Nadali said that “[in relation to] intelligence and operational patrols, teenagers and the youth repeatedly have come and said that they want to take part in them. For the Basij checkpoints that you see across cities now, we have had many young people and teenagers demanding to be present in them. Given the ages that were making demands, we have set the [minimum] age at 12. Meaning now there are kids of 12 and 13 who want to be present in this space.”<br /><br />Applicants can register at Tehran mosques that house Basij bases, Nadali and the recruitment poster said. The Basij force is under the IRGC’s command.<br /><br />Over the past month, the United States and Israel have reportedly carried out what they say are&nbsp;tens of&nbsp;thousands of airstrikes against numerous&nbsp;Basij and IRGC facilities and&nbsp;multiple Basij checkpoints in Tehran,&nbsp;killing and wounding personnel.<br /><br />Children in Iran have already been subject to unlawful attacks. Human Rights Watch determined that an unlawful attack on a primary school in&nbsp;Minab, Iran on February 28 that killed dozens of schoolchildren and other civilians should be investigated as a war crime. According to a preliminary US military report, the United States was responsible for the attack. Human Rights Watch has said that Congress should hold dedicated&nbsp;hearings on the US military’s targeting practices.</p><p>Iran has for&nbsp;years enlisted children under 18 in the Basij force, and the IRGC sent Afghan immigrant&nbsp;children living in Iran as child soldiers to support the Assad government during the civil war in Syria. Human Rights Watch&nbsp;documented that boys as young as 14 were killed in combat. According to Iranian officials, in the 1980s, authorities recruited&nbsp;hundreds of thousands of children to fight in the Iran-Iraq war, with&nbsp;tens of thousands killed.</p><p>The office of the United Nations Special Representative on Children and Armed Conflict&nbsp;states that “no matter their role, [children] associated with parties to conflict are exposed to acute levels of violence.”</p><p>Iran’s laws explicitly provide for the military recruitment of children as young as 15.</p><p>Under the “bylaws and regulations of the Islamic Revolutionary Guard Corps,” individuals must be at least 16 years old to be eligible for employment by the IRGC, including as permanent staff, contractual staff, and special Basiji personnel. Special Basijis are honorary IRGC guards who “possess the qualifications of an [official] guard and… commit to being available full-time to the IRGC when needed.” However, under article 94, children ages 15 and above can qualify as an “active” member, who can “collaborate with the IRGC in carrying out assigned missions” after completing training courses.</p><p>In its first&nbsp;report to the UN Committee on the Rights of Child, Iran stated that the country’s laws provide that the minimum age “for the armed forces for the purpose of receiving military training is 16 and the minimum age of employment for the Police Forces is 17.”</p><p>The UN Security Council has “strongly condemned” child recruitment and established a reporting system, led by the secretary-general, that considers it a “grave violation” against children. The Convention on the Rights of the Child prohibits recruitment of children under 15. An&nbsp;Optional Protocol to the Convention, which Iran signed but has not ratified, provides that 18 is the minimum age for direct participation in hostilities. Iran is bound by customary international law, which provides that recruitment of children under age 15 is a war crime.</p><p>“The officials involved in this reprehensible policy are putting children at risk of serious and irreversible harm and themselves at risk of criminal liability,” Van Esveld said. “Senior leaders who fail to put a stop to this can make no claim to care for Iran’s children.”</p>",
+        "link": "https://www.hrw.org/news/2026/03/30/iran-military-stepping-up-child-recruitment",
+        "severity": 8,
+        "scraped_at": "2026-04-02T02:02:36.474738+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9144977,
+          -19.302233
+        ]
+      },
+      "properties": {
+        "id_hash": "3ffff61571a8477c6edf54395d65940cfa485e0fd286f13124fbc7c9d5332de7",
+        "title": "Mozambique: Navy Linked to Killing of Fishermen",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Fishermen sort their catch before carrying it to shore near the Costa do Sol fish market in Maputo, Mozambique, January 10, 2025.\n                    © 2025 Phill Magakoe/AFP via Getty Images\n          \n    \n\n\n  \n<p>(Johannesburg) – Mozambican navy personnel appear to have&nbsp;unlawfully killed and injured fishermen in Mozambique’s embattled Cabo Delgado province on March 15, 2026, Human Rights Watch said today.</p><p>Mozambique’s Defense and Security Forces, citing security concerns linked to the ongoing&nbsp;armed conflict in the region, have imposed&nbsp;restrictions on coastal movement and fishing in parts of Mocímboa da Praia and neighboring Macomia districts. The government says the measures are intended to&nbsp;limit the movement of non-state armed groups along the coast, but they have also significantly affected communities that&nbsp;depend on fishing for their livelihoods.  Mozambican authorities should urgently and impartially investigate the incident, hold those responsible for wrongdoing to account, and pay prompt and adequate compensation to the victims or their families.</p><p>“Mozambican navy personnel fired on subsistence fishermen who fish the restricted waters out of economic hardship,” said&nbsp;Sheila Nhancale, Mozambique researcher at Human Rights Watch. “Mozambique’s partners should press the government to ensure a credible and transparent investigation, provide accountability and reparations for the victims, and adopt measures so that such abuses never recur.”</p><p>Several residents told Human Rights Watch that despite the restrictions, many local fishermen continue to go to sea out of economic necessity.</p><p>A local journalist said that the fishermen, an unidentified number of young men from the district, set out before dawn in three small boats to fish off Calugo village. They were&nbsp;intercepted by the naval personnel, who fired upon them.</p><p>A relative of one of the survivors said that 13 fishermen were killed. He personally knew at least two of those killed, who were from different parts of Mocímboa da Praia district. “Among the dead are people from places known locally as Marere and Nanquidunga,” he said. “My younger brother’s son, Juma Sufo, is also among those killed, as well as Mr. Mapanga.”</p><p>Another relative said that three of the injured—ages 23, 24, and 32—were taken to the Provincial Hospital in Pemba for treatment in the orthopedics ward, but they did not receive adequate immediate health care. “The three who were injured are my family,” he said.&nbsp;“One bullet was removed only on March 20 from one of them, where it had been lodged in his neck.”</p><p>Residents said the naval personnel first calmly approached the fishermen, but then abruptly opened fire. “When the military arrived, they first greeted and asked the fishermen where they were coming from,” the resident said. “Then the navy left, but about 50 meters later they returned violently.”</p><p>“The situation here in the district appeared calm, but then I learned that the fishermen were shot,” said another resident. “One of them is my neighbor in Pamunda. The soldiers were stressed and angry, and instead of investigating or arresting, they just killed.”</p><p>The incident follows previous&nbsp;reports of the Mozambican Defense and Security Forces using lethal force against fishermen along the Mocímboa da Praia and Macomia coasts. The&nbsp;Armed Conflict Location and Event Data Project (ACLED), an international nongovernmental organization, estimates that about 70&nbsp;fishermen have been killed since 2024 in similar incidents.</p><p>“This isn’t the first time the Mozambican navy has been accused of targeting fishermen,” said Tomás Queface, a researcher at ACLED. “We have documented multiple incidents, but there has been no serious investigation or accountability. This sends a message that such abuses are tolerated and risks further violations.”</p><p>Borges Nhamirre, a researcher at the Institute for Security Studies, a South African nonprofit group, said the killings highlight the broader risks to civilians in Cabo Delgado. “Civilians have been subjected to abuses from both non-state armed groups and the Mozambican Defense and Security Forces, which should protect them,” he said. “These frequent incidents fuel frustration and may facilitate recruitment by violent extremist groups.”</p><p>Local communities also face severe economic impacts due to the coastal restrictions. “Without access to the sea, communities lose essential means of subsistence,” Nhamirre said.&nbsp;“They are caught between the conflict and hunger.”</p><p>Since 2017, Cabo Delgado has been the&nbsp;site of violent conflict that has killed about 6,500 people and forced more than&nbsp;1.3 million people to flee their homes.</p><p>Under international humanitarian law, applicable to the non-international armed conflict in Cabo Delgado, warring parties must always distinguish between civilians and combatants and take feasible precautions to protect civilians. Common Article 3 of the 1949 Geneva Conventions and its Second&nbsp;Additional Protocol provide minimum protections for civilians and others not taking part in hostilities. Complementary human rights obligations, including the International Covenant on Civil and Political Rights and the&nbsp;African Charter on Human and Peoples’ Rights, further require governments to investigate potentially unlawful deaths and ensure accountability.</p><p>“To prevent such attacks against civilians from happening again, it’s essential to provide justice for the victims,” Nhancale said. “The authorities need to adopt measures to ensure that those dependent on the sea for their livelihoods do not become targets of either side.”</p>",
+        "link": "https://www.hrw.org/news/2026/03/30/mozambique-navy-linked-to-killing-of-fishermen",
+        "severity": 6,
+        "scraped_at": "2026-04-02T02:02:37.613156+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "1147d9aeef544b5a41db0be4b4d075497276831b91d1cbe68eff88f7dc68c874",
+        "title": "Landmark UN Resolution on the Slave Trade",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Formerly enslaved people sit at Foller's House in Cumberland Landing, Virginia, US, circa 1850.\n                    © 1850 Fotosearch/Getty Images\n          \n    \n\n\n  \n<p>Commemorating the International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade, the United Nations General Assembly passed a landmark resolution, introduced by Ghana, on March 25 that seeks to advance reparatory justice for the trafficking of enslaved Africans and the racialized chattel enslavement of Africans.</p><p>African, Caribbean, and Latin American states delivered powerful speeches at this year’s observance. Ghana’s president, speaking on behalf of the African group, described the initiative as “a route to healing and reparative justice” for enslavement legacies “beyond symbolic acknowledgment and toward institutional accountability.” It reflects longstanding advocacy by African and Caribbean states and civil society.</p><p>The resolution calls for restitution of looted cultural property, formal apologies, and consideration of compensation and other reparatory measures, framing these as necessary steps to address contemporary inequalities linked to slavery, colonialism, and systemic racism. It describes the trafficking of enslaved Africans and the racialized chattel enslavement of Africans as the “gravest crime against humanity.”</p><p>The resolution passed with 123 votes in favor. The United States, Israel, and Argentina voted no and 52 states abstained, including the United Kingdom, Canada, and all European Union member states, including Spain.</p><p>The US delegation’s justifications for its vote against the resolution included claims that the resolution narrowly focused on Western states’ responsibility and suggested that the claims of compensation were “an attempt to reallocate modern resources to people and nations who are distantly related to the historical victims.”</p><p>Historically, states like the UK chose to&nbsp;compensate former owners of enslaved people—not the enslaved people themselves—based on allegations that they had “lost” property after the abolition of chattel enslavement.</p><p>The abstentions from the UK and EU member states were expected, even if unjustified, given European states’ role in colonial-era atrocities and their lasting impacts. While calling the slave trade an “unparalleled tragedy,” they, like the US, question the legal basis for reparations, contending that colonial-era atrocities predated modern international law.</p><p>There is growing recognition of reparations for historical and ongoing injustices, including reports of the UN High Commissioner for Human Rights and the 2001 Durban Declaration and Programme of Action, a comprehensive UN blueprint to combat systemic racism, which explicitly acknowledges slavery and the slave trade as crimes against humanity and calls for remedies and reparatory justice.</p><p>The vote underscores a continuing divide between Global South countries experiencing enduring consequences of colonial atrocities, enslavement, and the slave trade, and many Global North countries unwilling to take responsibility and to take actions.</p><p>The legacy of enslavement remains a living structural injustice, with a global majority, including civil society in Europe and US, increasingly calling for meaningful repair rather than symbolic recognition alone.</p>",
+        "link": "https://www.hrw.org/news/2026/03/30/landmark-un-resolution-on-the-slave-trade",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:37.613462+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "5b170c0cda28859286b03fcb415bac7aaae0a624c98186180b012dfcbb891c07",
+        "title": "France Accepts the European Social Charter Applies to Overseas Territories",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              Students sit aboard a school bus, in Kaweni, in the township of Mamoudzou, in the French Indian Ocean territory of Mayotte, on October 28, 2025.\n                    © 2025 Marine Gachet/AFP via Getty Images\n          \n    \n\n\n  \n<p>In March, France notified the Council of Europe it is extending to its overseas territories the obligations under the European Social Charter – a Council of Europe treaty guaranteeing fundamental social and economic rights.</p><p>This long-overdue step ends a legal anomaly and structural injustice that excluded millions of people living within French jurisdiction, but in overseas territories. It will enhance scrutiny of France’s compliance with these rights obligations and help redress unequal treatment between territories rooted in the country’s colonial legacy.</p><p>Human Rights Watch has documented the impact of deep structural inequalities in Mayotte, a French overseas territory in the Indian Ocean. Mayotte is France’s poorest region with more than 75 percent of its population living below the poverty line. Thousands of children are denied access to education, with more than 15,000 out of school. Those enrolled often face overcrowded schools where their rights are not met, including access to drinking water, sanitation, nutritious food, and a safe learning environment. Children living in informal settlements, those from migrant families, and children with disabilities, are particularly affected.&nbsp;</p><p>The Charter, widely regarded as Europe’s “social constitution”, complements the European Convention on Human Rights. Until now, France stood apart from countries including the Netherlands, Portugal, Spain, and the United Kingdom, which had already extended these protections –at least in part– to their overseas territories. Civil society organizations have long criticized this exclusion as depriving millions of access to these rights and their safeguards.&nbsp;</p><p>The extension opens two important avenues for oversight. France will now be required to report on implementation in these territories to the European Committee on Social Rights. Additionally, civil society organizations can bring collective complaints where they have identified violations.</p><p>Yet, notwithstanding the improved protection for children’s right to education that the extension of the Charter provides the core problem remains: in France, education is compulsory for children aged 3 to 16, yet thousands in Mayotte remain excluded. This is the result not only of inadequacies of law, but of funding, implementation and support. French authorities should act urgently to address these structural failures which have already held back so many people growing up in Mayotte. If they fail to do so, at least now the children of Mayotte can utilize this charter’s powers to hold them to account.</p>",
+        "link": "https://www.hrw.org/news/2026/03/30/france-accepts-the-european-social-charter-applies-to-overseas-territories",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:37.613686+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "d835ee488ffcb16198fcf6bc70b386f3025cdd9903a9973d15d86cb4dc330f39",
+        "title": "US/Iran/Israel: Officials Should Uphold Laws of War",
+        "summary": "Click to expand Image\n          \n\n\n\n  \n        \n  \n\n        \n                      \n      \n        \n              A woman looks out from her destroyed apartment in the Shahrak-e Gharb neighborhood of Tehran, Iran, March 21, 2026.\n                    © 2026 Majid Saeedi/Getty Images\n          \n    \n\n\n  \n  \n\n\n\n      \n\n  \n  \n    \n\n\n\n  \n        \n  \n\n          \n        Letter to Ambassador Waltz-30 March 2026.pdf\n      \n      \n\n\n  \n  \n\n\n\n      \n\n  \n  \n    \n\n\n\n  \n        \n  \n\n          \n        Letter to Secretary Hegseth - 30 March 2026\n      \n      \n\n\n  \n<p>(Washington, DC) – Top officials from the&nbsp;United&nbsp;States,&nbsp;Iran, and&nbsp;Israel should stop using rhetoric that shows dangerous disregard for international humanitarian law in the ongoing Middle East conflict, Human Rights Watch said today in four letters to officials of the three countries.</p>  \n\n\n\n      \n\n  \n  \n    \n\n\n\n  \n        \n  \n\n          \n        Letter to Iranian Ambassador Ali Bahreini - 30 March 2026\n      \n      \n\n\n  \n  \n\n\n\n      \n\n  \n  \n    \n\n\n\n  \n        \n  \n\n          \n        Letter to Prime Minister Katz - 30 March 2026\n      \n      \n\n\n  \n<p>The letters detail inflammatory statements made by US, Israeli, and Iranian officials. All three governments should publicly commit to their obligations under the laws of war, especially with regard to the protection of civilians and civilian infrastructure, Human Rights Watch said.&nbsp;</p>",
+        "link": "https://www.hrw.org/news/2026/03/30/us/iran/israel-officials-should-uphold-laws-of-war",
+        "severity": 2,
+        "scraped_at": "2026-04-02T02:02:37.613796+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "9579676ae57702150a483642f9f658328efdf5003b0be3575af3bd08d31e304c",
+        "title": "El fogón y la leña hacen parte de esta Semana Mayor en Cali: mujeres y sus historias, mientras le ponen sazón al Pacífico colombiano",
+        "summary": "El encuentro 'Mi santa cocina' se realizará del 2 al 5 de abril, en esta Semana Santa, en el hotel Río Cali, ubicado sobre el tradicional Bulevar.",
+        "link": "https://www.eltiempo.com/colombia/cali/el-fogon-y-la-lena-hacen-parte-de-esta-semana-mayor-en-cali-mujeres-y-sus-historias-mientras-le-ponen-sazon-al-pacifico-colombiano-3544847",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:39.729365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "60a9a5cedc5af112d021a7f0d0c3ea0eaa4f378df15a30cc8cc4ea4e88b7b225",
+        "title": "Nace la Federación Nacional de Ciencia, Tecnología e Innovación en Colombia: una apuesta para que las regiones no vuelvan a perder recursos del SGR",
+        "summary": "Más de 200 entidades crean este gremio para impulsar proyectos en ciudades, tras identificar fallas históricas para acceder desde allí a los recursos.",
+        "link": "https://www.eltiempo.com/colombia/otras-ciudades/nace-la-federacion-nacional-de-ciencia-tecnologia-e-innovacion-en-colombia-una-apuesta-para-que-las-regiones-no-vuelvan-a-perder-recursos-del-sgr-3544842",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:39.729463+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3172531,
+          38.915304
+        ]
+      },
+      "properties": {
+        "id_hash": "2b3d702bdb8bfa60c736b94a9304abe488a6ece0528777d39777ddcd321dd171",
+        "title": "El capo fiel a 'Comba' con nexos con 'cartel de Sinaloa' y Eln, capturado en Valle: es experto en semisumergibles y traficar drogas a Estados Unidos",
+        "summary": "Ha salido y entrado de prisiones en el país y hasta de Estados Unidos, a lo largo de 16 años. Ahora lideraba a extorsionistas, pero habría algo más.",
+        "link": "https://www.eltiempo.com/colombia/cali/el-capo-fiel-a-comba-con-nexos-con-cartel-de-sinaloa-y-eln-capturado-en-valle-es-experto-en-semisumergibles-y-traficar-drogas-a-estados-unidos-3544754",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:41.229098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "id_hash": "41fa1ce1ea11c07212eb57f372687a1f8064cd5a4ff2e624fbcfc5b684ef69a2",
+        "title": "Colombiano Steven Gutiérrez llevará propuestas sobre desigualdad y desarrollo al foro global FutureWorks del Banco Mundial en Washington",
+        "summary": "El experto representará al país con lineamientos sobre pobreza, empleo y educación en un escenario clave de política pública internacional.",
+        "link": "https://www.eltiempo.com/colombia/otras-ciudades/colombiano-steven-gutierrez-llevara-propuestas-sobre-desigualdad-y-desarrollo-al-foro-global-futureworks-del-banco-mundial-en-washington-3544823",
+        "severity": 0,
+        "scraped_at": "2026-04-02T02:02:41.229333+00:00"
+      }
+    }
+  ]
+}

@@ -1,0 +1,995 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "361830dcf405b0a6509c254645fda1642b3c35c86a91ef72fc93cd1fae1b4b78",
+        "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
+        "summary": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting \"terrorist infrastructure\".",
+        "link": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
+        "severity": 6,
+        "scraped_at": "2026-03-15T14:45:23.152163+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "8843284b728f2c1b47f54ca9479fb6266f05c656e285431c87a2f9deddcb81d1",
+        "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
+        "summary": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia.",
+        "link": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-03-15T14:45:23.152257+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8756747,
+          39.8919748
+        ]
+      },
+      "properties": {
+        "id_hash": "90497f95fe397788112781803f7c1aa4128a235bb6155a5b1679817e25aa672e",
+        "title": "Ugandan opposition leader goes abroad after two months in hiding",
+        "summary": "Uganda's military chief has said Bobi Wine is wanted \"dead or alive\", although some ministers have denied he is being sought.",
+        "link": "https://www.bbc.com/news/articles/cwy8vk24wyvo?at_medium=RSS&at_campaign=rss",
+        "severity": 0,
+        "scraped_at": "2026-03-15T14:45:24.613074+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "bb31ff1228f2b654e112c8162105e4f74f360fabdf4a355d2df8791296935af0",
+        "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
+        "summary": "Predictions markets have hosted millions of dollars of bets related to the war in Iran.",
+        "link": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:24.613195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "50b2389b8203b732c5c40203423f5f30a53254262926e9e27ac4b654d48a4c40",
+        "title": "Russia exploiting Iran war, Zelensky says after fresh bombardment",
+        "summary": "Volodymyr Zelensky cast concern over the supply of air-defence missiles after a heavy overnight attack kills at least five.",
+        "link": "https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss",
+        "severity": 4,
+        "scraped_at": "2026-03-15T14:45:24.613289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "99c332ecb92adcfd9ffddcbdc845c9bb911c4a4020acbd07bb9b588144e8ce8b",
+        "title": "Iraq taking private plane to Mexico for World Cup play-off",
+        "summary": "Iraq will travel to Mexico by private plane for their World Cup play-off despite calls from coach Graham Arnold to postpone the match amid the escalating US-Israeli war with Iran, the country's FA president Adnan Dirjal says.",
+        "link": "https://www.bbc.com/sport/football/articles/c0k10zzjk6yo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:24.613323+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "71432e0637419264ac24fbb4cf7a6e0b7e871bb111e9e8cb95bd0f88f69c1f2b",
+        "title": "Trump urges UK and other nations to send warships to Strait of Hormuz",
+        "summary": "The US president says he hopes China, France, Japan and South Korea will also send ships to defend the key oil shipping route.",
+        "link": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:24.613408+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "ef0bdde25c4606f2e9c319fdba26b2f9e556e361a9542982e0eeddb2bc14edd9",
+        "title": "Spain v Argentina ‘Finalissima’ match in Qatar cancelled amid conflict",
+        "summary": "The fixture, part of the Qatar Football Festival, has been cancelled amid the ongoing US-Israeli war on Iran.",
+        "link": "https://www.aljazeera.com/sports/2026/3/15/spain-v-argentina-finalissima-match-in-qatar-cancelled-amid-conflict?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:28.799050+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "9fff66cf159f573e540e6c3cba1718269dc3160ac852f23e85f6e12dfd3455ac",
+        "title": "What do the first two weeks of the war on Iran portend for the future?",
+        "summary": "New, critical dynamics are emerging in the region that could reshape it in dramatic ways.",
+        "link": "https://www.aljazeera.com/opinions/2026/3/15/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:28.799208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9831924,
+          50.3986851
+        ]
+      },
+      "properties": {
+        "id_hash": "6e3fdffb4def7d78d363a95da28bc84d5d1c66b526a573d3e6f9138676d89cc4",
+        "title": "Oscars 2026: Nominees, predictions, start time and how to watch",
+        "summary": "The 98th Academy Awards will take place at the Dolby Theatre, with the ceremony set to start at 23:00 GMT.",
+        "link": "https://www.aljazeera.com/news/2026/3/15/oscars-2026-nominees-predictions-start-time-and-how-to-watch?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:30.340813+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "75bda3f0941c36ebd4746217eb2fb165f6b9691010e5aaa1abb773ea5186c42e",
+        "title": "Iranian govt reveals scale of civilian casualties from US-Israeli strikes",
+        "summary": "Govt spokesperson Fatemeh Mohajerani says US-Israeli strikes have damaged more than 42,000 civilian sites across Iran.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/iranian-govt-reveals-scale-of-civilian-casualties-from-us-israeli-strikes?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:30.340934+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "ae10ce71c0b7bdbffb2f960c5ad805fc322cac5491812e1eb148654001561b19",
+        "title": "Iran claims US and Israel using copycat ‘Lucas’ drones to frame it",
+        "summary": "Iran claims US and Israel using copycat &#039;Lucas&#039; drones to frame it for regional attacks.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/iran-claims-us-and-israel-using-copycat-lucas-drones-to-frame-it?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:30.341075+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "7dd0b4de99cbba016c3fb4e0f77dce45bc2700742ea7977b67a69b7702ce5139",
+        "title": "Overnight Israeli attacks kill four people in Lebanon",
+        "summary": "Lebanese media and authorities report deadly attacks as efforts continue to find a diplomatic solution to the conflict.",
+        "link": "https://www.aljazeera.com/news/2026/3/15/overnight-israeli-attacks-kill-four-people-in-lebanon?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:30.341201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "0b3dabe73228d8b06e03d58bbdab9e90a1f1288aedf63e9fa2721c99f6c1d39f",
+        "title": "Thousands in Paris protest military actions in Iran, Lebanon and Palestine",
+        "summary": "Thousands in Paris protest military operations in the Middle East. One of more than 85 protests across France.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/thousands-in-paris-protest-military-actions-in-iran-lebanon-and-palestine?traffic_source=rss",
+        "severity": 0,
+        "scraped_at": "2026-03-15T14:45:30.341267+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "bb4a826155894d47b8aa02a14ceadc261bef874d4169368fdd6fe167ff01667d",
+        "title": "Trump says US may hit Iran’s Kharg Island again ‘just for fun’",
+        "summary": "US president says his country may carry out more strikes on oil hub as he urges allies to help open Strait of Hormuz.",
+        "link": "https://www.aljazeera.com/news/2026/3/15/trump-says-us-may-hit-irans-kharg-island-again-just-for-fun?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:30.341362+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "b3ac9841166f693af7635a06f28b54286eac58d51fed83290cf4b138e6fc7529",
+        "title": "Iran war: What is happening on day 16 of US-Israel attacks?",
+        "summary": "Israel and US attacks on Isfahan kills 15 people as Tehran carries out retaliatory attacks on Israel and Gulf countries.",
+        "link": "https://www.aljazeera.com/news/2026/3/15/iran-war-what-is-happening-on-day-16-of-us-israel-attacks?traffic_source=rss",
+        "severity": 4,
+        "scraped_at": "2026-03-15T14:45:30.341395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "e05d8c5236e4f492fe39117140559d9dc122090ed09a79733c9147b6d41944a8",
+        "title": "MotoGP postpones Qatar Grand Prix due to Middle East conflict",
+        "summary": "The Qatar GP, scheduled for April 10-12, has been rescheduled for November amid the ongoing US-Israel war on Iran.",
+        "link": "https://www.aljazeera.com/sports/2026/3/15/motogp-postpones-qatar-grand-prix-due-to-middle-east-conflict?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:30.341688+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "d240a93e23de2e0f9588c4b556e898aec747d305788b05cea1666d3ccd88f06b",
+        "title": "Activists rally outside White House against war with Iran",
+        "summary": "Activists rally outside White House against war with Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/activists-rally-outside-white-house-against-war-with-iran?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:30.341752+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "482b9a28ff6dfbf4dd4a1f679e68d380e07ca0fde6c7501b1887fe97a58ea1ce",
+        "title": "Al-Quds Day rally in Toronto calls for an end to the war in Iran & Lebanon",
+        "summary": "Demonstrators gathered in Toronto for Al-Quds Day, denouncing US-Israeli attacks on Iran and Lebanon.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/al-quds-day-rally-in-toronto-calls-for-an-end-to-the-war-in-iran-lebanon?traffic_source=rss",
+        "severity": 4,
+        "scraped_at": "2026-03-15T14:45:30.341786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.0752814,
+          27.1505605
+        ]
+      },
+      "properties": {
+        "id_hash": "46788e588921e1b944e3f666340a3f4857eae34841bad89368bd7cd3d5890bee",
+        "title": "Minab: When the world’s most precise missile chose a classroom",
+        "summary": "Targeting a school and the mass killing of children are war crimes, and those responsible need to be held to account.",
+        "link": "https://www.aljazeera.com/opinions/2026/3/15/minab-when-the-worlds-most-precise-missile-chose-a-classroom?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:31.742138+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6634695,
+          41.3550474
+        ]
+      },
+      "properties": {
+        "id_hash": "78f14a04252330318d92d3f7084e327c839163385a0ee0416d652fdb2cd3fd12",
+        "title": "Smoke rises over Beirut’s southern suburbs",
+        "summary": "Smoke rises from Beirut’s southern suburbs as the Middle East war enters its third week.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/smoke-rises-over-beiruts-southern-suburbs?traffic_source=rss",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:33.400407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "024a0db6c4baaa69ec89ba3bcd4676ea906f27216d4db1166144c9a401adebb0",
+        "title": "Anti-war protest held in Tel Aviv, criticising Israel’s attacks on Iran",
+        "summary": "A small anti-war protest was held in Tel Aviv, criticising Israel’s attacks on Iran.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/anti-war-protest-held-in-tel-aviv-criticising-israels-attacks-on-iran?traffic_source=rss",
+        "severity": 4,
+        "scraped_at": "2026-03-15T14:45:33.400559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5844903,
+          -22.1646782
+        ]
+      },
+      "properties": {
+        "id_hash": "1ad411247d25dd058b7a4c4f5d93fdf87268f412abcac88a8a634d8b04166bfc",
+        "title": "Queensland police sued after officer caught describing Indians as ‘perverts’ while investigating rideshare driver",
+        "summary": "<p><strong>Exclusive:</strong> Racial discrimination alleged after police withdrew indecent act charge a year after officer was recorded talking about ‘fucking Indians’</p><ul><li><p><strong>WARNING: this article contains offensive language</strong></p></li></ul><p>Queensland police investigated a Punjabi man for a year – over charges that were eventually withdrawn – despite knowing one of the arresting officers had been caught on camera describing Indians as a “bunch of fucking perverts”.</p><p>The rideshare driver named Singh, who asked that his first name not be used because of the distress caused by the case, has now launched legal action against the force due to the alleged racial discrimination he suffered during the investigation that led to him being charged with committing an indecent act, according to his statement of claim.</p> <a href=\"https://www.theguardian.com/australia-news/2026/mar/16/queensland-police-sued-after-officer-caught-describing-indians-as-perverts-while-investigating-rideshare-driver-ntwnfb\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/2026/mar/16/queensland-police-sued-after-officer-caught-describing-indians-as-perverts-while-investigating-rideshare-driver-ntwnfb",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:35.866655+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "2c1a80d14b3a64b89e452f4c50a29e78e6f32f20540d84a4b571159e17235939",
+        "title": "‘Blue-sky flood’ as waters reach outskirts of Longreach – as it happened",
+        "summary": "<p>This blog is now closed.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Barnaby Joyce</strong> says he disagrees with his leader, <strong>Pauline Hanson</strong>, over inflammatory comments about Muslims but says parties criticising her haven’t learned the lesson of One Nation’s rise.</p><p>Hanson was censured in the Senate this month for suggesting there are no “good” Muslims.</p><p>I don’t want to give pastoral care, but I think attacking Pauline today does not work like people thought it might have worked 15 years ago.</p><p>[People] see Pauline as having the courage to stand behind her convictions on certain issues.</p><p>I’ll make it very clear, I do know people of the Islamic faith who are good people, without a shadow of a doubt.</p><p>There are people of Islamic faith who are good. And she was referring to … trying to, how do you determine people who come from an area there where there’s jihad, whether they’re a good or bad? I don’t know. Maybe you can do it by talking to them. I can’t.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/mar/15/federal-politics-jim-chalmers-anthony-albanese-labor-angus-taylor-matt-canavan-coalition-barnaby-joyce-one-nation-iran-womens-football-team-asylum-offers-ntwnfb\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/australia-news/live/2026/mar/15/federal-politics-jim-chalmers-anthony-albanese-labor-angus-taylor-matt-canavan-coalition-barnaby-joyce-one-nation-iran-womens-football-team-asylum-offers-ntwnfb",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:35.866878+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "a534814e5dead18459c55081201f47e18abdb30f5f9a3671ac8b2b1a0e204835",
+        "title": "No recession but inflation hike and increased cost-of-living pressure on the way, Jim Chalmers says",
+        "summary": "<p>Economists predict RBA will raise interest rates this week and in May – days before treasurer unveils budget</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/mar/15/federal-politics-jim-chalmers-anthony-albanese-labor-angus-taylor-matt-canavan-coalition-barnaby-joyce-one-nation-iran-womens-football-team-asylum-offers-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Households can expect significant additional cost-of-living pressures because of the war in the Middle East, with Jim Chalmers confirming that the government expects inflation to rise beyond 4.5% in Australia.</p><p>But the treasurer said he did not expect the economy to fall into recession because of the war sparked by US and Israeli bombings in Iran.</p> <a href=\"https://www.theguardian.com/business/2026/mar/15/no-recession-but-inflation-hike-and-increased-cost-of-living-pressure-on-the-way-jim-chalmers-says\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/business/2026/mar/15/no-recession-but-inflation-hike-and-increased-cost-of-living-pressure-on-the-way-jim-chalmers-says",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:35.867097+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "8776445764c91dd2449d718f9e583fe15ea7c9a3f8b00310fe06a4f9f2e5ecca",
+        "title": "‘My dear son’: the Ukrainian soldier who came back from the dead",
+        "summary": "<p>In 2023, what were thought to be Nazar Daletskyi’s remains were buried in his home village and his mother, Nataliia, visited the grave every week. Three years later, he spoke to her on the phone</p><p>Nazar Daletskyi was declared dead in May 2023. The DNA match left no room for doubt, officials told his mother, Nataliia. A Ukrainian soldier who volunteered for the front in the early weeks of the war, Nazar had become one more casualty of Russia’s invasion.</p><p>Nazar’s remains were laid to rest in the cemetery of his home village. In the months after the funeral, Nataliia visited the grave at least once a week, at first to cry and later to stand in quiet contemplation, remembering her only son.</p> <a href=\"https://www.theguardian.com/news/ng-interactive/2026/mar/15/my-dear-son-the-ukrainian-soldier-who-came-back-from-the-dead-nazar-daletskyi\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/news/ng-interactive/2026/mar/15/my-dear-son-the-ukrainian-soldier-who-came-back-from-the-dead-nazar-daletskyi",
+        "severity": 4,
+        "scraped_at": "2026-03-15T14:45:35.867247+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "7a55cd432087b622040006f4fb65b1909f073d425015d1e975a78506c4148fa2",
+        "title": "Middle East crisis live: Israel says it has launched ‘extensive strikes’ on Iran as Trump says US ‘not ready’ to make a deal to end war",
+        "summary": "<p>IDF also issues evacuation orders in several Beirut neighbourhoods; reports that people injured in missile attacks on Israel</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/mar/01/tell-us-affected-by-latest-events-in-the-middle-east-strikes-iran-us-israel-dubai\"><strong>How have you been affected by the latest Middle East events?</strong></a></p></li></ul><p><strong>Iraq’s football team will travel to Mexico for a 2026 World Cup playoff match despite calls for it to be postponed due to the Middle East war, the country’s football association has announced.</strong></p><p>“The national team will depart at the end of the week to Mexico via a private plane,” said Iraq football association president Adnan Dirjal in a statement, adding they had contacted Fifa to help facilitate the trip during the conflict in the region that has hampered flights.</p> <a href=\"https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island",
+        "severity": 6,
+        "scraped_at": "2026-03-15T14:45:35.867457+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "db96e93839dc978a3c2b627acde517f8dbb791ad6714536d27d96ad541b39427",
+        "title": "US not ready to seek deal to end war with Iran, Donald Trump says",
+        "summary": "<p>Tehran wants ceasefire but terms ‘not good enough yet’, US president claims, as both sides launch new waves of strikes</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island\">Middle East crisis – live updates</a></p></li></ul><p>Donald Trump has warned he is not ready to seek a deal to end the US-Israeli offensive against Iran, saying that though he thought Tehran was keen to negotiate a ceasefire, the US would fight on for better terms.</p><p>Trump’s comments came as Iran launched fresh missile and drone attacks on countries in the Gulf and on Israel, and Israeli and US warplanes launched new waves of strikes on Iran.</p> <a href=\"https://www.theguardian.com/world/2026/mar/15/us-israel-iran-war-donald-trump-ceasefire-deal-new-attacks\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/15/us-israel-iran-war-donald-trump-ceasefire-deal-new-attacks",
+        "severity": 6,
+        "scraped_at": "2026-03-15T14:45:35.867578+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "957148221865d128761127c37a7f9c9405f0bb61265ef4d4bbb8933d56e0f454",
+        "title": "F1 cancels Bahrain and Saudi Arabia GPs because of Middle East war",
+        "summary": "<ul><li><p>Bahrain circuit only 20 miles from targeted US base</p></li><li><p>Races unlikely to be replaced because of logistics</p></li></ul><p>Formula One has cancelled the Bahrain and Saudi Arabia grands prix because of the war in the Middle East.</p><p>The races were due to take place on 12 April in Bahrain and 19 April in Saudi Arabia but the sport was approaching the point at which a <a href=\"https://www.theguardian.com/sport/2026/mar/13/george-russell-pole-china-gp-sprint-race-mercedes-lando-norris-f1\">decision on cancellation</a> needed to be made to prevent more freight being sent to Bahrain.</p> <a href=\"https://www.theguardian.com/sport/2026/mar/14/formula-one-cancel-bahrain-saudi-arabia-grand-prix-war-middle-east\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/sport/2026/mar/14/formula-one-cancel-bahrain-saudi-arabia-grand-prix-war-middle-east",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:35.867623+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1907713,
+          51.5190868
+        ]
+      },
+      "properties": {
+        "id_hash": "67a866620cea235fd30d6f2306640690c6a3b8ee6bb962865025b678a263805d",
+        "title": "Royals and celebrities warned to watch words as lip-reading videos go viral",
+        "summary": "<p>Advisers say to ‘assume the cameras are always rolling’ as exchanges can be decoded in seconds and posted online</p><p>Royals and celebrities are being warned by their representatives and advisers to watch what they say when they are out of the house – or palace – as a lip-reading phenomenon means videos can be posted online and translated in seconds.</p><p>Prince William was recently embroiled after a video of him speaking to Andrew Mountbatten-Windsor was translated by an expert lip-reader who was working as part of a forthcoming Channel 5 documentary, Lip-Reading the Royals.</p> <a href=\"https://www.theguardian.com/uk-news/2026/mar/15/royals-and-celebrities-warned-to-watch-words-as-lip-reading-videos-go-viral\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/uk-news/2026/mar/15/royals-and-celebrities-warned-to-watch-words-as-lip-reading-videos-go-viral",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:37.355159+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "5f3aea15bff7e2145d98ede75f6efb3e47965b6085ccd22ed9147cae2a5f5a63",
+        "title": "UK may send ships and mine-hunting drones to help open strait of Hormuz, says Miliband",
+        "summary": "<p>Energy secretary says government looking at ‘any options’ to get crucial shipping lanes reopened</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island\">Middle East crisis – live updates</a></p></li></ul><p>Britain is considering sending ships and mine-hunting drones to the Middle East in an attempt to reopen the strait of Hormuz, Ed Miliband has said.</p><p>The energy secretary confirmed on Sunday that ministers were talking to their allies about how the UK could help secure the vital waterway after the US president, Donald Trump, <a href=\"https://www.theguardian.com/uk-news/2026/mar/14/trump-warships-strait-of-hormuz-iran-oil-shipping\">urged Britain</a> and other countries to deploy ships to the region.</p> <a href=\"https://www.theguardian.com/world/2026/mar/15/uk-ships-mine-hunting-drones-strait-of-hormuz-iran-ed-miliband\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/world/2026/mar/15/uk-ships-mine-hunting-drones-strait-of-hormuz-iran-ed-miliband",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:37.355387+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "8306786277802f9ef76a2b3453e76ec2179d7b6f42dc7e2d273b31c51bee70c7",
+        "title": "Religious leaders condemn Michigan synagogue attack – but moving forward together tricky",
+        "summary": "<p>Jewish and Arab American leaders decry violence at Temple Israel, but US-Israel war on Iran complicates healing</p><p>Jewish and Arab American leaders across Detroit and the US strongly condemned the 12 March terrorist attack on a Michigan synagogue and largely aimed to lower tensions against the backdrop of the US and Israel’s ongoing military campaign in Iran.</p><p>But in Michigan, where large populations of Arab Americans and Jews live near one another, the complexities of the situation can be difficult to grapple with – and few people had easy or quick answers on how to move forward.</p> <a href=\"https://www.theguardian.com/us-news/2026/mar/15/dearborn-synagogue-attack-moving-forward\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/mar/15/dearborn-synagogue-attack-moving-forward",
+        "severity": 6,
+        "scraped_at": "2026-03-15T14:45:37.355574+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8986308,
+          34.5019651
+        ]
+      },
+      "properties": {
+        "id_hash": "5fd60294f3d050615b048697f77b97f9a9c169d70a247006639e0a0052776019",
+        "title": "Wyoming’s new six-week abortion ban prompts lawsuit",
+        "summary": "<p>Bill faces constitutional hurdles as previous abortion bans were struck down by state supreme court in January</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/wyoming\">Wyoming</a>’s Republican-dominated legislature <a href=\"https://wyofile.com/abortions-in-all-but-earliest-weeks-now-illegal-in-wyoming-as-new-court-battle-brews/\">passed a six-week abortion ban</a> this week, prompting a new lawsuit and some lawmakers to call it “an insult to voters and our institution”.</p><p>Mark Gordon, Wyoming’s governor, signed the bill while simultaneously warning of its constitutional hurdles, noting that prior <a href=\"https://www.theguardian.com/world/abortion\">abortion</a> bans were struck down by the state’s all Republican-appointed supreme court this January. Almost immediately, an identical set of plaintiffs <a href=\"https://wyofile.com/wyoming-abortion-rights-defenders-ask-judge-to-block-states-new-ban-on-most-abortions/\">filed suit against the new bill</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/mar/15/abortion-wyoming-supreme-court\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/mar/15/abortion-wyoming-supreme-court",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:38.662849+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0523165,
+          -27.548511
+        ]
+      },
+      "properties": {
+        "id_hash": "e930cca10873958d315624d355466c9cb7b394aad89c0136350cd53b2ad7c4f0",
+        "title": "Nathan Martin wins closest-ever Los Angeles marathon in its 40-year history",
+        "summary": "<p>The American propelled ahead of frontrunner Michael Kimani Kamau by a fraction of a second</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>In the final moments of the <a href=\"https://www.theguardian.com/us-news/los-angeles\">Los Angeles</a> <a href=\"https://www.theguardian.com/lifeandstyle/marathon-running\">marathon</a> last weekend, the announcers were already narrating frontrunner Michael Kimani Kamau’s finish when Nathan Martin suddenly propelled forward, shocking newscasters and spectators.</p><p>The 36-year-old Martin prevailed in a single stride, stepping across the finish line an almost imperceptible fraction of a second before Kamau and becoming the first <a href=\"https://www.theguardian.com/culture/black-us-culture\">Black American</a> to win the contest. He had challenged himself in the final miles of the race to keep putting his all into it, despite physical exhaustion, and finished the 26.2-mile race in 2 hours, 11 minutes and 18 seconds.</p> <a href=\"https://www.theguardian.com/us-news/2026/mar/15/nathan-martin-los-angeles-marathon\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/mar/15/nathan-martin-los-angeles-marathon",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:39.788724+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2614653,
+          -32.625249
+        ]
+      },
+      "properties": {
+        "id_hash": "327b93d155b3e9dd0696928e090f6d13c81e2f83653725f0c80c2f6ccf8fa8a8",
+        "title": "Chaos outside Mamdani’s home brings terror charges for ‘IS-inspired’ teens – and host of questions",
+        "summary": "<p>Suspects accused of throwing explosive devices at rightwing anti-Islam protesters as tensions rise across US</p><p>Early on Monday afternoon, two teens in white plastic jumpsuits were escorted into a Manhattan federal courtroom. Emir Balat and Ibrahim Kayumi, who were shackled and handcuffed, quietly took their seats at the defense table.</p><p>If not for the metal restraints and jail garb, Balat, 18, and Kayumi, 19, could have been any number of young men who carry themselves with an aura of discomfort about their place in America.</p> <a href=\"https://www.theguardian.com/us-news/2026/mar/15/new-york-mamdani-teen-suspects\">Continue reading...</a>",
+        "link": "https://www.theguardian.com/us-news/2026/mar/15/new-york-mamdani-teen-suspects",
+        "severity": 0,
+        "scraped_at": "2026-03-15T14:45:41.221104+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "80854cd6a9e231832fa60719959894a0b6405c316eb14acc98ee256a67903156",
+        "title": "The humanitarian crisis worsens in Lebanon, with over 850,000 displaced",
+        "summary": "In just 10 days, more than 800,000 people in Lebanon have been displaced by war, just over a year since the last conflict uprooted over a million Lebanese from their homes. Israeli strikes have killed 826 people, including 106 children and 65 women, since the conflict between Hezbollah and Israel reignited on March 2, according to the Health Ministry. Details by Kevin Charbel, head of Première Urgence Internationale mission in Lebanon.",
+        "link": "https://www.france24.com/en/the-humanitarian-crisis-worsens-in-lebanon-with-over-850-000-displaced",
+        "severity": 6,
+        "scraped_at": "2026-03-15T14:45:42.570771+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "62d16d9f09f7e26ddbbe407cd0a366687f2add59649e2427c6aa42e0d9efb173",
+        "title": "Are Iran's retaliatory strikes across the Gulf region affecting the US' war strategy?",
+        "summary": "Israel's military said it began a broad wave of strikes on western Iran on Sunday. As the war progresses into the third week, further retaliatory strikes from Iran are likely to occur. So far, Iran has launched strikes across nine countries in the Gulf region. Most of these attacks have been intercepted but at least 19 people have been killed. The US and Israel started this war but it seems the Gulf states are bearing the brunt of Iran's retaliation. Could this affect the United States' strategy in the war? Analysis by Joe Macaron, geopolitical analyst and non-resident association researcher at the Arab World Institute in Paris.",
+        "link": "https://www.france24.com/en/are-iran-s-retaliatory-strikes-across-the-gulf-region-affecting-the-us-war-strategy",
+        "severity": 8,
+        "scraped_at": "2026-03-15T14:45:42.570876+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "d66619c9356982bfcfad25fd11c43bbecee31b600fc67f07b380419563462c89",
+        "title": "Trump urges allies to send warships to Strait of Hormuz",
+        "summary": "President Donald Trump has threatened to get the Strait of Hormuz opened \"one way or another\" and has called on a number of countries including France, the United Kingdom and China to send ships to the area to overcome Iran's blockade on the vital trade artery. It comes as global oil supplies are skyrocketing and supply continues to be strangled with Iran blockading the strait and targeting the Gulf's energy infrastructure in retaliation to US strikes. Story by Shirli Sitbon and Eliza Herbert.",
+        "link": "https://www.france24.com/en/trump-urges-allies-to-send-warships-to-strait-of-hormuz",
+        "severity": 4,
+        "scraped_at": "2026-03-15T14:45:42.570938+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "3bc48864ce9e88030b565c61613bf1513bb84b723f96bcd37f11806360c00757",
+        "title": "Week in pictures: Trouble in the Strait of Hormuz, Iran’s new leader and a Trump-Epstein statue",
+        "summary": "From deadly strikes in Iran and Lebanon, to trouble in the Strait of Hormuz and a statue of US President Donald Trump with sex offender Jeffrey Epstein in a pose from the movie \"Titanic\", FRANCE 24 takes a look at some of the week's most striking images.",
+        "link": "https://www.france24.com/en/middle-east/20260315-week-in-pictures-trouble-in-strait-of-hormuz-iran-new-leader-trump-epstein-statue",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:42.571009+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7302434,
+          32.2580245
+        ]
+      },
+      "properties": {
+        "id_hash": "e49c30cef51954a278bb8e7afc126bf33a89eccb1b9f43aeef4d016edfc900dd",
+        "title": "Why North Korea just fired rockets during US-South Korea military drills",
+        "summary": "North Korea launched multiple rockets toward a target 360 km away while Kim Jong Un observed with his daughter. The test coincides with joint US–South Korea military exercises and rising concerns about regional security. Story by Camille Corcoran.",
+        "link": "https://www.france24.com/en/why-north-korea-just-fired-rockets-during-us-south-korea-military-drills",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:44.015821+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1098918,
+          36.1377614
+        ]
+      },
+      "properties": {
+        "id_hash": "127d5924bcb6884e9a04a69f2643350f57e1658a6a83c16cbf65df5330618a92",
+        "title": "Could Nigeria become an alternative oil supplier to the Middle East?",
+        "summary": "As the conflict in the Middle East continues to take a significant toll on the world's oil supply, Nigeria's foreign minister has invited the Gulf countries and oil producers to look at Nigeria as a partner in supplying the global market. Story by Clémence Waller and Gabrielle Nadler.",
+        "link": "https://www.france24.com/en/could-nigeria-become-an-alternative-oil-supplier-to-the-middle-east",
+        "severity": 0,
+        "scraped_at": "2026-03-15T14:45:45.545375+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "b2ff2c33e92b2398703e7accdf7705be69def0420abd23975ae09ff2b26e222f",
+        "title": "Who is running Iran? The regime's new strongmen",
+        "summary": "In the third week of war, who is leading the country? And to what extent have those still in place been destabilised and weakened by the US and Israeli strikes on the country? A veil of mystery surrounds a man who remains out of sight: Iran's new Supreme Leader Mojtaba Khamenei. Another figure, Ali Larijani, meanwhile appeared centre stage at a pro-government demonstration.",
+        "link": "https://www.france24.com/en/who-is-running-iran-the-regime-s-new-strongmen",
+        "severity": 4,
+        "scraped_at": "2026-03-15T14:45:45.545487+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1022033,
+          46.7241443
+        ]
+      },
+      "properties": {
+        "id_hash": "b3e999556c76e7c2a6f5f6f86559bdb961b9dfc4a84d82592225ee73f4acd1f2",
+        "title": "Cubans take to the streets and attack Communist Party office in rare riot over blackouts",
+        "summary": "Cubans took to the streets in the city of Moron on Saturday to protest worsening economic conditions since the US oil blockade. The island, known for harsh government repression, rarely sees protests. \n\nAuthorities said five people were arrested in what it called vandalism acts. The NGO Justicia11, which monitors Cuban demonstrations, said gunfire was heard in the area and one person may have been shot. Story by Gabrielle Nadler.",
+        "link": "https://www.france24.com/en/cubans-take-to-the-streets-and-attack-communist-party-office-in-rare-riot-over-blackouts",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:46.668891+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "ff28e163c4110fa2a53505ef8c3b399b4b7b50ba2ec8199778bd4455b4f6475c",
+        "title": "What role is oil playing in the war in the Middle East and what's at stake?",
+        "summary": "More than two weeks ago, the United States and Israel launched attacks on Iran. Since then, Iran has retaliated against targets across the Gulf and effectively halted shipping through the Strait of Hormuz. Global oil prices have surged as a result. Did the United States factor this risk into its plans to strike Iran? How long is the spike in oil prices likely to last? FRANCE 24’s Alison Sargent asked Michael Bradshaw, professor of global energy at Warwick Business School in England.",
+        "link": "https://www.france24.com/en/what-role-is-oil-playing-in-the-war-in-the-middle-east-and-what-s-at-stake",
+        "severity": 6,
+        "scraped_at": "2026-03-15T14:45:46.669071+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "id_hash": "b5beea2bb8f22941b30ce22edc8486ae1b2f0e60d4f3c1f5e761f5930a0c7d32",
+        "title": "Ukraine recovering from Russian strike, concerned Putin is benefiting from Iran war",
+        "summary": "Ukraine is recovering from a wave of Russian strikes that killed six people and wounded dozens across multiple regions on Saturday. Authorities say residential buildings, educational institutions, businesses and critical infrastructure were hit – particularly in Kyiv where about 30 sites were damaged. President Volodymyr Zelensky is concerned that Russia is benefiting from the war in Iran, which has shifted global attention. Story by Eliza Herbert.",
+        "link": "https://www.france24.com/en/ukraine-recovering-from-russian-strike-concerned-putin-is-benefiting-from-iran-war",
+        "severity": 6,
+        "scraped_at": "2026-03-15T14:45:46.670003+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "id_hash": "616aa944923e9631921b819bb43efaaf4fb579d52242f5a124b3e2e17a808e69",
+        "title": "Gaza hit by strongest sandstorm in over five years",
+        "summary": "A cloud of orange-tinted, thick dust spread across the Gaza Strip on Saturday as first responders told Palestinians to stay home, especially those with respiratory illness. People were also urged to secure their tents to prevent them from being blown away. Israel’s war with Hamas has left most of Gaza’s 2 million residents displaced, living in tents and damaged buildings with little protection from the elements such as rain, wind and sand. Story by Catherine Viette.",
+        "link": "https://www.france24.com/en/gaza-hit-by-strongest-sandstorm-in-over-five-years",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:46.670222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1593008,
+          40.3491604
+        ]
+      },
+      "properties": {
+        "id_hash": "083ced4afa898e14b50e11c1e693a65b20bae67ba5500b3401f8a4979281b054",
+        "title": "She lost 5 brothers to Syria’s war – Now she’s fighting for justice at the UN",
+        "summary": "Yasmen Almashan’s life was shattered when five of her brothers disappeared during Syria’s war. Now a member of the Syrian National Commission for Transitional Justice, she is speaking at the UN to push for answers and national reconciliation. More than 130,000 Syrians went missing under the Assad regime. Story by Jessica Lemasurier.",
+        "link": "https://www.france24.com/en/video/20260315-she-lost-5-brothers-to-syria-s-war-%E2%80%93-now-she-s-fighting-for-justice-at-the-un",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:48.338770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "8d65e0a0ad9f1be1e3703bac6f41889e58bc5a613c1f1d39109aab7b88383df7",
+        "title": "Qatar, Kuwait, UAE... Iranian reprisals disrupt daily life across the Gulf",
+        "summary": "Missiles intercepted in Qatar; two drones causing damage at an airbase near a major US military site in Kuwait; an oil facility hit and ports threatened in the UAE... Gulf countries continue to pay the price of war every day, more than two weeks after the start of Operation Epic Fury launched by the United States and Israel against Iran. Story by Morgan Ayre and Loïc Chalavon.",
+        "link": "https://www.france24.com/en/qatar-kuwait-uae-iranian-reprisals-disrupts-daily-life-across-the-gulf",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:48.338911+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "351558b9d65cd398cfa1d58701842cec19e7e60aebd3e484f82bac216fee9ab4",
+        "title": "Undercover in Iran: How French spies gather Intelligence in the Middle East",
+        "summary": "What role does human intelligence gathering have to play in the war in Iran? In a conflict defined by sophisticated weaponry, secret agents operating on the ground across the Middle East are still crucial to Western efforts to combat Iranian forces.",
+        "link": "https://www.france24.com/en/undercover-in-iran-how-french-spies-gather-intelligence-in-the-middle-east",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:48.338993+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "id_hash": "c4620b0cf9398505fccd3e2e94361bdf647093624add160407fc035dab4ad3e2",
+        "title": "Israel pounds Beirut, deepening the humanitarian crisis in Lebanon",
+        "summary": "Overnight strikes in southern Lebanon killed at least four people, Lebanese state media and the government said on Sunday. Israel is fighting a second front in the war in the Middle East in southern Lebanon, against Hezbollah, alongside the air campaign against Iran it launched with the United States more than two weeks ago. Lebanon's state-run National News Agency (NNA) said Israel struck \"an apartment in a residential building\" in a northern district of the coastal city of Sidon, killing one person and causing a fire. Story by Morgan Ayre and Thibaut Franceschet.",
+        "link": "https://www.france24.com/en/israel-pounds-beirut-deepening-the-humanitarian-crisis-in-lebanon",
+        "severity": 6,
+        "scraped_at": "2026-03-15T14:45:48.339038+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "f0d0ade70c27490f89fddaf85021278183024ef3214edeb4712fa88ecd4cec76",
+        "title": "Donald Trump says will open Strait of Hormuz \"one way or another\"",
+        "summary": "President Donald Trump has threatened to get the Strait of Hormuz open \"one way or another\" and has called on a number of countries including France, the United Kingdom and China to send ships to the area to overcome Iran's blockade on the vital trade artery. It comes as global oil supplies are skyrocketing and supply continues to be strangled with Iran blockading the strait and targeting the Gulf's energy infrastructure in retaliation to US strikes. Details by Eliza Herbert.",
+        "link": "https://www.france24.com/en/donald-trump-says-will-open-strait-of-hormuz-one-way-or-another",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:48.339115+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "id_hash": "a4c5331343b55df7af8195dd6a3734aa7c89ae2643a51728b354b5a95bd845ea",
+        "title": "Middle East war live: Iran warns countries against ‘escalating’ conflict in Strait of Hormuz",
+        "summary": "Iran’s foreign minister Abbas Araghchi on Sunday warned other countries to refrain from actions \"that could lead to escalation and expansion of the conflict\" in Iran. Araghchi made the comments in a phone call with French counterpart Jean-Noël Barrot after US President Donald Trump called for countries including France, the UK, China, Japan and South Korea to send warships to the Strait of Hormuz. Follow our liveblog for the latest updates.",
+        "link": "https://www.france24.com/en/middle-east/20260315-middle-east-war-live-iran-s-revolutionary-guards-vow-to-pursue-and-kill-netanyahu",
+        "severity": 2,
+        "scraped_at": "2026-03-15T14:45:48.339185+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7803627,
+          8.7712794
+        ]
+      },
+      "properties": {
+        "id_hash": "ac12395833bb5df075d5f1a1f2ef3d338a44e69a8093dbf8ab87f000a1bd7f98",
+        "title": "North Korea tests nuclear-capable rocket launchers amid US-South Korea military drills",
+        "summary": "North Korea on Sunday tested nuclear-capable multiple rocket launchers that Pyongyang’s leader Kim Jong Un said should make the country's enemies feel a sense of \"uneasiness\". The tests came one day after South Korea detected 10 ballistic missiles launched from North Korea.",
+        "link": "https://www.france24.com/en/asia-pacific/20260314-north-korea-tests-nuclear-capable-rocket-launchers-amid-us-south-korea-military-drills",
+        "severity": 0,
+        "scraped_at": "2026-03-15T14:45:49.931541+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "id_hash": "86486b835b2a6fdc9cc55641abd495b3a6c0d4ce4a6f176a4a15ed9885e01a02",
+        "title": "Iranian strikes, Hezbollah rockets make regular life in Israel ‘simply impossible’",
+        "summary": "Attacks on northern Israel have been “constant” and “relentless”, says FRANCE 24’s Noga Tarnopolsky, reporting from Jerusalem. Iranian missiles combined with Hezbollah rocket attacks are making regular life in Israel “simply impossible”, she explains, noting that most residents of northern Israel have “simply fled”.",
+        "link": "https://www.france24.com/en/iranian-strikes-hezbollah-rockets-make-regular-life-in-israel-simply-impossible",
+        "severity": 4,
+        "scraped_at": "2026-03-15T14:45:49.931683+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.378253,
+          20.0171109
+        ]
+      },
+      "properties": {
+        "id_hash": "0ff6a963e8f8e48f2fd36bc04f70146e807cbb95f57cdc38b0ed2d26d8869210",
+        "title": "La millonaria multa que el gobierno le puso al megaproyecto portuario de Turbo ‘Pisisí’, construido en tierra de víctimas del conflicto",
+        "summary": "Los dueños del megaproyecto no solo estarían en deuda con las víctimas. Ahora, están en un proceso que podría costarles 14 mil millones de pesos.",
+        "link": "https://www.eltiempo.com/colombia/la-millonaria-multa-que-el-gobierno-le-puso-al-megaproyecto-portuario-de-turbo-pisisi-construido-en-tierra-de-victimas-del-conflicto-3540234",
+        "severity": 0,
+        "scraped_at": "2026-03-15T14:45:55.218756+00:00"
+      }
+    }
+  ]
+}
